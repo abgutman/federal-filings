@@ -3,6 +3,7 @@
 import html as html_mod, json
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.parse import urlencode
 import sys, os
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -51,6 +52,10 @@ def fmt_dt(iso):
         return iso[:16]
 
 
+def cl_url(case_num: str, court: str = "paed") -> str:
+    return "https://www.courtlistener.com/?" + urlencode({"type": "r", "court": court, "docket_number": case_num})
+
+
 def strip_case_prefix(title: str, case_num: str) -> str:
     """Remove redundant leading case number from caption."""
     if title.startswith(case_num):
@@ -79,6 +84,7 @@ def build_table(entries):
           <td class="docnum">{esc(e.get("doc_num",""))}</td>
           <td class="caption">{esc(caption)}</td>
           <td class="link"><a href="{esc(e.get("link",""))}" target="_blank" rel="noopener">PACER</a></td>
+          <td class="link"><a href="{esc(cl_url(e.get("case_num","")))}" target="_blank" rel="noopener">CL</a></td>
         </tr>""")
     return f"""<table>
       <thead>
@@ -88,6 +94,7 @@ def build_table(entries):
           <th>Filing</th>
           <th>Doc #</th>
           <th>Caption</th>
+          <th></th>
           <th></th>
         </tr>
       </thead>
