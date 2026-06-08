@@ -11,8 +11,10 @@
   .header { background:#1a1a2e; color:white; padding:24px 32px; }
   .header h1 { font-size:22px; font-weight:700; margin-bottom:4px; }
   .header p { font-size:13px; opacity:0.75; }
-  .tab-bar { background:white; border-bottom:2px solid #ddd; padding:0 16px; display:flex; align-items:center; gap:0; flex-wrap:wrap; }
-  .group-label { font-size:11px; font-weight:700; text-transform:uppercase; color:#999; padding:14px 10px 14px 14px; letter-spacing:.5px; }
+  .tab-bar { background:white; border-bottom:2px solid #ddd; }
+  .tab-row { display:flex; align-items:center; padding:0 16px; border-bottom:1px solid #f0f0f0; }
+  .tab-row:last-child { border-bottom:none; }
+  .group-label { font-size:11px; font-weight:700; text-transform:uppercase; color:#999; padding:0 12px 0 0; letter-spacing:.5px; min-width:68px; }
   .tab { background:none; border:none; padding:14px 13px; font-size:13px; font-weight:500; color:#555; cursor:pointer; border-bottom:3px solid transparent; margin-bottom:-2px; white-space:nowrap; }
   .tab:hover { color:#1a1a2e; }
   .tab.active { color:#1a1a2e; border-bottom-color:#1a1a2e; font-weight:600; }
@@ -72,10 +74,11 @@ if (sessionStorage.getItem('court_auth')==='1') {
   <p>District of New Jersey — Camden Division</p>
 </div>
 <div class="tab-bar">
-<span class="group-label">Criminal</span><button class="tab active" data-tab="cr-indictments" onclick="showTab(this)">Indictments</button><button class="tab" data-tab="cr-complaints" onclick="showTab(this)">Complaints</button><button class="tab" data-tab="cr-pleas" onclick="showTab(this)">Pleas</button><button class="tab" data-tab="cr-sentencing" onclick="showTab(this)">Sentencing</button><button class="tab" data-tab="cr-forfeiture" onclick="showTab(this)">Forfeiture</button><button class="tab" data-tab="cr-warrants" onclick="showTab(this)">Warrants</button><span class="group-label">Civil</span><button class="tab" data-tab="ci-complaints" onclick="showTab(this)">New Complaints <span class='badge'>2</span></button><button class="tab" data-tab="ci-tro" onclick="showTab(this)">TROs &amp; Injunctions</button><button class="tab" data-tab="ci-opinions" onclick="showTab(this)">Opinions</button><button class="tab" data-tab="ci-show_cause" onclick="showTab(this)">Show Cause</button><button class="tab" data-tab="ci-sanctions" onclick="showTab(this)">Sanctions</button><button class="tab" data-tab="ci-seal" onclick="showTab(this)">Seal / Unseal <span class='badge'>1</span></button>
+  <div class="tab-row"><span class="group-label">Criminal</span><button class="tab active" data-tab="cr-indictments" onclick="showTab(this)">Indictments</button><button class="tab" data-tab="cr-complaints" onclick="showTab(this)">Complaints</button><button class="tab" data-tab="cr-pleas" onclick="showTab(this)">Pleas</button><button class="tab" data-tab="cr-sentencing" onclick="showTab(this)">Sentencing</button><button class="tab" data-tab="cr-forfeiture" onclick="showTab(this)">Forfeiture</button><button class="tab" data-tab="cr-warrants" onclick="showTab(this)">Warrants</button></div>
+  <div class="tab-row"><span class="group-label">Civil</span><button class="tab" data-tab="ci-complaints" onclick="showTab(this)">New Complaints <span class='badge'>2</span></button><button class="tab" data-tab="ci-tro" onclick="showTab(this)">TROs &amp; Injunctions</button><button class="tab" data-tab="ci-opinions" onclick="showTab(this)">Opinions</button><button class="tab" data-tab="ci-show_cause" onclick="showTab(this)">Show Cause</button><button class="tab" data-tab="ci-sanctions" onclick="showTab(this)">Sanctions</button><button class="tab" data-tab="ci-seal" onclick="showTab(this)">Seal / Unseal <span class='badge'>1</span></button></div>
 </div>
 <div class="container">
-  <p class="updated">Updated 2026-06-08 12:58 ET &mdash; Source: PACER CM/ECF RSS · Check source material before publishing</p>
+  <p class="updated">Updated 2026-06-08 13:05 ET &mdash; Source: PACER CM/ECF RSS · Check source material before publishing</p>
 <div class="tab-panel" id="panel-cr-indictments"><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-complaints" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-pleas" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-sentencing" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-forfeiture" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-warrants" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-ci-complaints" style='display:none'><table>
       <thead><tr><th>Filed</th><th>Case No.</th><th>Filing</th><th></th></tr></thead>
       <tbody><tr>

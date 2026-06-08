@@ -78,24 +78,18 @@ def build_page(court_key: str, info: dict) -> str:
     all_entries = list(json.loads(state_file.read_text()).values()) if state_file.exists() else []
     updated = datetime.now(ET_TZ).strftime("%Y-%m-%d %H:%M ET")
 
-    tab_buttons = []
+    rows = {"criminal": [], "civil": []}
     tab_panels = []
     first = True
-    last_group = None
 
     for group, cat, label in TABS:
         tab_id = build_tab_id(group, cat)
         entries = [e for e in all_entries if e.get("group") == group and e.get("category") == cat]
         count = len(entries)
 
-        if group != last_group:
-            group_label = "Criminal" if group == "criminal" else "Civil"
-            tab_buttons.append(f'<span class="group-label">{group_label}</span>')
-            last_group = group
-
         active = " active" if first else ""
         badge = f" <span class='badge'>{count}</span>" if count else ""
-        tab_buttons.append(
+        rows[group].append(
             f'<button class="tab{active}" data-tab="{tab_id}" onclick="showTab(this)">'
             f'{esc(label)}{badge}</button>'
         )
@@ -117,8 +111,10 @@ def build_page(court_key: str, info: dict) -> str:
   .header {{ background:#1a1a2e; color:white; padding:24px 32px; }}
   .header h1 {{ font-size:22px; font-weight:700; margin-bottom:4px; }}
   .header p {{ font-size:13px; opacity:0.75; }}
-  .tab-bar {{ background:white; border-bottom:2px solid #ddd; padding:0 16px; display:flex; align-items:center; gap:0; flex-wrap:wrap; }}
-  .group-label {{ font-size:11px; font-weight:700; text-transform:uppercase; color:#999; padding:14px 10px 14px 14px; letter-spacing:.5px; }}
+  .tab-bar {{ background:white; border-bottom:2px solid #ddd; }}
+  .tab-row {{ display:flex; align-items:center; padding:0 16px; border-bottom:1px solid #f0f0f0; }}
+  .tab-row:last-child {{ border-bottom:none; }}
+  .group-label {{ font-size:11px; font-weight:700; text-transform:uppercase; color:#999; padding:0 12px 0 0; letter-spacing:.5px; min-width:68px; }}
   .tab {{ background:none; border:none; padding:14px 13px; font-size:13px; font-weight:500; color:#555; cursor:pointer; border-bottom:3px solid transparent; margin-bottom:-2px; white-space:nowrap; }}
   .tab:hover {{ color:#1a1a2e; }}
   .tab.active {{ color:#1a1a2e; border-bottom-color:#1a1a2e; font-weight:600; }}
@@ -144,7 +140,8 @@ def build_page(court_key: str, info: dict) -> str:
   <p>{esc(info["subtitle"])}</p>
 </div>
 <div class="tab-bar">
-{"".join(tab_buttons)}
+  <div class="tab-row"><span class="group-label">Criminal</span>{"".join(rows["criminal"])}</div>
+  <div class="tab-row"><span class="group-label">Civil</span>{"".join(rows["civil"])}</div>
 </div>
 <div class="container">
   <p class="updated">Updated {updated} &mdash; Source: PACER CM/ECF RSS · Check source material before publishing</p>
