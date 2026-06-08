@@ -37,18 +37,12 @@ CIVIL_COMPLAINTS_EXACT = {
     "notice of removal", "notice of removal (attorney)",
 }
 
-# deny-list for opinions (applied after the include check)
-OPINIONS_DENY_PREFIX = (
-    "order referring", "order reassigning", "procedural order", "pro se",
-)
-OPINIONS_DENY_EXACT = {
-    "order returning passport", "scheduling order", "order for probation",
-    "stipulation and order", "order on motion to continue",
-    "order on motion for leave to file",
-    "order on motion for leave to proceed in forma pauperis",
-    "order on motion to substitute attorney",
+# Written opinions only — exact match, no motions, no plain orders
+OPINIONS_EXACT = {
+    "memorandum",
+    "memorandum and/or opinion",
+    "memorandum and/or opinion order",
 }
-OPINIONS_DENY_CONTAINS = ("pro hac vice", "usca")
 
 
 def parse_description(raw_desc: str):
@@ -71,15 +65,6 @@ def classify_criminal(entry_type: str):
             return cat
     return None
 
-
-def _opinions_deny(t: str) -> bool:
-    if t.startswith(OPINIONS_DENY_PREFIX):
-        return True
-    if t in OPINIONS_DENY_EXACT:
-        return True
-    if any(kw in t for kw in OPINIONS_DENY_CONTAINS):
-        return True
-    return False
 
 
 def classify_civil(entry_type: str, doc_num: str):
@@ -111,10 +96,9 @@ def classify_civil(entry_type: str, doc_num: str):
     if "seal" in t:
         return "seal", False
 
-    # 6. Opinions & Orders (broad include then deny-list)
-    if ("opinion" in t or "memorandum" in t or "summary judgment" in t or t.startswith("order")):
-        if not _opinions_deny(t):
-            return "opinions", False
+    # 6. Written opinions only
+    if t in OPINIONS_EXACT:
+        return "opinions", False
 
     return None, False
 
