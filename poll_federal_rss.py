@@ -201,7 +201,6 @@ def poll(court_key: str, url: str, camden_only: bool = False) -> None:
 def main():
     DATA.mkdir(exist_ok=True)
     poll("edpa", EDPA_URL)
-    poll("nj_camden", NJD_URL, camden_only=True)
 
 
 if __name__ == "__main__":

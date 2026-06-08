@@ -19,12 +19,6 @@ COURTS = {
         "state_file": "edpa_entries.json",
         "out_file": "edpa.html",
     },
-    "nj_camden": {
-        "title": "NJ-Camden Federal Filings",
-        "subtitle": "District of New Jersey — Camden Division",
-        "state_file": "nj_camden_entries.json",
-        "out_file": "nj_camden.html",
-    },
 }
 
 TABS = [
