@@ -1,0 +1,29 @@
+{
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?536302&336": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?536302&336",
+    "title": "1:23-cv-22221 PURDUE PHARMA L.P. et al v ELITE LABORATORIES INC, et al.",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?536302",
+    "date": "2026-06-08T10:55:44-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "1:23-cv-22221"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906&76": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906&76",
+    "title": "1:26-cv-04035 DOUGLAS v. DOLLAR TREE, INC. et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906",
+    "date": "2026-06-08T08:43:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "1:26-cv-04035"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624&39": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624&39",
+    "title": "1:26-cv-02117 RIMM v. PINE LODGE LABRADOODLES INC. et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624",
+    "date": "2026-06-08T04:48:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "1:26-cv-02117"
+  }
+}

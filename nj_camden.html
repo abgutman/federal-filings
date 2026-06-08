@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex, nofollow">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NJ-Camden Federal Filings — Av's Tools</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,Arial,sans-serif; background:#eef0f3; color:#1a1a2e; }
+  .header { background:#1a1a2e; color:white; padding:24px 32px; }
+  .header h1 { font-size:22px; font-weight:700; margin-bottom:4px; }
+  .header p { font-size:13px; opacity:0.75; }
+  .tab-bar { background:white; border-bottom:2px solid #ddd; padding:0 16px; display:flex; align-items:center; gap:0; flex-wrap:wrap; }
+  .group-label { font-size:11px; font-weight:700; text-transform:uppercase; color:#999; padding:14px 10px 14px 14px; letter-spacing:.5px; }
+  .tab { background:none; border:none; padding:14px 13px; font-size:13px; font-weight:500; color:#555; cursor:pointer; border-bottom:3px solid transparent; margin-bottom:-2px; white-space:nowrap; }
+  .tab:hover { color:#1a1a2e; }
+  .tab.active { color:#1a1a2e; border-bottom-color:#1a1a2e; font-weight:600; }
+  .badge { background:#c0392b; color:white; border-radius:10px; padding:1px 6px; font-size:11px; font-weight:700; margin-left:3px; }
+  .container { max-width:1200px; margin:24px auto; padding:0 16px; }
+  .updated { font-size:12px; color:#999; margin-bottom:12px; }
+  table { width:100%; border-collapse:collapse; background:white; border-radius:8px; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,.08); font-size:13px; }
+  thead th { background:#f5f6f8; padding:10px 12px; text-align:left; font-size:11px; font-weight:600; color:#888; text-transform:uppercase; letter-spacing:.4px; }
+  tbody tr { border-top:1px solid #f0f0f0; }
+  tbody tr:hover { background:#fafbfc; }
+  td { padding:10px 12px; vertical-align:top; }
+  td.date { white-space:nowrap; color:#666; width:100px; }
+  td.case { white-space:nowrap; font-family:monospace; font-size:12px; width:140px; }
+  td.link { width:60px; text-align:center; }
+  td.link a { color:#1a1a2e; font-weight:600; font-size:12px; text-decoration:none; }
+  td.link a:hover { text-decoration:underline; }
+  .empty { color:#aaa; padding:40px; text-align:center; background:white; border-radius:8px; font-size:14px; }
+</style>
+</head>
+<body>
+
+<div id="auth-gate" style="position:fixed;inset:0;background:#1a1a2e;z-index:99999;display:flex;align-items:center;justify-content:center;">
+  <div style="background:white;padding:40px;border-radius:12px;text-align:center;max-width:360px;width:90%;box-shadow:0 4px 20px rgba(0,0,0,0.3);">
+    <div style="font-size:28px;margin-bottom:20px;">&#128274;</div>
+    <input id="auth-pw" type="password" placeholder="Password" autofocus
+      style="width:100%;padding:12px;border:2px solid #ddd;border-radius:6px;font-size:15px;margin-bottom:12px;box-sizing:border-box;"
+      onkeydown="if(event.key==='Enter')checkPw()">
+    <button onclick="checkPw()"
+      style="width:100%;padding:12px;background:#1a1a2e;color:white;border:none;border-radius:6px;font-size:15px;font-weight:600;cursor:pointer;">
+      Enter</button>
+    <p id="auth-err" style="color:#c0392b;font-size:13px;margin-top:10px;display:none;">Incorrect password</p>
+  </div>
+</div>
+<script>
+async function sha256(msg) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(msg));
+  return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2,'0')).join('');
+}
+async function checkPw() {
+  const h = await sha256(document.getElementById('auth-pw').value);
+  if (h === 'c93289ef40f052d7086625037e113760e055ec65d162906acc0d8645fcbbd336') {
+    sessionStorage.setItem('court_auth','1');
+    document.getElementById('auth-gate').remove();
+  } else {
+    document.getElementById('auth-err').style.display='block';
+    document.getElementById('auth-pw').value='';
+  }
+}
+if (sessionStorage.getItem('court_auth')==='1') {
+  document.getElementById('auth-gate').remove();
+}
+</script>
+
+<a href="https://abgutman.github.io/av-tools/" style="position:fixed;top:12px;right:12px;z-index:9998;background:#1a1a2e;color:white;padding:6px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:600;box-shadow:0 2px 6px rgba(0,0,0,0.2);">Av's Tools Homepage</a>
+<div class="header">
+  <h1>NJ-Camden Federal Filings</h1>
+  <p>District of New Jersey — Camden Division</p>
+</div>
+<div class="tab-bar">
+<span class="group-label">Criminal</span><button class="tab active" data-tab="cr-indictments" onclick="showTab(this)">Indictments</button><button class="tab" data-tab="cr-complaints" onclick="showTab(this)">Complaints</button><button class="tab" data-tab="cr-pleas" onclick="showTab(this)">Pleas</button><button class="tab" data-tab="cr-sentencing" onclick="showTab(this)">Sentencing</button><button class="tab" data-tab="cr-forfeiture" onclick="showTab(this)">Forfeiture</button><button class="tab" data-tab="cr-warrants" onclick="showTab(this)">Warrants</button><span class="group-label">Civil</span><button class="tab" data-tab="ci-complaints" onclick="showTab(this)">New Complaints <span class='badge'>2</span></button><button class="tab" data-tab="ci-tro" onclick="showTab(this)">TROs &amp; Injunctions</button><button class="tab" data-tab="ci-opinions" onclick="showTab(this)">Opinions</button><button class="tab" data-tab="ci-show_cause" onclick="showTab(this)">Show Cause</button><button class="tab" data-tab="ci-sanctions" onclick="showTab(this)">Sanctions</button><button class="tab" data-tab="ci-seal" onclick="showTab(this)">Seal / Unseal <span class='badge'>1</span></button>
+</div>
+<div class="container">
+  <p class="updated">Updated 2026-06-08 12:51 ET &mdash; Source: PACER CM/ECF RSS · Check source material before publishing</p>
+<div class="tab-panel" id="panel-cr-indictments"><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-complaints" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-pleas" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-sentencing" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-forfeiture" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-cr-warrants" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-ci-complaints" style='display:none'><table>
+      <thead><tr><th>Filed</th><th>Case No.</th><th>Filing</th><th></th></tr></thead>
+      <tbody><tr>
+          <td class="date">Jun 8, 08:43</td>
+          <td class="case">1:26-cv-04035</td>
+          <td class="title">1:26-cv-04035 DOUGLAS v. DOLLAR TREE, INC. et al</td>
+          <td class="link"><a href="https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906" target="_blank" rel="noopener">PACER</a></td>
+        </tr><tr>
+          <td class="date">Jun 8, 04:48</td>
+          <td class="case">1:26-cv-02117</td>
+          <td class="title">1:26-cv-02117 RIMM v. PINE LODGE LABRADOODLES INC. et al</td>
+          <td class="link"><a href="https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624" target="_blank" rel="noopener">PACER</a></td>
+        </tr></tbody>
+    </table></div><div class="tab-panel" id="panel-ci-tro" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-ci-opinions" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-ci-show_cause" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-ci-sanctions" style='display:none'><p class="empty">No entries in the last 30 days.</p></div><div class="tab-panel" id="panel-ci-seal" style='display:none'><table>
+      <thead><tr><th>Filed</th><th>Case No.</th><th>Filing</th><th></th></tr></thead>
+      <tbody><tr>
+          <td class="date">Jun 8, 10:55</td>
+          <td class="case">1:23-cv-22221</td>
+          <td class="title">1:23-cv-22221 PURDUE PHARMA L.P. et al v ELITE LABORATORIES INC, et al.</td>
+          <td class="link"><a href="https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?536302" target="_blank" rel="noopener">PACER</a></td>
+        </tr></tbody>
+    </table></div>
+</div>
+<script>
+function showTab(btn) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p => p.style.display = 'none');
+  btn.classList.add('active');
+  document.getElementById('panel-' + btn.dataset.tab).style.display = '';
+}
+</script>
+</body>
+</html>
