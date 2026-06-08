@@ -60,26 +60,10 @@ Matching is **case-insensitive**. "exact" = full string equals. "prefix" = entry
 **5. seal (Seal / Unseal)**
 - contains: `seal` (catches Seal, Unseal, Order on Motion to Seal, etc.)
 
-**6. opinions (Opinions & Orders)** — substantive rulings; catch-all for orders NOT claimed above
-- INCLUDE if entry_type contains `opinion` OR contains `memorandum` OR contains `summary judgment` OR starts with `Order`
-- **THEN EXCLUDE (deny-list)** if entry_type is any of / starts with:
-  - prefix `Order Referring`
-  - prefix `Order Reassigning`
-  - prefix `Procedural Order`
-  - prefix `Pro Se` (admin orders)
-  - exact `Order Returning Passport`
-  - exact `Scheduling Order`
-  - exact `Order for Probation`
-  - exact `Stipulation and Order`
-  - exact `Order on Motion to Continue`
-  - exact `Order on Motion for Leave to File`
-  - exact `Order on Motion for Leave to Proceed In Forma Pauperis`
-  - exact `Order on Motion to Substitute Attorney`
-  - contains `Pro Hac Vice`
-  - contains `USCA` (Third Circuit orders/mandates, not this court's ruling)
-- Net effect: keeps `Order`, `Memorandum`, `Memorandum and/or Opinion`, `Memorandum and/or Opinion Order`, `Order on Motion to Dismiss`, `Order on Motion for Summary Judgment`, `Order Dismissing Case`, etc. Drops referrals, reassignments, scheduling, pro-hac-vice, passport returns, appellate mandates.
-
-> Why opinions is last: rules 2–5 (seal/show-cause/sanctions/tro) are also "Order on Motion for X" types. Checking them first prevents the broad opinions rule from swallowing them.
+**6. opinions (Written Opinions)** — exact match only, no orders, no motions
+- exact: `Memorandum`, `Memorandum and/or Opinion`, `Memorandum and/or Opinion Order`
+- Nothing else. Plain `[Order]` and all `Order on Motion for X` types are intentionally excluded — they are too broad and include motions/procedural entries the feed can't distinguish from substantive rulings.
+- Rationale: produces ~9 entries/day matching the user's expected count of written opinions. (2026-06-08)
 
 ## Dashboard (build_federal_dashboard.py)
 
