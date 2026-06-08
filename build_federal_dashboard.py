@@ -36,14 +36,16 @@ TABS = [
     ("criminal", "warrants",    "Warrants"),
     ("civil",    "complaints",  "New Complaints"),
     ("civil",    "tro",         "TROs & Injunctions"),
-    ("civil",    "opinions",    "Opinions"),
+    ("civil",    "opinions",    "Opinions & Orders"),
     ("civil",    "show_cause",  "Show Cause"),
     ("civil",    "sanctions",   "Sanctions"),
     ("civil",    "seal",        "Seal / Unseal"),
 ]
 
+
 def esc(s):
     return html_mod.escape(str(s or ""))
+
 
 def fmt_dt(iso):
     if not iso:
@@ -54,24 +56,50 @@ def fmt_dt(iso):
     except Exception:
         return iso[:16]
 
+
+def strip_case_prefix(title: str, case_num: str) -> str:
+    """Remove redundant leading case number from caption."""
+    if title.startswith(case_num):
+        return title[len(case_num):].lstrip(" -—")
+    return title
+
+
 def build_tab_id(group, cat):
     return f"{group[:2]}-{cat}"
+
 
 def build_table(entries):
     if not entries:
         return '<p class="empty">No entries in the last 30 days.</p>'
     rows = []
     for e in sorted(entries, key=lambda x: x.get("date", ""), reverse=True):
+        caption = strip_case_prefix(e.get("title", ""), e.get("case_num", ""))
+        entry_type = e.get("entry_type", "")
+        filing_cell = esc(entry_type)
+        if e.get("reopened"):
+            filing_cell += ' <span class="badge-reopened">REOPENED</span>'
         rows.append(f"""<tr>
           <td class="date">{fmt_dt(e.get("date",""))}</td>
           <td class="case">{esc(e.get("case_num",""))}</td>
-          <td class="title">{esc(e.get("title",""))}</td>
+          <td class="filing">{filing_cell}</td>
+          <td class="docnum">{esc(e.get("doc_num",""))}</td>
+          <td class="caption">{esc(caption)}</td>
           <td class="link"><a href="{esc(e.get("link",""))}" target="_blank" rel="noopener">PACER</a></td>
         </tr>""")
     return f"""<table>
-      <thead><tr><th>Filed</th><th>Case No.</th><th>Filing</th><th></th></tr></thead>
+      <thead>
+        <tr>
+          <th title="Date docketed in ECF; document's own date may differ">Entered</th>
+          <th>Case No.</th>
+          <th>Filing</th>
+          <th>Doc #</th>
+          <th>Caption</th>
+          <th></th>
+        </tr>
+      </thead>
       <tbody>{"".join(rows)}</tbody>
     </table>"""
+
 
 def build_page(court_key: str, info: dict) -> str:
     state_file = DATA / info["state_file"]
@@ -119,16 +147,20 @@ def build_page(court_key: str, info: dict) -> str:
   .tab:hover {{ color:#1a1a2e; }}
   .tab.active {{ color:#1a1a2e; border-bottom-color:#1a1a2e; font-weight:600; }}
   .badge {{ background:#c0392b; color:white; border-radius:10px; padding:1px 6px; font-size:11px; font-weight:700; margin-left:3px; }}
+  .badge-reopened {{ background:#e67e22; color:white; border-radius:4px; padding:1px 5px; font-size:10px; font-weight:700; margin-left:5px; vertical-align:middle; }}
   .container {{ max-width:1200px; margin:24px auto; padding:0 16px; }}
   .updated {{ font-size:12px; color:#999; margin-bottom:12px; }}
   table {{ width:100%; border-collapse:collapse; background:white; border-radius:8px; overflow:hidden; box-shadow:0 1px 4px rgba(0,0,0,.08); font-size:13px; }}
-  thead th {{ background:#f5f6f8; padding:10px 12px; text-align:left; font-size:11px; font-weight:600; color:#888; text-transform:uppercase; letter-spacing:.4px; }}
+  thead th {{ background:#f5f6f8; padding:10px 12px; text-align:left; font-size:11px; font-weight:600; color:#888; text-transform:uppercase; letter-spacing:.4px; cursor:default; }}
   tbody tr {{ border-top:1px solid #f0f0f0; }}
   tbody tr:hover {{ background:#fafbfc; }}
   td {{ padding:10px 12px; vertical-align:top; }}
-  td.date {{ white-space:nowrap; color:#666; width:100px; }}
-  td.case {{ white-space:nowrap; font-family:monospace; font-size:12px; width:140px; }}
-  td.link {{ width:60px; text-align:center; }}
+  td.date {{ white-space:nowrap; color:#666; width:90px; }}
+  td.case {{ white-space:nowrap; font-family:monospace; font-size:12px; width:130px; }}
+  td.filing {{ font-weight:500; width:220px; }}
+  td.docnum {{ color:#888; font-family:monospace; font-size:12px; width:50px; text-align:center; }}
+  td.caption {{ color:#444; }}
+  td.link {{ width:55px; text-align:center; }}
   td.link a {{ color:#1a1a2e; font-weight:600; font-size:12px; text-decoration:none; }}
   td.link a:hover {{ text-decoration:underline; }}
   .empty {{ color:#aaa; padding:40px; text-align:center; background:white; border-radius:8px; font-size:14px; }}
@@ -158,12 +190,14 @@ function showTab(btn) {{
 </body>
 </html>"""
 
+
 def main():
     for court_key, info in COURTS.items():
         page = inject_auth(build_page(court_key, info))
         out = HERE / info["out_file"]
         out.write_text(page)
         print(f"Wrote {out}")
+
 
 if __name__ == "__main__":
     main()

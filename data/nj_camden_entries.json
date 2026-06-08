@@ -1,4 +1,114 @@
 {
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?556148&107": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?556148&107",
+    "title": "1:24-cv-09996 WHITAKER v. DEANGELIS et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?556148",
+    "date": "2026-06-08T12:48:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:24-cv-09996",
+    "entry_type": "Order Initial Scheduling Conference (Camden)",
+    "doc_num": "28"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?561978&351": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?561978&351",
+    "title": "1:25-cv-00817 TRUIST BANK v. PASJ PROPERTIES LLC et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?561978",
+    "date": "2026-06-08T12:40:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-00817",
+    "entry_type": "Order on Motion for Magistrate Judge",
+    "doc_num": "98"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?580467&164": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?580467&164",
+    "title": "1:25-cv-13937 O&#039;CONNELL v. THE WHITING-TURNER CONTRACTING COMPANY et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?580467",
+    "date": "2026-06-08T12:23:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-13937",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?586678&43": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?586678&43",
+    "title": "1:25-cv-17625 MAURER v. PCF RESTAURANT GROUP, LLC",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?586678",
+    "date": "2026-06-08T12:10:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-17625",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?562979&1523": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?562979&1523",
+    "title": "1:25-md-03138 IN RE: DENOSUMAB PATENT LITIGATION",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?562979",
+    "date": "2026-06-08T12:10:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-md-03138",
+    "entry_type": "Order on Motion for Magistrate Judge",
+    "doc_num": "452"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?548136&177": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?548136&177",
+    "title": "1:24-cv-06000 MAXWELL v. NANCY ELIZABETH, LLC et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?548136",
+    "date": "2026-06-08T12:07:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:24-cv-06000",
+    "entry_type": "Order on Motion for Miscellaneous Relief",
+    "doc_num": "56"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?581546&67": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?581546&67",
+    "title": "1:25-cv-14614 RICHARDS v. DEFELICE",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?581546",
+    "date": "2026-06-08T12:05:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-14614",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?574922&66": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?574922&66",
+    "title": "1:25-cv-09814 COOPER et al v. WAL-MART STORES EAST, LP et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?574922",
+    "date": "2026-06-08T11:43:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-09814",
+    "entry_type": "Order of Dismissal",
+    "doc_num": "20"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?426466&619": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?426466&619",
+    "title": "1:20-cv-01025 MOSES v. SOOD et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?426466",
+    "date": "2026-06-08T11:22:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:20-cv-01025",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?587933&69": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?587933&69",
+    "title": "1:25-cv-18240 STOER v. EXELTIS USA, INC.",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?587933",
+    "date": "2026-06-08T11:01:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-18240",
+    "entry_type": "Order",
+    "doc_num": "26"
+  },
   "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?536302&336": {
     "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?536302&336",
     "title": "1:23-cv-22221 PURDUE PHARMA L.P. et al v ELITE LABORATORIES INC, et al.",
@@ -6,24 +116,118 @@
     "date": "2026-06-08T10:55:44-04:00",
     "group": "civil",
     "category": "seal",
-    "case_num": "1:23-cv-22221"
+    "case_num": "1:23-cv-22221",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "108"
   },
-  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906&76": {
-    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906&76",
-    "title": "1:26-cv-04035 DOUGLAS v. DOLLAR TREE, INC. et al",
-    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?595906",
-    "date": "2026-06-08T08:43:48-04:00",
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?580504&89": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?580504&89",
+    "title": "1:25-cv-13959 VALERIO v. J.B HUNT TRANSPORT, INC. et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?580504",
+    "date": "2026-06-08T10:43:50-04:00",
     "group": "civil",
-    "category": "complaints",
-    "case_num": "1:26-cv-04035"
+    "category": "opinions",
+    "case_num": "1:25-cv-13959",
+    "entry_type": "Order on Motion for Magistrate Judge",
+    "doc_num": ""
   },
-  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624&39": {
-    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624&39",
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?598633&38": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?598633&38",
+    "title": "1:26-cv-05686 CARRERA GODINEZ v. BLANCHE et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?598633",
+    "date": "2026-06-08T10:37:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:26-cv-05686",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?599773&37": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?599773&37",
+    "title": "1:26-cv-06449 PAPRANIKU v ICE, et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?599773",
+    "date": "2026-06-08T10:21:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:26-cv-06449",
+    "entry_type": "Order to Answer",
+    "doc_num": "10"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?590155&49": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?590155&49",
+    "title": "1:26-cv-00576 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 24.0.230.227",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?590155",
+    "date": "2026-06-08T09:58:39-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:26-cv-00576",
+    "entry_type": "Order 60-Day Administrative Termination",
+    "doc_num": "14"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?545204&275": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?545204&275",
+    "title": "1:22-cv-05415 COPPOLA v. NEW JERSEY TRANSIT  RAIL OPERATIONS INC.",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?545204",
+    "date": "2026-06-08T09:57:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:22-cv-05415",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?503292&586": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?503292&586",
+    "title": "1:22-cv-06248 VITHANALAGE v. HUNAITY  et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?503292",
+    "date": "2026-06-08T09:55:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:22-cv-06248",
+    "entry_type": "Order",
+    "doc_num": "221"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?579659&70": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?579659&70",
+    "title": "1:25-cv-13479 DEAN v. LOCKHEED MARTIN CORPORATION",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?579659",
+    "date": "2026-06-08T09:45:53-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-13479",
+    "entry_type": "Order",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624&41": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624&41",
     "title": "1:26-cv-02117 RIMM v. PINE LODGE LABRADOODLES INC. et al",
     "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?592624",
-    "date": "2026-06-08T04:48:11-04:00",
+    "date": "2026-06-08T09:03:30-04:00",
     "group": "civil",
-    "category": "complaints",
-    "case_num": "1:26-cv-02117"
+    "category": "opinions",
+    "case_num": "1:26-cv-02117",
+    "entry_type": "Order Initial Scheduling Conference (Camden)",
+    "doc_num": "10"
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?572920&73": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?572920&73",
+    "title": "1:25-cv-07864 HEANEY v. BL MANAGER LLC  et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?572920",
+    "date": "2026-06-08T08:14:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-07864",
+    "entry_type": "Order on Motion for Magistrate Judge",
+    "doc_num": ""
+  },
+  "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?589008&58": {
+    "guid": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?589008&58",
+    "title": "1:25-cv-18992 JUAN v. PRESSLER, FELT & WARSHAW, LLP et al",
+    "link": "https://ecf.njd.uscourts.gov/cgi-bin/DktRpt.pl?589008",
+    "date": "2026-06-07T18:04:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "1:25-cv-18992",
+    "entry_type": "Order",
+    "doc_num": ""
   }
 }
