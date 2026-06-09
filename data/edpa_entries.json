@@ -603,5 +603,192 @@
     "case_num": "5:25-cv-06888",
     "entry_type": "Sanctions",
     "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&111": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&111",
+    "title": "2:24-cv-03140 ABIRA MEDICAL LABORATORIES LLC v. MERITAIN HEALTH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492",
+    "date": "2026-06-09T11:18:56-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:24-cv-03140",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647952&39": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647952&39",
+    "title": "2:25-cv-07431 GOLDSMITH v. TRANSUNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647952",
+    "date": "2026-06-09T11:08:05-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07431",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595691&96": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595691&96",
+    "title": "5:22-cr-00123-1 USA v. PARRISH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595691",
+    "date": "2026-06-09T11:06:52-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "5:22-cr-00123",
+    "entry_type": "Order on Motion for Forfeiture of Property",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647952&37": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647952&37",
+    "title": "2:25-cv-07431 GOLDSMITH v. TRANSUNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647952",
+    "date": "2026-06-09T11:06:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07431",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647143&64": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647143&64",
+    "title": "5:25-cv-06925 MCNEAR v. PERSON DIRECTED SUPPORTS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647143",
+    "date": "2026-06-09T11:05:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-06925",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647810&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647810&51",
+    "title": "2:25-cv-07319 ALONZO v. ROBAR et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647810",
+    "date": "2026-06-09T10:43:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07319",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647810&49": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647810&49",
+    "title": "2:25-cv-07319 ALONZO v. ROBAR et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647810",
+    "date": "2026-06-09T10:37:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07319",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655998&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655998&5",
+    "title": "2:26-mj-01112-1 USA v. GABRIEL-REYNOSO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655998",
+    "date": "2026-06-09T10:22:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-mj-01112",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638876&211": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638876&211",
+    "title": "2:25-cr-00245-1 USA v. HOUCK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638876",
+    "date": "2026-06-09T09:19:51-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00245",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642015&178": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642015&178",
+    "title": "2:25-cv-04532 MDR UNITED LLC v. BACKPORCH PARTNERS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642015",
+    "date": "2026-06-09T09:11:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04532",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642015&176": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642015&176",
+    "title": "2:25-cv-04532 MDR UNITED LLC v. BACKPORCH PARTNERS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642015",
+    "date": "2026-06-09T09:08:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04532",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642663&113": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642663&113",
+    "title": "2:25-cv-04800 WILLIAMS et al v. AMERICAN EXPRESS COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642663",
+    "date": "2026-06-09T08:53:53-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04800",
+    "entry_type": "Memorandum",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651977&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651977&20",
+    "title": "2:26-cv-01988 MCCRAY v. SOUTH EASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651977",
+    "date": "2026-06-09T08:51:35-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01988",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651977&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651977&18",
+    "title": "2:26-cv-01988 MCCRAY v. SOUTH EASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651977",
+    "date": "2026-06-09T08:45:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01988",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&138": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&138",
+    "title": "5:25-cv-06888 HECTOR v. COMMONWEALTH OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069",
+    "date": "2026-06-09T08:35:30-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "5:25-cv-06888",
+    "entry_type": "Sanctions",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&130": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&130",
+    "title": "5:25-cv-06888 HECTOR v. COMMONWEALTH OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069",
+    "date": "2026-06-09T08:25:03-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "5:25-cv-06888",
+    "entry_type": "Sanctions",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655781&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655781&15",
+    "title": "2:26-mj-01088-1 USA v. GILLESPIE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655781",
+    "date": "2026-06-09T08:07:55-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01088",
+    "entry_type": "Letter to Unseal",
+    "doc_num": "4"
   }
 }
