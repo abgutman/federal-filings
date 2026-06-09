@@ -1263,5 +1263,49 @@
     "case_num": "5:24-cr-00277",
     "entry_type": "Judgment of Forfeiture",
     "doc_num": "159"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656049&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656049&6",
+    "title": "2:26-cv-03941 Fischer et al v. MERITAIN HEALTH, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656049",
+    "date": "2026-06-09T17:57:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-03941",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&32",
+    "title": "2:26-cv-02465 OLIVER v. NORRISTOWN STATE HOSPITAL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972",
+    "date": "2026-06-09T17:46:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02465",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656048&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656048&4",
+    "title": "2:26-cv-03940 BEREZOFSKY v. CUKER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656048",
+    "date": "2026-06-09T17:41:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-03940",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&30",
+    "title": "2:26-cv-02465 OLIVER v. NORRISTOWN STATE HOSPITAL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972",
+    "date": "2026-06-09T17:37:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02465",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
   }
 }
