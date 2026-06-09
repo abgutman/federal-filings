@@ -1,6 +1,6 @@
 # Federal RSS tracker — rebuild spec
 
-Authored on Opus (2026-06-08) against live EDPA (497 items) + NJ (891 items) feeds.
+Authored on Opus (2026-06-08) against live EDPA (497 items) feed. **NJ-Camden disabled (2026-06-08)** — feed produced only 1 entry over 30 days; poll function exists but is not called.
 Build target: Sonnet. **Transcribe these tables exactly. Do not invent or "improve" categories at build time** — if a type is missing here, leave it unclassified and log it, don't guess.
 
 ## Feed structure (ground truth)
