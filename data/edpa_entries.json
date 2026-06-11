@@ -3122,5 +3122,38 @@
     "case_num": "2:16-md-02724",
     "entry_type": "Memorandum",
     "doc_num": "4572"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241&5",
+    "title": "2:26-cv-04019 Little v. NOVO NORDISK INC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241",
+    "date": "2026-06-11T17:20:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04019",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656243&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656243&4",
+    "title": "2:26-cv-04021 UKOGU v. HIGHGATE HOTELS, L.P.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656243",
+    "date": "2026-06-11T17:18:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04021",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656242&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656242&10",
+    "title": "2:26-cv-04020 TURNER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656242",
+    "date": "2026-06-11T17:11:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04020",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
