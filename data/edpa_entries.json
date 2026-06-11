@@ -2121,5 +2121,27 @@
     "case_num": "2:26-cv-03967",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656109&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656109&6",
+    "title": "5:26-cv-03975 Martin et al v. SAMSUNG ELECTRONICS AMERICA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656109",
+    "date": "2026-06-10T18:00:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-03975",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656123&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656123&9",
+    "title": "2:26-cv-03974 LYLES v. TAYLOR REAL ESTATE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656123",
+    "date": "2026-06-10T17:53:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-03974",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
