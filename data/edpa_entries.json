@@ -2946,5 +2946,181 @@
     "case_num": "2:26-cr-00263",
     "entry_type": "Warrant",
     "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455",
+    "title": "2:24-cv-04882 RICE v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495",
+    "date": "2026-06-11T16:49:35-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:24-cv-04882",
+    "entry_type": "Seal",
+    "doc_num": "155"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656232&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656232&3",
+    "title": "2:26-cv-04018 MCKEON IV v. EQUIFAX INFORMATION SERVICES LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656232",
+    "date": "2026-06-11T16:25:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04018",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656226&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656226&3",
+    "title": "2:26-cv-04017 MUSONGE v. T.D. JAKES FOUNDATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656226",
+    "date": "2026-06-11T16:18:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04017",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&51",
+    "title": "2:26-cv-01652 FILUS  v. WEILHEIMER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686",
+    "date": "2026-06-11T16:12:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01652",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656220&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656220&3",
+    "title": "2:26-cv-04015 BERKLEY INSURANCE COMPANY v. KINNARD",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656220",
+    "date": "2026-06-11T16:07:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04015",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656213&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656213&31",
+    "title": "2:26-cv-04014 MCAULEY et al v. FIRST NATIONAL BANK OF PENNSYLVANIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656213",
+    "date": "2026-06-11T16:03:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04014",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656217&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656217&6",
+    "title": "2:26-mj-01128-1 USA v. GUZMAN-RAMOS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656217",
+    "date": "2026-06-11T15:52:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-mj-01128",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&344": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&344",
+    "title": "2:21-cv-02456 Cornwall v. DELAWARE COUNTY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432",
+    "date": "2026-06-11T15:22:35-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-02456",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "111"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&342": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&342",
+    "title": "2:21-cv-02456 Cornwall v. DELAWARE COUNTY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432",
+    "date": "2026-06-11T15:18:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-02456",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "110"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007&147": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007&147",
+    "title": "2:24-cr-00413-1 USA v. DONUEL MYLES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007",
+    "date": "2026-06-11T15:09:09-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00413",
+    "entry_type": "Plea Agreement",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610681&184": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610681&184",
+    "title": "2:23-cr-00264-1 USA v. POOLE, III",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610681",
+    "date": "2026-06-11T14:57:36-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00264",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "53"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656203&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656203&3",
+    "title": "5:26-cv-04010 MARTINEZ v. LIFE INSURANCE COMPANY OF NORTH AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656203",
+    "date": "2026-06-11T14:53:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04010",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1293": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1293",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-06-11T14:51:27-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "470"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656200&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656200&5",
+    "title": "2:26-cv-04008 WEST v. TAKEDA PHARMACEUTICALS AMERICA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656200",
+    "date": "2026-06-11T14:32:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04008",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545&143": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545&143",
+    "title": "2:24-cr-00303-1 USA v. HEIMBACH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545",
+    "date": "2026-06-11T14:13:49-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:24-cr-00303",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12764": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12764",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-06-11T14:12:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4572"
   }
 }
