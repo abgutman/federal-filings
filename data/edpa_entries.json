@@ -4882,5 +4882,49 @@
     "case_num": "2:26-cv-04127",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&113": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&113",
+    "title": "2:24-cv-03140 ABIRA MEDICAL LABORATORIES LLC v. MERITAIN HEALTH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492",
+    "date": "2026-06-15T23:14:21-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:24-cv-03140",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "41"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656454&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656454&5",
+    "title": "2:26-cv-04145 Destefano-Salemi v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656454",
+    "date": "2026-06-15T20:56:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04145",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656453&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656453&4",
+    "title": "2:26-cv-04144 W. et al v. METHACTON SCHOOL DISTRICT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656453",
+    "date": "2026-06-15T20:25:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04144",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656452&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656452&3",
+    "title": "2:26-cv-04143 ARAMARK CAMPUS, LLC v. GARNER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656452",
+    "date": "2026-06-15T19:47:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04143",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
