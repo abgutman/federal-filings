@@ -5575,5 +5575,60 @@
     "case_num": "2:26-cv-04167",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534&7",
+    "title": "2:26-cv-04178 PHILLIPS v. NORTH COVENTRY TOWNSHIP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534",
+    "date": "2026-06-17T09:12:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04178",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987&93": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987&93",
+    "title": "2:25-cr-00381-1 USA v. HARRIS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987",
+    "date": "2026-06-17T08:44:44-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00381",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632850&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632850&79",
+    "title": "2:25-cv-00498 UNITED FINANCIAL CASUALTY COMPANY v. JONES et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632850",
+    "date": "2026-06-17T08:39:19-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-00498",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "27"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656140&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656140&26",
+    "title": "2:26-cr-00266-1 USA v. AGUSTINI",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656140",
+    "date": "2026-06-17T08:37:28-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00266",
+    "entry_type": "Plea Agreement",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645602&303": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645602&303",
+    "title": "2:25-cr-00469-2 USA v. FABIAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645602",
+    "date": "2026-06-17T08:29:26-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00469",
+    "entry_type": "Plea Agreement",
+    "doc_num": "74"
   }
 }
