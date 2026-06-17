@@ -5520,5 +5520,60 @@
     "case_num": "2:26-cv-02270",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655840&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655840&28",
+    "title": "2:26-cv-03860 Fabian Mendoza v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655840",
+    "date": "2026-06-16T22:15:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03860",
+    "entry_type": "Memorandum",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&277": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&277",
+    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
+    "date": "2026-06-16T21:46:12-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-00349",
+    "entry_type": "Seal",
+    "doc_num": "106"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642862&112": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642862&112",
+    "title": "2:25-cr-00379-1 USA v. HERRERA-ORTEGA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642862",
+    "date": "2026-06-16T18:38:00-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00379",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656514&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656514&4",
+    "title": "2:26-cv-04168 CARTER v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656514",
+    "date": "2026-06-16T18:26:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04168",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512&4",
+    "title": "2:26-cv-04167 ALLEN v. EAGLEVILLE HOSPITAL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512",
+    "date": "2026-06-16T17:12:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04167",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
