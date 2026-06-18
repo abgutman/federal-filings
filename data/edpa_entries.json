@@ -6389,5 +6389,49 @@
     "case_num": "2:26-cv-04191",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656586&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656586&4",
+    "title": "2:26-cv-04197 STUCK v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656586",
+    "date": "2026-06-18T08:46:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04197",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656584&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656584&4",
+    "title": "2:26-cv-04196 HALL v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656584",
+    "date": "2026-06-18T08:37:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04196",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656581&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656581&3",
+    "title": "2:26-cv-04181 IN RE: RODDY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656581",
+    "date": "2026-06-18T08:31:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04181",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656582&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656582&4",
+    "title": "2:26-cv-04195 DIXON v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656582",
+    "date": "2026-06-18T08:30:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04195",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
