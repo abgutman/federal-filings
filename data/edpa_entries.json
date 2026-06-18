@@ -6906,5 +6906,126 @@
     "case_num": "2:26-cr-00284",
     "entry_type": "Indictment",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660&4",
+    "title": "2:26-cv-04244 MIKE v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660",
+    "date": "2026-06-18T18:57:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04244",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656659&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656659&4",
+    "title": "2:26-cv-04243 FORTSON v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656659",
+    "date": "2026-06-18T18:49:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04243",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656658&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656658&4",
+    "title": "2:26-cv-04242 BENNETT v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656658",
+    "date": "2026-06-18T18:39:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04242",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656657&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656657&3",
+    "title": "2:26-cv-04241 MEDINA v. NBT BANCORP, INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656657",
+    "date": "2026-06-18T18:19:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04241",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656655&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656655&4",
+    "title": "2:26-cv-04239 Rosenbaum v. Eli Lilly and Company et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656655",
+    "date": "2026-06-18T17:56:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04239",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656653&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656653&9",
+    "title": "2:26-cv-04237 THOMAS v. SPIRIT OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656653",
+    "date": "2026-06-18T17:54:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04237",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656654&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656654&4",
+    "title": "2:26-cv-04238 STOLTZ v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656654",
+    "date": "2026-06-18T17:44:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04238",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656652&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656652&7",
+    "title": "2:26-cv-04236 HAMM v. TRANS UNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656652",
+    "date": "2026-06-18T17:34:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04236",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656641&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656641&4",
+    "title": "2:26-cv-04235 HALL v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656641",
+    "date": "2026-06-18T16:37:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04235",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656640&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656640&5",
+    "title": "2:26-cv-04234 UNITED STATES OF AMERICA v. TWO MILLION FOUR HUNDRED FIFTY-ONE THOUSAND ONE HUNDRED AND NINETY-TWO DOLLARS AND FORTY-EIGHT CENTS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656640",
+    "date": "2026-06-18T16:32:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04234",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609&43",
+    "title": "2:26-cv-01330 CUSTER et al v. AMERICAN HONDA MOTOR CO., INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609",
+    "date": "2026-06-18T16:29:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01330",
+    "entry_type": "Memorandum",
+    "doc_num": "16"
   }
 }
