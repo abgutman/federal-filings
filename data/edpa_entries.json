@@ -7049,5 +7049,49 @@
     "case_num": "2:24-cv-05372",
     "entry_type": "Sanctions",
     "doc_num": "47"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670&4",
+    "title": "2:26-cv-04254 MOUNTS v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670",
+    "date": "2026-06-19T12:27:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04254",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656671&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656671&7",
+    "title": "2:26-cv-04255 Gualtieri et al v. Pelaez-Perez et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656671",
+    "date": "2026-06-19T12:23:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04255",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656668&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656668&5",
+    "title": "2:26-cv-04252 Scott v. Schmechel et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656668",
+    "date": "2026-06-19T12:00:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04252",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656665&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656665&5",
+    "title": "2:26-cv-04249",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656665",
+    "date": "2026-06-19T10:40:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04249",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
