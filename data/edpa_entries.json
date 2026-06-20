@@ -7291,5 +7291,16 @@
     "case_num": "2:24-cr-00219",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "334"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656674&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656674&3",
+    "title": "2:26-cv-04258 Carden v. NOVO DORDISK A/S, NOVO NORDISK INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656674",
+    "date": "2026-06-19T23:52:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04258",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
