@@ -7764,5 +7764,115 @@
     "case_num": "5:26-cv-04277",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639256&121": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639256&121",
+    "title": "2:25-cv-03129 KATZ v. TRANSAMERICA LIFE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639256",
+    "date": "2026-06-22T18:26:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03129",
+    "entry_type": "Memorandum",
+    "doc_num": "41"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2473": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2473",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-06-22T18:23:08-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Seal",
+    "doc_num": "744"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12979": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12979",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-06-22T18:20:25-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Seal",
+    "doc_num": "4651"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&23",
+    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
+    "date": "2026-06-22T17:55:03-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-02202",
+    "entry_type": "Seal",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603322&246": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603322&246",
+    "title": "2:22-cv-04752 WILKERSON v. SUNBEAM PRODUCTS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603322",
+    "date": "2026-06-22T17:51:22-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-04752",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "83"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656749&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656749&3",
+    "title": "2:26-cv-04288 FAIRLEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656749",
+    "date": "2026-06-22T17:47:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04288",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656735&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656735&3",
+    "title": "2:26-cv-04281 RIGATOS v. PEERSTAR LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656735",
+    "date": "2026-06-22T17:25:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04281",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656750&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656750&4",
+    "title": "2:26-cv-04289 O&#039;DONNELL v. MAXIM CRANE WORKS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656750",
+    "date": "2026-06-22T17:24:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04289",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656738&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656738&4",
+    "title": "2:26-cv-04284 POWELL v. THE CORNER BAKERY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656738",
+    "date": "2026-06-22T17:05:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04284",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618968&427": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618968&427",
+    "title": "2:24-cr-00061-3 USA v. AMERMAN., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618968",
+    "date": "2026-06-22T16:30:17-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00061",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "117"
   }
 }
