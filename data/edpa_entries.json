@@ -7874,5 +7874,82 @@
     "case_num": "2:24-cr-00061",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "117"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656755&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656755&4",
+    "title": "2:26-cv-04294 BAZIL v. ARTIS SENIOR LIVING OF LOWER MAKEFIELD, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656755",
+    "date": "2026-06-22T22:16:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04294",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2489": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2489",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-06-22T22:06:39-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Seal",
+    "doc_num": "750"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12995": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12995",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-06-22T22:03:10-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Seal",
+    "doc_num": "4657"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2184": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2184",
+    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
+    "date": "2026-06-22T21:21:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-md-03094",
+    "entry_type": "Memorandum",
+    "doc_num": "738"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656754&2": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656754&2",
+    "title": "2:26-cv-04293",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656754",
+    "date": "2026-06-22T20:27:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04293",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656753&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656753&11",
+    "title": "2:26-cv-04292 MEJIA REYES v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656753",
+    "date": "2026-06-22T20:02:04-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04292",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648842&334": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648842&334",
+    "title": "2:26-cv-00434 CITY OF PHILADELPHIA v. BURGUM et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648842",
+    "date": "2026-06-22T19:41:18-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00434",
+    "entry_type": "Memorandum",
+    "doc_num": "106"
   }
 }
