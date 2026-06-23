@@ -8160,5 +8160,159 @@
     "case_num": "5:26-cv-04286",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656785&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656785&4",
+    "title": "2:26-cv-04304 ACKLES v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656785",
+    "date": "2026-06-23T13:20:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04304",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656784&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656784&5",
+    "title": "2:26-cv-04303 LYONS v. OSH-PA PHYSICIANS GROUP, PC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656784",
+    "date": "2026-06-23T13:09:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04303",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656787&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656787&4",
+    "title": "2:26-cv-04306 BARBOUR v. KEYSTONE QUALITY TRANSPORT COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656787",
+    "date": "2026-06-23T13:09:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04306",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656786&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656786&5",
+    "title": "2:26-cv-04305 YALLAH v. NWANI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656786",
+    "date": "2026-06-23T13:07:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04305",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&148": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&148",
+    "title": "5:25-cv-06888 HECTOR v. COMMONWEALTH OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069",
+    "date": "2026-06-23T12:54:19-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-06888",
+    "entry_type": "Memorandum",
+    "doc_num": "41"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618264&102": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618264&102",
+    "title": "2:24-cv-00402 C.F. et al v. COUNCIL ROCK SCHOOL DISTRICT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618264",
+    "date": "2026-06-23T12:51:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-00402",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618264&100": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618264&100",
+    "title": "2:24-cv-00402 C.F. et al v. COUNCIL ROCK SCHOOL DISTRICT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618264",
+    "date": "2026-06-23T12:49:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-00402",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "36"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656780&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656780&4",
+    "title": "2:26-cv-04301 LYON v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656780",
+    "date": "2026-06-23T12:36:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04301",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656779&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656779&5",
+    "title": "2:26-cv-04300 CLARK v. COUNTY OF CHESTER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656779",
+    "date": "2026-06-23T12:24:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04300",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595291&501": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595291&501",
+    "title": "2:22-cv-01229 W.C. v. DELAWARE COUNTY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595291",
+    "date": "2026-06-23T12:08:41-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-01229",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "148"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964&106": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964&106",
+    "title": "2:26-cr-00068-1 USA v. HICKMAN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964",
+    "date": "2026-06-23T12:02:59-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00068",
+    "entry_type": "Plea Agreement",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656428&16": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656428&16",
+    "title": "2:26-mj-01176-1 USA v. HERNANDEZ-MANZUETA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656428",
+    "date": "2026-06-23T11:45:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01176",
+    "entry_type": "Letter to Unseal",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656789&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656789&12",
+    "title": "5:26-cv-04225 UNITED FINANCIAL CASUALTY COMPANY v. REISS MASONRY CONSTRUCTION LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656789",
+    "date": "2026-06-23T11:21:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04225",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656773&2": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656773&2",
+    "title": "5:26-cv-04293 RICHCREEK v. BOSS TRUCK SHOP, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656773",
+    "date": "2026-06-22T20:27:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04293",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
