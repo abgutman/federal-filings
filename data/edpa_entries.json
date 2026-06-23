@@ -8314,5 +8314,137 @@
     "case_num": "5:26-cv-04293",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806&9",
+    "title": "2:26-cv-04316 POLUTRO v. PHILADELPHIA PERFORMING ARTS CHARTER SCHOOL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806",
+    "date": "2026-06-23T16:32:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04316",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448&537": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448&537",
+    "title": "2:25-cr-00403-4 USA v. ANDREWS, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448",
+    "date": "2026-06-23T16:25:41-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00403",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "141"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656792&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656792&10",
+    "title": "2:26-cv-04309 HMP EDUCATION, LLC v. WEBSERV PRO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656792",
+    "date": "2026-06-23T16:06:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04309",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656081&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656081&44",
+    "title": "5:26-cv-03939 PARSHLEY et al v. MACDONALD, JR. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656081",
+    "date": "2026-06-23T15:59:30-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "5:26-cv-03939",
+    "entry_type": "Sanctions",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645380&96": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645380&96",
+    "title": "2:25-cv-06077 TRAORE v. STATE FARM INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645380",
+    "date": "2026-06-23T15:58:40-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-06077",
+    "entry_type": "Sanctions",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653433&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653433&81",
+    "title": "2:26-cr-00180-1 USA v. ALMONTE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653433",
+    "date": "2026-06-23T15:48:12-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00180",
+    "entry_type": "Plea Agreement",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656793&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656793&4",
+    "title": "2:26-cv-04310 IRONSHORE SPECIALTY INSURANCE COMPANY v. HAH HOLDINGS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656793",
+    "date": "2026-06-23T15:36:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04310",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656795&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656795&7",
+    "title": "2:26-cv-04313 DIAMOND LAW CENTER, LLC v. FORECLOSURE SECRETS CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656795",
+    "date": "2026-06-23T15:18:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04313",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649615&111": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649615&111",
+    "title": "2:26-cv-00818 WILLIAMS v. CONNECTIFY, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649615",
+    "date": "2026-06-23T15:11:59-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:26-cv-00818",
+    "entry_type": "Sanctions",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655875&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655875&13",
+    "title": "2:26-cv-03873 WANG v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655875",
+    "date": "2026-06-23T14:16:06-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03873",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656751&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656751&12",
+    "title": "2:26-cv-04290 AGUILAR GOMEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656751",
+    "date": "2026-06-23T14:13:40-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04290",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656619&29": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656619&29",
+    "title": "2:26-cr-00281-1 USA v. BOSTIC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656619",
+    "date": "2026-06-23T13:46:35-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00281",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "9"
   }
 }
