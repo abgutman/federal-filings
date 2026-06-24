@@ -9183,5 +9183,82 @@
     "case_num": "2:26-cr-00268",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&322": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&322",
+    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
+    "date": "2026-06-24T16:45:20-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-00349",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "122"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656876&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656876&3",
+    "title": "2:26-cv-04356 MACPHERSON v. WHOLE FOODS MARKET",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656876",
+    "date": "2026-06-24T16:35:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04356",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656874&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656874&3",
+    "title": "2:26-cv-04354 Heller v. Greenstar, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656874",
+    "date": "2026-06-24T16:24:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04354",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656875&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656875&4",
+    "title": "2:26-cv-04355 POULSON v. B2B GREEN CLEAN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656875",
+    "date": "2026-06-24T16:22:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04355",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656872&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656872&3",
+    "title": "2:26-cv-04352 BARRON v. LIFE INSURANCE COMPANY OF NORTH AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656872",
+    "date": "2026-06-24T16:17:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04352",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656873&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656873&5",
+    "title": "2:26-cv-04353 PARKER v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656873",
+    "date": "2026-06-24T16:12:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04353",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646830&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646830&44",
+    "title": "2:25-cv-06763 BLANKENHORN v. HU et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646830",
+    "date": "2026-06-24T15:58:40-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-06763",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "15"
   }
 }
