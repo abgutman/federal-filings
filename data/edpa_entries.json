@@ -8787,5 +8787,60 @@
     "case_num": "2:25-cr-00077",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "108"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656845&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656845&3",
+    "title": "2:26-cv-04337 TURNER v. PRUDENTIAL DISABILITY MANAGEMENT SERVICE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656845",
+    "date": "2026-06-24T12:16:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04337",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&26",
+    "title": "2:26-cv-04146 BARRIENTOS-VANEGAS v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455",
+    "date": "2026-06-24T11:54:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04146",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&24",
+    "title": "2:26-cv-04146 BARRIENTOS-VANEGAS v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455",
+    "date": "2026-06-24T11:50:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04146",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821&67": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821&67",
+    "title": "2:26-cr-00037-1 USA v. VASQUEZ-LADINO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821",
+    "date": "2026-06-24T11:45:57-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00037",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&57": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&57",
+    "title": "2:25-cv-03090 SEIBERT v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192",
+    "date": "2026-06-24T11:16:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03090",
+    "entry_type": "Memorandum",
+    "doc_num": "19"
   }
 }
