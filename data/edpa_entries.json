@@ -9260,5 +9260,27 @@
     "case_num": "2:25-cv-06763",
     "entry_type": "Order to Show Cause",
     "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656877&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656877&13",
+    "title": "2:26-cv-04357 MARTINEZ HERRERA v. BLANCHE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656877",
+    "date": "2026-06-24T18:21:36-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04357",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656878&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656878&4",
+    "title": "2:26-cv-04358 MORRIS  v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656878",
+    "date": "2026-06-24T17:20:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04358",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
