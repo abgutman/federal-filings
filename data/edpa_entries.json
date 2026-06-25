@@ -9282,5 +9282,93 @@
     "case_num": "2:26-cv-04358",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&114": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&114",
+    "title": "2:25-cv-05463 GUNTER v. DREXEL UNIVERSITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943",
+    "date": "2026-06-24T22:32:45-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-05463",
+    "entry_type": "Seal Document",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638982&120": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638982&120",
+    "title": "2:25-cv-03028 Campanile et al v. THE HANOVER INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638982",
+    "date": "2026-06-24T21:52:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03028",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638982&118": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638982&118",
+    "title": "2:25-cv-03028 Campanile et al v. THE HANOVER INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638982",
+    "date": "2026-06-24T21:50:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03028",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613783&150": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613783&150",
+    "title": "2:23-cv-03578 FREEMAN v. THOMPSON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613783",
+    "date": "2026-06-24T21:28:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-03578",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613783&148": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613783&148",
+    "title": "2:23-cv-03578 FREEMAN v. THOMPSON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613783",
+    "date": "2026-06-24T21:26:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-03578",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633807&108": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633807&108",
+    "title": "2:25-cv-00947 RMJ VENTURES, LLC v. QUAKERTOWN BOROUGH et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633807",
+    "date": "2026-06-24T21:12:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00947",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633807&106": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633807&106",
+    "title": "2:25-cv-00947 RMJ VENTURES, LLC v. QUAKERTOWN BOROUGH et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633807",
+    "date": "2026-06-24T21:10:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00947",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656879&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656879&8",
+    "title": "2:26-cv-04312 JOHNSON v. FBOP OFFICER DOHERTY, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656879",
+    "date": "2026-06-24T19:18:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04312",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
