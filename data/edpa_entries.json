@@ -10382,5 +10382,38 @@
     "case_num": "2:26-cv-02165",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656956&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656956&4",
+    "title": "2:26-cv-04386 CARTER-CHEST v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656956",
+    "date": "2026-06-25T19:47:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04386",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656953&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656953&3",
+    "title": "2:26-cv-04385 GILBERT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656953",
+    "date": "2026-06-25T19:12:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04385",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2197": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2197",
+    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
+    "date": "2026-06-25T19:09:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-md-03094",
+    "entry_type": "Memorandum",
+    "doc_num": "743"
   }
 }
