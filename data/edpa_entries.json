@@ -10448,5 +10448,27 @@
     "case_num": "2:24-md-03094",
     "entry_type": "Memorandum",
     "doc_num": "745"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&71": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&71",
+    "title": "2:26-cv-00475 BROWN et al v. BINSWANGER MANAGEMENT CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915",
+    "date": "2026-06-26T06:55:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00475",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&69": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&69",
+    "title": "2:26-cv-00475 BROWN et al v. BINSWANGER MANAGEMENT CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915",
+    "date": "2026-06-26T06:52:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00475",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "23"
   }
 }
