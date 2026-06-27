@@ -11394,5 +11394,93 @@
     "case_num": "5:25-cv-03833",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "53"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293&171": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293&171",
+    "title": "2:23-cv-01002 HILL v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293",
+    "date": "2026-06-26T22:48:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-01002",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "68"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640638&149": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640638&149",
+    "title": "2:25-cv-03720 VELAZQUEZ v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640638",
+    "date": "2026-06-26T22:48:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03720",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811&291": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811&291",
+    "title": "2:19-cv-01692 FRAZIER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811",
+    "date": "2026-06-26T22:48:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:19-cv-01692",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "109"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640638&147": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640638&147",
+    "title": "2:25-cv-03720 VELAZQUEZ v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640638",
+    "date": "2026-06-26T22:46:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03720",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293&169": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293&169",
+    "title": "2:23-cv-01002 HILL v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293",
+    "date": "2026-06-26T22:46:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-01002",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811&289": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811&289",
+    "title": "2:19-cv-01692 FRAZIER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?555811",
+    "date": "2026-06-26T22:46:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:19-cv-01692",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "108"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657041&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657041&3",
+    "title": "2:26-cv-04425 Amin",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657041",
+    "date": "2026-06-26T22:13:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04425",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657037&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657037&25",
+    "title": "2:26-cv-04280 MCCLAIN v. YESCARE CORP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657037",
+    "date": "2026-06-26T20:10:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04280",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
