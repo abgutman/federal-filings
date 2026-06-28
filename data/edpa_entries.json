@@ -11482,5 +11482,16 @@
     "case_num": "2:26-cv-04280",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657043&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657043&3",
+    "title": "5:26-cv-04427 SKROVANEK v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657043",
+    "date": "2026-06-28T08:25:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04427",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
