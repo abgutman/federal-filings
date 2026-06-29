@@ -11493,5 +11493,16 @@
     "case_num": "5:26-cv-04427",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657048&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657048&4",
+    "title": "2:26-cv-04432 baylor v. CAPITAL WINE & SPIRITS COMPANY LLC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657048",
+    "date": "2026-06-28T17:57:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04432",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
