@@ -12758,5 +12758,137 @@
     "case_num": "2:26-cv-04494",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185&4",
+    "title": "2:26-cv-04518 JOHNSON v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185",
+    "date": "2026-06-30T13:05:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04518",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657184&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657184&3",
+    "title": "2:26-cv-04517 BOYLE v. TOWER ADMINISTRATIVE SERVICES, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657184",
+    "date": "2026-06-30T13:02:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04517",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657183&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657183&3",
+    "title": "2:26-cv-04516 Huff v. ELWYN, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657183",
+    "date": "2026-06-30T12:58:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04516",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657182&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657182&3",
+    "title": "2:26-cv-04515 CURRY v. CONNECTION CHEMICAL LP",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657182",
+    "date": "2026-06-30T12:50:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04515",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657180&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657180&3",
+    "title": "2:26-cv-04513 BROWN v. THE LINCOLN NATIONAL LIFE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657180",
+    "date": "2026-06-30T12:36:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04513",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657178&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657178&6",
+    "title": "2:26-cv-04511 Weinstein et al v. NEW JERSEY MANUFACTURERS INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657178",
+    "date": "2026-06-30T12:34:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04511",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644639&155": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644639&155",
+    "title": "5:25-cv-05775 FRANCISCO  v. DIRECTOR GARY KLINE  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644639",
+    "date": "2026-06-30T11:35:52-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-05775",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "51"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644639&153": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644639&153",
+    "title": "5:25-cv-05775 FRANCISCO  v. DIRECTOR GARY KLINE  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644639",
+    "date": "2026-06-30T11:31:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-05775",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657167&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657167&4",
+    "title": "2:26-cv-04507 HAMPTON III v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657167",
+    "date": "2026-06-30T11:30:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04507",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657163&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657163&9",
+    "title": "2:26-cv-04504 UNITED FINANCIAL CASUALTY COMPANY v. Kubot et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657163",
+    "date": "2026-06-30T11:21:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04504",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657164&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657164&3",
+    "title": "2:26-cv-04505 FRIENDS OF THE DELAWARE RIVER LLC v. ATLANTIC METAL ROOFING PRODUCT LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657164",
+    "date": "2026-06-30T11:20:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04505",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657165&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657165&3",
+    "title": "2:26-cv-04449 IN RE: ROBERT W. JOHNSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657165",
+    "date": "2026-06-30T11:20:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04449",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
