@@ -12571,5 +12571,16 @@
     "case_num": "5:26-cv-04489",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107&9",
+    "title": "2:26-cv-04468 BELFORT et al v. NEXT INSURANCE US et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107",
+    "date": "2026-06-30T07:26:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04468",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
