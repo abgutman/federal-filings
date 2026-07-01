@@ -13484,5 +13484,49 @@
     "case_num": "2:26-cv-04544",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&77": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&77",
+    "title": "2:25-cv-07312 SLOWE v. THE ATTORNEY GENERAL OF THE STATE OF PENNSYLVANIA  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897",
+    "date": "2026-07-01T08:09:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07312",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&75": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&75",
+    "title": "2:25-cv-07312 SLOWE v. THE ATTORNEY GENERAL OF THE STATE OF PENNSYLVANIA  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897",
+    "date": "2026-07-01T08:06:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07312",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&248": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&248",
+    "title": "2:25-cv-03101 BAUTISTA v. TEMPLE UNIVERSITY HOSPITAL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216",
+    "date": "2026-07-01T08:02:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03101",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "74"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&246": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&246",
+    "title": "2:25-cv-03101 BAUTISTA v. TEMPLE UNIVERSITY HOSPITAL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216",
+    "date": "2026-07-01T07:58:35-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03101",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "73"
   }
 }
