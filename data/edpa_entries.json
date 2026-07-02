@@ -14661,5 +14661,27 @@
     "case_num": "2:25-cv-04456",
     "entry_type": "Memorandum",
     "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&85": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&85",
+    "title": "2:26-cv-02372 Tkachev v MCSHANE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795",
+    "date": "2026-07-01T22:52:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02372",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&83": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&83",
+    "title": "2:26-cv-02372 Tkachev v MCSHANE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795",
+    "date": "2026-07-01T22:50:06-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02372",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "22"
   }
 }
