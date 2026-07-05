@@ -15574,5 +15574,16 @@
     "case_num": "2:26-cv-04642",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657417&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657417&8",
+    "title": "2:26-cv-04651 AMINOV v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657417",
+    "date": "2026-07-04T21:44:07-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04651",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
   }
 }
