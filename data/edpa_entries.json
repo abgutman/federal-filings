@@ -15915,5 +15915,170 @@
     "case_num": "2:24-cv-02952",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "72"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655453&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655453&30",
+    "title": "2:26-cr-00240-1 USA v. BRUNDIDGE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655453",
+    "date": "2026-07-06T14:10:30-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00240",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657454&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657454&4",
+    "title": "2:26-cv-04670 PERRY v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657454",
+    "date": "2026-07-06T14:10:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04670",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436&51",
+    "title": "2:26-cr-00238-1 USA v. CAMMARATA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655436",
+    "date": "2026-07-06T14:05:50-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00238",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604090&173": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604090&173",
+    "title": "2:22-cr-00470-1 USA v. PARKER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604090",
+    "date": "2026-07-06T14:01:25-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:22-cr-00470",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "55"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201&637": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201&637",
+    "title": "2:22-cr-00073-1 USA v. NIXON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201",
+    "date": "2026-07-06T13:54:09-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:22-cr-00073",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "193"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657275&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657275&41",
+    "title": "5:26-cv-04565 PENNSPRING CAPITAL VII, LLC v. HCAP PARTNERS IV, L.P. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657275",
+    "date": "2026-07-06T13:53:21-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:26-cv-04565",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657161&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657161&30",
+    "title": "2:26-cv-04502 Maldonado Guzman v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657161",
+    "date": "2026-07-06T13:34:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04502",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657161&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657161&28",
+    "title": "2:26-cv-04502 Maldonado Guzman v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657161",
+    "date": "2026-07-06T13:31:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04502",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905&70": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905&70",
+    "title": "2:25-cv-06796 CLARK  v. LENTEGRITY, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905",
+    "date": "2026-07-06T13:22:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06796",
+    "entry_type": "Memorandum",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576121&300": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576121&300",
+    "title": "2:20-cv-04723 CLEARLY CLEAN PRODUCTS, LLC et al v. TEKNI-PLEX, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576121",
+    "date": "2026-07-06T13:12:46-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:20-cv-04723",
+    "entry_type": "Seal Document",
+    "doc_num": "100"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657443&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657443&7",
+    "title": "2:26-cv-04666 Mcallister v. BLATT BROTHER DOMESTIC, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657443",
+    "date": "2026-07-06T13:02:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04666",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657444&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657444&3",
+    "title": "5:26-cv-04667 HEIDELBERG MATERIALS U.S. CEMENT, LLC v. UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION, LOCAL 10-00018",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657444",
+    "date": "2026-07-06T12:55:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04667",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604090&169": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604090&169",
+    "title": "2:22-cr-00470-1 USA v. PARKER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604090",
+    "date": "2026-07-06T12:50:56-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:22-cr-00470",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "54"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657442&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657442&3",
+    "title": "2:26-cv-04664 STEELE v. VESTWELL HOLDINGS INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657442",
+    "date": "2026-07-06T12:33:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04664",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657441&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657441&6",
+    "title": "2:26-cv-04663 WU et al v. PFEIFFER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657441",
+    "date": "2026-07-06T12:27:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04663",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
