@@ -17246,5 +17246,38 @@
     "case_num": "2:25-cv-05365",
     "entry_type": "Response to Order to Show Cause",
     "doc_num": "149"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657557&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657557&5",
+    "title": "2:26-cv-04736 REYES v. CITIZENS BANK, N.A. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657557",
+    "date": "2026-07-07T22:20:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04736",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657556&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657556&3",
+    "title": "2:26-cv-04735 BROWN v. ABB INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657556",
+    "date": "2026-07-07T21:28:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04735",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?571841&1100": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?571841&1100",
+    "title": "2:20-cv-02711 CIGNA CORP. v. ACTAVIS HOLDCO US, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?571841",
+    "date": "2026-07-07T20:16:58-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:20-cv-02711",
+    "entry_type": "Seal",
+    "doc_num": "297"
   }
 }
