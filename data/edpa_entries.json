@@ -10,17 +10,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653439&69": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653439&69",
-    "title": "5:26-cv-02683 GONZALES-DE ARMAS v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653439",
-    "date": "2026-06-08T18:11:36-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "5:26-cv-02683",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "22"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2146": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2146",
     "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
@@ -17323,5 +17312,104 @@
     "case_num": "2:26-cv-02994",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654849&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654849&43",
+    "title": "2:26-cv-03364 DUDLEY v. FOLLO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654849",
+    "date": "2026-07-08T17:51:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03364",
+    "entry_type": "Memorandum",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657566&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657566&23",
+    "title": "2:26-cv-04659 HATZIEFSTATHIOU v. SENG et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657566",
+    "date": "2026-07-08T17:36:02-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04659",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&573": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&573",
+    "title": "5:22-cv-04557 CT INSTALL AMERICA, LLC v. BORYSZEWSKI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857",
+    "date": "2026-07-08T17:17:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:22-cv-04557",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "196"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&571": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&571",
+    "title": "5:22-cv-04557 CT INSTALL AMERICA, LLC v. BORYSZEWSKI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857",
+    "date": "2026-07-08T17:15:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:22-cv-04557",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "195"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&569": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&569",
+    "title": "5:22-cv-04557 CT INSTALL AMERICA, LLC v. BORYSZEWSKI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857",
+    "date": "2026-07-08T17:11:19-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:22-cv-04557",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "194"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&567": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&567",
+    "title": "5:22-cv-04557 CT INSTALL AMERICA, LLC v. BORYSZEWSKI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857",
+    "date": "2026-07-08T17:07:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:22-cv-04557",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "193"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657610&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657610&7",
+    "title": "2:26-cv-04762 DINH v. THE CINCINNATI INDEMNITY COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657610",
+    "date": "2026-07-08T17:01:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04762",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648530&75": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648530&75",
+    "title": "2:26-cv-00236 FIELDS et al v. PHILADELPHIA FEDERAL CREDIT UNION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648530",
+    "date": "2026-07-08T17:00:34-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-00236",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657613&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657613&5",
+    "title": "2:26-cv-04765 FAULK v. TRANS UNION LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657613",
+    "date": "2026-07-08T16:54:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04765",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
