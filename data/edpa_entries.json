@@ -340,17 +340,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "21"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655936&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655936&3",
-    "title": "5:26-cv-03902 CAIN v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655936",
-    "date": "2026-06-07T18:42:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-03902",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978&4",
     "title": "2:26-cv-03926 HERNANDEZ-RIVERA v. CUBESMART, L.P. a/k/a CUBESMART",
@@ -17224,5 +17213,38 @@
     "case_num": "2:26-cv-04723",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657553&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657553&3",
+    "title": "2:26-cv-04732 ZAMORA v. ADAPTHEALTH CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657553",
+    "date": "2026-07-07T18:59:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04732",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657552&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657552&12",
+    "title": "2:26-cv-04731 HINKLEY v. WALMART SUPERCENTER &#035;2068 et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657552",
+    "date": "2026-07-07T18:39:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04731",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&456": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&456",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-07-07T18:29:06-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "149"
   }
 }
