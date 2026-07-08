@@ -1,103 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774&43": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774&43",
-    "title": "2:26-cv-03828 LOPEZ-GUTIERREZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774",
-    "date": "2026-06-08T12:40:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03828",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774&41": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774&41",
-    "title": "2:26-cv-03828 LOPEZ-GUTIERREZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655774",
-    "date": "2026-06-08T12:38:12-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03828",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618407&500": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618407&500",
-    "title": "2:24-cr-00039-1 USA v. ALVARADO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618407",
-    "date": "2026-06-08T12:35:37-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:24-cr-00039",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "147"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615020&154": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615020&154",
-    "title": "5:23-cr-00463-1 USA v. BAER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615020",
-    "date": "2026-06-08T12:13:15-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "5:23-cr-00463",
-    "entry_type": "Order on Motion for Judgment of Forfeiture",
-    "doc_num": "36"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655943&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655943&3",
-    "title": "2:26-cv-03911 LEE v. AAA INTERINSURANCE EXCHANGE OF THE AUTOMOBILE CLUB",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655943",
-    "date": "2026-06-08T12:09:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03911",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942&7",
-    "title": "2:26-cv-03842 HOWARD  v. HOWARD et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942",
-    "date": "2026-06-08T11:47:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03842",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630854&183": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630854&183",
-    "title": "2:24-cr-00431-1 USA v. STUART",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630854",
-    "date": "2026-06-08T11:44:37-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:24-cr-00431",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "47"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655917&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655917&4",
-    "title": "2:26-cv-03897 FORD v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655917",
-    "date": "2026-06-08T11:34:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03897",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595691&94": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595691&94",
-    "title": "5:22-cr-00123-1 USA v. PARRISH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?595691",
-    "date": "2026-06-08T11:28:31-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "5:22-cr-00123",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "28"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978&4",
     "title": "2:26-cv-03926 HERNANDEZ-RIVERA v. CUBESMART, L.P. a/k/a CUBESMART",
@@ -294,28 +195,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-03916",
     "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655949&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655949&3",
-    "title": "2:26-cv-03913 BURTON v. NATIONAL RAILROAD PASSENGER CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655949",
-    "date": "2026-06-08T13:38:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03913",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655950&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655950&3",
-    "title": "5:26-cv-03915 MEJIA v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655950",
-    "date": "2026-06-08T13:34:12-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-03915",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2146": {
@@ -17224,5 +17103,115 @@
     "case_num": "5:26-cv-04729",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657591&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657591&5",
+    "title": "2:26-cv-04750 MARJANOVIC-SHANE v. ALLSTATE  INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657591",
+    "date": "2026-07-08T12:35:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04750",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657589&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657589&3",
+    "title": "2:26-cv-04748 NADIRADZE v. GHR HEALTHCARE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657589",
+    "date": "2026-07-08T12:19:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04748",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&62": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&62",
+    "title": "2:26-cv-02070 MOYER v. WASTE CONNECTIONS OF PENNSYLVANIA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108",
+    "date": "2026-07-08T12:00:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02070",
+    "entry_type": "Memorandum",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&947": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&947",
+    "title": "2:24-cv-01091 ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. BY AND THROUGH DIANE MARIE FUNKHOUSER ADMINISTRATOR OF THE ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. v. DELAWARE COUNTY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954",
+    "date": "2026-07-08T11:53:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01091",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "184"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&945": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&945",
+    "title": "2:24-cv-01091 ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. BY AND THROUGH DIANE MARIE FUNKHOUSER ADMINISTRATOR OF THE ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. v. DELAWARE COUNTY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954",
+    "date": "2026-07-08T11:45:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01091",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "183"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&22",
+    "title": "2:26-cv-04734 LEIVA-TUT v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555",
+    "date": "2026-07-08T11:33:19-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04734",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "4"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657581&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657581&7",
+    "title": "2:26-cv-04745 STRICKLAND v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657581",
+    "date": "2026-07-08T11:18:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04745",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657580&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657580&7",
+    "title": "2:26-cv-04744 DIEBEL v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657580",
+    "date": "2026-07-08T11:02:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04744",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906&274": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906&274",
+    "title": "2:25-cv-04773 HILL v. HENSLEY, et al.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906",
+    "date": "2026-07-08T11:02:05-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04773",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "77"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906&272": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906&272",
+    "title": "2:25-cv-04773 HILL v. HENSLEY, et al.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906",
+    "date": "2026-07-08T10:57:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04773",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "76"
   }
 }
