@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654492&35": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654492&35",
-    "title": "2:26-cv-03216 DI NATALE v. ABINGTON TOWNSHIP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654492",
-    "date": "2026-06-09T06:54:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03216",
-    "entry_type": "Memorandum",
-    "doc_num": "13"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&125": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069&125",
-    "title": "5:25-cv-06888 HECTOR v. COMMONWEALTH OF PENNSYLVANIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647069",
-    "date": "2026-06-09T06:42:58-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "5:25-cv-06888",
-    "entry_type": "Sanctions",
-    "doc_num": "32"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&111": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&111",
     "title": "2:24-cv-03140 ABIRA MEDICAL LABORATORIES LLC v. MERITAIN HEALTH, INC.",
