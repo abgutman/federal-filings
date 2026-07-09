@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978&4",
-    "title": "2:26-cv-03926 HERNANDEZ-RIVERA v. CUBESMART, L.P. a/k/a CUBESMART",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655978",
-    "date": "2026-06-08T21:37:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03926",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2146": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2146",
-    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
-    "date": "2026-06-08T23:34:01-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-md-03094",
-    "entry_type": "Seal",
-    "doc_num": "720"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654492&35": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654492&35",
     "title": "2:26-cv-03216 DI NATALE v. ABINGTON TOWNSHIP et al",
@@ -17409,6 +17387,39 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04765",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643057&259": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643057&259",
+    "title": "5:25-cr-00386-1 USA v. LAISS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643057",
+    "date": "2026-07-08T21:17:17-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:25-cr-00386",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "82"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1428": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1428",
+    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
+    "date": "2026-07-08T20:41:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04221",
+    "entry_type": "Memorandum",
+    "doc_num": "469"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657620&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657620&6",
+    "title": "2:26-cv-04766 Harris v. CEDARBROOK PLAZA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657620",
+    "date": "2026-07-08T19:07:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04766",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
