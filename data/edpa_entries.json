@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656049&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656049&6",
-    "title": "2:26-cv-03941 Fischer et al v. MERITAIN HEALTH, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656049",
-    "date": "2026-06-09T17:57:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03941",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&32": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&32",
-    "title": "2:26-cv-02465 OLIVER v. NORRISTOWN STATE HOSPITAL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972",
-    "date": "2026-06-09T17:46:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02465",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656048&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656048&4",
-    "title": "2:26-cv-03940 BEREZOFSKY v. CUKER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656048",
-    "date": "2026-06-09T17:41:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03940",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972&30",
-    "title": "2:26-cv-02465 OLIVER v. NORRISTOWN STATE HOSPITAL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652972",
-    "date": "2026-06-09T17:37:04-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02465",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "6"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656055&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656055&6",
     "title": "2:26-cv-03947 WAREHIME  et al v. WERNERSVILLE STATE HOSPITAL et al",
@@ -63,39 +19,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-03945",
     "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650428&54": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650428&54",
-    "title": "2:26-cv-01202 OYELAKIN v. EDWARD",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650428",
-    "date": "2026-06-09T19:04:10-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01202",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "19"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650428&52": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650428&52",
-    "title": "2:26-cv-01202 OYELAKIN v. EDWARD",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650428",
-    "date": "2026-06-09T19:01:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01202",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656052&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656052&4",
-    "title": "2:26-cv-03944 CORKUM et al v. JANNEY MONTGOMERY SCOTT, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656052",
-    "date": "2026-06-09T18:53:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03944",
-    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652808&28": {
@@ -348,17 +271,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "5:26-cv-03947",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656060&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656060&6",
-    "title": "5:26-cv-03941 Fischer et al v. MERITAIN HEALTH, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656060",
-    "date": "2026-06-09T17:57:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-03941",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
@@ -17476,6 +17388,50 @@
     "category": "complaints",
     "case_num": "2:26-cv-04781",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693&4",
+    "title": "2:26-cv-04712 ALTARABULSI v. ALHADDAD",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693",
+    "date": "2026-07-09T19:11:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04712",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&49": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&49",
+    "title": "2:26-cv-04080 CABREJA v. PRICE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363",
+    "date": "2026-07-09T18:34:34-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04080",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&29": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&29",
+    "title": "2:26-cv-04528 Montero v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195",
+    "date": "2026-07-09T18:17:01-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04528",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657689&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657689&4",
+    "title": "2:26-cv-04792 McCLEOD v. THE RENFREW CENTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657689",
+    "date": "2026-07-09T17:43:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04792",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
