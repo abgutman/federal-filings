@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&35": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&35",
-    "title": "2:26-cv-03921 MORALES v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973",
-    "date": "2026-06-10T14:45:17-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03921",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&32": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&32",
-    "title": "2:26-cv-03921 MORALES v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973",
-    "date": "2026-06-10T14:43:53-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03921",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "7"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655920&27": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655920&27",
     "title": "2:26-cv-03899 CARRETO FELIPE v. JAMISON et al",
@@ -75,149 +53,6 @@
     "case_num": "2:26-cv-03923",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634899&71": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634899&71",
-    "title": "5:25-cv-01406 MASON v. THE U GROUP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634899",
-    "date": "2026-06-10T15:41:46-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-01406",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "26"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&269": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&269",
-    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
-    "date": "2026-06-10T15:36:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00349",
-    "entry_type": "Memorandum",
-    "doc_num": "103"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634899&69": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634899&69",
-    "title": "5:25-cv-01406 MASON v. THE U GROUP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634899",
-    "date": "2026-06-10T15:36:19-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-01406",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656106&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656106&3",
-    "title": "2:26-cv-03971 Persico v. FRONTIER AIRLINES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656106",
-    "date": "2026-06-10T15:34:32-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03971",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656101&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656101&3",
-    "title": "2:26-cv-03970 JONES v. GREENWOOD GAMING AND ENTERTAINMENT, INC. D/B/A PARX CASINO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656101",
-    "date": "2026-06-10T15:18:02-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03970",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648278&141": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648278&141",
-    "title": "2:26-cv-00163 MAYFIELD v. BREWERYTOWN MANOR HUB LLC  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648278",
-    "date": "2026-06-10T15:16:58-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-00163",
-    "entry_type": "Order on Motion for Preliminary Injunction",
-    "doc_num": "47"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655216&21": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655216&21",
-    "title": "2:26-cv-03535 Cardoso Sacramento v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655216",
-    "date": "2026-06-10T15:10:50-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03535",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&264": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&264",
-    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
-    "date": "2026-06-10T15:10:37-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-00349",
-    "entry_type": "Seal",
-    "doc_num": "101"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656098&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656098&3",
-    "title": "2:26-cv-03968 INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES, DISTRICT COUNCIL 21, WELFARE FUND et al v. NAE Global Supply Company",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656098",
-    "date": "2026-06-10T15:10:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03968",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653384&45": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653384&45",
-    "title": "2:26-cv-02668 MCCLINTOCK v. GIVEBUTTER, INC.,",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653384",
-    "date": "2026-06-10T15:08:01-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-02668",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&261": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&261",
-    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
-    "date": "2026-06-10T15:02:38-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00349",
-    "entry_type": "Memorandum",
-    "doc_num": "100"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655216&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655216&19",
-    "title": "2:26-cv-03535 Cardoso Sacramento v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655216",
-    "date": "2026-06-10T15:02:05-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03535",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656097&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656097&4",
-    "title": "2:26-cv-03967 ST. HILAIRE v. AVEANNA HEALTHCARE, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656097",
-    "date": "2026-06-10T14:50:08-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03967",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656109&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656109&6",
@@ -955,94 +790,6 @@
     "case_num": "5:26-cv-03985",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114&55": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114&55",
-    "title": "2:26-cr-00263-4 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114",
-    "date": "2026-06-10T16:14:50-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114&52": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114&52",
-    "title": "2:26-cr-00263-4 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114",
-    "date": "2026-06-10T16:13:44-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113&50": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113&50",
-    "title": "2:26-cr-00263-3 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113",
-    "date": "2026-06-10T16:12:53-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113&47",
-    "title": "2:26-cr-00263-3 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113",
-    "date": "2026-06-10T16:11:41-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112&45": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112&45",
-    "title": "2:26-cr-00263-2 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112",
-    "date": "2026-06-10T16:11:00-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112&42": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112&42",
-    "title": "2:26-cr-00263-2 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112",
-    "date": "2026-06-10T16:10:03-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111&40": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111&40",
-    "title": "2:26-cr-00263-1 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111",
-    "date": "2026-06-10T16:09:18-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111&37": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111&37",
-    "title": "2:26-cr-00263-1 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111",
-    "date": "2026-06-10T16:08:16-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant",
-    "doc_num": ""
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455",
@@ -17488,5 +17235,137 @@
     "case_num": "2:25-cr-00458",
     "entry_type": "Plea Agreement",
     "doc_num": "51"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&38": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&38",
+    "title": "2:26-cv-04815 CAUDLE v. MBMO TRUCKING INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766",
+    "date": "2026-07-10T16:14:08-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-04815",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&947": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&947",
+    "title": "2:16-cv-05759 MILO, LLC v. PROCACCINO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788",
+    "date": "2026-07-10T16:03:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-cv-05759",
+    "entry_type": "Memorandum",
+    "doc_num": "252"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618980&198": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618980&198",
+    "title": "2:24-cr-00059-1 USA v. ROGERSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618980",
+    "date": "2026-07-10T15:58:28-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00059",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "70"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&30",
+    "title": "2:26-cv-04815 CAUDLE v. MBMO TRUCKING INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766",
+    "date": "2026-07-10T15:52:12-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04815",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&26",
+    "title": "2:26-cv-04815 CAUDLE v. MBMO TRUCKING INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766",
+    "date": "2026-07-10T15:50:12-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-04815",
+    "entry_type": "Seal",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657764&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657764&5",
+    "title": "2:26-cv-04772 BURK v. WALLACE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657764",
+    "date": "2026-07-10T15:24:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04772",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&48": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&48",
+    "title": "5:25-cv-00894 ALVAREZ v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661",
+    "date": "2026-07-10T15:05:48-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-00894",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657687&14": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657687&14",
+    "title": "2:26-cv-04790 CHILEL-SANDOVAL v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657687",
+    "date": "2026-07-10T15:04:57-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04790",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&46": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&46",
+    "title": "5:25-cv-00894 ALVAREZ v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661",
+    "date": "2026-07-10T15:04:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-00894",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657762&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657762&3",
+    "title": "2:26-cv-04817 JENKINS v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657762",
+    "date": "2026-07-10T15:00:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04817",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642542&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642542&81",
+    "title": "2:25-cv-04786 HOLLAWELL, et al v. TARGET CARD SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642542",
+    "date": "2026-07-10T14:38:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04786",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642542&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642542&79",
+    "title": "2:25-cv-04786 HOLLAWELL, et al v. TARGET CARD SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642542",
+    "date": "2026-07-10T14:35:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04786",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "30"
   }
 }
