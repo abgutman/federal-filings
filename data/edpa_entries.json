@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656055&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656055&6",
-    "title": "2:26-cv-03947 WAREHIME  et al v. WERNERSVILLE STATE HOSPITAL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656055",
-    "date": "2026-06-09T22:42:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03947",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053&4",
-    "title": "2:26-cv-03945 COUNTY OF MONTGOMERY v. DRC EMERGENCY SERVICES LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053",
-    "date": "2026-06-09T19:48:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03945",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652808&28": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652808&28",
     "title": "2:26-cv-02351 ZARROW v. DALESSIO et al",
@@ -262,17 +240,6 @@
     "case_num": "2:26-cr-00257",
     "entry_type": "Warrant",
     "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656056&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656056&6",
-    "title": "5:26-cv-03947 WAREHIME  et al v. WERNERSVILLE STATE HOSPITAL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656056",
-    "date": "2026-06-09T22:42:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-03947",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&35": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&35",
@@ -17433,5 +17400,27 @@
     "case_num": "2:26-cv-04792",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2370": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2370",
+    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
+    "date": "2026-07-09T22:24:27-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:24-md-03094",
+    "entry_type": "Seal",
+    "doc_num": "806"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&172": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&172",
+    "title": "2:25-cv-06017 STATESIDE BRANDS LLC v. ANHEUSER-BUSCH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160",
+    "date": "2026-07-09T21:10:10-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06017",
+    "entry_type": "Seal",
+    "doc_num": "49"
   }
 }
