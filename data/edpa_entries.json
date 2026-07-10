@@ -21,116 +21,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "7"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545&139": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545&139",
-    "title": "2:24-cr-00303-1 USA v. HEIMBACH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545",
-    "date": "2026-06-10T14:16:50-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00303",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "41"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&933": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&933",
-    "title": "2:16-cv-05759 MILO, LLC v. PROCACCINO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788",
-    "date": "2026-06-10T14:07:53-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:16-cv-05759",
-    "entry_type": "Sanctions",
-    "doc_num": "248"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656093&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656093&5",
-    "title": "2:26-cv-03959 RODAS v. MCDONALD&#039;S CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656093",
-    "date": "2026-06-10T13:49:21-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03959",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656085&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656085&14",
-    "title": "2:26-cv-03954 PEREIRA v. U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656085",
-    "date": "2026-06-10T13:43:16-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-03954",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490&295": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490&295",
-    "title": "2:25-cv-05731 Dennis v. HEADS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644490",
-    "date": "2026-06-10T13:41:12-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-05731",
-    "entry_type": "Order on Motion for Sanctions",
-    "doc_num": "110"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647005&63": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647005&63",
-    "title": "2:25-cv-06847 MICKMAN v. PENNSYLVANIA DEPARTMENT OF HUMAN SERVICES et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647005",
-    "date": "2026-06-10T13:40:34-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-06847",
-    "entry_type": "Sanctions",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655396&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655396&19",
-    "title": "2:26-cv-03588 STEWART v. BRYANT et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655396",
-    "date": "2026-06-10T13:23:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03588",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656092&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656092&8",
-    "title": "2:26-cv-03955 FARHAT v. COLUMBUS FOOD SERVICES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656092",
-    "date": "2026-06-10T13:22:08-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03955",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655396&17": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655396&17",
-    "title": "2:26-cv-03588 STEWART v. BRYANT et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655396",
-    "date": "2026-06-10T13:19:36-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03588",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879&676": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879&676",
-    "title": "5:25-cr-00380-7 USA v. TRINIDAD, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642879",
-    "date": "2026-06-10T13:11:43-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "5:25-cr-00380",
-    "entry_type": "Plea Agreement",
-    "doc_num": "160"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655920&27": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655920&27",
     "title": "2:26-cv-03899 CARRETO FELIPE v. JAMISON et al",
@@ -17433,5 +17323,170 @@
     "case_num": "2:26-mj-01304",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655061&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655061&19",
+    "title": "2:26-cv-03454 KAVANAUGH v. ORBUCK et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655061",
+    "date": "2026-07-10T14:24:52-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03454",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655061&17": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655061&17",
+    "title": "2:26-cv-03454 KAVANAUGH v. ORBUCK et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655061",
+    "date": "2026-07-10T14:22:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03454",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657757&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657757&8",
+    "title": "2:26-cv-04813 THURMOND v. DEUTSCHE BANK NATIONAL TRUST COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657757",
+    "date": "2026-07-10T14:22:22-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04813",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&43",
+    "title": "2:26-cv-02276 IN RE: THOMAS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620",
+    "date": "2026-07-10T14:11:00-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02276",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&41",
+    "title": "2:26-cv-02276 IN RE: THOMAS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620",
+    "date": "2026-07-10T13:59:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02276",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654923&48": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654923&48",
+    "title": "2:26-cv-03408 FRANCO v. B. BRAUN MEDICAL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654923",
+    "date": "2026-07-10T13:39:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03408",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654923&46": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654923&46",
+    "title": "2:26-cv-03408 FRANCO v. B. BRAUN MEDICAL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654923",
+    "date": "2026-07-10T13:37:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03408",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657745&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657745&4",
+    "title": "2:26-cv-04810 OXENDINE v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657745",
+    "date": "2026-07-10T13:35:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04810",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&33",
+    "title": "2:26-cv-04528 Montero v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195",
+    "date": "2026-07-10T13:34:47-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04528",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657746&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657746&3",
+    "title": "2:26-cv-04812 LEISTER v. GLAXOSMITHKLINE LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657746",
+    "date": "2026-07-10T13:34:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04812",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657737&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657737&4",
+    "title": "2:26-cv-04808 ONITY MORTGAGE CORPORATION v. WILSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657737",
+    "date": "2026-07-10T13:11:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04808",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657740&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657740&4",
+    "title": "2:26-cv-04809 ELGABROUNY v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657740",
+    "date": "2026-07-10T13:05:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04809",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657677&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657677&3",
+    "title": "2:26-cv-04782 BYRD v. MEDICAL TRANSPORT SYSTEMS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657677",
+    "date": "2026-07-10T12:35:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04782",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657736&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657736&4",
+    "title": "5:26-cv-04807 LONDON v. MASONIC VILLAGES OF THE GRAND LODGE OF PENNSYLVANIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657736",
+    "date": "2026-07-10T12:31:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04807",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058&148": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058&148",
+    "title": "2:25-cr-00458-1 USA v. MURRAY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645058",
+    "date": "2026-07-10T12:30:21-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00458",
+    "entry_type": "Plea Agreement",
+    "doc_num": "51"
   }
 }
