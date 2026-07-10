@@ -87,127 +87,6 @@
     "entry_type": "Letter to Unseal",
     "doc_num": "6"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645800&65": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645800&65",
-    "title": "2:25-cv-06257 SCHOLL v. HARRY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645800",
-    "date": "2026-06-10T10:16:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06257",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "15"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645800&63": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645800&63",
-    "title": "2:25-cv-06257 SCHOLL v. HARRY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645800",
-    "date": "2026-06-10T10:13:49-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06257",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "14"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655462&74": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655462&74",
-    "title": "2:26-cr-00239-1 USA v. ALLEN",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655462",
-    "date": "2026-06-10T10:13:04-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00239",
-    "entry_type": "Search Warrant Issued",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656033&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656033&5",
-    "title": "2:26-cv-03936 Wadi et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656033",
-    "date": "2026-06-10T09:59:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03936",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656065&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656065&4",
-    "title": "2:26-cv-03951 SAUNDERS v. JEWISH FEDERATION OF GREATER PHILADELPHIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656065",
-    "date": "2026-06-10T09:38:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03951",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656064&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656064&4",
-    "title": "2:26-cv-03950 SALZONE v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656064",
-    "date": "2026-06-10T09:37:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03950",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656061&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656061&9",
-    "title": "2:26-cv-03949 GETSAEV et al v. LYONS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656061",
-    "date": "2026-06-10T09:29:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03949",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012&115": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012&115",
-    "title": "2:24-cv-01508 BARK U, LLC v. TERWISSCHA CONSTRUCTION, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012",
-    "date": "2026-06-10T09:18:54-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-01508",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "43"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012&113": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012&113",
-    "title": "2:24-cv-01508 BARK U, LLC v. TERWISSCHA CONSTRUCTION, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621012",
-    "date": "2026-06-10T09:17:35-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-01508",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "42"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829&24": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829&24",
-    "title": "2:26-cr-00257-1 USA v. CORREA MORALES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829",
-    "date": "2026-06-10T08:09:23-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00257",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829&21": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829&21",
-    "title": "2:26-cr-00257-1 USA v. CORREA MORALES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655829",
-    "date": "2026-06-10T08:06:14-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00257",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&35": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655973&35",
     "title": "2:26-cv-03921 MORALES v. MULLIN et al",
@@ -17422,5 +17301,170 @@
     "case_num": "5:25-cv-01467",
     "entry_type": "Memorandum",
     "doc_num": "52"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715&4",
+    "title": "2:26-cv-04789 GROSSINGER v. INTERNATIONAL BUSINESS MACHINES CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715",
+    "date": "2026-07-10T09:58:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04789",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657716&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657716&4",
+    "title": "2:26-cv-04800 THOMAS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657716",
+    "date": "2026-07-10T09:57:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04800",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657711&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657711&4",
+    "title": "2:26-cv-04798 FRENCH v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657711",
+    "date": "2026-07-10T09:36:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04798",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647899&72": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647899&72",
+    "title": "2:25-cv-07396 QUISPE CAYTUIRO v. Jamison et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647899",
+    "date": "2026-07-10T09:26:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07396",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647899&70": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647899&70",
+    "title": "2:25-cv-07396 QUISPE CAYTUIRO v. Jamison et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647899",
+    "date": "2026-07-10T09:23:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07396",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&31",
+    "title": "2:26-cv-04528 Montero v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195",
+    "date": "2026-07-10T09:23:03-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04528",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613356&168": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613356&168",
+    "title": "5:23-cv-03424 DEJESUS JR. et al v. SANTIAGO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613356",
+    "date": "2026-07-10T09:19:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:23-cv-03424",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613356&166": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613356&166",
+    "title": "5:23-cv-03424 DEJESUS JR. et al v. SANTIAGO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613356",
+    "date": "2026-07-10T09:17:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:23-cv-03424",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&43",
+    "title": "2:26-mc-00061 SAFE FLEET HOLDINGS LLC et al v. ANDREW OLENIK,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958",
+    "date": "2026-07-10T08:53:48-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mc-00061",
+    "entry_type": "Seal",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615556&71": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615556&71",
+    "title": "5:23-cv-04370 KEBEDE v. SALAMON, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615556",
+    "date": "2026-07-10T08:48:16-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "5:23-cv-04370",
+    "entry_type": "Show Cause Hearing",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645031&211": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645031&211",
+    "title": "5:25-cr-00457-2 USA v. SINGH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645031",
+    "date": "2026-07-10T08:11:44-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "5:25-cr-00457",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "59"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645284&3695": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645284&3695",
+    "title": "2:25-cr-00460-19 USA v. MORALES NIEVES, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645284",
+    "date": "2026-07-10T08:01:36-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00460",
+    "entry_type": "Plea Agreement",
+    "doc_num": "659"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637435&111": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637435&111",
+    "title": "5:25-cv-02379 Admiral Insurance Company v. Excel Petroleum, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637435",
+    "date": "2026-07-10T07:47:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-02379",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637435&109": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637435&109",
+    "title": "5:25-cv-02379 Admiral Insurance Company v. Excel Petroleum, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637435",
+    "date": "2026-07-10T07:40:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-02379",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "36"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106&1635": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106&1635",
+    "title": "2:23-cr-00454-9 USA v. SAVAGE., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106",
+    "date": "2026-07-10T07:25:12-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:23-cr-00454",
+    "entry_type": "Bond Forfeiture Hearing",
+    "doc_num": "374"
   }
 }
