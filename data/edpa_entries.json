@@ -17345,5 +17345,82 @@
     "case_num": "2:26-cv-04824",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657791&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657791&3",
+    "title": "2:26-cv-04829 RITTENHOUSE PLAZA, INC. v. FEDERAL INSURANCE COMPANY d/b/a CHUBB d/b/a CHUBB GROUP OF INSURANCE COMPANIES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657791",
+    "date": "2026-07-10T18:59:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04829",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&68": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&68",
+    "title": "2:26-cv-02070 MOYER v. WASTE CONNECTIONS OF PENNSYLVANIA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108",
+    "date": "2026-07-10T18:57:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02070",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657790&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657790&3",
+    "title": "2:26-cv-04828 SCANLON v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657790",
+    "date": "2026-07-10T18:51:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04828",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&66": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&66",
+    "title": "2:26-cv-02070 MOYER v. WASTE CONNECTIONS OF PENNSYLVANIA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108",
+    "date": "2026-07-10T18:49:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02070",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657425&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657425&21",
+    "title": "2:26-cv-04655 DELAPAZ v. BLANK ROME LLP",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657425",
+    "date": "2026-07-10T18:48:34-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04655",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657768&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657768&6",
+    "title": "2:26-cv-04822 RANSOM v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657768",
+    "date": "2026-07-10T18:29:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04822",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657787&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657787&3",
+    "title": "2:26-cv-04827 ORTIZ v. CROWN CORK AND SEAL COMPANY, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657787",
+    "date": "2026-07-10T18:05:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04827",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
