@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590447&1669": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590447&1669",
-    "title": "2:21-cr-00427-1 USA v. CAMMARATA., ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590447",
-    "date": "2026-06-10T22:35:54-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:21-cr-00427",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "503"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663&345": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663&345",
-    "title": "2:25-cv-00432 GRAHAM v. PHH MORTGAGE CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663",
-    "date": "2026-06-10T22:08:05-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-00432",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "125"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2163": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2163",
-    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
-    "date": "2026-06-10T21:59:37-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-md-03094",
-    "entry_type": "Seal",
-    "doc_num": "728"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656126&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656126&3",
-    "title": "2:26-cv-03982 Balderas v. AMERICAN EXPEDITING LOGISTICS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656126",
-    "date": "2026-06-10T21:49:33-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03982",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637828&226": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637828&226",
-    "title": "5:25-cv-02485 ZWANZIG v. MARIEOLIVER LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637828",
-    "date": "2026-06-10T20:40:56-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-02485",
-    "entry_type": "Memorandum",
-    "doc_num": "75"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656032&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656032&6",
     "title": "2:26-cv-03935 NEW JERSEY MANUFACTURERS INSURANCE COMPANY A/S/O DWAYNE PASH v. MUSA et al",
@@ -17420,6 +17365,28 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04827",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365&62": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365&62",
+    "title": "2:24-cv-04823 GARCIA v. STAR POWER MARKETING GROUP, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365",
+    "date": "2026-07-10T22:01:01-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:24-cv-04823",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657793&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657793&4",
+    "title": "2:26-cv-04831 PEOPLES v. MONARCH RECOVERY MANAGEMENT, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657793",
+    "date": "2026-07-10T21:40:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04831",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
