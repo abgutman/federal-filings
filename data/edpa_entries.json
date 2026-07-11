@@ -1,103 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455",
-    "title": "2:24-cv-04882 RICE v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495",
-    "date": "2026-06-11T16:49:35-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-04882",
-    "entry_type": "Seal",
-    "doc_num": "155"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656232&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656232&3",
-    "title": "2:26-cv-04018 MCKEON IV v. EQUIFAX INFORMATION SERVICES LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656232",
-    "date": "2026-06-11T16:25:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04018",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656226&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656226&3",
-    "title": "2:26-cv-04017 MUSONGE v. T.D. JAKES FOUNDATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656226",
-    "date": "2026-06-11T16:18:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04017",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&51": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&51",
-    "title": "2:26-cv-01652 FILUS  v. WEILHEIMER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686",
-    "date": "2026-06-11T16:12:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01652",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "19"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656220&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656220&3",
-    "title": "2:26-cv-04015 BERKLEY INSURANCE COMPANY v. KINNARD",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656220",
-    "date": "2026-06-11T16:07:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04015",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656213&31": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656213&31",
-    "title": "2:26-cv-04014 MCAULEY et al v. FIRST NATIONAL BANK OF PENNSYLVANIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656213",
-    "date": "2026-06-11T16:03:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04014",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656217&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656217&6",
-    "title": "2:26-mj-01128-1 USA v. GUZMAN-RAMOS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656217",
-    "date": "2026-06-11T15:52:30-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-mj-01128",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&344": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&344",
-    "title": "2:21-cv-02456 Cornwall v. DELAWARE COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432",
-    "date": "2026-06-11T15:22:35-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:21-cv-02456",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "111"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&342": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432&342",
-    "title": "2:21-cv-02456 Cornwall v. DELAWARE COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585432",
-    "date": "2026-06-11T15:18:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:21-cv-02456",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "110"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241&5",
     "title": "2:26-cv-04019 Little v. NOVO NORDISK INC et al",
@@ -16672,6 +16573,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04833",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798&3",
+    "title": "2:26-cv-04836 NELSON v. COMPLETE CARE AT HARSTON HALL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798",
+    "date": "2026-07-11T15:18:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04836",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
