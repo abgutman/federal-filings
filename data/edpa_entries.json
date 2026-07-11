@@ -1,103 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648278&146": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648278&146",
-    "title": "2:26-cv-00163 MAYFIELD v. BREWERYTOWN MANOR HUB LLC  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648278",
-    "date": "2026-06-11T13:51:37-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-00163",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "49"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656192&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656192&5",
-    "title": "2:26-cv-04005 Ramos v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656192",
-    "date": "2026-06-11T13:46:32-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04005",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656188&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656188&4",
-    "title": "2:26-cv-04002 Goodbody v. INDEPENDENCE BLUE CROSS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656188",
-    "date": "2026-06-11T13:40:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04002",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114&95": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114&95",
-    "title": "2:26-cr-00263-4 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656114",
-    "date": "2026-06-11T13:17:33-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113&93": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113&93",
-    "title": "2:26-cr-00263-3 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656113",
-    "date": "2026-06-11T13:16:45-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638876&222": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638876&222",
-    "title": "2:25-cr-00245-1 USA v. HOUCK",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638876",
-    "date": "2026-06-11T13:16:33-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00245",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "71"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653580&29": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653580&29",
-    "title": "2:26-cv-02758 SINGH v. PHILADELPHIA FEDERAL DETENTION CENTER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653580",
-    "date": "2026-06-11T13:15:33-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02758",
-    "entry_type": "Memorandum",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112&91": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112&91",
-    "title": "2:26-cr-00263-2 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656112",
-    "date": "2026-06-11T13:15:28-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111&89": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111&89",
-    "title": "2:26-cr-00263-1 USA v. GONZALEZ, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656111",
-    "date": "2026-06-11T13:13:53-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00263",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "21"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455",
     "title": "2:24-cv-04882 RICE v. CITY OF PHILADELPHIA et al",
@@ -196,83 +97,6 @@
     "case_num": "2:21-cv-02456",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "110"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007&147": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007&147",
-    "title": "2:24-cr-00413-1 USA v. DONUEL MYLES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007",
-    "date": "2026-06-11T15:09:09-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:24-cr-00413",
-    "entry_type": "Plea Agreement",
-    "doc_num": "40"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610681&184": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610681&184",
-    "title": "2:23-cr-00264-1 USA v. POOLE, III",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610681",
-    "date": "2026-06-11T14:57:36-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:23-cr-00264",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "53"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656203&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656203&3",
-    "title": "5:26-cv-04010 MARTINEZ v. LIFE INSURANCE COMPANY OF NORTH AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656203",
-    "date": "2026-06-11T14:53:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04010",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1293": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1293",
-    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
-    "date": "2026-06-11T14:51:27-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:22-cv-00315",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "470"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656200&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656200&5",
-    "title": "2:26-cv-04008 WEST v. TAKEDA PHARMACEUTICALS AMERICA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656200",
-    "date": "2026-06-11T14:32:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04008",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545&143": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545&143",
-    "title": "2:24-cr-00303-1 USA v. HEIMBACH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626545",
-    "date": "2026-06-11T14:13:49-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:24-cr-00303",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "43"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12764": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&12764",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-06-11T14:12:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4572"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656241&5",
@@ -16826,6 +16650,28 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04831",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797&3",
+    "title": "2:26-cv-04835 FOWLER v. TEMPLE UNIVERSITY HOSPITAL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797",
+    "date": "2026-07-11T14:19:55-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04835",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657795&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657795&3",
+    "title": "2:26-cv-04833 DERRY  v. STAR HOME CARE PROVIDERS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657795",
+    "date": "2026-07-11T13:58:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04833",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
