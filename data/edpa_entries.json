@@ -98,50 +98,6 @@
     "entry_type": "Warrant Returned Executed",
     "doc_num": "21"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634355&430": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634355&430",
-    "title": "2:25-cr-00077-5 USA v. VERAS-REGALADO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634355",
-    "date": "2026-06-11T13:05:36-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00077",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "103"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656196&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656196&5",
-    "title": "5:26-cv-04000 WEAVER et al v. TURNER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656196",
-    "date": "2026-06-11T12:43:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04000",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182&4",
-    "title": "2:26-cv-03972 MARQUIS  v. PIEDMONT AIRLINES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182",
-    "date": "2026-06-11T12:36:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03972",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656174&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656174&7",
-    "title": "2:26-cv-03994 Singh v. Korobchuk et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656174",
-    "date": "2026-06-11T12:08:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03994",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627495&455",
     "title": "2:24-cv-04882 RICE v. CITY OF PHILADELPHIA et al",
