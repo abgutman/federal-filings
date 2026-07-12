@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656267&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656267&6",
-    "title": "2:26-cv-04040 Noorchashm v. Evonik Venture Capital, GmbH et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656267",
-    "date": "2026-06-12T12:15:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04040",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653398&18": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653398&18",
     "title": "5:26-cv-02641 WESTMORELAND v. GROSH",
@@ -52,193 +41,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-04054",
     "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&693": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&693",
-    "title": "2:16-PV-27243 IN RE: PRAVASTATIN CASES (INDIRECT RESELLER)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678",
-    "date": "2026-06-12T13:58:56-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27243",
-    "entry_type": "Order on Motion to Seal Document",
-    "doc_num": "224"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675&1038": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675&1038",
-    "title": "2:16-PV-27240 IN RE: PRAVASTATIN CASES  (LEAD CASE)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675",
-    "date": "2026-06-12T13:57:22-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27240",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "366"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675&1036": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675&1036",
-    "title": "2:16-PV-27240 IN RE: PRAVASTATIN CASES  (LEAD CASE)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675",
-    "date": "2026-06-12T13:56:25-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27240",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "365"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675&1034": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675&1034",
-    "title": "2:16-PV-27240 IN RE: PRAVASTATIN CASES  (LEAD CASE)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530675",
-    "date": "2026-06-12T13:55:04-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27240",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "364"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&691": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&691",
-    "title": "2:16-PV-27243 IN RE: PRAVASTATIN CASES (INDIRECT RESELLER)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678",
-    "date": "2026-06-12T13:54:54-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27243",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "223"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&689": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&689",
-    "title": "2:16-PV-27243 IN RE: PRAVASTATIN CASES (INDIRECT RESELLER)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678",
-    "date": "2026-06-12T13:53:37-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27243",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "222"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656292&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656292&4",
-    "title": "2:26-cv-04047 Flagg v. PROGRESSIVE INSURANCE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656292",
-    "date": "2026-06-12T13:52:47-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04047",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&687": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678&687",
-    "title": "2:16-PV-27243 IN RE: PRAVASTATIN CASES (INDIRECT RESELLER)",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?530678",
-    "date": "2026-06-12T13:48:43-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-PV-27243",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "221"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656294&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656294&4",
-    "title": "2:26-cv-04050 Childress v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656294",
-    "date": "2026-06-12T13:46:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04050",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656179&2": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656179&2",
-    "title": "2:26-cv-03997  v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656179",
-    "date": "2026-06-12T13:39:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-03997",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656212&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656212&10",
-    "title": "2:26-cv-04013 Hernandez Miguel v. MULLIN et al.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656212",
-    "date": "2026-06-12T13:31:27-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04013",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655704&49": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655704&49",
-    "title": "2:26-cv-03787 De Leon Cantillano v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655704",
-    "date": "2026-06-12T13:15:01-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03787",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655704&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655704&47",
-    "title": "2:26-cv-03787 De Leon Cantillano v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655704",
-    "date": "2026-06-12T13:12:56-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03787",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656280&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656280&5",
-    "title": "2:26-cv-04045 COHAN v. PROCOLLECT, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656280",
-    "date": "2026-06-12T12:55:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04045",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656277&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656277&4",
-    "title": "5:26-cv-04044 GLUECK v. QVC, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656277",
-    "date": "2026-06-12T12:48:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04044",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656276&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656276&3",
-    "title": "2:26-cv-04043 MANN v. JS3 PIZZA LLC D/B/A DOMINOS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656276",
-    "date": "2026-06-12T12:41:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04043",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656273&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656273&3",
-    "title": "2:26-cv-04042 Large-Kelly v. THE HOME DEPOT, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656273",
-    "date": "2026-06-12T12:37:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04042",
-    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642139&110": {
@@ -680,17 +482,6 @@
     "case_num": "2:18-cv-05458",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "116"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656310&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656310&3",
-    "title": "5:26-cv-04043 MANN v. JS3 PIZZA LLC D/B/A DOMINOS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656310",
-    "date": "2026-06-12T12:41:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04043",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&6",
@@ -16188,6 +15979,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04836",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800&3",
+    "title": "2:26-cv-04838 NELSON v. HIAS PENNSYLVANIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800",
+    "date": "2026-07-12T13:42:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04838",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
