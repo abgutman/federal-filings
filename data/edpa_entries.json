@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655286&59": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655286&59",
-    "title": "2:26-cv-03586 TORRES DURAN v. BLANCHE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655286",
-    "date": "2026-06-13T15:45:12-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03586",
-    "entry_type": "Memorandum",
-    "doc_num": "13"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656343&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656343&3",
     "title": "2:26-cv-04089 FERRON v. Howell",
@@ -16003,5 +15992,236 @@
     "case_num": "5:26-cv-04848",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657831&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657831&13",
+    "title": "2:26-cv-04856 FEHER v. CURCIO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657831",
+    "date": "2026-07-13T16:50:51-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04856",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "4"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657710&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657710&30",
+    "title": "2:26-cv-04796 LOPEZ BLANDON v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657710",
+    "date": "2026-07-13T16:33:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04796",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648003&61": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648003&61",
+    "title": "2:26-cv-00025 DALLY v. TRANSUNION LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648003",
+    "date": "2026-07-13T16:33:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00025",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648003&59": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648003&59",
+    "title": "2:26-cv-00025 DALLY v. TRANSUNION LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648003",
+    "date": "2026-07-13T16:31:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00025",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657710&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657710&28",
+    "title": "2:26-cv-04796 LOPEZ BLANDON v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657710",
+    "date": "2026-07-13T16:29:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04796",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657850&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657850&5",
+    "title": "2:26-cv-04863 COLOZZI et al v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657850",
+    "date": "2026-07-13T16:26:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04863",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&126": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&126",
+    "title": "2:25-cv-05463 GUNTER v. DREXEL UNIVERSITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943",
+    "date": "2026-07-13T16:24:26-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-05463",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656722&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656722&21",
+    "title": "2:26-cv-04268 BROWN v. DEPARTMENT OF SOCIAL SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656722",
+    "date": "2026-07-13T16:14:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04268",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656722&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656722&19",
+    "title": "2:26-cv-04268 BROWN v. DEPARTMENT OF SOCIAL SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656722",
+    "date": "2026-07-13T16:13:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04268",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&65": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&65",
+    "title": "2:26-cv-04080 CABREJA v. PRICE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363",
+    "date": "2026-07-13T15:59:04-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04080",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106&373": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106&373",
+    "title": "2:24-cv-04160 Levy v. HFactor, Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106",
+    "date": "2026-07-13T15:39:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04160",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "130"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106&371": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106&371",
+    "title": "2:24-cv-04160 Levy v. HFactor, Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626106",
+    "date": "2026-07-13T15:32:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04160",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "129"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657837&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657837&5",
+    "title": "2:26-cv-04860 ONDERA et al v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657837",
+    "date": "2026-07-13T15:25:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04860",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657392&27": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657392&27",
+    "title": "2:26-cv-04626 HUANGA JARAMA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657392",
+    "date": "2026-07-13T15:21:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04626",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657842&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657842&3",
+    "title": "2:26-cv-04861 INGRAM v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657842",
+    "date": "2026-07-13T15:17:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04861",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657392&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657392&25",
+    "title": "2:26-cv-04626 HUANGA JARAMA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657392",
+    "date": "2026-07-13T15:16:18-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04626",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650117&489": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650117&489",
+    "title": "2:25-cr-00501-4 USA v. GORDON, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650117",
+    "date": "2026-07-13T15:14:53-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00501",
+    "entry_type": "Plea Agreement",
+    "doc_num": "97"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657114&34": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657114&34",
+    "title": "2:26-cv-04473 SCAIRATO et al v. LIBERTY MUTUAL AGENCY CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657114",
+    "date": "2026-07-13T15:10:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04473",
+    "entry_type": "Memorandum",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636746&104": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636746&104",
+    "title": "5:25-cv-02119 McCloud v. READING SCHOOL DISTRICT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636746",
+    "date": "2026-07-13T15:06:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-02119",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636746&102": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636746&102",
+    "title": "5:25-cv-02119 McCloud v. READING SCHOOL DISTRICT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636746",
+    "date": "2026-07-13T15:04:11-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-02119",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655466&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655466&30",
+    "title": "5:26-cv-03600 ADAMS  v. ST. LUKES UNIVERSITY HEALTH NETWORK et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655466",
+    "date": "2026-07-13T14:57:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-03600",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "12"
   }
 }
