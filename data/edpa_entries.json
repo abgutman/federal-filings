@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&6",
-    "title": "2:26-cv-04012 MACK v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340",
-    "date": "2026-06-13T00:04:30-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04012",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656341&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656341&7",
     "title": "2:26-cv-04087 KNAUSS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
