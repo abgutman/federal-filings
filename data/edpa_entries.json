@@ -16344,5 +16344,16 @@
     "case_num": "2:16-md-02724",
     "entry_type": "Memorandum",
     "doc_num": "4726"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761&59": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761&59",
+    "title": "2:26-cv-01861 JACOBS v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761",
+    "date": "2026-07-14T08:33:00-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01861",
+    "entry_type": "Memorandum",
+    "doc_num": "16"
   }
 }
