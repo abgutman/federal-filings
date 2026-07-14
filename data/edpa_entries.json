@@ -16355,5 +16355,93 @@
     "case_num": "2:26-cv-01861",
     "entry_type": "Memorandum",
     "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657875&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657875&6",
+    "title": "2:26-mj-01358-1 USA v. ARMANZA-MORALES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657875",
+    "date": "2026-07-14T11:07:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-mj-01358",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657868&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657868&3",
+    "title": "2:26-cv-04874 Conyon v. THE CONSORTIUM, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657868",
+    "date": "2026-07-14T10:36:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04874",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&32",
+    "title": "2:25-cv-07428 GOLDSMITH v. ABSOLUTE RESOLUTIONS INVESTMENTS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954",
+    "date": "2026-07-14T10:08:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07428",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&30",
+    "title": "2:25-cv-07428 GOLDSMITH v. ABSOLUTE RESOLUTIONS INVESTMENTS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954",
+    "date": "2026-07-14T10:06:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07428",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657863&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657863&4",
+    "title": "5:26-cv-04873 PAISLEY v. KIDSPEACE, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657863",
+    "date": "2026-07-14T10:05:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04873",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&69": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&69",
+    "title": "2:26-cv-02970 SANTANA RAMIREZ v. WARDEN OF FEDERAL DETENTION CENTER PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012",
+    "date": "2026-07-14T09:51:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02970",
+    "entry_type": "Memorandum",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657862&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657862&8",
+    "title": "2:26-cv-04858 WINSLOW v. EXTRA SPACE STORAGE, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657862",
+    "date": "2026-07-14T09:44:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04858",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795&471": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795&471",
+    "title": "2:24-cr-00387-3 USA v. OSORIO-VIERA, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795",
+    "date": "2026-07-14T09:11:25-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00387",
+    "entry_type": "Plea Agreement",
+    "doc_num": "94"
   }
 }
