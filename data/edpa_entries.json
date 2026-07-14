@@ -16784,5 +16784,115 @@
     "case_num": "5:25-cv-06888",
     "entry_type": "Memorandum",
     "doc_num": "64"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590&188": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590&188",
+    "title": "2:26-cv-00815 OWUOR et al v. SUNNYMAC, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590",
+    "date": "2026-07-14T17:58:07-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-00815",
+    "entry_type": "Seal",
+    "doc_num": "55"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657916&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657916&5",
+    "title": "2:26-cv-04896 WRIGHT et al v. PERALTA RODRIGUEZ et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657916",
+    "date": "2026-07-14T17:35:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04896",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657914&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657914&3",
+    "title": "2:26-cv-04894 THE TRAVELERS INDEMNITY COMPANY v. MANUFACTURERS ALLIANCE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657914",
+    "date": "2026-07-14T16:52:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04894",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657912&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657912&7",
+    "title": "2:26-cv-04892 Avellino et al v. HOME DEPOT U.S.A, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657912",
+    "date": "2026-07-14T16:51:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04892",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801&26",
+    "title": "2:26-cv-04839 Batuk v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801",
+    "date": "2026-07-14T16:50:39-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04839",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801&24",
+    "title": "2:26-cv-04839 Batuk v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801",
+    "date": "2026-07-14T16:47:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04839",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?341971&116": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?341971&116",
+    "title": "2:10-cv-00313 POLAND v. LAWLER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?341971",
+    "date": "2026-07-14T16:46:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:10-cv-00313",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?341971&114": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?341971&114",
+    "title": "2:10-cv-00313 POLAND v. LAWLER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?341971",
+    "date": "2026-07-14T16:44:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:10-cv-00313",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623&45": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623&45",
+    "title": "2:26-cv-04746 CAUDLE v. SOCIAL SECURITY ADMINISTRATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623",
+    "date": "2026-07-14T16:22:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04746",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623&43",
+    "title": "2:26-cv-04746 CAUDLE v. SOCIAL SECURITY ADMINISTRATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623",
+    "date": "2026-07-14T16:18:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04746",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "13"
   }
 }
