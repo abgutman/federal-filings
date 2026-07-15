@@ -32,83 +32,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656396&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656396&4",
-    "title": "2:26-cv-04105 HEIDORN v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656396",
-    "date": "2026-06-15T13:10:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04105",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656393&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656393&4",
-    "title": "2:26-cv-04102 STUMPF v. FIRST STUDENT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656393",
-    "date": "2026-06-15T12:50:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04102",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647512&55": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647512&55",
-    "title": "2:25-cv-07122 CLARK v. AZZARELLI",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647512",
-    "date": "2026-06-15T12:36:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07122",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647512&53": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647512&53",
-    "title": "2:25-cv-07122 CLARK v. AZZARELLI",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647512",
-    "date": "2026-06-15T12:33:42-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07122",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656385&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656385&4",
-    "title": "2:26-cv-04095 GIDDINGS v. BREAKDOWN SERVICES, LTD.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656385",
-    "date": "2026-06-15T11:55:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04095",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656376&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656376&3",
-    "title": "2:26-cv-04097 LICONTI SCHROPP, ON BEHALF OF HERSELF AND ALL OTHERS SIMILARLY SITUATED, v. RADIAL, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656376",
-    "date": "2026-06-15T11:49:26-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04097",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344&12",
-    "title": "2:26-cv-04090 BRINEZ-GAVIRA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344",
-    "date": "2026-06-15T11:45:35-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04090",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655739&26": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655739&26",
     "title": "2:26-cv-03772 ALSBROOKS v. PHILADELPHIA HOUSING AUTHORITY",
@@ -17037,5 +16960,82 @@
     "case_num": "2:26-cr-00300",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501&70": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501&70",
+    "title": "2:26-cr-00246-1 USA v. MORRISON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501",
+    "date": "2026-07-15T12:24:45-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00246",
+    "entry_type": "Plea Agreement",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657950&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657950&5",
+    "title": "2:26-cv-04914 Hill v. NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657950",
+    "date": "2026-07-15T12:21:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04914",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657913&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657913&3",
+    "title": "2:26-cv-04893 MYRICKS v. ENCOMPASS INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657913",
+    "date": "2026-07-15T12:09:47-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04893",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650677&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650677&44",
+    "title": "5:26-cv-01322 ORAN v. KAUFFMAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650677",
+    "date": "2026-07-15T11:58:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-01322",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650677&42": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650677&42",
+    "title": "5:26-cv-01322 ORAN v. KAUFFMAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650677",
+    "date": "2026-07-15T11:47:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-01322",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574&168": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574&168",
+    "title": "2:25-cv-01275 LUCAS  v. IBEW LOCAL 98 et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634574",
+    "date": "2026-07-15T11:33:09-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-01275",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "61"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617880&329": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617880&329",
+    "title": "2:24-cv-00227 ABIRA MEDICAL LABORATORIES LLC D/B/A GENESIS DIAGNOSTICS  v. UPMC HEALTH PLAN INC.  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617880",
+    "date": "2026-07-15T11:29:14-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:24-cv-00227",
+    "entry_type": "Sanctions",
+    "doc_num": "107"
   }
 }
