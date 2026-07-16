@@ -21,39 +21,6 @@
     "entry_type": "Seal",
     "doc_num": "106"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642862&112": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642862&112",
-    "title": "2:25-cr-00379-1 USA v. HERRERA-ORTEGA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642862",
-    "date": "2026-06-16T18:38:00-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00379",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656514&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656514&4",
-    "title": "2:26-cv-04168 CARTER v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656514",
-    "date": "2026-06-16T18:26:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04168",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512&4",
-    "title": "2:26-cv-04167 ALLEN v. EAGLEVILLE HOSPITAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656512",
-    "date": "2026-06-16T17:12:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04167",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534&7",
     "title": "2:26-cv-04178 PHILLIPS v. NORTH COVENTRY TOWNSHIP et al",
@@ -17267,6 +17234,50 @@
     "category": "complaints",
     "case_num": "2:26-cv-04955",
     "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3",
+    "title": "2:26-cv-04968 PUN v. EDLOW",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063",
+    "date": "2026-07-16T18:35:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04968",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331&71": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331&71",
+    "title": "2:25-cr-00439-1 USA v. MOORE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331",
+    "date": "2026-07-16T17:12:04-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00439",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646788&80": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646788&80",
+    "title": "2:25-cr-00506-1 USA v. KREBS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646788",
+    "date": "2026-07-16T16:49:06-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00506",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658061&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658061&7",
+    "title": "2:26-cv-04965 GEIGER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658061",
+    "date": "2026-07-16T16:48:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04965",
+    "entry_type": "Complaint",
     "doc_num": "1"
   }
 }
