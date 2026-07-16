@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&113": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492&113",
-    "title": "2:24-cv-03140 ABIRA MEDICAL LABORATORIES LLC v. MERITAIN HEALTH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624492",
-    "date": "2026-06-15T23:14:21-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:24-cv-03140",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "41"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656454&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656454&5",
-    "title": "2:26-cv-04145 Destefano-Salemi v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656454",
-    "date": "2026-06-15T20:56:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04145",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656453&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656453&4",
-    "title": "2:26-cv-04144 W. et al v. METHACTON SCHOOL DISTRICT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656453",
-    "date": "2026-06-15T20:25:02-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04144",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?588041&146": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?588041&146",
     "title": "2:21-cr-00327-1 USA v. PEREZ-ALVAREZ",
@@ -17136,5 +17103,27 @@
     "case_num": "2:26-cv-04934",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658005&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658005&4",
+    "title": "2:26-cv-04936 KARLSSON v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658005",
+    "date": "2026-07-15T23:15:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04936",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641769&167": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641769&167",
+    "title": "2:25-cv-04456 FREDERICK MUTUAL INSURANCE CO. v. BEST QUALITY EXTERIORS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641769",
+    "date": "2026-07-15T21:28:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04456",
+    "entry_type": "Memorandum",
+    "doc_num": "55"
   }
 }
