@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534&7",
-    "title": "2:26-cv-04178 PHILLIPS v. NORTH COVENTRY TOWNSHIP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656534",
-    "date": "2026-06-17T09:12:02-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04178",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987&93": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987&93",
-    "title": "2:25-cr-00381-1 USA v. HARRIS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642987",
-    "date": "2026-06-17T08:44:44-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00381",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632850&79": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632850&79",
-    "title": "2:25-cv-00498 UNITED FINANCIAL CASUALTY COMPANY v. JONES et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632850",
-    "date": "2026-06-17T08:39:19-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-00498",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "27"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656140&26": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656140&26",
-    "title": "2:26-cr-00266-1 USA v. AGUSTINI",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656140",
-    "date": "2026-06-17T08:37:28-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00266",
-    "entry_type": "Plea Agreement",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645602&303": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645602&303",
-    "title": "2:25-cr-00469-2 USA v. FABIAN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645602",
-    "date": "2026-06-17T08:29:26-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:25-cr-00469",
-    "entry_type": "Plea Agreement",
-    "doc_num": "74"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646144&151": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646144&151",
     "title": "2:25-cr-00485-1 USA v. ESQUIBEL",
@@ -130,160 +75,6 @@
     "case_num": "2:26-cv-03072",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614562&294": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614562&294",
-    "title": "2:23-cr-00440-1 USA v. DEJESUS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614562",
-    "date": "2026-06-17T10:36:44-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:23-cr-00440",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "74"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655671&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655671&33",
-    "title": "2:26-cv-03775 VIEIRA DOS REIS v. MCSHANE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655671",
-    "date": "2026-06-17T10:34:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03775",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656537&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656537&4",
-    "title": "2:26-cv-04171 Gibbs v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656537",
-    "date": "2026-06-17T10:34:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04171",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655671&31": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655671&31",
-    "title": "2:26-cv-03775 VIEIRA DOS REIS v. MCSHANE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655671",
-    "date": "2026-06-17T10:32:59-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03775",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629988&126": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629988&126",
-    "title": "2:24-cv-06078 NEWMAN v. CLOSE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629988",
-    "date": "2026-06-17T10:17:20-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-06078",
-    "entry_type": "Memorandum",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641735&93": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641735&93",
-    "title": "2:25-cv-04435 MARTIN  v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641735",
-    "date": "2026-06-17T10:13:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04435",
-    "entry_type": "Memorandum",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&281": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&281",
-    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
-    "date": "2026-06-17T09:49:55-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-00349",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "108"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630699&145": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630699&145",
-    "title": "2:24-cv-06447 HERNANDEZ-SANTANA  v. LITTLE  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630699",
-    "date": "2026-06-17T09:48:55-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-06447",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "51"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656492&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656492&20",
-    "title": "2:26-cv-04159 APEDZI v. BLANCHE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656492",
-    "date": "2026-06-17T09:46:52-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04159",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655287&95": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655287&95",
-    "title": "2:26-cv-03511 NOEL v. CHESTER COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655287",
-    "date": "2026-06-17T09:44:43-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03511",
-    "entry_type": "Memorandum",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630699&143": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630699&143",
-    "title": "2:24-cv-06447 HERNANDEZ-SANTANA  v. LITTLE  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630699",
-    "date": "2026-06-17T09:44:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-06447",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "50"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631410&88": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631410&88",
-    "title": "2:24-cv-06769 KULP v. BROOKS INSTRUMENT, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631410",
-    "date": "2026-06-17T09:38:19-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-06769",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "27"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651777&128": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651777&128",
-    "title": "2:26-cv-01894 BULLOCK v. AIRBNB, INC.  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651777",
-    "date": "2026-06-17T09:37:53-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01894",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "39"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631410&86": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631410&86",
-    "title": "2:24-cv-06769 KULP v. BROOKS INSTRUMENT, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631410",
-    "date": "2026-06-17T09:34:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-06769",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "26"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636106&138": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636106&138",
@@ -17301,5 +17092,115 @@
     "case_num": "2:26-cv-04970",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&41",
+    "title": "2:26-cv-04710 CAUDLE v. RENTOKIL NORTH AMERICA INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602",
+    "date": "2026-07-17T09:56:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04710",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&39": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&39",
+    "title": "2:26-cv-04710 CAUDLE v. RENTOKIL NORTH AMERICA INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602",
+    "date": "2026-07-17T09:43:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04710",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658077&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658077&5",
+    "title": "5:26-cv-04973 Dowd v. SUPERIOR PLUS ENERGY SERVICES INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658077",
+    "date": "2026-07-17T09:37:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-04973",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&115": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&115",
+    "title": "2:25-cv-01511 JONES v. EASTERN ATLANTIC STATES CARPENTERS PENSION FUND",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145",
+    "date": "2026-07-17T09:34:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01511",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "36"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&113": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&113",
+    "title": "2:25-cv-01511 JONES v. EASTERN ATLANTIC STATES CARPENTERS PENSION FUND",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145",
+    "date": "2026-07-17T09:31:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01511",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "35"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046&89": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046&89",
+    "title": "2:25-cv-05511 HOLT v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046",
+    "date": "2026-07-17T09:29:27-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-05511",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653604&158": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653604&158",
+    "title": "2:26-cv-02764 ALI v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653604",
+    "date": "2026-07-17T09:23:41-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-02764",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "51"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643805&188": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643805&188",
+    "title": "2:25-cv-05390 SOKIC et al v. BANK OF AMERICA N.A. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643805",
+    "date": "2026-07-17T08:50:03-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-05390",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "56"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658069&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658069&4",
+    "title": "2:26-cv-04972 OLD GUARD INSURANCE COMPANY v. MIKE BURDETT ROOFING AND EXTERIORS LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658069",
+    "date": "2026-07-17T08:47:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04972",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&54",
+    "title": "2:26-mc-00061 SAFE FLEET HOLDINGS LLC et al v. ANDREW OLENIK,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958",
+    "date": "2026-07-17T08:31:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-mc-00061",
+    "entry_type": "Memorandum",
+    "doc_num": "12"
   }
 }
