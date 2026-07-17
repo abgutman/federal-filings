@@ -17378,5 +17378,16 @@
     "case_num": "5:26-cv-04997",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658154&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658154&6",
+    "title": "2:26-cv-04999 SHEVCHENKO et al v. SPRISHEN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658154",
+    "date": "2026-07-17T18:22:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04999",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
