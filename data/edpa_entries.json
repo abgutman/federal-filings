@@ -197,50 +197,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656551&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656551&3",
-    "title": "2:26-cv-04175 PATHEJA v. TRANSVERSE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656551",
-    "date": "2026-06-17T13:32:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04175",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656550&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656550&5",
-    "title": "2:26-cv-04174 Zimpfer et al v. ELI LILLY & COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656550",
-    "date": "2026-06-17T13:00:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04174",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656549&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656549&4",
-    "title": "2:26-cv-04173 MANUEL v. NOVO NORDISK INC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656549",
-    "date": "2026-06-17T12:59:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04173",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102&106": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102&106",
-    "title": "2:26-cr-00107-1 USA v. JIMENEZ BAEZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651102",
-    "date": "2026-06-17T12:57:57-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00107",
-    "entry_type": "Plea Agreement",
-    "doc_num": "28"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656567&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656567&6",
     "title": "2:26-cv-04187 STATE FARM FIRE AND CASUALTY COMPANY v. PPL ELECTRIC UTILITIES CORPORATION et al",
@@ -17367,5 +17323,126 @@
     "case_num": "2:25-cv-01570",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112&16": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112&16",
+    "title": "2:26-cr-00316-1 USA v. BULLOCK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112",
+    "date": "2026-07-17T13:26:12-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00316",
+    "entry_type": "Plea Agreement",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&86": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&86",
+    "title": "2:26-cv-02970 SANTANA RAMIREZ v. WARDEN OF FEDERAL DETENTION CENTER PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012",
+    "date": "2026-07-17T13:15:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02970",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "27"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&84": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&84",
+    "title": "2:26-cv-02970 SANTANA RAMIREZ v. WARDEN OF FEDERAL DETENTION CENTER PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012",
+    "date": "2026-07-17T13:14:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02970",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658110&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658110&6",
+    "title": "2:26-cv-04980 PRONKO et al v. ENCOMPASS HOME & AUTO INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658110",
+    "date": "2026-07-17T12:32:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-04980",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871&474": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871&474",
+    "title": "2:24-cr-00282-2 USA v. AINA, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871",
+    "date": "2026-07-17T12:31:35-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00282",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "108"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&21",
+    "title": "2:26-mj-01361-1 USA v. RICHARDS-DAVILA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101",
+    "date": "2026-07-17T12:24:24-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01361",
+    "entry_type": "Letter to Unseal",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657425&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657425&28",
+    "title": "2:26-cv-04655 DELAPAZ v. BLANK ROME LLP",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657425",
+    "date": "2026-07-17T12:16:27-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04655",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&19",
+    "title": "2:26-mj-01361-1 USA v. RICHARDS-DAVILA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101",
+    "date": "2026-07-17T12:14:52-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01361",
+    "entry_type": "Case Unsealed",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&15",
+    "title": "2:26-mj-01361-1 USA v. RICHARDS-DAVILA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101",
+    "date": "2026-07-17T11:38:43-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01361",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&12",
+    "title": "2:26-mj-01361-1 USA v. RICHARDS-DAVILA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101",
+    "date": "2026-07-17T11:37:40-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01361",
+    "entry_type": "Seal",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101&7",
+    "title": "2:26-mj-01361-1 USA v. RICHARDS-DAVILA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658101",
+    "date": "2026-07-17T11:36:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01361",
+    "entry_type": "Complaint (Sealed)",
+    "doc_num": "1"
   }
 }
