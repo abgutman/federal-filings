@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609&38": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609&38",
-    "title": "2:26-cv-01330 CUSTER et al v. AMERICAN HONDA MOTOR CO., INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609",
-    "date": "2026-06-18T16:21:22-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01330",
-    "entry_type": "Memorandum",
-    "doc_num": "14"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656636&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656636&6",
-    "title": "2:26-cv-04233 LARA v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656636",
-    "date": "2026-06-18T16:03:08-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04233",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633&6",
-    "title": "2:26-cv-04231 CITIZEN&#039;S SECURITIES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633",
-    "date": "2026-06-18T15:39:06-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04231",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633&3",
-    "title": "2:26-cv-04231 CITIZEN&#039;S SECURITIES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656633",
-    "date": "2026-06-18T15:29:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04231",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656632&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656632&3",
-    "title": "2:26-cv-04230 WBE LINE SERVICES, LLC v. MARSH & MCLENNAN AGENCY, LLC, as Parent Company and/or Successor to MCGRIFF INSURANCE SERVICES, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656632",
-    "date": "2026-06-18T15:20:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04230",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660&4",
     "title": "2:26-cv-04244 MIKE v. NOVO NORDISK A/S et al",
@@ -141,39 +86,6 @@
     "case_num": "2:26-cv-04236",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656641&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656641&4",
-    "title": "2:26-cv-04235 HALL v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656641",
-    "date": "2026-06-18T16:37:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04235",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656640&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656640&5",
-    "title": "2:26-cv-04234 UNITED STATES OF AMERICA v. TWO MILLION FOUR HUNDRED FIFTY-ONE THOUSAND ONE HUNDRED AND NINETY-TWO DOLLARS AND FORTY-EIGHT CENTS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656640",
-    "date": "2026-06-18T16:32:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04234",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609&43": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609&43",
-    "title": "2:26-cv-01330 CUSTER et al v. AMERICAN HONDA MOTOR CO., INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650609",
-    "date": "2026-06-18T16:29:43-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01330",
-    "entry_type": "Memorandum",
-    "doc_num": "16"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12",
@@ -16927,5 +16839,16 @@
     "case_num": "2:26-cv-05003",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162&10",
+    "title": "2:26-cv-05007 Fonseca v. HOOVER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162",
+    "date": "2026-07-18T15:06:07-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-05007",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "2"
   }
 }
