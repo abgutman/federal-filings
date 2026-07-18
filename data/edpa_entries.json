@@ -10,39 +10,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656659&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656659&4",
-    "title": "2:26-cv-04243 FORTSON v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656659",
-    "date": "2026-06-18T18:49:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04243",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656658&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656658&4",
-    "title": "2:26-cv-04242 BENNETT v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656658",
-    "date": "2026-06-18T18:39:39-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04242",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656657&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656657&3",
-    "title": "2:26-cv-04241 MEDINA v. NBT BANCORP, INC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656657",
-    "date": "2026-06-18T18:19:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04241",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12",
     "title": "2:26-cv-04208 UNITED STATES OF AMERICA v. PHILADELPHIA et al",
