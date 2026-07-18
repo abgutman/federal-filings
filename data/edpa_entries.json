@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660&4",
-    "title": "2:26-cv-04244 MIKE v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656660",
-    "date": "2026-06-18T18:57:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04244",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12",
     "title": "2:26-cv-04208 UNITED STATES OF AMERICA v. PHILADELPHIA et al",
