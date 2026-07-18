@@ -43,50 +43,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656655&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656655&4",
-    "title": "2:26-cv-04239 Rosenbaum v. Eli Lilly and Company et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656655",
-    "date": "2026-06-18T17:56:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04239",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656653&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656653&9",
-    "title": "2:26-cv-04237 THOMAS v. SPIRIT OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656653",
-    "date": "2026-06-18T17:54:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04237",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656654&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656654&4",
-    "title": "2:26-cv-04238 STOLTZ v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656654",
-    "date": "2026-06-18T17:44:26-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04238",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656652&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656652&7",
-    "title": "2:26-cv-04236 HAMM v. TRANS UNION, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656652",
-    "date": "2026-06-18T17:34:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04236",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12",
     "title": "2:26-cv-04208 UNITED STATES OF AMERICA v. PHILADELPHIA et al",
