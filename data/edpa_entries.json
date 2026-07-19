@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656323&37": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656323&37",
-    "title": "2:26-cv-04072 DRAPER et al v. HANGER PROSTHETICS & ORTHOTICS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656323",
-    "date": "2026-06-19T15:45:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04072",
-    "entry_type": "Memorandum",
-    "doc_num": "12"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656673&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656673&4",
     "title": "2:26-cv-04257 COMEAUX v. NOVO NORDISK INC. et al",
