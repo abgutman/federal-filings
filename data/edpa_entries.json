@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656672&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656672&10",
-    "title": "2:26-cv-04256 TRUSTEES OF THE LABORERS&#039; DISTRICT COUNCIL BUILDING AND CONSTRUCTION HEALTH AND WELFARE FUND et al v. V63 CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656672",
-    "date": "2026-06-19T15:07:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04256",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&342": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&342",
-    "title": "2:25-cv-01618 AMERICAN FOOD, PAPER AND POULTRY LLC et al v. AI GROUP LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500",
-    "date": "2026-06-19T14:58:58-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-01618",
-    "entry_type": "Sanctions",
-    "doc_num": "89"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654798&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654798&46",
-    "title": "2:26-cv-03329 Bah v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654798",
-    "date": "2026-06-19T14:08:14-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03329",
-    "entry_type": "Memorandum",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448&535": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448&535",
-    "title": "2:25-cr-00403-4 USA v. ANDREWS, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448",
-    "date": "2026-06-19T14:02:38-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00403",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "140"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656323&37": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656323&37",
     "title": "2:26-cv-04072 DRAPER et al v. HANGER PROSTHETICS & ORTHOTICS, INC. et al",
