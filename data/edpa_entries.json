@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&12",
-    "title": "2:26-cv-04208 UNITED STATES OF AMERICA v. PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611",
-    "date": "2026-06-18T23:31:50-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04208",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628422&136": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628422&136",
-    "title": "2:24-cv-05372 ABIRA MEDICAL LABORATORIES LLC v. AETNA HEALTH HOLDINGS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628422",
-    "date": "2026-06-18T20:18:58-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:24-cv-05372",
-    "entry_type": "Sanctions",
-    "doc_num": "47"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670&4",
     "title": "2:26-cv-04254 MOUNTS v. NOVO NORDISK INC. et al",
