@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656673&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656673&4",
-    "title": "2:26-cv-04257 COMEAUX v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656673",
-    "date": "2026-06-19T17:11:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04257",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622823&1323": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622823&1323",
     "title": "2:24-cr-00219-1 USA v. AVILA, ET AL.",
