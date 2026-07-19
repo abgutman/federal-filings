@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670&4",
-    "title": "2:26-cv-04254 MOUNTS v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656670",
-    "date": "2026-06-19T12:27:49-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04254",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656671&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656671&7",
-    "title": "2:26-cv-04255 Gualtieri et al v. Pelaez-Perez et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656671",
-    "date": "2026-06-19T12:23:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04255",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656672&10": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656672&10",
     "title": "2:26-cv-04256 TRUSTEES OF THE LABORERS&#039; DISTRICT COUNCIL BUILDING AND CONSTRUCTION HEALTH AND WELFARE FUND et al v. V63 CORPORATION",
