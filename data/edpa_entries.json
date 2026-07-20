@@ -16509,5 +16509,159 @@
     "case_num": "2:26-cv-05010",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&601": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&601",
+    "title": "2:23-cr-00029-3 USA v. DANTZLER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325",
+    "date": "2026-07-20T11:16:37-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:23-cr-00029",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "155"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?483460&1845": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?483460&1845",
+    "title": "2:13-cr-00582-2 USA v. LITTLE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?483460",
+    "date": "2026-07-20T10:48:39-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:13-cr-00582",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "525"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014&61": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014&61",
+    "title": "2:23-cr-00493-1 USA v. TALLEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616014",
+    "date": "2026-07-20T10:47:05-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:23-cr-00493",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?567809&280": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?567809&280",
+    "title": "2:20-cr-00083-1 USA v. HUTTON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?567809",
+    "date": "2026-07-20T10:45:23-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:20-cr-00083",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "97"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658198&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658198&3",
+    "title": "2:26-cv-05020 FREEMAN v. ARAMARK CAMPUS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658198",
+    "date": "2026-07-20T10:37:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05020",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658197&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658197&5",
+    "title": "2:26-cv-05017 BRESLOW v. BRESLOW HOME HEALTH CARE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658197",
+    "date": "2026-07-20T10:14:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05017",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658195&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658195&4",
+    "title": "2:26-cv-05016 THOUIN v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658195",
+    "date": "2026-07-20T09:59:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05016",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657796&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657796&30",
+    "title": "2:26-cv-04834 BUENO-PAULINO v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657796",
+    "date": "2026-07-20T09:55:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04834",
+    "entry_type": "Memorandum",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&98": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&98",
+    "title": "2:25-cv-02151 PULEO v. PLYMOUTH ROCK ASSURANCE CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829",
+    "date": "2026-07-20T09:54:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02151",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&96": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&96",
+    "title": "2:25-cv-02151 PULEO v. PLYMOUTH ROCK ASSURANCE CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829",
+    "date": "2026-07-20T09:52:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02151",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&115": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&115",
+    "title": "2:24-cv-04140 TOLLIVER v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068",
+    "date": "2026-07-20T09:48:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04140",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "39"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&113": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&113",
+    "title": "2:24-cv-04140 TOLLIVER v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068",
+    "date": "2026-07-20T09:45:54-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04140",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658157&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658157&12",
+    "title": "2:26-cv-05002 MORALES AURRECOECHEA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658157",
+    "date": "2026-07-20T09:28:28-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05002",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225&89": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225&89",
+    "title": "2:25-cr-00522-1 USA v. SATCHEL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225",
+    "date": "2026-07-20T08:50:56-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00522",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "25"
   }
 }
