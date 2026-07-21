@@ -18038,5 +18038,16 @@
     "case_num": "5:26-cv-02683",
     "entry_type": "Seal",
     "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?596533&400": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?596533&400",
+    "title": "2:22-cv-01787 SWEDA v. UPPER BUCKS COUNTY TECHNICAL SCHOOL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?596533",
+    "date": "2026-07-21T19:25:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-01787",
+    "entry_type": "Memorandum",
+    "doc_num": "152"
   }
 }
