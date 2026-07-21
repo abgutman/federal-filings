@@ -17367,5 +17367,93 @@
     "case_num": "5:26-cv-00929",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507&33",
+    "title": "2:26-cv-03162 ZARROW v. DALESSIO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507",
+    "date": "2026-07-21T09:08:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03162",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862&125": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862&125",
+    "title": "2:25-cr-00481-1 USA v. FROMETA-DE LEON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862",
+    "date": "2026-07-21T09:05:44-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00481",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507&31",
+    "title": "2:26-cv-03162 ZARROW v. DALESSIO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507",
+    "date": "2026-07-21T09:00:06-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03162",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657721&36": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657721&36",
+    "title": "2:26-cv-04797 PEREIRA DE SOUSA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657721",
+    "date": "2026-07-21T08:54:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04797",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657721&34": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657721&34",
+    "title": "2:26-cv-04797 PEREIRA DE SOUSA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657721",
+    "date": "2026-07-21T08:49:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04797",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277&106": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277&106",
+    "title": "2:22-cr-00427-1 USA v. ESPINO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277",
+    "date": "2026-07-21T07:27:38-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:22-cr-00427",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264&9",
+    "title": "5:26-cv-05062 A.S. v. KENNEDY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264",
+    "date": "2026-07-20T23:19:40-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:26-cv-05062",
+    "entry_type": "Seal",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658276&14": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658276&14",
+    "title": "5:26-cv-05055 LOPEZ et al v. AVIS-BUDGET GROUP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658276",
+    "date": "2026-07-20T16:52:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05055",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
