@@ -17235,5 +17235,60 @@
     "case_num": "5:26-cv-05054",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&85": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&85",
+    "title": "2:25-cv-02852 Goulet et al v. NATIONWIDE INSURANCE COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588",
+    "date": "2026-07-20T18:29:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02852",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&83": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&83",
+    "title": "2:25-cv-02852 Goulet et al v. NATIONWIDE INSURANCE COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588",
+    "date": "2026-07-20T18:26:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02852",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658252&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658252&4",
+    "title": "2:26-cv-05059 GASTFIELD v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658252",
+    "date": "2026-07-20T17:33:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05059",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&210": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&210",
+    "title": "2:25-cv-06017 STATESIDE BRANDS LLC v. ANHEUSER-BUSCH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160",
+    "date": "2026-07-20T17:23:47-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-06017",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "62"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&491": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&491",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-07-20T17:22:54-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Seal",
+    "doc_num": "163"
   }
 }
