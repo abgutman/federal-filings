@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656719&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656719&5",
-    "title": "2:26-cv-04276 RINGGOLD v. HOLY CROSS CATHOLIC SCHOOL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656719",
-    "date": "2026-06-22T13:07:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04276",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656712&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656712&7",
-    "title": "2:26-cv-04272 GOLDFIN et al v. NARA ORGANICS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656712",
-    "date": "2026-06-22T12:54:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04272",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656746&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656746&4",
     "title": "2:26-cv-04287 ZINGER v. ADAPTHEALTH CORP.",
@@ -284,28 +262,6 @@
     "case_num": "2:22-cr-00247",
     "entry_type": "Forfeiture of Property",
     "doc_num": "61"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653642&34": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653642&34",
-    "title": "2:26-cv-02785 STEVEN MAURICE EVANS TRUST v. NEWREZ LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653642",
-    "date": "2026-06-22T14:05:08-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-02785",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "13"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656720&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656720&8",
-    "title": "5:26-cv-04277 KANYETA v. UNITED STATES CITIZENSHIP AND IMMIGRATION SERVICES et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656720",
-    "date": "2026-06-22T13:45:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04277",
-    "entry_type": "Complaint",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639256&121": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639256&121",
@@ -18180,6 +18136,237 @@
     "category": "complaints",
     "case_num": "2:26-cv-05099",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55",
+    "title": "5:25-cv-01577 BENSING v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414",
+    "date": "2026-07-22T13:46:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-01577",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&53",
+    "title": "5:25-cv-01577 BENSING v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414",
+    "date": "2026-07-22T13:43:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-01577",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214&196": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214&196",
+    "title": "2:23-cv-02558 FLEMING et al v. MINNESOTA LIFE INSURANCE CO. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214",
+    "date": "2026-07-22T13:31:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-02558",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214&194": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214&194",
+    "title": "2:23-cv-02558 FLEMING et al v. MINNESOTA LIFE INSURANCE CO. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?611214",
+    "date": "2026-07-22T13:29:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-02558",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "66"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638514&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638514&53",
+    "title": "2:25-cv-02821 SELECTIVE INSURANCE COMPANY OF THE SOUTHEAST v. AFC CABLE SYSTEMS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638514",
+    "date": "2026-07-22T13:23:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02821",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655074&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655074&24",
+    "title": "2:26-cv-03461 AVERY v. VAUGN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655074",
+    "date": "2026-07-22T13:19:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03461",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651555&50": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651555&50",
+    "title": "2:26-cv-01788 Mattis v. Allstate Property and Casualty Insurance Company",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651555",
+    "date": "2026-07-22T13:14:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01788",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655074&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655074&22",
+    "title": "2:26-cv-03461 AVERY v. VAUGN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655074",
+    "date": "2026-07-22T13:13:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03461",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651555&48": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651555&48",
+    "title": "2:26-cv-01788 Mattis v. Allstate Property and Casualty Insurance Company",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651555",
+    "date": "2026-07-22T13:13:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01788",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658369&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658369&3",
+    "title": "5:26-cv-05109 WILLIAMS v. METROPOLITAN MANAGEMENT GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658369",
+    "date": "2026-07-22T13:05:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05109",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658368&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658368&6",
+    "title": "2:26-cv-05108 GALESKI v. CHESTER DOWNS AND MARINA, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658368",
+    "date": "2026-07-22T12:57:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05108",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658299&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658299&6",
+    "title": "2:26-cv-99999 TEST PETITIONER v. TEST RESPONDENT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658299",
+    "date": "2026-07-22T12:55:12-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-99999",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533&201": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533&201",
+    "title": "2:25-cr-00266-1 USA v. JENKINS., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533",
+    "date": "2026-07-22T12:47:02-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00266",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "56"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533&199": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533&199",
+    "title": "2:25-cr-00266-1 USA v. JENKINS., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639533",
+    "date": "2026-07-22T12:43:01-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00266",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "55"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&232": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&232",
+    "title": "2:25-cv-06511 BRADCLIFFE LLC v. WILLIAM GRANT & SONS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342",
+    "date": "2026-07-22T12:30:19-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06511",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "80"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&230": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&230",
+    "title": "2:25-cv-06511 BRADCLIFFE LLC v. WILLIAM GRANT & SONS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342",
+    "date": "2026-07-22T12:28:00-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06511",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "79"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658364&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658364&7",
+    "title": "2:26-cv-05107 WOMACK et al v. ALLSTATE INDEMNITY COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658364",
+    "date": "2026-07-22T12:19:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05107",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&105": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&105",
+    "title": "2:25-cv-05268 CAREY v. SOCIETY HILL TOWERS OWNERS ASSOCIATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581",
+    "date": "2026-07-22T12:02:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05268",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593&64": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593&64",
+    "title": "2:26-cr-00156-1 USA v. BROWN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593",
+    "date": "2026-07-22T12:02:33-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:26-cr-00156",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&103": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&103",
+    "title": "2:25-cv-05268 CAREY v. SOCIETY HILL TOWERS OWNERS ASSOCIATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581",
+    "date": "2026-07-22T11:59:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05268",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658360&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658360&3",
+    "title": "2:26-cv-05106 NICHOLSON v. CITY OF PHILADELPHIA DEPARTMENT OF PRISONS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658360",
+    "date": "2026-07-22T11:50:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05106",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
