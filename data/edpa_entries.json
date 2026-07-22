@@ -120,50 +120,6 @@
     "entry_type": "Complaint",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646498&105": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646498&105",
-    "title": "2:25-cv-06598 CUSTOM GLASS SOLUTIONS, LLC v. RICCI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646498",
-    "date": "2026-06-22T09:18:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06598",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "36"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646498&103": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646498&103",
-    "title": "2:25-cv-06598 CUSTOM GLASS SOLUTIONS, LLC v. RICCI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646498",
-    "date": "2026-06-22T09:06:26-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06598",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "35"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643767&92": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643767&92",
-    "title": "2:25-cv-05340 ROGALSKI et al v. WARRINGTON TOWNSHIP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643767",
-    "date": "2026-06-22T08:47:20-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05340",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643767&90": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643767&90",
-    "title": "2:25-cv-05340 ROGALSKI et al v. WARRINGTON TOWNSHIP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643767",
-    "date": "2026-06-22T08:44:20-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05340",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "29"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656746&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656746&4",
     "title": "2:26-cv-04287 ZINGER v. ADAPTHEALTH CORP.",
@@ -18092,6 +18048,61 @@
     "category": "complaints",
     "case_num": "2:26-cv-05021",
     "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658349&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658349&5",
+    "title": "2:26-cv-05098 MANZANARES v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658349",
+    "date": "2026-07-22T09:43:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05098",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?333378&290": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?333378&290",
+    "title": "5:09-cr-00663-1 USA v. ALTHOUSE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?333378",
+    "date": "2026-07-22T09:13:41-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "5:09-cr-00663",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "98"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&73": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&73",
+    "title": "2:26-cv-04080 CABREJA v. PRICE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363",
+    "date": "2026-07-22T08:54:56-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04080",
+    "entry_type": "Memorandum",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658343&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658343&5",
+    "title": "2:26-mj-01417-1 USA v. LOUIS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658343",
+    "date": "2026-07-22T08:28:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-mj-01417",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658350&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658350&4",
+    "title": "5:26-cv-05081 Hernandez-Venegas v. Mickletz",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658350",
+    "date": "2026-07-21T14:56:40-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05081",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
