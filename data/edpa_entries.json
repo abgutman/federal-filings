@@ -1,70 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&47",
-    "title": "2:26-cr-00288-1 USA v. ORTIZ-DE LEON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823",
-    "date": "2026-06-23T17:34:23-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00288",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&40": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&40",
-    "title": "2:26-cr-00288-1 USA v. ORTIZ-DE LEON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823",
-    "date": "2026-06-23T17:32:24-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00288",
-    "entry_type": "Indictment",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680&146": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680&146",
-    "title": "2:25-cr-00175-1 USA v. SMITH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636680",
-    "date": "2026-06-23T17:23:40-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00175",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "39"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647421&31": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647421&31",
-    "title": "2:25-cv-07077 PLATTENBERGER v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647421",
-    "date": "2026-06-23T17:14:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07077",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656824&17": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656824&17",
-    "title": "2:26-cv-04320 TITAN INTERNATIONAL, INC. et al v. AXIS SURPLUS INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656824",
-    "date": "2026-06-23T18:10:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04320",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&50": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&50",
-    "title": "2:26-cr-00288-1 USA v. ORTIZ-DE LEON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823",
-    "date": "2026-06-23T17:35:29-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00288",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "12"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656830&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656830&5",
     "title": "2:26-cv-04325 JUDGE et al v. NOVO NORDISK, INC. et al",
@@ -18478,5 +18412,27 @@
     "case_num": "5:20-cv-02823",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "125"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658465&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658465&4",
+    "title": "2:26-cv-05160 Berkshire Hathaway Direct Insurance Company v. GREATNESS GC CORPORATION  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658465",
+    "date": "2026-07-23T17:31:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05160",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658467&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658467&7",
+    "title": "2:26-cv-05161 YUNEZ et al v. WALMART INC.et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658467",
+    "date": "2026-07-23T17:24:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05161",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
