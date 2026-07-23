@@ -1,70 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806&9",
-    "title": "2:26-cv-04316 POLUTRO v. PHILADELPHIA PERFORMING ARTS CHARTER SCHOOL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656806",
-    "date": "2026-06-23T16:32:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04316",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448&537": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448&537",
-    "title": "2:25-cr-00403-4 USA v. ANDREWS, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643448",
-    "date": "2026-06-23T16:25:41-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00403",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "141"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656792&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656792&10",
-    "title": "2:26-cv-04309 HMP EDUCATION, LLC v. WEBSERV PRO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656792",
-    "date": "2026-06-23T16:06:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04309",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656081&44": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656081&44",
-    "title": "5:26-cv-03939 PARSHLEY et al v. MACDONALD, JR. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656081",
-    "date": "2026-06-23T15:59:30-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "5:26-cv-03939",
-    "entry_type": "Sanctions",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645380&96": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645380&96",
-    "title": "2:25-cv-06077 TRAORE v. STATE FARM INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645380",
-    "date": "2026-06-23T15:58:40-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-06077",
-    "entry_type": "Sanctions",
-    "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653433&81": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653433&81",
-    "title": "2:26-cr-00180-1 USA v. ALMONTE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653433",
-    "date": "2026-06-23T15:48:12-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00180",
-    "entry_type": "Plea Agreement",
-    "doc_num": "19"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&47": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656823&47",
     "title": "2:26-cr-00288-1 USA v. ORTIZ-DE LEON",
@@ -108,50 +42,6 @@
     "case_num": "2:25-cv-07077",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647421&29": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647421&29",
-    "title": "2:25-cv-07077 PLATTENBERGER v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647421",
-    "date": "2026-06-23T17:13:02-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07077",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644135&135": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644135&135",
-    "title": "2:25-cr-00434-1 USA v. ADAMSKY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644135",
-    "date": "2026-06-23T16:54:04-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00434",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "39"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656815&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656815&4",
-    "title": "2:26-cv-04319 WHALEN v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656815",
-    "date": "2026-06-23T16:41:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04319",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655697&51": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655697&51",
-    "title": "2:26-cv-03782 ESTRADA RAMIREZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655697",
-    "date": "2026-06-23T16:41:13-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-03782",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "13"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656824&17": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656824&17",
@@ -18368,5 +18258,225 @@
     "case_num": "5:26-cv-05143",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&123": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&123",
+    "title": "2:25-cv-01892 Brotherhood of Locomotive Engineers and Trainmen v. CSX Transportation",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176",
+    "date": "2026-07-23T17:03:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01892",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658463&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658463&7",
+    "title": "5:26-cv-05157 THRIVENT FINANCIAL FOR LUTHERANS et al v. STOLTZFUS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658463",
+    "date": "2026-07-23T17:01:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05157",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&121": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&121",
+    "title": "2:25-cv-01892 Brotherhood of Locomotive Engineers and Trainmen v. CSX Transportation",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176",
+    "date": "2026-07-23T17:01:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01892",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658464&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658464&4",
+    "title": "5:26-cv-05159 CALSE v. TRUIST BANK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658464",
+    "date": "2026-07-23T16:52:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05159",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658466&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658466&7",
+    "title": "5:26-cv-05156 Lawler v. HATZEL & BUEHLER, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658466",
+    "date": "2026-07-23T16:37:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05156",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627586&108": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627586&108",
+    "title": "2:24-cv-04942 AMICA CENTER FOR IMMIGRANT RIGHTS v. UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627586",
+    "date": "2026-07-23T16:12:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04942",
+    "entry_type": "Memorandum",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658459&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658459&7",
+    "title": "2:26-cv-05155 LISMAN v. TRANS UNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658459",
+    "date": "2026-07-23T16:04:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05155",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&13",
+    "title": "2:26-cr-00331-1 USA v. LOCKETT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457",
+    "date": "2026-07-23T15:52:56-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00331",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&10",
+    "title": "2:26-cr-00331-1 USA v. LOCKETT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457",
+    "date": "2026-07-23T15:51:20-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00331",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658451&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658451&4",
+    "title": "2:26-cv-05150 BARBARA SMITH v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658451",
+    "date": "2026-07-23T15:50:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05150",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&6",
+    "title": "2:26-cr-00331-1 USA v. LOCKETT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457",
+    "date": "2026-07-23T15:49:18-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00331",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645650&180": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645650&180",
+    "title": "2:25-cr-00472-1 USA v. TUGGLES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645650",
+    "date": "2026-07-23T15:42:48-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00472",
+    "entry_type": "Plea Agreement",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327&134": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327&134",
+    "title": "2:25-cr-00461-1 USA v. BLASSENGALE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327",
+    "date": "2026-07-23T15:42:22-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00461",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643810&345": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643810&345",
+    "title": "2:25-cr-00413-1 USA v. JONES, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643810",
+    "date": "2026-07-23T15:21:10-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:25-cr-00413",
+    "entry_type": "Superseding Indictment",
+    "doc_num": "91"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643811&345": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643811&345",
+    "title": "2:25-cr-00413-2 USA v. JONES, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643811",
+    "date": "2026-07-23T15:21:10-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:25-cr-00413",
+    "entry_type": "Superseding Indictment",
+    "doc_num": "91"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450&11",
+    "title": "2:26-cr-00330-1 USA v. BROWN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450",
+    "date": "2026-07-23T15:18:25-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00330",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450&8",
+    "title": "2:26-cr-00330-1 USA v. BROWN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450",
+    "date": "2026-07-23T15:17:43-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00330",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450&4",
+    "title": "2:26-cr-00330-1 USA v. BROWN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658450",
+    "date": "2026-07-23T15:16:21-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00330",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572061&547": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572061&547",
+    "title": "5:20-cv-02823 Jai Sai Baba LLC et al v. CHOICE HOTELS INTERNATIONAL INC.  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572061",
+    "date": "2026-07-23T15:16:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:20-cv-02823",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "126"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572061&545": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572061&545",
+    "title": "5:20-cv-02823 Jai Sai Baba LLC et al v. CHOICE HOTELS INTERNATIONAL INC.  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?572061",
+    "date": "2026-07-23T15:10:36-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:20-cv-02823",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "125"
   }
 }
