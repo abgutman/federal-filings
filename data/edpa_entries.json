@@ -175,28 +175,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "12"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656759&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656759&3",
-    "title": "2:26-cv-04296 ENIX v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656759",
-    "date": "2026-06-23T08:39:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04296",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656757&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656757&3",
-    "title": "2:26-cv-04271 IN RE: BRANDON MCDANIELS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656757",
-    "date": "2026-06-23T07:30:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04271",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656785&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656785&4",
     "title": "2:26-cv-04304 ACKLES v. ELI LILLY AND COMPANY et al",
