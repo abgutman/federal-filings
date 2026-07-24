@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656845&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656845&3",
-    "title": "2:26-cv-04337 TURNER v. PRUDENTIAL DISABILITY MANAGEMENT SERVICE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656845",
-    "date": "2026-06-24T12:16:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04337",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&26": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&26",
-    "title": "2:26-cv-04146 BARRIENTOS-VANEGAS v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455",
-    "date": "2026-06-24T11:54:20-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04146",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&24": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455&24",
-    "title": "2:26-cv-04146 BARRIENTOS-VANEGAS v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656455",
-    "date": "2026-06-24T11:50:49-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04146",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821&67": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821&67",
-    "title": "2:26-cr-00037-1 USA v. VASQUEZ-LADINO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821",
-    "date": "2026-06-24T11:45:57-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00037",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&57": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&57",
-    "title": "2:25-cv-03090 SEIBERT v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192",
-    "date": "2026-06-24T11:16:50-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-03090",
-    "entry_type": "Memorandum",
-    "doc_num": "19"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821&71": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648821&71",
     "title": "2:26-cr-00037-1 USA v. VASQUEZ-LADINO",
@@ -18434,5 +18379,192 @@
     "case_num": "2:26-cv-04450",
     "entry_type": "Preliminary Injunction",
     "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658509&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658509&4",
+    "title": "5:26-cv-05182 ROWLES v. TRUIST BANK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658509",
+    "date": "2026-07-24T12:03:55-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05182",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658506&14": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658506&14",
+    "title": "5:26-cv-05178 UNITED STATES OF AMERICA v. COOK et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658506",
+    "date": "2026-07-24T11:49:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05178",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658508&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658508&7",
+    "title": "2:26-cv-05181 HUBBARD v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658508",
+    "date": "2026-07-24T11:44:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05181",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658336&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658336&25",
+    "title": "2:26-cv-05089 VALDINEI v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658336",
+    "date": "2026-07-24T11:39:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05089",
+    "entry_type": "Memorandum",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?510257&518": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?510257&518",
+    "title": "2:15-cr-00497-2 USA v. MURRAY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?510257",
+    "date": "2026-07-24T11:34:19-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:15-cr-00497",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "150"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658500&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658500&7",
+    "title": "2:26-cv-05176 GUEST v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658500",
+    "date": "2026-07-24T11:18:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05176",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631806&131": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631806&131",
+    "title": "2:25-cv-00015 OGUERI v. SUGARTOWN WORLDWIDE LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631806",
+    "date": "2026-07-24T11:14:54-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00015",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "42"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658505&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658505&4",
+    "title": "2:26-cr-00334-1 USA v. GRAY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658505",
+    "date": "2026-07-24T11:14:14-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00334",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631806&129": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631806&129",
+    "title": "2:25-cv-00015 OGUERI v. SUGARTOWN WORLDWIDE LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631806",
+    "date": "2026-07-24T11:12:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00015",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "41"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657679&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657679&53",
+    "title": "2:26-cr-00299-1 USA v. WALTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657679",
+    "date": "2026-07-24T11:10:17-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00299",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658453&14": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658453&14",
+    "title": "2:26-cv-05153 Ventura-Lopez v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658453",
+    "date": "2026-07-24T11:00:09-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05153",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658396&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658396&28",
+    "title": "2:26-cv-05126 ISLAM v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658396",
+    "date": "2026-07-24T10:53:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05126",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658396&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658396&26",
+    "title": "2:26-cv-05126 ISLAM v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658396",
+    "date": "2026-07-24T10:51:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05126",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658499&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658499&6",
+    "title": "2:26-cv-05174 NICHOLSON v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658499",
+    "date": "2026-07-24T10:33:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05174",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658498&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658498&3",
+    "title": "2:26-cv-05173 HENDERSON v. NATIONAL CHEMICAL LABORATORIES, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658498",
+    "date": "2026-07-24T10:29:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05173",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331&79",
+    "title": "2:25-cr-00439-1 USA v. MOORE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644331",
+    "date": "2026-07-24T10:26:43-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00439",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "27"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658503&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658503&3",
+    "title": "5:26-cv-05170 Canela Canela v. Commissioner of Social Security",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658503",
+    "date": "2026-07-23T23:36:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05170",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
   }
 }
