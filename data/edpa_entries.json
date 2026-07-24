@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&322": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&322",
-    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
-    "date": "2026-06-24T16:45:20-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-00349",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "122"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656876&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656876&3",
-    "title": "2:26-cv-04356 MACPHERSON v. WHOLE FOODS MARKET",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656876",
-    "date": "2026-06-24T16:35:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04356",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656877&13": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656877&13",
     "title": "2:26-cv-04357 MARTINEZ HERRERA v. BLANCHE et al",
@@ -31,17 +9,6 @@
     "case_num": "2:26-cv-04357",
     "entry_type": "Order to Show Cause",
     "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656878&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656878&4",
-    "title": "2:26-cv-04358 MORRIS  v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656878",
-    "date": "2026-06-24T17:20:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04358",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&114": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&114",
@@ -295,17 +262,6 @@
     "case_num": "5:26-cv-02344",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656901&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656901&3",
-    "title": "5:26-cv-04356 MACPHERSON v. WHOLE FOODS MARKET",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656901",
-    "date": "2026-06-24T16:35:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04356",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&32": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&32",
@@ -18753,5 +18709,126 @@
     "case_num": "5:20-cv-05207",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "114"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658564&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658564&4",
+    "title": "2:26-cv-05221 ALVARADO v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658564",
+    "date": "2026-07-24T16:58:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05221",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684&107": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684&107",
+    "title": "5:26-cr-00089-1 USA v. BRAZIER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684",
+    "date": "2026-07-24T16:58:19-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:26-cr-00089",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658563&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658563&7",
+    "title": "2:26-cv-05220 WALRAVEN v. TRANS UNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658563",
+    "date": "2026-07-24T16:53:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05220",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608233&436": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608233&436",
+    "title": "2:23-cv-01353 HOUGH v. DELAWARE COUNTY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608233",
+    "date": "2026-07-24T16:50:08-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:23-cv-01353",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "142"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658562&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658562&7",
+    "title": "2:26-cv-05218 LUC et al v. HALLUMS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658562",
+    "date": "2026-07-24T16:49:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05218",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647802&60": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647802&60",
+    "title": "2:25-cv-07323 KAUFFMAN v. RESOURCES FOR HUMAN DEVELOPMENT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647802",
+    "date": "2026-07-24T16:47:27-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-07323",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654869&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654869&21",
+    "title": "2:26-cv-03376 HILL v. UNUM LIFE INSURANCE COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654869",
+    "date": "2026-07-24T16:40:52-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03376",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658554&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658554&3",
+    "title": "2:26-cv-05215 BANK MIDWEST, a division of NBH Bank v. PATEL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658554",
+    "date": "2026-07-24T16:39:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05215",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277&110": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277&110",
+    "title": "2:22-cr-00427-1 USA v. ESPINO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277",
+    "date": "2026-07-24T16:39:12-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:22-cr-00427",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592569&569": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592569&569",
+    "title": "2:22-cv-00122 HOLTZMAN et al v. PHILADELPHIA MUSEUM OF ART",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592569",
+    "date": "2026-07-24T16:38:18-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00122",
+    "entry_type": "Seal Document",
+    "doc_num": "213"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632339&189": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632339&189",
+    "title": "2:25-cr-00024-1 USA v. OLIVERO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632339",
+    "date": "2026-07-24T16:25:41-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00024",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "49"
   }
 }
