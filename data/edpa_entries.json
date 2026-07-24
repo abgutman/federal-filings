@@ -18434,5 +18434,16 @@
     "case_num": "2:26-cv-05161",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&397": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&397",
+    "title": "2:25-cv-02382 LYNCH  et al v. LONG et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474",
+    "date": "2026-07-23T18:52:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02382",
+    "entry_type": "Memorandum",
+    "doc_num": "146"
   }
 }
