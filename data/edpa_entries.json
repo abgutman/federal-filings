@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656830&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656830&5",
-    "title": "2:26-cv-04325 JUDGE et al v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656830",
-    "date": "2026-06-23T22:49:17-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04325",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656828&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656828&3",
-    "title": "2:26-cv-04323 Lurube Developers, LLC, et al v. Fidelity National Title insurance Company, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656828",
-    "date": "2026-06-23T22:20:47-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04323",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656829&13": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656829&13",
-    "title": "2:26-cv-04324 TAYLOR v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656829",
-    "date": "2026-06-23T22:08:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04324",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656826&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656826&3",
-    "title": "2:26-cv-04322 GRAZIOLI v. FIVE BELOW, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656826",
-    "date": "2026-06-23T20:27:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04322",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656831&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656831&7",
     "title": "2:26-cv-04315 ZHU v. EDLOW et al",
@@ -18445,5 +18401,71 @@
     "case_num": "2:25-cv-02382",
     "entry_type": "Memorandum",
     "doc_num": "146"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658476&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658476&3",
+    "title": "2:26-cv-05170 Canela Canela v. Commissioner of Social Security",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658476",
+    "date": "2026-07-23T23:36:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05170",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&539": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&539",
+    "title": "2:22-cv-03253 COMMONWEALTH OF PENNSYLVANIA et al v. MARINER FINANCE, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817",
+    "date": "2026-07-23T23:33:33-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-03253",
+    "entry_type": "Seal",
+    "doc_num": "181"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658475&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658475&3",
+    "title": "2:26-cv-05169 Flores v. Commissioner of Social Security",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658475",
+    "date": "2026-07-23T23:13:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05169",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658474&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658474&3",
+    "title": "2:26-cv-05168 OU v. TRANS UNION, LLC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658474",
+    "date": "2026-07-23T23:04:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05168",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658468&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658468&9",
+    "title": "2:26-cv-05162 MCCLAIN v. COLE  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658468",
+    "date": "2026-07-23T21:49:20-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-05162",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658468&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658468&6",
+    "title": "2:26-cv-05162 MCCLAIN v. COLE  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658468",
+    "date": "2026-07-23T20:54:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05162",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
