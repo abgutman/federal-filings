@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&28": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&28",
-    "title": "2:26-mc-00061 SAFE FLEET HOLDINGS LLC et al v. ANDREW OLENIK,",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958",
-    "date": "2026-06-25T22:47:27-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mc-00061",
-    "entry_type": "Seal Document",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656960&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656960&5",
-    "title": "2:26-cv-04389 AUGUST IMAGE, LLC v. DIFFERENT BY CHOICE CORP. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656960",
-    "date": "2026-06-25T22:31:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04389",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2204": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2204",
-    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
-    "date": "2026-06-25T20:51:09-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-md-03094",
-    "entry_type": "Memorandum",
-    "doc_num": "745"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&71": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&71",
     "title": "2:26-cv-00475 BROWN et al v. BINSWANGER MANAGEMENT CORP. et al",
