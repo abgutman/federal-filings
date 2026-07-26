@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&71": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&71",
-    "title": "2:26-cv-00475 BROWN et al v. BINSWANGER MANAGEMENT CORP. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915",
-    "date": "2026-06-26T06:55:34-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00475",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&69": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915&69",
-    "title": "2:26-cv-00475 BROWN et al v. BINSWANGER MANAGEMENT CORP. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648915",
-    "date": "2026-06-26T06:52:55-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00475",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "23"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656984&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656984&11",
     "title": "5:26-cv-04368 PATEL et al v. MULLIN et al",
@@ -207,61 +185,6 @@
     "case_num": "2:26-cv-01050",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622635&711": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622635&711",
-    "title": "2:24-cv-02226 McCready v. Unity Sober Living Homes, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622635",
-    "date": "2026-06-26T07:53:52-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02226",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "264"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622635&709": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622635&709",
-    "title": "2:24-cv-02226 McCready v. Unity Sober Living Homes, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622635",
-    "date": "2026-06-26T07:45:49-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02226",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "263"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&160": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&160",
-    "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795",
-    "date": "2026-06-26T07:44:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04884",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "51"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&158": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&158",
-    "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795",
-    "date": "2026-06-26T07:43:02-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04884",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "50"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&37": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&37",
-    "title": "2:26-cv-04080 CABREJA v. PRICE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363",
-    "date": "2026-06-26T07:39:21-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04080",
-    "entry_type": "Order on Motion for Preliminary Injunction",
-    "doc_num": "7"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657002&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657002&3",
