@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650534&102": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650534&102",
-    "title": "2:26-cv-01297 FILIPEK v. ROBLOX CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650534",
-    "date": "2026-06-26T18:06:16-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-01297",
-    "entry_type": "Seal",
-    "doc_num": "32"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293&171": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607293&171",
     "title": "2:23-cv-01002 HILL v. CITY OF PHILADELPHIA et al",
