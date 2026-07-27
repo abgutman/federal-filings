@@ -16861,5 +16861,181 @@
     "case_num": "2:26-cv-02426",
     "entry_type": "Order to Show Cause",
     "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096&18",
+    "title": "2:26-cv-04459 L. v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096",
+    "date": "2026-07-27T13:17:48-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-04459",
+    "entry_type": "Seal",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658461&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658461&24",
+    "title": "2:26-cr-00333-1 USA v. BARNES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658461",
+    "date": "2026-07-27T13:09:44-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00333",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652806&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652806&25",
+    "title": "2:26-cv-02383 LEAHY v. MIRROR & MANTEL LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652806",
+    "date": "2026-07-27T13:02:30-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-02383",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262&2155": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262&2155",
+    "title": "2:16-cr-00455-8 USA v. GRIFFIN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541262",
+    "date": "2026-07-27T13:01:43-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:16-cr-00455",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "480"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658607&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658607&4",
+    "title": "2:26-cv-05240 KELPE v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658607",
+    "date": "2026-07-27T12:54:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05240",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658603&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658603&3",
+    "title": "2:26-cv-05238 Melvin v. Pelet Welding",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658603",
+    "date": "2026-07-27T12:50:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05238",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653566&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653566&56",
+    "title": "2:26-cv-02752 LAUZIER v. STATE FARM AUTOMOBILE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653566",
+    "date": "2026-07-27T12:48:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02752",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653566&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653566&54",
+    "title": "2:26-cv-02752 LAUZIER v. STATE FARM AUTOMOBILE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653566",
+    "date": "2026-07-27T12:45:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02752",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643179&207": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643179&207",
+    "title": "2:25-cv-05084 SCOTT v. PROGRESSIVE HOME BY HOMESUITE, ISSUED BY HOMESUITE INSURANCE COMPANY OF THE MIDWEST",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643179",
+    "date": "2026-07-27T12:29:36-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-05084",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "74"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577&169": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577&169",
+    "title": "2:26-cv-03249 AJETI et al v. LIFE INSURANCE COMPANY OF NORTH AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577",
+    "date": "2026-07-27T12:14:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03249",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577&167": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577&167",
+    "title": "2:26-cv-03249 AJETI et al v. LIFE INSURANCE COMPANY OF NORTH AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654577",
+    "date": "2026-07-27T12:12:36-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03249",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658596&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658596&4",
+    "title": "2:26-cv-05237 WILLIAMS v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658596",
+    "date": "2026-07-27T11:53:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05237",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177&103": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177&103",
+    "title": "2:26-cv-03061 Vurimindi v. MHM Correctional Services, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177",
+    "date": "2026-07-27T11:45:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03061",
+    "entry_type": "Memorandum",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644164&203": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644164&203",
+    "title": "2:25-cv-05550 Heller v. BROOKHAVEN BOROUGH et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644164",
+    "date": "2026-07-27T11:34:53-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05550",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "77"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658594&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658594&3",
+    "title": "2:26-cv-05236 SHER-ROCKEE MUSHROOM FARMS, LLC. v. LIBERTY MUTUAL FIRE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658594",
+    "date": "2026-07-27T11:23:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05236",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107&208": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107&208",
+    "title": "2:25-cv-05531 OYENUGA v. SHELLPOINT MORTGAGE SERVICING et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107",
+    "date": "2026-07-27T11:19:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05531",
+    "entry_type": "Memorandum",
+    "doc_num": "78"
   }
 }
