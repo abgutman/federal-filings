@@ -17554,5 +17554,82 @@
     "case_num": "2:16-cv-05759",
     "entry_type": "Order to Show Cause",
     "doc_num": "258"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658651&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658651&4",
+    "title": "2:26-cv-05270 COLLINS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658651",
+    "date": "2026-07-27T20:08:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05270",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658650&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658650&4",
+    "title": "2:26-cv-05269 WOOD v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658650",
+    "date": "2026-07-27T19:46:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05269",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658649&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658649&4",
+    "title": "2:26-cv-05268 CICCARELLO v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658649",
+    "date": "2026-07-27T19:29:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05268",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658648&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658648&8",
+    "title": "2:26-cv-05267  v. TIKTOK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658648",
+    "date": "2026-07-27T19:22:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05267",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&179": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&179",
+    "title": "2:23-cv-04991 HUGHES et al v. REGULATORY DATACORP INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943",
+    "date": "2026-07-27T19:05:22-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:23-cv-04991",
+    "entry_type": "Seal",
+    "doc_num": "60"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658647&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658647&7",
+    "title": "2:26-cv-05266 ANDERSON v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658647",
+    "date": "2026-07-27T18:42:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05266",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658644&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658644&3",
+    "title": "2:26-cv-05172 IN RE: RALPH MOORE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658644",
+    "date": "2026-07-27T18:27:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05172",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
