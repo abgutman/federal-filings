@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657043&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657043&3",
-    "title": "5:26-cv-04427 SKROVANEK v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657043",
-    "date": "2026-06-28T08:25:53-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04427",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657048&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657048&4",
     "title": "2:26-cv-04432 baylor v. CAPITAL WINE & SPIRITS COMPANY LLC.",
@@ -17718,6 +17707,204 @@
     "category": "complaints",
     "case_num": "2:26-cv-05177",
     "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&62": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&62",
+    "title": "2:25-cv-03090 SEIBERT v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192",
+    "date": "2026-07-28T10:05:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03090",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&60": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192&60",
+    "title": "2:25-cv-03090 SEIBERT v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639192",
+    "date": "2026-07-28T10:03:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03090",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607796&417": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607796&417",
+    "title": "2:23-cv-01188 KATZ et al v. DELUCA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607796",
+    "date": "2026-07-28T09:27:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-01188",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "133"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607796&415": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607796&415",
+    "title": "2:23-cv-01188 KATZ et al v. DELUCA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607796",
+    "date": "2026-07-28T09:25:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-01188",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "132"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177&108": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177&108",
+    "title": "2:26-cv-03061 Vurimindi v. MHM Correctional Services, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177",
+    "date": "2026-07-28T09:22:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03061",
+    "entry_type": "Memorandum",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658613&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658613&10",
+    "title": "2:26-cv-05242 Perez Hernandez v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658613",
+    "date": "2026-07-28T09:21:37-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05242",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655580&47": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655580&47",
+    "title": "2:26-cv-03727 CAHILL v. ANIMAL CARE & CONTROL TEAM OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655580",
+    "date": "2026-07-28T09:10:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03727",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655580&45": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655580&45",
+    "title": "2:26-cv-03727 CAHILL v. ANIMAL CARE & CONTROL TEAM OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655580",
+    "date": "2026-07-28T09:06:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03727",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&420": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&420",
+    "title": "2:25-cv-02382 LYNCH  et al v. LONG et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474",
+    "date": "2026-07-28T09:04:50-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-02382",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "153"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657608&64": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657608&64",
+    "title": "2:26-cv-04760 BORDENAVE v. ANDERSON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657608",
+    "date": "2026-07-28T09:01:50-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-04760",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776&249": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776&249",
+    "title": "2:23-cv-00146 WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE,FOR THE BENEFIT OF REGISTERED HOLDERS OF J.P. MORGAN CHASE COMMERCIAL MORTGAGE SECURITIES TRUST 2020-MKST COMMERCIAL MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2020-MKST, THE RR INTEREST OWNER AND THE FU",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776",
+    "date": "2026-07-28T08:55:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-00146",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "103"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776&247": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776&247",
+    "title": "2:23-cv-00146 WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE,FOR THE BENEFIT OF REGISTERED HOLDERS OF J.P. MORGAN CHASE COMMERCIAL MORTGAGE SECURITIES TRUST 2020-MKST COMMERCIAL MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2020-MKST, THE RR INTEREST OWNER AND THE FU",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?604776",
+    "date": "2026-07-28T08:50:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-00146",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "102"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&181": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&181",
+    "title": "2:23-cv-04991 HUGHES et al v. REGULATORY DATACORP INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943",
+    "date": "2026-07-28T08:35:06-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-04991",
+    "entry_type": "Memorandum",
+    "doc_num": "61"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650086&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650086&56",
+    "title": "5:26-cv-01080 JAREMENKO v. PARKLAND MANOR LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650086",
+    "date": "2026-07-28T08:03:00-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-01080",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650086&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650086&54",
+    "title": "5:26-cv-01080 JAREMENKO v. PARKLAND MANOR LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650086",
+    "date": "2026-07-28T07:59:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-01080",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631930&143": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631930&143",
+    "title": "2:25-cv-00077 Molina v. Gordon et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631930",
+    "date": "2026-07-28T07:56:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00077",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631930&141": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631930&141",
+    "title": "2:25-cv-00077 Molina v. Gordon et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631930",
+    "date": "2026-07-28T07:53:19-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00077",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658656&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658656&3",
+    "title": "5:26-cv-05251 BROWN v. UNITED PARCEL SERVICE OF AMERICA, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658656",
+    "date": "2026-07-27T15:45:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05251",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
