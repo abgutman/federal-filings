@@ -17675,5 +17675,49 @@
     "case_num": "2:26-cv-02276",
     "entry_type": "Preliminary Injunction",
     "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240&54",
+    "title": "2:23-cv-04701 DOBBINS, IV v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240",
+    "date": "2026-07-28T06:39:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-04701",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240&52": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240&52",
+    "title": "2:23-cv-04701 DOBBINS, IV v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240",
+    "date": "2026-07-28T06:34:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-04701",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264&22",
+    "title": "5:26-cv-05062 A.S. v. KENNEDY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264",
+    "date": "2026-07-28T06:32:55-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "5:26-cv-05062",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658655&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658655&4",
+    "title": "2:26-cv-05177 BENSON v. FEDER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658655",
+    "date": "2026-07-28T06:07:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05177",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
