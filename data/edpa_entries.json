@@ -17631,5 +17631,49 @@
     "case_num": "2:26-cv-05172",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658654&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658654&4",
+    "title": "2:26-cv-05273 SCHOLLMEYER v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658654",
+    "date": "2026-07-28T00:27:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05273",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658653&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658653&6",
+    "title": "2:26-cv-05272 GIRIFALCO et al v. EMPIRE TODAY, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658653",
+    "date": "2026-07-27T23:46:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05272",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654540&48": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654540&48",
+    "title": "2:26-cv-03234 PORTCH v. HEALTHCARE SERVICES GROUP, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654540",
+    "date": "2026-07-27T23:38:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03234",
+    "entry_type": "Memorandum",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&72": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&72",
+    "title": "2:26-cv-02276 ASIA THOMAS V. THE CITY OF PHILADELPHIA, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620",
+    "date": "2026-07-27T22:52:07-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-02276",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "26"
   }
 }
