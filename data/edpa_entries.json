@@ -18544,5 +18544,49 @@
     "case_num": "2:16-md-02724",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "4782"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658733&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658733&3",
+    "title": "2:26-cv-05309 CAMUNAS v. Lowenthal & Abrams P.C.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658733",
+    "date": "2026-07-28T19:01:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05309",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658735&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658735&4",
+    "title": "2:26-cv-05311 PETTS v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658735",
+    "date": "2026-07-28T18:52:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05311",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658734&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658734&3",
+    "title": "5:26-cv-05310 DAVIS v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658734",
+    "date": "2026-07-28T18:37:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05310",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658731&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658731&6",
+    "title": "2:26-cv-05307 JOFFRION v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658731",
+    "date": "2026-07-28T17:43:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05307",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
