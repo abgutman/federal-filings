@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657126&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657126&4",
-    "title": "2:26-cv-04486 FRYLING v. 7-ELEVEN",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657126",
-    "date": "2026-06-29T17:53:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04486",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657125&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657125&4",
-    "title": "2:26-cv-04485 PEARSALL v. FEDERAL EXPRESS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657125",
-    "date": "2026-06-29T17:42:47-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04485",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657124&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657124&4",
-    "title": "2:26-cv-04484 BRADLEY v. TEMPLE UNIVERSITY HEALTH SYSTEM, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657124",
-    "date": "2026-06-29T17:32:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04484",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657123&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657123&6",
-    "title": "2:26-cv-04483 RAPONE v. HEGSETH et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657123",
-    "date": "2026-06-29T17:13:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04483",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657130&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657130&3",
     "title": "5:26-cv-04490 LINDSAY v. TOWER ADMINISTRATIVE SERVICES, INC.",
@@ -18412,5 +18368,93 @@
     "case_num": "2:02-cr-00157",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "53"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658792&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658792&4",
+    "title": "2:26-cv-05349 BROWNING v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658792",
+    "date": "2026-07-29T17:37:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05349",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789&26",
+    "title": "2:26-cv-05346 R.P. et al v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789",
+    "date": "2026-07-29T17:19:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05346",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&537": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&537",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-07-29T17:10:06-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Memorandum",
+    "doc_num": "182"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1330": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1330",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-07-29T17:01:55-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Seal",
+    "doc_num": "485"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603901&390": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603901&390",
+    "title": "2:22-cr-00460-1 USA v. GRAY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603901",
+    "date": "2026-07-29T16:59:36-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:22-cr-00460",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "122"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653097&64": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653097&64",
+    "title": "5:26-cv-02529 SHAH et al v. U.S. CITIZENSHIP AND IMMIGRATION SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653097",
+    "date": "2026-07-29T16:48:18-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "5:26-cv-02529",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&442": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&442",
+    "title": "2:25-cv-02559 FREIGHT INNOVATION LLC v. FELLOWSHIP WAREHOUSING & LOGISTICS LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862",
+    "date": "2026-07-29T16:46:54-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02559",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "154"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&440": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&440",
+    "title": "2:25-cv-02559 FREIGHT INNOVATION LLC v. FELLOWSHIP WAREHOUSING & LOGISTICS LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862",
+    "date": "2026-07-29T16:44:56-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02559",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "153"
   }
 }
