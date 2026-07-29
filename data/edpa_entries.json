@@ -18588,5 +18588,16 @@
     "case_num": "2:26-cv-05307",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658736&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658736&7",
+    "title": "5:26-cv-05312 GRAJALES BUENO v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658736",
+    "date": "2026-07-28T19:41:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05312",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
