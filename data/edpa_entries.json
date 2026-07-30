@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657130&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657130&3",
-    "title": "5:26-cv-04490 LINDSAY v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657130",
-    "date": "2026-06-29T21:01:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04490",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657129&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657129&4",
-    "title": "5:26-cv-04489 CARVELL v. H2, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657129",
-    "date": "2026-06-29T20:37:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04489",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107&9": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107&9",
     "title": "2:26-cv-04468 BELFORT et al v. NEXT INSURANCE US et al",
@@ -18533,5 +18511,16 @@
     "case_num": "2:26-cv-05348",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652872&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652872&24",
+    "title": "2:26-cv-02426 LEAHY v. TULIP ST PASTA LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652872",
+    "date": "2026-07-29T20:42:07-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-02426",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "9"
   }
 }
