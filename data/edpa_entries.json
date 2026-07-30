@@ -18456,5 +18456,82 @@
     "case_num": "2:25-cv-02559",
     "entry_type": "Order on Motion to Seal",
     "doc_num": "153"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658799&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658799&3",
+    "title": "2:26-cv-05356 DIAZ v. DEVEREUX FOUNDATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658799",
+    "date": "2026-07-29T19:16:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05356",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658798&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658798&3",
+    "title": "2:26-cv-05355 KAMARA v. DEVEREUX FOUNDATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658798",
+    "date": "2026-07-29T19:01:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05355",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658797&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658797&3",
+    "title": "2:26-cv-05354 WILLIAMS v. THE DEVEREUX FOUNDATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658797",
+    "date": "2026-07-29T18:44:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05354",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658796&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658796&4",
+    "title": "2:26-cv-05353 ROBINSON v. GOODWIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658796",
+    "date": "2026-07-29T18:34:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05353",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658794&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658794&4",
+    "title": "2:26-cv-05351 SHUGART v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658794",
+    "date": "2026-07-29T18:10:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05351",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658793&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658793&4",
+    "title": "2:26-cv-05350 MONTEE v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658793",
+    "date": "2026-07-29T17:58:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05350",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658791&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658791&4",
+    "title": "2:26-cv-05348 ROBINSON v. GOODWIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658791",
+    "date": "2026-07-29T17:45:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05348",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
