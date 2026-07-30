@@ -65,116 +65,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657156&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657156&3",
-    "title": "2:26-cv-04499 DRAIN v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657156",
-    "date": "2026-06-30T10:18:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04499",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657148&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657148&3",
-    "title": "2:26-cv-04496 CAUSION v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657148",
-    "date": "2026-06-30T09:56:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04496",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657152&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657152&5",
-    "title": "2:26-cv-04497 GERMAN AMARILLAS v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657152",
-    "date": "2026-06-30T09:55:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04497",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657149&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657149&14",
-    "title": "5:26-cv-04462 GAYLE v. NORTHAMPTON COUNTY PRISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657149",
-    "date": "2026-06-30T09:48:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04462",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656962&28": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656962&28",
-    "title": "2:26-cv-04391 De Oliveira Cabral v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656962",
-    "date": "2026-06-30T09:21:39-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04391",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648123&123": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648123&123",
-    "title": "2:26-cr-00011-1 USA v. ACOSTA-PENA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648123",
-    "date": "2026-06-30T09:20:44-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00011",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656962&26": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656962&26",
-    "title": "2:26-cv-04391 De Oliveira Cabral v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656962",
-    "date": "2026-06-30T09:19:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04391",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612712&201": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612712&201",
-    "title": "2:23-cv-03167 MOORE v. PHILADELPHIA FIGHT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612712",
-    "date": "2026-06-30T09:09:03-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-03167",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "70"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612712&199": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612712&199",
-    "title": "2:23-cv-03167 MOORE v. PHILADELPHIA FIGHT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612712",
-    "date": "2026-06-30T09:07:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-03167",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "69"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657138&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657138&7",
-    "title": "2:26-cv-04494 WHITE v. CAPITAL MANAGEMENT SERVICES, LP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657138",
-    "date": "2026-06-30T08:45:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04494",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185&4",
     "title": "2:26-cv-04518 JOHNSON v. NOVO NORDISK INC. et al",
@@ -679,28 +569,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-04519",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657190&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657190&3",
-    "title": "5:26-cv-04499 DRAIN v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657190",
-    "date": "2026-06-30T10:18:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04499",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657189&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657189&3",
-    "title": "5:26-cv-04496 CAUSION v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657189",
-    "date": "2026-06-30T09:56:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04496",
-    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657226&4": {
@@ -18588,5 +18456,181 @@
     "case_num": "5:25-cv-04479",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "48"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647914&146": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647914&146",
+    "title": "2:25-cv-07407 TAGGART v. MAHON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647914",
+    "date": "2026-07-30T09:26:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07407",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647914&144": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647914&144",
+    "title": "2:25-cv-07407 TAGGART v. MAHON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647914",
+    "date": "2026-07-30T09:22:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07407",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658808&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658808&8",
+    "title": "2:26-cv-05314 WELLS v. MINK et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658808",
+    "date": "2026-07-30T09:20:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05314",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643662&214": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643662&214",
+    "title": "2:25-cv-05306 FRENCH v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643662",
+    "date": "2026-07-30T09:12:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05306",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "80"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643662&212": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643662&212",
+    "title": "2:25-cv-05306 FRENCH v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643662",
+    "date": "2026-07-30T09:02:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05306",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "79"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658807&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658807&3",
+    "title": "5:26-cv-05358 LAWLER v. OLDCASTLE APG NORTHEAST, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658807",
+    "date": "2026-07-30T09:01:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05358",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658167&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658167&32",
+    "title": "2:26-cv-05012 SUN v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658167",
+    "date": "2026-07-30T08:59:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05012",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658167&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658167&30",
+    "title": "2:26-cv-05012 SUN v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658167",
+    "date": "2026-07-30T08:56:00-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05012",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658352&29": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658352&29",
+    "title": "2:26-cv-05100 RANDHAWA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658352",
+    "date": "2026-07-30T08:48:53-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05100",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658352&27": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658352&27",
+    "title": "2:26-cv-05100 RANDHAWA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658352",
+    "date": "2026-07-30T08:42:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05100",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "4"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658800&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658800&3",
+    "title": "2:26-cv-05357 JOHNSON v. HIGHWAY TRANSPORT CHEMICAL, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658800",
+    "date": "2026-07-30T08:37:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05357",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643561&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643561&81",
+    "title": "2:25-cv-05258 OLD GUARD INSURANCE COMPANY v. SAFECO INSURANCE COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643561",
+    "date": "2026-07-30T08:16:36-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05258",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643561&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643561&79",
+    "title": "2:25-cv-05258 OLD GUARD INSURANCE COMPANY v. SAFECO INSURANCE COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643561",
+    "date": "2026-07-30T08:15:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05258",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "27"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656736&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656736&13",
+    "title": "2:26-mc-00057 MARSHACK v. WORLD GLOBAL FUND, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656736",
+    "date": "2026-07-30T08:11:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-mc-00057",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "4"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656736&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656736&11",
+    "title": "2:26-mc-00057 MARSHACK v. WORLD GLOBAL FUND, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656736",
+    "date": "2026-07-30T08:08:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-mc-00057",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&47": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&47",
+    "title": "2:26-cv-04710 CAUDLE v. RENTOKIL NORTH AMERICA INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602",
+    "date": "2026-07-30T08:04:01-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04710",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "15"
   }
 }
