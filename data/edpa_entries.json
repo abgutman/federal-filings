@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107&9",
-    "title": "2:26-cv-04468 BELFORT et al v. NEXT INSURANCE US et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657107",
-    "date": "2026-06-30T07:26:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04468",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657162&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657162&5",
     "title": "2:26-cv-04503 Cooper v. STATE FARM FIRE AND CASUALTY COMPANY",
@@ -18533,5 +18522,71 @@
     "case_num": "2:25-cv-06260",
     "entry_type": "Sanctions",
     "doc_num": "58"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647605&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647605&30",
+    "title": "2:25-cv-07149 FINKEL v. WELLS FARGO BANK, N.A. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647605",
+    "date": "2026-07-30T07:48:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07149",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647605&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647605&28",
+    "title": "2:25-cv-07149 FINKEL v. WELLS FARGO BANK, N.A. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647605",
+    "date": "2026-07-30T07:46:05-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07149",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652321&75": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652321&75",
+    "title": "2:26-cv-02039 GROSSINGER v. GOOGLE LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652321",
+    "date": "2026-07-30T07:07:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02039",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652321&73": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652321&73",
+    "title": "2:26-cv-02039 GROSSINGER v. GOOGLE LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652321",
+    "date": "2026-07-30T07:04:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02039",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641870&151": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641870&151",
+    "title": "5:25-cv-04479 CONCEPCION v. RUSSEL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641870",
+    "date": "2026-07-30T07:00:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-04479",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "49"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641870&149": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641870&149",
+    "title": "5:25-cv-04479 CONCEPCION v. RUSSEL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641870",
+    "date": "2026-07-30T06:57:56-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-04479",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "48"
   }
 }
