@@ -18522,5 +18522,16 @@
     "case_num": "2:26-cv-02426",
     "entry_type": "Response to Order to Show Cause",
     "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645799&165": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645799&165",
+    "title": "2:25-cv-06260 EPAM SYSTEMS, INC. v. RAO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645799",
+    "date": "2026-07-29T23:17:52-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-06260",
+    "entry_type": "Sanctions",
+    "doc_num": "58"
   }
 }
