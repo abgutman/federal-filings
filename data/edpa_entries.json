@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185&4",
-    "title": "2:26-cv-04518 JOHNSON v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657185",
-    "date": "2026-06-30T13:05:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04518",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657184&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657184&3",
-    "title": "2:26-cv-04517 BOYLE v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657184",
-    "date": "2026-06-30T13:02:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04517",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657183&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657183&3",
-    "title": "2:26-cv-04516 Huff v. ELWYN, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657183",
-    "date": "2026-06-30T12:58:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04516",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657182&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657182&3",
-    "title": "2:26-cv-04515 CURRY v. CONNECTION CHEMICAL LP",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657182",
-    "date": "2026-06-30T12:50:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04515",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657204&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657204&5",
     "title": "2:26-cv-04534 Williams et al v. Benson, Sr. et al",
@@ -338,83 +294,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-04526",
     "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657181&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657181&4",
-    "title": "2:26-cv-04514 ANGTON v. TRANS UNION, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657181",
-    "date": "2026-06-30T14:19:54-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04514",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657193&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657193&5",
-    "title": "2:26-cv-04524 US BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II   v. HENDRICKS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657193",
-    "date": "2026-06-30T14:13:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04524",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657192&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657192&4",
-    "title": "2:26-cv-04521 GRANT v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657192",
-    "date": "2026-06-30T13:40:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04521",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344&43": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344&43",
-    "title": "2:26-cv-04090 BRINEZ-GAVIRIA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344",
-    "date": "2026-06-30T13:34:12-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04090",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "13"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?593260&285": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?593260&285",
-    "title": "2:22-cv-00382 JOHNSON  v. WETZEL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?593260",
-    "date": "2026-06-30T13:32:24-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:22-cv-00382",
-    "entry_type": "Sanctions",
-    "doc_num": "90"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344&41": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344&41",
-    "title": "2:26-cv-04090 BRINEZ-GAVIRIA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656344",
-    "date": "2026-06-30T13:30:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04090",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "12"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657188&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657188&3",
-    "title": "2:26-cv-04519 PAGAN v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657188",
-    "date": "2026-06-30T13:23:48-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04519",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657226&4": {
@@ -1063,17 +942,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "5:26-cv-04544",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657237&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657237&3",
-    "title": "5:26-cv-04517 BOYLE v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657237",
-    "date": "2026-06-30T13:02:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04517",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
@@ -18610,5 +18478,104 @@
     "case_num": "2:26-cv-02202",
     "entry_type": "Order on Motion to Seal",
     "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658836&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658836&4",
+    "title": "2:26-cv-05370 Kasali v. USCIS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658836",
+    "date": "2026-07-30T13:58:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05370",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658834&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658834&9",
+    "title": "2:26-cv-05369 YUMMY CANDIES INC et al v. SKY NUTRO INCORPORATED et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658834",
+    "date": "2026-07-30T13:53:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05369",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327&140": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327&140",
+    "title": "2:25-cr-00461-1 USA v. BLASSENGALE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645327",
+    "date": "2026-07-30T13:52:52-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00461",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658835&14": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658835&14",
+    "title": "2:26-cv-05367 CLARK v. COREECTION OFFICER&#039;S GUARD et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658835",
+    "date": "2026-07-30T13:50:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05367",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847&42": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847&42",
+    "title": "5:26-cr-00258-1 USA v. CEDANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847",
+    "date": "2026-07-30T12:57:04-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "5:26-cr-00258",
+    "entry_type": "Plea Agreement",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658831&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658831&6",
+    "title": "2:26-cv-05366 JORDAN v. PRA GROUP, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658831",
+    "date": "2026-07-30T12:41:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05366",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658830&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658830&13",
+    "title": "2:26-cv-05364 SALAMO v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658830",
+    "date": "2026-07-30T12:37:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05364",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658829&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658829&4",
+    "title": "2:26-cv-05363 WEEKS et al v. LIBERTY TRADE CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658829",
+    "date": "2026-07-30T12:13:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05363",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658828&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658828&3",
+    "title": "2:26-cv-05362 FIDELIBUS v. HOSPITAL OF THE UNIVERSITY OF PENN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658828",
+    "date": "2026-07-30T12:03:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05362",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
