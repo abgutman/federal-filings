@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754&165": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754&165",
-    "title": "2:24-cr-00369-1 USA v. DAWKINS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754",
-    "date": "2026-06-30T23:02:20-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00369",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "38"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657231&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657231&5",
-    "title": "2:26-cv-04544 STEIN v. PRUDENTIAL INSURANCE CO. OF AMERICA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657231",
-    "date": "2026-06-30T20:37:21-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04544",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&77": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&77",
     "title": "2:25-cv-07312 SLOWE v. THE ATTORNEY GENERAL OF THE STATE OF PENNSYLVANIA  et al",
@@ -460,17 +438,6 @@
     "case_num": "2:26-cv-03072",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657263&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657263&5",
-    "title": "5:26-cv-04544 STEIN v. THE PRUDENTIAL INSURANCE COMPANY OF AMERICA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657263",
-    "date": "2026-06-30T20:37:21-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04544",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657275&23": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657275&23",
@@ -18577,5 +18544,27 @@
     "case_num": "2:26-cv-05336",
     "entry_type": "Order to Show Cause",
     "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874&6",
+    "title": "2:26-cv-05396 KURDI v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874",
+    "date": "2026-07-30T21:37:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05396",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658873&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658873&3",
+    "title": "2:26-cv-05395 Williams v. AMERICAN AIRLINES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658873",
+    "date": "2026-07-30T20:22:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05395",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
