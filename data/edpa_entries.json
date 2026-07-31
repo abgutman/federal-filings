@@ -18566,5 +18566,16 @@
     "case_num": "2:26-cv-05395",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658876&2": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658876&2",
+    "title": "2:26-cv-05398 Hooper",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658876",
+    "date": "2026-07-31T00:26:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05398",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
