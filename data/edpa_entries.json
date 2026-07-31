@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657226&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657226&4",
-    "title": "2:26-cv-04424 RAMIAN v. AMERICAN ASSOCIATION FOR CANCER RESEARCH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657226",
-    "date": "2026-06-30T18:17:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04424",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754&165": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628754&165",
     "title": "2:24-cr-00369-1 USA v. DAWKINS",
