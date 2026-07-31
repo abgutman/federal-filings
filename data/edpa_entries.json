@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&77": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&77",
-    "title": "2:25-cv-07312 SLOWE v. THE ATTORNEY GENERAL OF THE STATE OF PENNSYLVANIA  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897",
-    "date": "2026-07-01T08:09:33-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07312",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&75": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897&75",
-    "title": "2:25-cv-07312 SLOWE v. THE ATTORNEY GENERAL OF THE STATE OF PENNSYLVANIA  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647897",
-    "date": "2026-07-01T08:06:58-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07312",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&248": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&248",
-    "title": "2:25-cv-03101 BAUTISTA v. TEMPLE UNIVERSITY HOSPITAL, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216",
-    "date": "2026-07-01T08:02:04-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-03101",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "74"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&246": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216&246",
-    "title": "2:25-cv-03101 BAUTISTA v. TEMPLE UNIVERSITY HOSPITAL, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639216",
-    "date": "2026-07-01T07:58:35-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-03101",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "73"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657262&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657262&3",
     "title": "2:26-cv-04558 Cade-Dempster v. HAN DYNASTY OF UNIVERSITY CITY INC.",
@@ -370,72 +326,6 @@
     "group": "civil",
     "category": "opinions",
     "case_num": "2:25-cv-05042",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&94": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&94",
-    "title": "2:26-cv-03215 KIM v. THOMAS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484",
-    "date": "2026-07-01T08:56:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03215",
-    "entry_type": "Memorandum",
-    "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&92": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&92",
-    "title": "2:26-cv-03215 KIM v. THOMAS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484",
-    "date": "2026-07-01T08:52:44-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03215",
-    "entry_type": "Memorandum",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470&48",
-    "title": "2:26-cr-00187-1 USA v. YOUNG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653470",
-    "date": "2026-07-01T08:50:56-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00187",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "12"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629630&307": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629630&307",
-    "title": "2:24-cv-05920 WILLIAMS v. THE UNITED STATES OF AMERICA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629630",
-    "date": "2026-07-01T08:49:27-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:24-cv-05920",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "92"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654197&76": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654197&76",
-    "title": "2:26-cv-03072 BERANGERE RANKINE v. DELAWARE COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654197",
-    "date": "2026-07-01T08:39:30-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03072",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654197&74": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654197&74",
-    "title": "2:26-cv-03072 BERANGERE RANKINE v. DELAWARE COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654197",
-    "date": "2026-07-01T08:37:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03072",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "22"
   },
@@ -18577,5 +18467,27 @@
     "case_num": "2:26-cv-05398",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&214": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&214",
+    "title": "2:25-cv-03731 GARDNER v. WALKER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749",
+    "date": "2026-07-31T06:48:37-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-03731",
+    "entry_type": "Sanctions",
+    "doc_num": "80"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646120&105": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646120&105",
+    "title": "2:25-cv-06410 Taylor v. Metri et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646120",
+    "date": "2026-07-31T06:30:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06410",
+    "entry_type": "Memorandum",
+    "doc_num": "27"
   }
 }
