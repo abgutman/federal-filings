@@ -98,28 +98,6 @@
     "entry_type": "Complaint",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601361&179": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601361&179",
-    "title": "2:22-cr-00342-1 USA v. EDWARDS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601361",
-    "date": "2026-07-02T07:22:38-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:22-cr-00342",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "52"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601361&177": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601361&177",
-    "title": "2:22-cr-00342-1 USA v. EDWARDS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601361",
-    "date": "2026-07-02T07:20:45-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:22-cr-00342",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "51"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657169&26": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657169&26",
     "title": "2:26-cv-04509 RAMOS VEGA v. JAMISON et al",
