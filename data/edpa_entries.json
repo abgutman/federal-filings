@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538697&1595": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538697&1595",
-    "title": "2:18-cv-00284 THE KROGER CO. et al v. ACTAVIS HOLDCO U.S., INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538697",
-    "date": "2026-07-02T17:49:59-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:18-cv-00284",
-    "entry_type": "Seal",
-    "doc_num": "483"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657384&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657384&3",
-    "title": "2:26-cv-04618 THOMAS v. USAG HOLDINGS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657384",
-    "date": "2026-07-02T17:42:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04618",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657386&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657386&8",
-    "title": "2:26-cv-04620 ROEGNER  et al v. STATE FARM FIRE AND CASUALTY COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657386",
-    "date": "2026-07-02T17:11:09-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04620",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657367&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657367&3",
-    "title": "2:26-cv-04611 GAENZLE v. SYNAPSE MARKETING SOLUTIONS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657367",
-    "date": "2026-07-02T17:07:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04611",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657388&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657388&3",
     "title": "2:26-cv-04622 bearden v. new healthworks, inc",
@@ -17773,6 +17729,17 @@
     "category": "complaints",
     "case_num": "5:26-cv-05426",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658956&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658956&3",
+    "title": "2:26-cv-05447 WELDELE v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658956",
+    "date": "2026-08-01T16:59:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05447",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
