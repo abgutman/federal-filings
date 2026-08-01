@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657375&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657375&4",
-    "title": "2:26-cv-04613 HERKER v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657375",
-    "date": "2026-07-02T15:47:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04613",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657371&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657371&3",
-    "title": "2:26-cv-04612 HARDY v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657371",
-    "date": "2026-07-02T15:30:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04612",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538697&1595": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?538697&1595",
     "title": "2:18-cv-00284 THE KROGER CO. et al v. ACTAVIS HOLDCO U.S., INC. et al",
@@ -62,50 +40,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04611",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657381&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657381&3",
-    "title": "2:26-cv-04617 M.T. v. SCHOOL DISTRICT OF PHILADELPHA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657381",
-    "date": "2026-07-02T16:42:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04617",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657380&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657380&4",
-    "title": "2:26-cv-04616 CAMPBELL v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657380",
-    "date": "2026-07-02T16:28:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04616",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657378&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657378&14",
-    "title": "2:26-cv-04614 DEMOTA v. WALMART STORES EAST, LP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657378",
-    "date": "2026-07-02T16:00:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04614",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657379&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657379&4",
-    "title": "2:26-cv-04615 DELPRADO v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657379",
-    "date": "2026-07-02T15:59:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04615",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
