@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&85": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&85",
-    "title": "2:26-cv-02372 Tkachev v MCSHANE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795",
-    "date": "2026-07-01T22:52:04-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02372",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&83": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795&83",
-    "title": "2:26-cv-02372 Tkachev v MCSHANE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652795",
-    "date": "2026-07-01T22:50:06-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02372",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "22"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&77": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656611&77",
     "title": "2:26-cv-04208 UNITED STATES OF AMERICA v. PHILADELPHIA et al",
@@ -18278,6 +18256,72 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-05427",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658950&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658950&3",
+    "title": "2:26-cv-05442 Torregrossa v. MAIN LINE HEALTHCARE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658950",
+    "date": "2026-07-31T20:06:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05442",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658948&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658948&7",
+    "title": "2:26-cv-05440 PICKENS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658948",
+    "date": "2026-07-31T19:45:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05440",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658947&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658947&7",
+    "title": "2:26-cv-05439 COLLINS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658947",
+    "date": "2026-07-31T19:34:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05439",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658946&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658946&7",
+    "title": "2:26-cv-05438 RUSSELL v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658946",
+    "date": "2026-07-31T19:27:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05438",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658944&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658944&7",
+    "title": "2:26-cv-05436 BRADLEY v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658944",
+    "date": "2026-07-31T19:20:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05436",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658943&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658943&7",
+    "title": "2:26-cv-05435 PICRIN v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658943",
+    "date": "2026-07-31T19:15:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05435",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
