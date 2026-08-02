@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390&12",
-    "title": "2:26-cv-04624 INESTROZA APARICIO v. BLANCE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390",
-    "date": "2026-07-03T15:37:50-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04624",
-    "entry_type": "Order on Motion to Show Cause",
-    "doc_num": "3"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657397&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657397&4",
     "title": "2:26-cv-04631 SHAVER v. NOVO NORDISK INC. et al",
@@ -29,17 +18,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-04630",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657395&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657395&5",
-    "title": "2:26-cv-04629 SANCHEZ v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657395",
-    "date": "2026-07-03T16:50:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04629",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
