@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390&9",
-    "title": "2:26-cv-04624 INESTROZA APARICIO v. BLANCE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390",
-    "date": "2026-07-03T13:12:59-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04624",
-    "entry_type": "Show Cause",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657390&12",
     "title": "2:26-cv-04624 INESTROZA APARICIO v. BLANCE et al",
@@ -17729,6 +17718,17 @@
     "category": "complaints",
     "case_num": "2:26-cv-05447",
     "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658962&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658962&3",
+    "title": "2:26-cv-05452 CARTER v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658962",
+    "date": "2026-08-02T14:56:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05452",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
   }
 }
