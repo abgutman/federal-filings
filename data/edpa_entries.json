@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201&635": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201&635",
-    "title": "2:22-cr-00073-1 USA v. NIXON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594201",
-    "date": "2026-07-03T19:41:04-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:22-cr-00073",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "192"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657407&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657407&4",
     "title": "2:26-cv-04641 MINOR v. NOVO NORDISK INC., et al",
