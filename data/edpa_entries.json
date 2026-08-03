@@ -17488,5 +17488,27 @@
     "case_num": "2:26-cv-05452",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&67": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&67",
+    "title": "5:25-cv-05718 RICHARDSON v. Hyundai Capital America Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484",
+    "date": "2026-08-03T07:19:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-05718",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&65": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&65",
+    "title": "5:25-cv-05718 RICHARDSON v. Hyundai Capital America Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484",
+    "date": "2026-08-03T07:17:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-05718",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "24"
   }
 }
