@@ -18775,5 +18775,192 @@
     "case_num": "5:26-cv-05468",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659093&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659093&3",
+    "title": "2:26-cv-05514  v. Camp NYC, Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659093",
+    "date": "2026-08-04T13:21:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05514",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659094&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659094&5",
+    "title": "2:26-cv-05515  v. Wal-Mart Stores East LP",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659094",
+    "date": "2026-08-04T13:20:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05515",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&222": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&222",
+    "title": "2:25-cv-03731 GARDNER v. WALKER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749",
+    "date": "2026-08-04T13:12:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03731",
+    "entry_type": "Memorandum",
+    "doc_num": "84"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712&274": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712&274",
+    "title": "2:25-cv-02103 PIETY FOLEY v. DREXEL UNIVERSITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712",
+    "date": "2026-08-04T12:57:36-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02103",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "77"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712&272": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712&272",
+    "title": "2:25-cv-02103 PIETY FOLEY v. DREXEL UNIVERSITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636712",
+    "date": "2026-08-04T12:56:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02103",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "76"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659092&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659092&5",
+    "title": "2:26-cv-05513 Allen v. EDDYSTONE BOROUGH et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659092",
+    "date": "2026-08-04T12:38:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05513",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659090&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659090&4",
+    "title": "5:26-cv-05512 WENTZEL v. HC SALON HOLDINGS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659090",
+    "date": "2026-08-04T12:24:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05512",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645017&314": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645017&314",
+    "title": "2:25-cr-00455-2 USA v. SHACKLEFORD et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645017",
+    "date": "2026-08-04T12:23:25-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00455",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "88"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631135&217": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631135&217",
+    "title": "5:24-cr-00439-1 USA v. TORRES-DIAZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631135",
+    "date": "2026-08-04T12:11:21-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "5:24-cr-00439",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "70"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659087&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659087&4",
+    "title": "2:26-cv-05511 Parsley v. NOVO  NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659087",
+    "date": "2026-08-04T11:54:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05511",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623826&184": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623826&184",
+    "title": "5:24-cr-00243-1 USA v. JONES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623826",
+    "date": "2026-08-04T11:48:16-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:24-cr-00243",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "51"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659085&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659085&3",
+    "title": "2:26-cv-05509 JORDAN v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659085",
+    "date": "2026-08-04T11:48:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05509",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659086&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659086&4",
+    "title": "2:26-cv-05510 Ransome v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659086",
+    "date": "2026-08-04T11:47:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05510",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659084&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659084&4",
+    "title": "2:26-cv-05508 Kevin v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659084",
+    "date": "2026-08-04T11:43:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05508",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847&59": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847&59",
+    "title": "5:26-cr-00258-1 USA v. CEDANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655847",
+    "date": "2026-08-04T11:40:27-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "5:26-cr-00258",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652764&57": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652764&57",
+    "title": "2:26-cv-02353 GROSSINGER v. PENNSYLVANIA DEPARTMENT OF TRANSPORTATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652764",
+    "date": "2026-08-04T11:38:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02353",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652764&55": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652764&55",
+    "title": "2:26-cv-02353 GROSSINGER v. PENNSYLVANIA DEPARTMENT OF TRANSPORTATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652764",
+    "date": "2026-08-04T11:35:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02353",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "16"
   }
 }
