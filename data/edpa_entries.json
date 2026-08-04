@@ -18610,5 +18610,16 @@
     "case_num": "2:25-cr-00455",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "84"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659024&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659024&12",
+    "title": "2:26-cv-05472 RAMON SANCHEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659024",
+    "date": "2026-08-04T06:40:57-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05472",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
   }
 }
