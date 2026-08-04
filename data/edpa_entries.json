@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657418&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657418&3",
-    "title": "2:26-cv-04652 HERNANDEZ-DE JESUS v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657418",
-    "date": "2026-07-05T10:33:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04652",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103&1396": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103&1396",
     "title": "2:10-cr-00420-1 USA v. WHITE et al",
@@ -18621,5 +18610,170 @@
     "case_num": "2:26-cv-05472",
     "entry_type": "Order to Show Cause",
     "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659083&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659083&3",
+    "title": "2:26-cv-05507",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659083",
+    "date": "2026-08-04T11:19:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05507",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659082&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659082&4",
+    "title": "2:26-cv-05506 HOLLAND v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659082",
+    "date": "2026-08-04T11:14:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05506",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659079&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659079&7",
+    "title": "2:26-cv-05505 COASTAL SUNBELT PRODUCE, LLC v. SUNNY DELL SPECIALTY, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659079",
+    "date": "2026-08-04T11:07:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05505",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659072&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659072&4",
+    "title": "2:26-cv-05503 PESOLE v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659072",
+    "date": "2026-08-04T10:02:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05503",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659069&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659069&4",
+    "title": "2:26-cv-05502 ABRAHAM v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659069",
+    "date": "2026-08-04T09:58:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05502",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659062&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659062&3",
+    "title": "5:26-cv-05501 BOGER v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659062",
+    "date": "2026-08-04T09:35:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05501",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&87": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&87",
+    "title": "2:25-cv-07159 FORD v. U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS4 et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607",
+    "date": "2026-08-04T08:24:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07159",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&85": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&85",
+    "title": "2:25-cv-07159 FORD v. U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS4 et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607",
+    "date": "2026-08-04T08:20:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07159",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "27"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&194": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&194",
+    "title": "2:23-cv-03599 COLEMAN v. EASON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014",
+    "date": "2026-08-04T08:19:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-03599",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "53"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&192": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&192",
+    "title": "2:23-cv-03599 COLEMAN v. EASON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014",
+    "date": "2026-08-04T08:13:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-03599",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "52"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639&682": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639&682",
+    "title": "2:19-cv-05042 United HealthCare Services, Inc. v. Teva Pharmaceuticals USA, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639",
+    "date": "2026-08-04T08:06:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:19-cv-05042",
+    "entry_type": "Memorandum",
+    "doc_num": "172"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910&552": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910&552",
+    "title": "2:20-cv-06557 United HealthCare Services, Inc. v. Sandoz, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910",
+    "date": "2026-08-04T08:06:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-06557",
+    "entry_type": "Memorandum",
+    "doc_num": "129"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143&949": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143&949",
+    "title": "2:19-cv-00629 United HealthCare Services, Inc. v. Actavis Holdco U.S., Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143",
+    "date": "2026-08-04T08:06:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:19-cv-00629",
+    "entry_type": "Memorandum",
+    "doc_num": "255"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13361": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13361",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-04T08:06:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4805"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659068&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659068&4",
+    "title": "5:26-cv-05468 Gonzalez v. Buccigrossi et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659068",
+    "date": "2026-08-03T14:47:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05468",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
