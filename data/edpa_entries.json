@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103&1396": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103&1396",
-    "title": "2:10-cr-00420-1 USA v. WHITE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103",
-    "date": "2026-07-05T19:45:23-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:10-cr-00420",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "421"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657421&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657421&3",
     "title": "2:26-cv-04510 IN RE: CHIHEAN JONES",
@@ -19435,5 +19424,60 @@
     "case_num": "5:26-cv-05524",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133&5",
+    "title": "5:26-cv-05538 CAIN-WILLIAMS v. DOLLAR TREE STORES, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133",
+    "date": "2026-08-04T21:38:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05538",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659132&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659132&5",
+    "title": "2:26-cv-05537 DE LAGE FINANCIAL SERVICES, INC. v. STANDARD OPTIC GENERAL SERVICES CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659132",
+    "date": "2026-08-04T20:51:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05537",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659131&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659131&8",
+    "title": "2:26-cv-05536 mitchell v. COLLINGDALE BOROUGH OF PA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659131",
+    "date": "2026-08-04T19:55:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05536",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658728&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658728&25",
+    "title": "2:26-cv-05304 BOBRICK WASHROOM EQUIPMENT, INC. v. TRAVELERS PROPERTY CASUALTY COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658728",
+    "date": "2026-08-04T19:11:06-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05304",
+    "entry_type": "Memorandum",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645016&318": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645016&318",
+    "title": "2:25-cr-00455-1 USA v. SHACKLEFORD et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645016",
+    "date": "2026-08-04T18:33:44-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00455",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "89"
   }
 }
