@@ -19424,5 +19424,27 @@
     "case_num": "2:25-cv-06017",
     "entry_type": "Memorandum",
     "doc_num": "74"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&203": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&203",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-08-05T22:56:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Memorandum",
+    "doc_num": "76"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&201": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&201",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-08-05T22:51:57-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Seal",
+    "doc_num": "75"
   }
 }
