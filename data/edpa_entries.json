@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657476&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657476&5",
-    "title": "2:26-cv-04692 EHLY v. TRANS UNION, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657476",
-    "date": "2026-07-06T18:40:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04692",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642606&124": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642606&124",
     "title": "2:25-cv-04802 BENAC v. ECI SOFTWARE SOLUTIONS, INC.",
@@ -19,17 +8,6 @@
     "category": "opinions",
     "case_num": "2:25-cv-04802",
     "entry_type": "Memorandum",
-    "doc_num": "49"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631968&172": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631968&172",
-    "title": "2:25-cr-00005-1 USA v. GARCIA-INFANTE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631968",
-    "date": "2026-07-06T19:50:42-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00005",
-    "entry_type": "Sentencing Memorandum",
     "doc_num": "49"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624198&1011": {
@@ -19347,5 +19325,82 @@
     "case_num": "5:26-cv-05563",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&66": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&66",
+    "title": "2:26-cv-01652 FILUS  v. WEILHEIMER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686",
+    "date": "2026-08-05T19:43:39-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01652",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&64": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&64",
+    "title": "2:26-cv-01652 FILUS  v. WEILHEIMER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686",
+    "date": "2026-08-05T19:39:11-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01652",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2696": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2696",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-05T18:04:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum",
+    "doc_num": "825"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13383": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13383",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-05T17:59:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4814"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2693": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2693",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-05T17:57:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum",
+    "doc_num": "824"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2690": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2690",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-05T17:56:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum",
+    "doc_num": "823"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13380": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13380",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-05T17:51:52-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4813"
   }
 }
