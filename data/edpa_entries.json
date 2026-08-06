@@ -175,17 +175,6 @@
     "entry_type": "Sentencing Memorandum",
     "doc_num": "22"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601270&562": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601270&562",
-    "title": "2:22-cr-00340-1 USA v. WATTS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?601270",
-    "date": "2026-07-07T07:42:33-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:22-cr-00340",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "141"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647023&73": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647023&73",
     "title": "2:25-cv-06872 OJO v. DEVEREAUX ADVANCED BEHAVIORAL HEALTH, ET AL",
