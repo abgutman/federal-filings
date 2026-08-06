@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642606&124": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642606&124",
-    "title": "2:25-cv-04802 BENAC v. ECI SOFTWARE SOLUTIONS, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642606",
-    "date": "2026-07-06T23:22:11-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04802",
-    "entry_type": "Memorandum",
-    "doc_num": "49"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624198&1011": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624198&1011",
     "title": "2:24-cr-00253-8 USA v. WILLIAMS, et al",
@@ -19402,5 +19391,38 @@
     "case_num": "2:16-md-02724",
     "entry_type": "Memorandum",
     "doc_num": "4813"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2707": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2707",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-05T20:32:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum",
+    "doc_num": "830"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13392": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13392",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-05T20:28:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4818"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&243": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&243",
+    "title": "2:25-cv-06017 STATESIDE BRANDS LLC v. ANHEUSER-BUSCH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160",
+    "date": "2026-08-05T20:19:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06017",
+    "entry_type": "Memorandum",
+    "doc_num": "74"
   }
 }
