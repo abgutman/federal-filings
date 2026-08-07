@@ -21,17 +21,6 @@
     "entry_type": "Memorandum",
     "doc_num": "469"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657620&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657620&6",
-    "title": "2:26-cv-04766 Harris v. CEDARBROOK PLAZA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657620",
-    "date": "2026-07-08T19:07:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04766",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652530&38": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652530&38",
     "title": "5:26-cv-02238 ESCOBEDO-SILVA v. ABRAXAS ACADEMY et al",
@@ -19622,5 +19611,38 @@
     "case_num": "2:25-cv-00349",
     "entry_type": "Memorandum",
     "doc_num": "140"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659427&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659427&3",
+    "title": "2:26-cv-05675 RODRIQUEZ v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659427",
+    "date": "2026-08-07T18:23:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05675",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659426&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659426&7",
+    "title": "2:26-cv-05674 FILATOVA v. BORROMEO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659426",
+    "date": "2026-08-07T18:14:19-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05674",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659425&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659425&8",
+    "title": "2:26-cv-05673 MAXWELL-BRENNER v. MAGNIT, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659425",
+    "date": "2026-08-07T18:06:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05673",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
