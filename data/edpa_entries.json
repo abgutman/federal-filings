@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654849&43": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654849&43",
-    "title": "2:26-cv-03364 DUDLEY v. FOLLO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654849",
-    "date": "2026-07-08T17:51:26-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03364",
-    "entry_type": "Memorandum",
-    "doc_num": "16"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643057&259": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643057&259",
     "title": "5:25-cr-00386-1 USA v. LAISS",
@@ -19589,5 +19578,49 @@
     "case_num": "5:26-cv-05645",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659423&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659423&4",
+    "title": "5:26-cv-05671 CRUM & FORSTER SPECIALTY INS. CO., v. FIDEL & GONZALO GARCIA DBA G&F REMODELING, LLC;  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659423",
+    "date": "2026-08-07T17:27:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05671",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659406&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659406&6",
+    "title": "2:26-cv-05663 THOMAS v. JBS SOUDERTON, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659406",
+    "date": "2026-08-07T17:08:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05663",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585555&120": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585555&120",
+    "title": "2:21-cr-00222-1 USA v. DONALDSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?585555",
+    "date": "2026-08-07T17:08:47-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:21-cr-00222",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&366": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&366",
+    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
+    "date": "2026-08-07T17:08:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00349",
+    "entry_type": "Memorandum",
+    "doc_num": "140"
   }
 }
