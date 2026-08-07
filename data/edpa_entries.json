@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657591&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657591&5",
-    "title": "2:26-cv-04750 MARJANOVIC-SHANE v. ALLSTATE  INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657591",
-    "date": "2026-07-08T12:35:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04750",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657589&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657589&3",
-    "title": "2:26-cv-04748 NADIRADZE v. GHR HEALTHCARE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657589",
-    "date": "2026-07-08T12:19:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04748",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908&3628": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908&3628",
     "title": "2:25-cr-00460-38 USA v. MORALES NIEVES, et al",
@@ -141,17 +119,6 @@
     "case_num": "5:26-cv-00871",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657593&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657593&4",
-    "title": "2:26-cv-04753 ROCKEFELLER PHOTOS, LLC v. MURPHY ACQUISITION GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657593",
-    "date": "2026-07-08T12:48:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04753",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627611&169": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627611&169",
@@ -690,17 +657,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-04751",
     "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657640&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657640&4",
-    "title": "5:26-cv-04753 ROCKEFELLER PHOTOS, LLC v. MURPHY ACQUISITION GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657640",
-    "date": "2026-07-08T12:48:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04753",
-    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657652&6": {
@@ -19468,5 +19424,115 @@
     "case_num": "2:26-cr-00357",
     "entry_type": "Warrant",
     "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659342&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659342&3",
+    "title": "2:26-cv-05631 SOULSBY v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659342",
+    "date": "2026-08-07T12:46:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05631",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659339&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659339&12",
+    "title": "2:26-cv-05621 ABDULLAEV v. FDC PHILADELPHIA (WARDEN) et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659339",
+    "date": "2026-08-07T12:40:53-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-05621",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659328&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659328&7",
+    "title": "2:26-cv-05628 STEELMAN v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659328",
+    "date": "2026-08-07T12:26:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05628",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335&37": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335&37",
+    "title": "5:26-cr-00364-2 USA v. FERNANDEZ-MULERO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335",
+    "date": "2026-08-07T12:17:29-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "5:26-cr-00364",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335&34": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335&34",
+    "title": "5:26-cr-00364-2 USA v. FERNANDEZ-MULERO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335",
+    "date": "2026-08-07T12:16:01-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "5:26-cr-00364",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659338&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659338&6",
+    "title": "2:26-cv-05630 LEVIN v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659338",
+    "date": "2026-08-07T12:14:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05630",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334&32",
+    "title": "5:26-cr-00364-1 USA v. FERNANDEZ-MULERO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334",
+    "date": "2026-08-07T12:14:43-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "5:26-cr-00364",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334&29": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334&29",
+    "title": "5:26-cr-00364-1 USA v. FERNANDEZ-MULERO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334",
+    "date": "2026-08-07T12:12:49-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "5:26-cr-00364",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334&11",
+    "title": "5:26-cr-00364-1 USA v. FERNANDEZ-MULERO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659334",
+    "date": "2026-08-07T12:08:01-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "5:26-cr-00364",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335&11",
+    "title": "5:26-cr-00364-2 USA v. FERNANDEZ-MULERO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659335",
+    "date": "2026-08-07T12:08:01-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "5:26-cr-00364",
+    "entry_type": "Indictment",
+    "doc_num": "1"
   }
 }
