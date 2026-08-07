@@ -21,83 +21,6 @@
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&62": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108&62",
-    "title": "2:26-cv-02070 MOYER v. WASTE CONNECTIONS OF PENNSYLVANIA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652108",
-    "date": "2026-07-08T12:00:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02070",
-    "entry_type": "Memorandum",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&947": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&947",
-    "title": "2:24-cv-01091 ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. BY AND THROUGH DIANE MARIE FUNKHOUSER ADMINISTRATOR OF THE ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. v. DELAWARE COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954",
-    "date": "2026-07-08T11:53:34-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-01091",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "184"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&945": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954&945",
-    "title": "2:24-cv-01091 ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. BY AND THROUGH DIANE MARIE FUNKHOUSER ADMINISTRATOR OF THE ESTATE OF ELLIOTT NAYTHAN FUNKHOUSER, SR. v. DELAWARE COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?619954",
-    "date": "2026-07-08T11:45:17-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-01091",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "183"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&22": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&22",
-    "title": "2:26-cv-04734 LEIVA-TUT v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555",
-    "date": "2026-07-08T11:33:19-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04734",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "4"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657581&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657581&7",
-    "title": "2:26-cv-04745 STRICKLAND v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657581",
-    "date": "2026-07-08T11:18:20-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04745",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657580&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657580&7",
-    "title": "2:26-cv-04744 DIEBEL v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657580",
-    "date": "2026-07-08T11:02:32-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04744",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906&274": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906&274",
-    "title": "2:25-cv-04773 HILL v. HENSLEY, et al.,",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642906",
-    "date": "2026-07-08T11:02:05-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04773",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "77"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908&3628": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656908&3628",
     "title": "2:25-cr-00460-38 USA v. MORALES NIEVES, et al",
@@ -19369,5 +19292,181 @@
     "case_num": "5:26-cv-05610",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659332&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659332&6",
+    "title": "2:26-cv-05629 GABLE v. NATIONWIDE PROPERTY AND CASUALTY d/b/a NATIONWIDE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659332",
+    "date": "2026-08-07T11:58:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05629",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&83": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&83",
+    "title": "2:26-cv-03469 FRY v. FRY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327",
+    "date": "2026-08-07T11:34:29-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-03469",
+    "entry_type": "Seal",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659327&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659327&7",
+    "title": "2:26-cv-05626 BALEVRE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659327",
+    "date": "2026-08-07T11:28:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05626",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647630&47": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647630&47",
+    "title": "2:25-cv-07120 CLAXTON v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647630",
+    "date": "2026-08-07T11:22:52-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07120",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647630&45": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647630&45",
+    "title": "2:25-cv-07120 CLAXTON v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647630",
+    "date": "2026-08-07T11:20:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07120",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659326&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659326&7",
+    "title": "2:26-cv-05625 FRANTZ v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659326",
+    "date": "2026-08-07T11:18:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05625",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659325&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659325&7",
+    "title": "2:26-cv-05624 RAMOS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659325",
+    "date": "2026-08-07T11:09:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05624",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602165&297": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602165&297",
+    "title": "2:22-cv-04264 MILLER v. EVANS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602165",
+    "date": "2026-08-07T11:08:54-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-04264",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "90"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1476": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1476",
+    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
+    "date": "2026-08-07T11:07:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04221",
+    "entry_type": "Memorandum",
+    "doc_num": "490"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659323&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659323&56",
+    "title": "2:26-cr-00363-1 USA v. LANG",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659323",
+    "date": "2026-08-07T11:06:35-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00363",
+    "entry_type": "Indictment",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659324&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659324&4",
+    "title": "2:26-cv-05623 TURAY v. MELMARK INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659324",
+    "date": "2026-08-07T11:06:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05623",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659321&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659321&7",
+    "title": "2:26-cv-05622 CABRERA v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659321",
+    "date": "2026-08-07T11:02:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05622",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1474": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1474",
+    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
+    "date": "2026-08-07T10:59:40-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:24-cv-04221",
+    "entry_type": "Seal",
+    "doc_num": "489"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602165&295": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602165&295",
+    "title": "2:22-cv-04264 MILLER v. EVANS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602165",
+    "date": "2026-08-07T10:59:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-04264",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "89"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&18",
+    "title": "2:26-cr-00357-1 USA v. BUSSEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232",
+    "date": "2026-08-06T12:04:24-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00357",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&15",
+    "title": "2:26-cr-00357-1 USA v. BUSSEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232",
+    "date": "2026-08-06T12:02:08-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00357",
+    "entry_type": "Warrant",
+    "doc_num": ""
   }
 }
