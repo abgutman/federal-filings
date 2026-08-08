@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657686&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657686&4",
-    "title": "2:26-cv-04788 PAGANO v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657686",
-    "date": "2026-07-09T17:02:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04788",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657685&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657685&4",
-    "title": "2:26-cv-04787 HARLEY v. MITCHELL & NESS NOSTALGIA CO. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657685",
-    "date": "2026-07-09T17:01:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04787",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654344&32": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654344&32",
-    "title": "2:26-cv-03123 ALLEN v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654344",
-    "date": "2026-07-09T16:45:12-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03123",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654344&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654344&30",
-    "title": "2:26-cv-03123 ALLEN v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654344",
-    "date": "2026-07-09T16:38:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03123",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "8"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693&4",
     "title": "2:26-cv-04712 ALTARABULSI v. ALHADDAD",
