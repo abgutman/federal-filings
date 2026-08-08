@@ -10,50 +10,6 @@
     "entry_type": "Complaint",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&33",
-    "title": "2:26-cv-04734 LEIVA-TUT v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555",
-    "date": "2026-07-09T11:44:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04734",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641590&155": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641590&155",
-    "title": "2:25-cr-00329-1 USA v. COULBOURNE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641590",
-    "date": "2026-07-09T11:42:52-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00329",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "47"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&31": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555&31",
-    "title": "2:26-cv-04734 LEIVA-TUT v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657555",
-    "date": "2026-07-09T11:42:09-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04734",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657648&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657648&6",
-    "title": "2:26-cv-04770 WALKER v. CONNOLLY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657648",
-    "date": "2026-07-09T11:40:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04770",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674&3",
     "title": "2:26-cv-04778 JACKSON v. AVIS BUDGET, INC.",
