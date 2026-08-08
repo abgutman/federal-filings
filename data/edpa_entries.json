@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652530&38": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652530&38",
-    "title": "5:26-cv-02238 ESCOBEDO-SILVA v. ABRAXAS ACADEMY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652530",
-    "date": "2026-07-09T11:02:24-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:26-cv-02238",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628385&131": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628385&131",
-    "title": "2:24-cv-05361 HOLLOWAY v. CLEMENS FOOD GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628385",
-    "date": "2026-07-09T10:56:19-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-05361",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "47"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628385&129": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628385&129",
-    "title": "2:24-cv-05361 HOLLOWAY v. CLEMENS FOOD GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628385",
-    "date": "2026-07-09T10:54:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-05361",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "46"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643147&182": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643147&182",
-    "title": "2:25-cv-05073 MDR UNITED LLC v. FLEX NINE EXTERIORS LLC d/b/a NOVUS ROOFING AND EXTERIORS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643147",
-    "date": "2026-07-09T10:41:14-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05073",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "48"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657486&29": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657486&29",
-    "title": "2:26-cv-04698 ROSALES GOMEZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657486",
-    "date": "2026-07-09T10:40:28-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04698",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "7"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657652&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657652&6",
     "title": "2:26-cv-04771 WALKER v. CITY OF BROOKHAVEN et al",
@@ -108,50 +53,6 @@
     "case_num": "2:26-cv-04770",
     "entry_type": "Complaint",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657477&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657477&20",
-    "title": "2:26-cv-04693 PINEDA NAJARRO v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657477",
-    "date": "2026-07-09T11:34:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04693",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654218&36": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654218&36",
-    "title": "2:26-cv-03058 JACKSON v. WELLS FARGO BANK, N.A. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654218",
-    "date": "2026-07-09T11:30:36-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03058",
-    "entry_type": "Memorandum",
-    "doc_num": "14"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018&116": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018&116",
-    "title": "2:25-cv-05002 WALKER v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018",
-    "date": "2026-07-09T11:26:11-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05002",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "37"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018&114": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018&114",
-    "title": "2:25-cv-05002 WALKER v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643018",
-    "date": "2026-07-09T11:23:33-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05002",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "36"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674&3",
