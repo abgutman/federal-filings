@@ -164,61 +164,6 @@
     "entry_type": "Order to Show Cause",
     "doc_num": "15"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602&2369": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602&2369",
-    "title": "2:05-cr-00619-2 USA v. WRIGHT et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?197602",
-    "date": "2026-07-09T08:51:36-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:05-cr-00619",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "715"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623&9",
-    "title": "2:26-cv-04746 CAUDLE v. SOCIAL SECURITY ADMINISTRATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657623",
-    "date": "2026-07-09T08:49:51-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04746",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?281237&1894": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?281237&1894",
-    "title": "2:07-cr-00258-5 USA v. WASHINGTON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?281237",
-    "date": "2026-07-09T08:39:51-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:07-cr-00258",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "557"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643529&112": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643529&112",
-    "title": "2:25-cr-00408-1 USA v. WORRILOW, JR.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643529",
-    "date": "2026-07-09T08:36:11-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00408",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "36"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657597&25": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657597&25",
-    "title": "2:26-cv-04754 CAUDLE v. BLUE INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657597",
-    "date": "2026-07-09T08:00:39-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04754",
-    "entry_type": "Order on Motion to Show Cause",
-    "doc_num": "8"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657652&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657652&6",
     "title": "2:26-cv-04771 WALKER v. CITY OF BROOKHAVEN et al",
