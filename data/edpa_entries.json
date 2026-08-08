@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674&3",
-    "title": "2:26-cv-04778 JACKSON v. AVIS BUDGET, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657674",
-    "date": "2026-07-09T15:03:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04778",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657675&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657675&5",
-    "title": "2:26-cv-04780 DONAHUE v. TEMPLE UNIVERSITY HOSPITAL, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657675",
-    "date": "2026-07-09T15:00:26-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04780",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657686&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657686&4",
     "title": "2:26-cv-04788 PAGANO v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY et al",
@@ -119,72 +97,6 @@
     "case_num": "2:25-cv-04999",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "29"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657200&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657200&30",
-    "title": "2:26-cv-04530 LOPEZ-MORALES v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657200",
-    "date": "2026-07-09T15:27:44-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04530",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657200&28": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657200&28",
-    "title": "2:26-cv-04530 LOPEZ-MORALES v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657200",
-    "date": "2026-07-09T15:25:51-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04530",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643015&82": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643015&82",
-    "title": "2:25-cv-04999 TAYLOR v. PACKAGING COORDINATORS INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643015",
-    "date": "2026-07-09T15:25:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04999",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&46",
-    "title": "2:26-cv-04080 CABREJA v. PRICE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363",
-    "date": "2026-07-09T15:23:46-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04080",
-    "entry_type": "Memorandum",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&61": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&61",
-    "title": "2:25-cr-00441-1 USA v. PORTER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415",
-    "date": "2026-07-09T15:13:48-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00441",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657676&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657676&7",
-    "title": "2:26-cv-04781 Harris et al v. STATE FARM FIRE AND CASUALTY COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657676",
-    "date": "2026-07-09T15:10:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04781",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657693&4",
