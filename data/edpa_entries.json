@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657701&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657701&3",
-    "title": "2:26-cv-04795 MCCALL v. ADAPTHEALTH CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657701",
-    "date": "2026-07-10T03:12:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04795",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715&4",
     "title": "2:26-cv-04789 GROSSINGER v. INTERNATIONAL BUSINESS MACHINES CORPORATION",
