@@ -153,17 +153,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "36"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106&1635": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106&1635",
-    "title": "2:23-cr-00454-9 USA v. SAVAGE., ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631106",
-    "date": "2026-07-10T07:25:12-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:23-cr-00454",
-    "entry_type": "Bond Forfeiture Hearing",
-    "doc_num": "374"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657662&11",
     "title": "2:26-cr-00300-1 USA v. SMITH",
