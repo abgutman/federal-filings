@@ -76,61 +76,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "9"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657745&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657745&4",
-    "title": "2:26-cv-04810 OXENDINE v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657745",
-    "date": "2026-07-10T13:35:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04810",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195&33",
-    "title": "2:26-cv-04528 Montero v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657195",
-    "date": "2026-07-10T13:34:47-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04528",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657746&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657746&3",
-    "title": "2:26-cv-04812 LEISTER v. GLAXOSMITHKLINE LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657746",
-    "date": "2026-07-10T13:34:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04812",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657737&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657737&4",
-    "title": "2:26-cv-04808 ONITY MORTGAGE CORPORATION v. WILSON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657737",
-    "date": "2026-07-10T13:11:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04808",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657740&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657740&4",
-    "title": "2:26-cv-04809 ELGABROUNY v. EDLOW et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657740",
-    "date": "2026-07-10T13:05:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04809",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&38": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657766&38",
     "title": "2:26-cv-04815 CAUDLE v. MBMO TRUCKING INC.",
