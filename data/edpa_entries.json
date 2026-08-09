@@ -54,61 +54,6 @@
     "entry_type": "Seal",
     "doc_num": "12"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657764&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657764&5",
-    "title": "2:26-cv-04772 BURK v. WALLACE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657764",
-    "date": "2026-07-10T15:24:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04772",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&48",
-    "title": "5:25-cv-00894 ALVAREZ v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661",
-    "date": "2026-07-10T15:05:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-00894",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657687&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657687&14",
-    "title": "2:26-cv-04790 CHILEL-SANDOVAL v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657687",
-    "date": "2026-07-10T15:04:57-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04790",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661&46",
-    "title": "5:25-cv-00894 ALVAREZ v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633661",
-    "date": "2026-07-10T15:04:09-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-00894",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657762&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657762&3",
-    "title": "2:26-cv-04817 JENKINS v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657762",
-    "date": "2026-07-10T15:00:32-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04817",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657781&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657781&4",
     "title": "2:26-cv-04826 FLETCHER v. NOVO NORDISK A/S et al",
