@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2370": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2370",
-    "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532",
-    "date": "2026-07-09T22:24:27-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-md-03094",
-    "entry_type": "Seal",
-    "doc_num": "806"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657701&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657701&3",
     "title": "2:26-cv-04795 MCCALL v. ADAPTHEALTH CORP.",
@@ -20,28 +9,6 @@
     "case_num": "2:26-cv-04795",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657700&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657700&4",
-    "title": "2:26-cv-04794 Hayer v. GENERAL MOTORS LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657700",
-    "date": "2026-07-10T00:07:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04794",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635028&135": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635028&135",
-    "title": "5:25-cv-01467 LIPINSKI  et al v. NORTH-EAST DECK & STEEL SUPPLY, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635028",
-    "date": "2026-07-09T23:56:58-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-01467",
-    "entry_type": "Memorandum",
-    "doc_num": "52"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657715&4",
