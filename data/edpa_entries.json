@@ -54,28 +54,6 @@
     "entry_type": "Response to Order to Show Cause",
     "doc_num": "7"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657768&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657768&6",
-    "title": "2:26-cv-04822 RANSOM v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657768",
-    "date": "2026-07-10T18:29:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04822",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657787&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657787&3",
-    "title": "2:26-cv-04827 ORTIZ v. CROWN CORK AND SEAL COMPANY, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657787",
-    "date": "2026-07-10T18:05:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04827",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365&62": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365&62",
     "title": "2:24-cv-04823 GARCIA v. STAR POWER MARKETING GROUP, LLC",
