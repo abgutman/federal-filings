@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798&3",
-    "title": "2:26-cv-04836 NELSON v. COMPLETE CARE AT HARSTON HALL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798",
-    "date": "2026-07-11T15:18:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04836",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800&3",
     "title": "2:26-cv-04838 NELSON v. HIAS PENNSYLVANIA",
@@ -18531,6 +18520,215 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-05694",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659514&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659514&8",
+    "title": "2:26-cv-05704 WAHL et al v. STATE FARM FIRE AND CASUALTY COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659514",
+    "date": "2026-08-10T15:29:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05704",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631908&131": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631908&131",
+    "title": "2:25-cv-00092 MESI v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631908",
+    "date": "2026-08-10T15:23:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00092",
+    "entry_type": "Memorandum",
+    "doc_num": "53"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657541&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657541&33",
+    "title": "2:26-cv-04726 SALBIEV v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657541",
+    "date": "2026-08-10T15:18:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04726",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657541&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657541&31",
+    "title": "2:26-cv-04726 SALBIEV v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657541",
+    "date": "2026-08-10T15:12:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04726",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659509&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659509&3",
+    "title": "2:26-cv-05703 CEASAR v. GREENUP CONSTRUCTION & MAINTENANCE, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659509",
+    "date": "2026-08-10T15:00:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05703",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659508&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659508&4",
+    "title": "2:26-cv-05702 OVERSTREET v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659508",
+    "date": "2026-08-10T14:58:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05702",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659483&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659483&7",
+    "title": "2:26-cv-05692 CHAVEZ v. WALMART INC., d/b/a WALMART SUPERCENTER &#035;5891 et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659483",
+    "date": "2026-08-10T14:57:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05692",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638900&146": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638900&146",
+    "title": "2:25-cv-02989 ZHOU et al v. GU",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638900",
+    "date": "2026-08-10T14:56:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02989",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659507&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659507&5",
+    "title": "2:26-cv-05701 JOHNSON v. FREEDOM REAL ESTATE GROUP, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659507",
+    "date": "2026-08-10T14:55:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05701",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638900&144": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638900&144",
+    "title": "2:25-cv-02989 ZHOU et al v. GU",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638900",
+    "date": "2026-08-10T14:53:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02989",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659504&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659504&4",
+    "title": "2:26-cv-05700 ODINO v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659504",
+    "date": "2026-08-10T14:39:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05700",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656240&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656240&24",
+    "title": "2:26-cr-00270-1 USA v. LAZARRO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656240",
+    "date": "2026-08-10T14:39:06-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00270",
+    "entry_type": "Plea Agreement",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961&111": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961&111",
+    "title": "2:26-cv-00918 ABERMAN v. NEWREZ LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961",
+    "date": "2026-08-10T14:37:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00918",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617434&278": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617434&278",
+    "title": "2:24-cv-00036 JOHNSON v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617434",
+    "date": "2026-08-10T14:35:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-00036",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "102"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961&109": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961&109",
+    "title": "2:26-cv-00918 ABERMAN v. NEWREZ LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961",
+    "date": "2026-08-10T14:34:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00918",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617434&276": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617434&276",
+    "title": "2:24-cv-00036 JOHNSON v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617434",
+    "date": "2026-08-10T14:33:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-00036",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "101"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&349": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&349",
+    "title": "2:24-cr-00399-1 USA v. WILLIAMSON, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495",
+    "date": "2026-08-10T14:32:14-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00399",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "97"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659503&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659503&3",
+    "title": "2:26-cv-05699 LITTLE v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659503",
+    "date": "2026-08-10T14:29:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05699",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659502&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659502&4",
+    "title": "2:26-cv-05698 SIMONS v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659502",
+    "date": "2026-08-10T14:22:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05698",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
