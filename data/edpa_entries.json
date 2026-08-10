@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365&62": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365&62",
-    "title": "2:24-cv-04823 GARCIA v. STAR POWER MARKETING GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627365",
-    "date": "2026-07-10T22:01:01-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:24-cv-04823",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657793&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657793&4",
-    "title": "2:26-cv-04831 PEOPLES v. MONARCH RECOVERY MANAGEMENT, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657793",
-    "date": "2026-07-10T21:40:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04831",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797&3",
     "title": "2:26-cv-04835 FOWLER v. TEMPLE UNIVERSITY HOSPITAL",
@@ -18104,5 +18082,16 @@
     "case_num": "2:24-cr-00399",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "96"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659432&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659432&4",
+    "title": "2:26-cv-05680 ELLISON-MCCARVER v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659432",
+    "date": "2026-08-09T22:09:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05680",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
