@@ -18786,5 +18786,126 @@
     "case_num": "5:26-cr-00364",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659527&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659527&4",
+    "title": "2:26-cv-05713 FOYE v. ENIGMA MEDI SPA & PLASTIC SURGERY LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659527",
+    "date": "2026-08-10T18:06:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05713",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659523&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659523&4",
+    "title": "2:26-cv-05709 MAIDA et al v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659523",
+    "date": "2026-08-10T17:56:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05709",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640369&220": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640369&220",
+    "title": "5:25-cv-03598 MOONEY v. AINSWORTH, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640369",
+    "date": "2026-08-10T17:35:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-03598",
+    "entry_type": "Memorandum",
+    "doc_num": "77"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640369&216": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640369&216",
+    "title": "5:25-cv-03598 MOONEY v. AINSWORTH, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640369",
+    "date": "2026-08-10T17:31:46-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:25-cv-03598",
+    "entry_type": "Seal Document",
+    "doc_num": "75"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648433&1354": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648433&1354",
+    "title": "2:26-cr-00023-13 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648433",
+    "date": "2026-08-10T17:22:28-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Plea Agreement",
+    "doc_num": "284"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659526&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659526&4",
+    "title": "2:26-cv-05712 WARD v. HOMECENTRIS HEALTHCARE, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659526",
+    "date": "2026-08-10T17:21:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05712",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&28",
+    "title": "2:26-cv-05611 RUBICON TECHNOLOGIES, LLC. v. OWSTON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285",
+    "date": "2026-08-10T17:13:59-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05611",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659522&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659522&5",
+    "title": "2:26-cv-05708 Woods v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659522",
+    "date": "2026-08-10T17:13:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05708",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659524&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659524&4",
+    "title": "2:26-cv-05710 DEVARGAS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659524",
+    "date": "2026-08-10T17:12:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05710",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659525&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659525&4",
+    "title": "2:26-cv-05711 SMITH v. UHS OF DOYLESTOWN, LLC d/b/a FOUNDATIONS BEHAVIORAL HEALTH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659525",
+    "date": "2026-08-10T17:10:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05711",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655212&66": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655212&66",
+    "title": "2:26-cv-03532 HENLEY v. TRANS UNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655212",
+    "date": "2026-08-10T17:09:51-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03532",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "23"
   }
 }
