@@ -18247,5 +18247,126 @@
     "case_num": "2:26-cv-03314",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659476&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659476&4",
+    "title": "2:26-cv-05614 SZUSTOWICZ v. INDEPENDENCE PERSONAL CHOICE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659476",
+    "date": "2026-08-10T12:15:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05614",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172&95": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172&95",
+    "title": "5:25-cv-04619 Godbey v. CITY OF BETHLEHEM et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172",
+    "date": "2026-08-10T12:08:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-04619",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172&93": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172&93",
+    "title": "5:25-cv-04619 Godbey v. CITY OF BETHLEHEM et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642172",
+    "date": "2026-08-10T11:52:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-04619",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632327&248": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632327&248",
+    "title": "2:25-cr-00021-1 USA v. HATCH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632327",
+    "date": "2026-08-10T11:18:19-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00021",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659467&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659467&4",
+    "title": "2:26-cv-05688 COLEY v. GEICO ADVANTAGE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659467",
+    "date": "2026-08-10T11:03:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05688",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659307&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659307&44",
+    "title": "2:26-cr-00359-1 USA v. SUSSWELL-DONALDSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659307",
+    "date": "2026-08-10T11:00:38-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00359",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659451&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659451&4",
+    "title": "2:26-cv-05685 Keetin v. Riverwalk Apartments et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659451",
+    "date": "2026-08-10T10:57:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05685",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&59": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&59",
+    "title": "2:26-cr-00357-1 USA v. BUSSEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232",
+    "date": "2026-08-10T10:54:45-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00357",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659466&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659466&3",
+    "title": "5:26-cv-05687 Tooley v. CITY OF ALLENTOWN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659466",
+    "date": "2026-08-10T10:27:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05687",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659454&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659454&5",
+    "title": "2:26-cv-05686 CIABATONI v. NOCELLA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659454",
+    "date": "2026-08-10T10:19:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05686",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634894&245": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634894&245",
+    "title": "2:25-cv-01235 BACON  v. CLARK et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634894",
+    "date": "2026-08-10T10:19:42-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:25-cv-01235",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "83"
   }
 }
