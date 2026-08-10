@@ -18368,5 +18368,82 @@
     "case_num": "2:25-cv-01235",
     "entry_type": "Order on Motion for Preliminary Injunction",
     "doc_num": "83"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659486&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659486&4",
+    "title": "2:26-cv-05693 SPINKS v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659486",
+    "date": "2026-08-10T13:16:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05693",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659482&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659482&4",
+    "title": "2:26-cv-05691 FRANK v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659482",
+    "date": "2026-08-10T13:04:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05691",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624193&1077": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624193&1077",
+    "title": "2:24-cr-00253-3 USA v. WILLIAMS, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624193",
+    "date": "2026-08-10T13:01:32-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00253",
+    "entry_type": "Plea Agreement",
+    "doc_num": "241"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635534&102": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635534&102",
+    "title": "2:25-cv-01630 Chavez-DeRemer v. Giovannis IV Restaurant, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635534",
+    "date": "2026-08-10T12:54:55-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-01630",
+    "entry_type": "Seal Document",
+    "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&214": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&214",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-08-10T12:52:52-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "80"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659166&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659166&33",
+    "title": "2:26-cv-05554 Osmani v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659166",
+    "date": "2026-08-10T12:28:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05554",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659166&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659166&31",
+    "title": "2:26-cv-05554 Osmani v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659166",
+    "date": "2026-08-10T12:24:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05554",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
   }
 }
