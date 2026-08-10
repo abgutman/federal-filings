@@ -18907,5 +18907,16 @@
     "case_num": "2:26-cv-03532",
     "entry_type": "Order to Show Cause",
     "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659528&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659528&3",
+    "title": "2:26-cv-05714 FRANKLIN v. ANNUITY HEALTH HOLDINGS LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659528",
+    "date": "2026-08-10T18:19:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05714",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
