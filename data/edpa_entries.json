@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797&3",
-    "title": "2:26-cv-04835 FOWLER v. TEMPLE UNIVERSITY HOSPITAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657797",
-    "date": "2026-07-11T14:19:55-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04835",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657795&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657795&3",
-    "title": "2:26-cv-04833 DERRY  v. STAR HOME CARE PROVIDERS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657795",
-    "date": "2026-07-11T13:58:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04833",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657798&3",
     "title": "2:26-cv-04836 NELSON v. COMPLETE CARE AT HARSTON HALL",
@@ -18445,5 +18423,115 @@
     "case_num": "2:26-cv-05554",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659501&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659501&4",
+    "title": "2:26-cv-05697 TOTHEROW v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659501",
+    "date": "2026-08-10T14:16:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05697",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659500&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659500&4",
+    "title": "2:26-cv-05696 FISCHER v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659500",
+    "date": "2026-08-10T14:09:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05696",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657092&50": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657092&50",
+    "title": "2:26-cv-04450 ROBINSON v. BRANDYWINE STATION LP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657092",
+    "date": "2026-08-10T13:53:40-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04450",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655680&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655680&22",
+    "title": "2:26-cv-03726 ZARROW v. DALESSIO ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655680",
+    "date": "2026-08-10T13:52:11-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03726",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655680&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655680&20",
+    "title": "2:26-cv-03726 ZARROW v. DALESSIO ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655680",
+    "date": "2026-08-10T13:45:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03726",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642626&157": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642626&157",
+    "title": "5:25-cr-00366-1 USA v. HELLER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642626",
+    "date": "2026-08-10T13:41:43-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "5:25-cr-00366",
+    "entry_type": "Plea Agreement",
+    "doc_num": "48"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635534&104": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635534&104",
+    "title": "2:25-cv-01630 Chavez-DeRemer v. Giovannis IV Restaurant, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635534",
+    "date": "2026-08-10T13:36:56-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-01630",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646373&77": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646373&77",
+    "title": "2:25-cv-06541 BERNAL-GUZMAN v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646373",
+    "date": "2026-08-10T13:29:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06541",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646373&75": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646373&75",
+    "title": "2:25-cv-06541 BERNAL-GUZMAN v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646373",
+    "date": "2026-08-10T13:27:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06541",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659487&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659487&4",
+    "title": "2:26-cv-05694 TEAGUE v. LETIZIO, DO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659487",
+    "date": "2026-08-10T13:23:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05694",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
