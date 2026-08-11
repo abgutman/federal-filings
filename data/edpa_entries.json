@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657803&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657803&3",
-    "title": "2:26-cv-04841 Michalkiewicz v. Commissioner of Social Security",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657803",
-    "date": "2026-07-12T17:32:26-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04841",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182&26": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182&26",
     "title": "2:26-cv-03972 MARQUIS  v. PIEDMONT AIRLINES",
@@ -19862,6 +19851,138 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-05749",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659620&36": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659620&36",
+    "title": "2:26-cr-00372-1 USA v. ARMANZA-MORALES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659620",
+    "date": "2026-08-11T17:22:47-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00372",
+    "entry_type": "Indictment",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659618&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659618&7",
+    "title": "2:26-cv-05769 OSBORNE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659618",
+    "date": "2026-08-11T17:06:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05769",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659617&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659617&53",
+    "title": "2:26-cr-00374-1 USA v. LOUIS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659617",
+    "date": "2026-08-11T17:05:06-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00374",
+    "entry_type": "Indictment",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659615&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659615&7",
+    "title": "2:26-cv-05768 MILLER v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659615",
+    "date": "2026-08-11T16:59:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05768",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655128&37": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655128&37",
+    "title": "2:26-cv-03494 LONDON v. MILLIMAN, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655128",
+    "date": "2026-08-11T16:53:55-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03494",
+    "entry_type": "Show Cause",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659614&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659614&7",
+    "title": "2:26-cv-05767 SPRING v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659614",
+    "date": "2026-08-11T16:52:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05767",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638375&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638375&81",
+    "title": "2:25-cv-02763 Lento Law Group PC et al v. ESTRADA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638375",
+    "date": "2026-08-11T16:51:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02763",
+    "entry_type": "Memorandum",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659613&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659613&7",
+    "title": "2:26-cv-05766 LAMPKIN v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659613",
+    "date": "2026-08-11T16:45:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05766",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659606&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659606&4",
+    "title": "2:26-cv-05763 HARRIS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659606",
+    "date": "2026-08-11T16:43:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05763",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659609&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659609&7",
+    "title": "2:26-cv-05764 MONTGOMERY v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659609",
+    "date": "2026-08-11T16:37:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05764",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659612&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659612&4",
+    "title": "2:26-cr-00371-1 USA v. ARMANZA-MORALES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659612",
+    "date": "2026-08-11T16:35:14-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00371",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659603&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659603&7",
+    "title": "2:26-cv-05762 Kinnamon",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659603",
+    "date": "2026-08-11T16:33:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05762",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
