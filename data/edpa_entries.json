@@ -18918,5 +18918,27 @@
     "case_num": "2:26-cv-05714",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659529&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659529&9",
+    "title": "2:26-cv-05715 Santiago v. PRIME CARE MEDICAL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659529",
+    "date": "2026-08-10T21:50:47-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05715",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1362": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1362",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-08-10T20:47:31-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Seal",
+    "doc_num": "496"
   }
 }
