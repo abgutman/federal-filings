@@ -19985,5 +19985,38 @@
     "case_num": "2:26-cv-05762",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659621&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659621&3",
+    "title": "2:26-cv-05770 MCMULLEN v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659621",
+    "date": "2026-08-11T17:55:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05770",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&119": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&119",
+    "title": "2:25-cr-00401-1 USA v. MARTINS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413",
+    "date": "2026-08-11T17:35:55-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00401",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&353": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&353",
+    "title": "2:24-cr-00399-1 USA v. WILLIAMSON, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495",
+    "date": "2026-08-11T17:34:33-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:24-cr-00399",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "99"
   }
 }
