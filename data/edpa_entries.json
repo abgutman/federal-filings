@@ -18951,5 +18951,49 @@
     "case_num": "2:26-cv-05719",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&425": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&425",
+    "title": "2:25-cv-02384 Adair et al v. Cigna Corporate Services, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412",
+    "date": "2026-08-11T10:14:35-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02384",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "145"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638249&501": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638249&501",
+    "title": "2:25-cr-00042-4 USA v. IRBY, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638249",
+    "date": "2026-08-11T09:46:09-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00042",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "136"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659537&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659537&5",
+    "title": "2:26-cv-05670 WILLIAMS v. NW CINGULAR WIRELESS PCS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659537",
+    "date": "2026-08-11T09:37:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05670",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&369": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&369",
+    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
+    "date": "2026-08-11T09:32:45-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-00349",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "141"
   }
 }
