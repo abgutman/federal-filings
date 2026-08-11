@@ -18940,5 +18940,16 @@
     "case_num": "2:22-cv-00315",
     "entry_type": "Seal",
     "doc_num": "496"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659535&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659535&3",
+    "title": "2:26-cv-05719 CLEMONS v. CUSHMAN & WAKEFIELD U.S., INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659535",
+    "date": "2026-08-11T08:20:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05719",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
