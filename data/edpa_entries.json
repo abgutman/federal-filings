@@ -142,39 +142,6 @@
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657712&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657712&12",
-    "title": "2:26-cv-04799 Sirirattanaprasert v. MCSHANE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657712",
-    "date": "2026-07-13T09:20:35-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04799",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657307&25": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657307&25",
-    "title": "2:26-cv-04582 HARTLAUB et al v. MICO INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657307",
-    "date": "2026-07-13T09:16:03-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04582",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594985&449": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594985&449",
-    "title": "2:22-cv-01074 OKPOR v. WILLIAMS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594985",
-    "date": "2026-07-13T09:08:52-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:22-cv-01074",
-    "entry_type": "Memorandum",
-    "doc_num": "147"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657824&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657824&4",
     "title": "2:26-cv-04851 KENNEDY v. NOVO NORDISK INC., et al",
@@ -20072,6 +20039,39 @@
     "category": "complaints",
     "case_num": "5:26-cv-05773",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612571&548": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612571&548",
+    "title": "2:23-cv-03111 LIN v. LEES HOUSE RESTAURANT INC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612571",
+    "date": "2026-08-12T08:38:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-03111",
+    "entry_type": "Memorandum",
+    "doc_num": "197"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649133&73": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649133&73",
+    "title": "2:26-cv-00601 MARSHALL v. PATENAUDE & FELIX, P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649133",
+    "date": "2026-08-12T08:29:52-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00601",
+    "entry_type": "Memorandum",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659630&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659630&5",
+    "title": "2:26-cr-00373-1 USA v. MANSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659630",
+    "date": "2026-08-12T08:20:08-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00373",
+    "entry_type": "Indictment",
     "doc_num": "1"
   }
 }
