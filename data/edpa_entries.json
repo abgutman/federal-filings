@@ -10,61 +10,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657859&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657859&4",
-    "title": "2:26-cv-04820 GROSSINGER  v. GOOGLE LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657859",
-    "date": "2026-07-13T18:47:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04820",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624195&1019": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624195&1019",
-    "title": "2:24-cr-00253-5 USA v. WILLIAMS, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624195",
-    "date": "2026-07-13T18:25:25-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00253",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "227"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657855&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657855&3",
-    "title": "2:26-cv-04868 PRICE v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657855",
-    "date": "2026-07-13T18:20:30-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04868",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574&125": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574&125",
-    "title": "2:26-cv-00805 Ultimo Global Holdings, LLC et al v. RC-1, Inc.et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574",
-    "date": "2026-07-13T17:58:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00805",
-    "entry_type": "Memorandum",
-    "doc_num": "46"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354&475": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354&475",
-    "title": "2:25-cr-00077-4 USA v. VERAS-REGALADO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354",
-    "date": "2026-07-13T17:55:41-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00077",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "120"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2589": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2589",
     "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
