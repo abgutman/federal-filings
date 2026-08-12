@@ -20051,5 +20051,16 @@
     "case_num": "2:26-cv-05771",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&431": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&431",
+    "title": "2:25-cv-02384 Adair et al v. Cigna Corporate Services, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412",
+    "date": "2026-08-11T22:45:27-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02384",
+    "entry_type": "Seal Document",
+    "doc_num": "148"
   }
 }
