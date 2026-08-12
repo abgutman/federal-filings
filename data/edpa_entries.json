@@ -1,92 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657824&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657824&4",
-    "title": "2:26-cv-04851 KENNEDY v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657824",
-    "date": "2026-07-13T12:45:04-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04851",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229&161": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229&161",
-    "title": "2:25-cv-01918 PENNMARK COVENTRY HOLDINGS, LLC v. KOHL&#039;S DEPARTMENT STORES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229",
-    "date": "2026-07-13T12:31:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01918",
-    "entry_type": "Memorandum",
-    "doc_num": "61"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657822&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657822&3",
-    "title": "2:26-cv-04777 IN RE: ISAIAH COOPER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657822",
-    "date": "2026-07-13T12:26:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04777",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657094&26": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657094&26",
-    "title": "2:26-cv-04457 QUIZHPILEMA ALLAICO v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657094",
-    "date": "2026-07-13T12:24:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04457",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657821&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657821&6",
-    "title": "2:26-cv-04850 BESASH v. HARLEYSVILLE MATERIALS, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657821",
-    "date": "2026-07-13T12:23:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04850",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657094&24": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657094&24",
-    "title": "2:26-cv-04457 QUIZHPILEMA ALLAICO v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657094",
-    "date": "2026-07-13T12:20:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04457",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801&10",
-    "title": "2:26-cv-04839 Batuk v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657801",
-    "date": "2026-07-13T12:18:15-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04839",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657819&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657819&7",
-    "title": "2:26-cv-04848 Cohen et al v. STATE FARM FIRE AND CASUALTY COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657819",
-    "date": "2026-07-13T12:08:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04848",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655466&28": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655466&28",
     "title": "5:26-cv-03600 ADAMS  v. ST. LUKES UNIVERSITY HEALTH NETWORK et al",
@@ -206,83 +118,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-04857",
     "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&62": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363&62",
-    "title": "2:26-cv-04080 CABREJA v. PRICE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656363",
-    "date": "2026-07-13T13:53:29-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04080",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657765&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657765&4",
-    "title": "2:26-cv-04819 KIM v. VELAZQUEZ et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657765",
-    "date": "2026-07-13T13:36:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04819",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638971&148": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638971&148",
-    "title": "2:25-cr-00250-1 USA v. DA-SILVA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638971",
-    "date": "2026-07-13T13:23:39-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00250",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "36"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657829&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657829&3",
-    "title": "2:26-cv-04854 CM REGENT INSURANCE COMPANY v. WELLS FARGO BANK, N.A.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657829",
-    "date": "2026-07-13T13:21:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04854",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229&164": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229&164",
-    "title": "2:25-cv-01918 PENNMARK COVENTRY HOLDINGS, LLC v. KOHL&#039;S DEPARTMENT STORES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636229",
-    "date": "2026-07-13T12:56:04-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01918",
-    "entry_type": "Memorandum",
-    "doc_num": "62"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657827&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657827&3",
-    "title": "2:26-cv-04852 MORENKO v. GLOBUS MEDICAL, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657827",
-    "date": "2026-07-13T12:55:08-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04852",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657830&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657830&7",
-    "title": "5:26-cv-04848 Cohen et al v. STATE FARM FIRE AND CASUALTY COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657830",
-    "date": "2026-07-13T12:08:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04848",
-    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657831&13": {
@@ -19996,5 +19831,115 @@
     "case_num": "2:25-cv-02384",
     "entry_type": "Order on Motion to Seal Document",
     "doc_num": "150"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659645&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659645&4",
+    "title": "2:26-cv-05784 ABRAMOV v. TEMPLE UNIVERSITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659645",
+    "date": "2026-08-12T13:30:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05784",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620963&323": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620963&323",
+    "title": "2:24-cv-01487 RILEY v. OLDHAM GLOBAL, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620963",
+    "date": "2026-08-12T13:19:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01487",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "113"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620963&321": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620963&321",
+    "title": "2:24-cv-01487 RILEY v. OLDHAM GLOBAL, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620963",
+    "date": "2026-08-12T13:17:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01487",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "112"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630734&240": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630734&240",
+    "title": "2:24-cv-06461 GODSON v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630734",
+    "date": "2026-08-12T13:09:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-06461",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "82"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630734&238": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630734&238",
+    "title": "2:24-cv-06461 GODSON v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630734",
+    "date": "2026-08-12T13:07:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-06461",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "81"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659643&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659643&3",
+    "title": "2:26-cv-05785 AKUGIZIBWE v. MARKEL AMERICAN INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659643",
+    "date": "2026-08-12T12:57:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05785",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659642&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659642&15",
+    "title": "2:26-cv-05690 JACOBS v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659642",
+    "date": "2026-08-12T12:56:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05690",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659641&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659641&3",
+    "title": "2:26-cv-05783 DeSandro v. Quinn et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659641",
+    "date": "2026-08-12T12:48:47-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05783",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632240&111": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632240&111",
+    "title": "2:25-cv-00255 SOL3, LLC v. INVERSAL INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632240",
+    "date": "2026-08-12T12:03:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00255",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632240&109": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632240&109",
+    "title": "2:25-cv-00255 SOL3, LLC v. INVERSAL INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632240",
+    "date": "2026-08-12T12:01:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00255",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "39"
   }
 }
