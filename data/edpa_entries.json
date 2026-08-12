@@ -20029,5 +20029,27 @@
     "case_num": "2:25-cr-00401",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659623&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659623&4",
+    "title": "2:26-cv-05772 DELUCA v. JOHN KENNEDY SUBARU, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659623",
+    "date": "2026-08-11T21:06:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05772",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659622&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659622&5",
+    "title": "2:26-cv-05771  v. KRASNER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659622",
+    "date": "2026-08-11T19:54:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05771",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
