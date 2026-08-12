@@ -65,50 +65,6 @@
     "entry_type": "Sentencing Memorandum",
     "doc_num": "120"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574&122": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574&122",
-    "title": "2:26-cv-00805 Ultimo Global Holdings, LLC et al v. RC-1, Inc.et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574",
-    "date": "2026-07-13T17:44:01-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00805",
-    "entry_type": "Memorandum",
-    "doc_num": "45"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657045&41": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657045&41",
-    "title": "2:26-cv-04429 CONTRERAS-GELVES v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657045",
-    "date": "2026-07-13T17:41:50-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04429",
-    "entry_type": "Memorandum",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657854&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657854&6",
-    "title": "2:26-cv-04867 PETERS v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657854",
-    "date": "2026-07-13T17:17:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04867",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657852&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657852&5",
-    "title": "2:26-cv-04865 SCOTT v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657852",
-    "date": "2026-07-13T17:02:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04865",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2589": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2589",
     "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
@@ -19886,5 +19842,60 @@
     "case_num": "2:20-cr-00227",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "165"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659671&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659671&5",
+    "title": "2:26-cv-05800 ANEJO GROUP LLC v. LU et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659671",
+    "date": "2026-08-12T17:12:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05800",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659672&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659672&6",
+    "title": "2:26-cv-05801 BEECHER v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659672",
+    "date": "2026-08-12T17:11:19-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05801",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075&161": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075&161",
+    "title": "2:25-cv-03018 HICKS v. PHARMERICA LOGISTICS SERVICES, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075",
+    "date": "2026-08-12T17:10:22-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-03018",
+    "entry_type": "Sanctions",
+    "doc_num": "61"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628239&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628239&81",
+    "title": "2:24-cv-05283 JOHNSON v. THE PNC FINANCIAL SERVICES GROUP, INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628239",
+    "date": "2026-08-12T16:53:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-05283",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628239&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628239&79",
+    "title": "2:24-cv-05283 JOHNSON v. THE PNC FINANCIAL SERVICES GROUP, INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628239",
+    "date": "2026-08-12T16:51:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-05283",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "30"
   }
 }
