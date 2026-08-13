@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&49": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&49",
-    "title": "2:25-cv-02107 PEREZ v. SALTZ, MONGELUZZI, & BENDESKY, P.C.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716",
-    "date": "2026-07-14T13:11:09-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02107",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&594": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&594",
-    "title": "2:23-cr-00029-3 USA v. DANTZLER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325",
-    "date": "2026-07-14T12:46:22-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:23-cr-00029",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "152"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657901&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657901&4",
     "title": "2:26-cv-04886 DAVIDSON v. NOVO NORDISK, INC. et al",
@@ -75,127 +53,6 @@
     "case_num": "2:26-cr-00138",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653930&56": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653930&56",
-    "title": "2:26-cv-02907 DAY VS CITY OF PHILADELPHIA ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653930",
-    "date": "2026-07-14T13:55:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02907",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653930&54": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653930&54",
-    "title": "2:26-cv-02907 DAY VS CITY OF PHILADELPHIA ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653930",
-    "date": "2026-07-14T13:52:52-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02907",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657897&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657897&4",
-    "title": "2:26-cv-04883 FISHER v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657897",
-    "date": "2026-07-14T13:48:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04883",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653908&26": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653908&26",
-    "title": "2:26-cv-02903 BOSWELL v. YORGEY-GIRDY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653908",
-    "date": "2026-07-14T13:47:17-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02903",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653908&24": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653908&24",
-    "title": "2:26-cv-02903 BOSWELL v. YORGEY-GIRDY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653908",
-    "date": "2026-07-14T13:44:46-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02903",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657896&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657896&9",
-    "title": "2:26-cv-04882 Hu  v. QATAR AIRWAYS GROUP Q.C.S.C. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657896",
-    "date": "2026-07-14T13:43:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04882",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635057&495": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635057&495",
-    "title": "2:25-cr-00100-1 USA v. ASKINS, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635057",
-    "date": "2026-07-14T13:22:45-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00100",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "118"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635058&495": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635058&495",
-    "title": "2:25-cr-00100-2 USA v. ASKINS, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635058",
-    "date": "2026-07-14T13:22:45-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00100",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "118"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635059&495": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635059&495",
-    "title": "2:25-cr-00100-3 USA v. ASKINS, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635059",
-    "date": "2026-07-14T13:22:45-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00100",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "118"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632214&232": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632214&232",
-    "title": "2:25-cv-00238 AUSTILL v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632214",
-    "date": "2026-07-14T13:19:50-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:25-cv-00238",
-    "entry_type": "Order on Motion for Preliminary Injunction",
-    "doc_num": "78"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&51": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&51",
-    "title": "2:25-cv-02107 PEREZ v. SALTZ, MONGELUZZI, & BENDESKY, P.C.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716",
-    "date": "2026-07-14T13:13:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02107",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "18"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657910&10": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657910&10",
@@ -19842,5 +19699,214 @@
     "case_num": "2:25-cr-00042",
     "entry_type": "Judgment of Forfeiture",
     "doc_num": "142"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612664&202": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612664&202",
+    "title": "2:23-cr-00353-1 USA v. WILLIS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612664",
+    "date": "2026-08-13T13:09:54-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00353",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "58"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659717&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659717&4",
+    "title": "2:26-cv-05821 GRISSOM v. STAPELEY HALL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659717",
+    "date": "2026-08-13T12:59:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05821",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659712&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659712&4",
+    "title": "2:26-cv-05820 WASHINGTON v. JETRO HOLDINGS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659712",
+    "date": "2026-08-13T12:54:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05820",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659044&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659044&28",
+    "title": "2:26-cv-05484 MORALES-VELASQUEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659044",
+    "date": "2026-08-13T12:51:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05484",
+    "entry_type": "Memorandum",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659711&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659711&3",
+    "title": "5:26-cv-05819 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 146.115.220.82",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659711",
+    "date": "2026-08-13T12:44:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05819",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659710&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659710&3",
+    "title": "2:26-cv-05818 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 96.245.83.39",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659710",
+    "date": "2026-08-13T12:42:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05818",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659709&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659709&3",
+    "title": "2:26-cv-05817 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 73.81.139.44",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659709",
+    "date": "2026-08-13T12:38:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05817",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659708&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659708&3",
+    "title": "2:26-cv-05816 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 173.59.54.241",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659708",
+    "date": "2026-08-13T12:35:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05816",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659707&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659707&3",
+    "title": "2:26-cv-05815 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 99.95.84.112",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659707",
+    "date": "2026-08-13T12:33:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05815",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659706&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659706&3",
+    "title": "2:26-cv-05814 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.36.116.78",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659706",
+    "date": "2026-08-13T12:30:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05814",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659705&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659705&3",
+    "title": "2:26-cv-05813 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 72.94.92.25",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659705",
+    "date": "2026-08-13T12:28:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05813",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659704&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659704&3",
+    "title": "2:26-cv-05812 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 68.82.249.119",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659704",
+    "date": "2026-08-13T12:25:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05812",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659703&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659703&3",
+    "title": "2:26-cv-05811 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 76.98.154.226",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659703",
+    "date": "2026-08-13T12:22:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05811",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659702&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659702&3",
+    "title": "2:26-cv-05810 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 100.14.20.62",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659702",
+    "date": "2026-08-13T12:20:19-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05810",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659697&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659697&8",
+    "title": "5:26-cv-05809 SMITH v. NATAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659697",
+    "date": "2026-08-13T12:03:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05809",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&152": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&152",
+    "title": "2:26-cv-01664 ARAMARK SERVICES, INC. et al v. QCC INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274",
+    "date": "2026-08-13T11:36:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01664",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "47"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457&32",
+    "title": "2:26-cr-00331-1 USA v. LOCKETT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658457",
+    "date": "2026-08-13T11:36:13-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00331",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&150": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&150",
+    "title": "2:26-cv-01664 ARAMARK SERVICES, INC. et al v. QCC INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274",
+    "date": "2026-08-13T11:34:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01664",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655128&42": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655128&42",
+    "title": "2:26-cv-03494 LONDON v. MILLIMAN, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655128",
+    "date": "2026-08-13T11:08:48-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03494",
+    "entry_type": "Order on Motion to Show Cause",
+    "doc_num": "16"
   }
 }
