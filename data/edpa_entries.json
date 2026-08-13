@@ -10,72 +10,6 @@
     "entry_type": "Complaint",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657868&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657868&3",
-    "title": "2:26-cv-04874 Conyon v. THE CONSORTIUM, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657868",
-    "date": "2026-07-14T10:36:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04874",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&32": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&32",
-    "title": "2:25-cv-07428 GOLDSMITH v. ABSOLUTE RESOLUTIONS INVESTMENTS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954",
-    "date": "2026-07-14T10:08:10-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07428",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "12"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954&30",
-    "title": "2:25-cv-07428 GOLDSMITH v. ABSOLUTE RESOLUTIONS INVESTMENTS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647954",
-    "date": "2026-07-14T10:06:30-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07428",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657863&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657863&4",
-    "title": "5:26-cv-04873 PAISLEY v. KIDSPEACE, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657863",
-    "date": "2026-07-14T10:05:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04873",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&69": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&69",
-    "title": "2:26-cv-02970 SANTANA RAMIREZ v. WARDEN OF FEDERAL DETENTION CENTER PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012",
-    "date": "2026-07-14T09:51:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02970",
-    "entry_type": "Memorandum",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657862&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657862&8",
-    "title": "2:26-cv-04858 WINSLOW v. EXTRA SPACE STORAGE, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657862",
-    "date": "2026-07-14T09:44:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04858",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&49": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&49",
     "title": "2:25-cv-02107 PEREZ v. SALTZ, MONGELUZZI, & BENDESKY, P.C.",
@@ -19952,5 +19886,38 @@
     "case_num": "2:25-cv-07053",
     "entry_type": "Memorandum",
     "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681&9",
+    "title": "2:26-cv-05805 MARCHETTI v. 46 LABS, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681",
+    "date": "2026-08-13T10:00:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05805",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655879&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655879&26",
+    "title": "2:26-cv-03841 HOWARD v. SEPTA TRANSIT POLICE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655879",
+    "date": "2026-08-13T09:59:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03841",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655879&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655879&23",
+    "title": "2:26-cv-03841 HOWARD v. SEPTA TRANSIT POLICE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655879",
+    "date": "2026-08-13T09:32:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03841",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
   }
 }
