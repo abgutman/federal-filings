@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590&188": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590&188",
-    "title": "2:26-cv-00815 OWUOR et al v. SUNNYMAC, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649590",
-    "date": "2026-07-14T17:58:07-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-00815",
-    "entry_type": "Seal",
-    "doc_num": "55"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918&5",
     "title": "2:26-cv-04898 WURST v. COREWORKS LLC et al",
@@ -20,17 +9,6 @@
     "case_num": "2:26-cv-04898",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657917&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657917&10",
-    "title": "2:26-cv-04897 HATEM v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657917",
-    "date": "2026-07-14T18:20:32-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04897",
-    "entry_type": "Show Cause",
-    "doc_num": "2"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646235&134": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646235&134",
@@ -19941,5 +19919,38 @@
     "case_num": "2:26-cr-00382",
     "entry_type": "Warrant",
     "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659753&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659753&4",
+    "title": "2:26-cv-05838 ROARK v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659753",
+    "date": "2026-08-13T17:49:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05838",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659754&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659754&4",
+    "title": "2:26-cv-05839 COULTER v. NCB MANAGEMENT SERVICES, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659754",
+    "date": "2026-08-13T17:39:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05839",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659752&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659752&4",
+    "title": "2:26-cv-05837 BOISSELLE v. EUROPEAN WAX CENTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659752",
+    "date": "2026-08-13T17:25:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05837",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
