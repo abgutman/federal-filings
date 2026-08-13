@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657901&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657901&4",
-    "title": "2:26-cv-04886 DAVIDSON v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657901",
-    "date": "2026-07-14T14:52:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04886",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657903&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657903&3",
-    "title": "5:26-cv-04885 THE PHOENIX INSURANCE COMPANY v. CINCINNATI INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657903",
-    "date": "2026-07-14T14:45:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04885",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630326&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630326&20",
-    "title": "2:24-cv-06248 WANG v. ACE AMERICAN INSURANCE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630326",
-    "date": "2026-07-14T14:23:35-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:24-cv-06248",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961&96": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961&96",
-    "title": "2:26-cv-00918 ABERMAN v. NEWREZ LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649961",
-    "date": "2026-07-14T14:20:15-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00918",
-    "entry_type": "Memorandum",
-    "doc_num": "37"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651923&75": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651923&75",
-    "title": "2:26-cr-00138-1 USA v. ORELLANA-ROBLES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651923",
-    "date": "2026-07-14T14:15:09-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00138",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "21"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657910&10": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657910&10",
     "title": "2:26-cv-04890 THE BOARDS OF TRUSTEES OF THE LABORERS&#039; DISTRICT COUNCIL CONSTRUCTION INDUSTRY PENSION AND ANNUITY FUND et al v. TRI-STATE ELITE SPECIALTY SERVICES, LLC",
@@ -19908,5 +19853,137 @@
     "case_num": "2:26-cv-03494",
     "entry_type": "Order on Motion to Show Cause",
     "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659723&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659723&10",
+    "title": "2:26-cv-05827 JOE HAND PROMOTIONS, INC. v. BAR & GRILL TAMALEX LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659723",
+    "date": "2026-08-13T15:03:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05827",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659725&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659725&4",
+    "title": "2:26-cv-05829 LEE v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659725",
+    "date": "2026-08-13T15:01:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05829",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659724&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659724&7",
+    "title": "2:26-cv-05828 MARKLE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659724",
+    "date": "2026-08-13T14:51:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05828",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&357": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&357",
+    "title": "2:24-cr-00399-1 USA v. WILLIAMSON, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495",
+    "date": "2026-08-13T14:50:09-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:24-cr-00399",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "101"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2785": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2785",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-13T14:42:16-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "861"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13515": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13515",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-13T14:42:16-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "4862"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2783": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2783",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-13T14:37:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "860"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13513": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13513",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-13T14:37:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "4861"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639181&131": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639181&131",
+    "title": "2:25-cv-03095 THE CHILDREN&#039;S HOSPITAL OF PHILADELPHIA v. ORPHION THERAPEUTICS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639181",
+    "date": "2026-08-13T14:34:11-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03095",
+    "entry_type": "Memorandum",
+    "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659721&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659721&4",
+    "title": "5:26-cv-05825 ROSARIO v. PHARMERICA LOGISTIC SERVICES LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659721",
+    "date": "2026-08-13T14:33:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05825",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659722&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659722&4",
+    "title": "2:26-cv-05826 LENNAN v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659722",
+    "date": "2026-08-13T14:30:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05826",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659720&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659720&6",
+    "title": "2:26-cv-05824 JOHNSON v. TRANS UNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659720",
+    "date": "2026-08-13T14:23:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05824",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
