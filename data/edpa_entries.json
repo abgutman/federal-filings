@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761&59": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761&59",
-    "title": "2:26-cv-01861 JACOBS v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761",
-    "date": "2026-07-14T08:33:00-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01861",
-    "entry_type": "Memorandum",
-    "doc_num": "16"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657875&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657875&6",
     "title": "2:26-mj-01358-1 USA v. ARMANZA-MORALES",
@@ -86,17 +75,6 @@
     "case_num": "2:26-cv-04858",
     "entry_type": "Complaint",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795&471": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795&471",
-    "title": "2:24-cr-00387-3 USA v. OSORIO-VIERA, et al.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638795",
-    "date": "2026-07-14T09:11:25-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:24-cr-00387",
-    "entry_type": "Plea Agreement",
-    "doc_num": "94"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&49": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636716&49",
@@ -19875,5 +19853,104 @@
     "case_num": "2:26-cv-05803",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659646&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659646&4",
+    "title": "2:26-cv-05788 STRONG v. VISIONQUEST NATIONAL LTD.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659646",
+    "date": "2026-08-13T09:05:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05788",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648425&1381": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648425&1381",
+    "title": "2:26-cr-00023-5 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648425",
+    "date": "2026-08-13T08:35:12-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Plea Agreement",
+    "doc_num": "293"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429&1370": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429&1370",
+    "title": "2:26-cr-00023-9 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429",
+    "date": "2026-08-13T08:25:28-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Plea Agreement",
+    "doc_num": "290"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2774": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2774",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-13T08:07:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum",
+    "doc_num": "856"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13504": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13504",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-13T08:07:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4857"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659678&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659678&5",
+    "title": "2:26-cv-05759 SZUSTOWICZ v. SECRETARY OF HEALTH AND HUMAN SERVICES et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659678",
+    "date": "2026-08-13T08:07:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05759",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2772": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2772",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-13T08:00:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum",
+    "doc_num": "855"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13502": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13502",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-13T08:00:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4856"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390&72": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390&72",
+    "title": "2:25-cv-07053 SPENCER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390",
+    "date": "2026-08-13T07:16:19-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07053",
+    "entry_type": "Memorandum",
+    "doc_num": "25"
   }
 }
