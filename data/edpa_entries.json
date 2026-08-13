@@ -10,28 +10,6 @@
     "entry_type": "Seal",
     "doc_num": "55"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657916&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657916&5",
-    "title": "2:26-cv-04896 WRIGHT et al v. PERALTA RODRIGUEZ et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657916",
-    "date": "2026-07-14T17:35:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04896",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657914&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657914&3",
-    "title": "2:26-cv-04894 THE TRAVELERS INDEMNITY COMPANY v. MANUFACTURERS ALLIANCE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657914",
-    "date": "2026-07-14T16:52:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04894",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918&5",
     "title": "2:26-cv-04898 WURST v. COREWORKS LLC et al",
@@ -141,17 +119,6 @@
     "case_num": "2:26-cv-02828",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "13"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657929&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657929&3",
-    "title": "5:26-cv-04894 THE TRAVELERS INDEMNITY COMPANY v. MANUFACTURERS ALLIANCE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657929",
-    "date": "2026-07-14T16:52:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04894",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657940&22": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657940&22",
@@ -19941,5 +19908,38 @@
     "case_num": "2:26-cv-05830",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659748&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659748&6",
+    "title": "2:26-cv-05835 TRAMAN v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659748",
+    "date": "2026-08-13T16:20:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05835",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747&13",
+    "title": "2:26-cr-00382-1 USA v. WRIGHT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747",
+    "date": "2026-08-13T16:15:39-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00382",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747&10",
+    "title": "2:26-cr-00382-1 USA v. WRIGHT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747",
+    "date": "2026-08-13T16:14:34-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00382",
+    "entry_type": "Warrant",
+    "doc_num": ""
   }
 }
