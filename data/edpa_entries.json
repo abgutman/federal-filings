@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2589": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2589",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-07-13T20:33:10-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "782"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13178": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13178",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-07-13T20:30:42-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4726"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761&59": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651761&59",
     "title": "2:26-cv-01861 JACOBS v. CITY OF PHILADELPHIA et al",
@@ -19831,5 +19809,71 @@
     "case_num": "2:24-cv-05283",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657308&47": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657308&47",
+    "title": "2:26-mc-00062 DR. HOAU-YAN WANG",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657308",
+    "date": "2026-08-12T20:38:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-mc-00062",
+    "entry_type": "Memorandum",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655873&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655873&51",
+    "title": "2:26-cv-03871 KHAVINSON v. EMPIRE AUTO PROTECT LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655873",
+    "date": "2026-08-12T20:35:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03871",
+    "entry_type": "Memorandum",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659675&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659675&3",
+    "title": "2:26-cv-05804 Poniente v. Snipes USA LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659675",
+    "date": "2026-08-12T20:27:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05804",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&222": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&222",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-08-12T19:51:03-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Seal",
+    "doc_num": "82"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&104": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&104",
+    "title": "2:26-cv-01260 SWITZER v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434",
+    "date": "2026-08-12T19:01:25-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-01260",
+    "entry_type": "Seal",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659674&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659674&3",
+    "title": "2:26-cv-05803 VICTOR v. LIFE INSIRANCE COMPANY OF NORTH AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659674",
+    "date": "2026-08-12T18:57:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05803",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
