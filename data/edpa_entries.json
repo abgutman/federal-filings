@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918&5",
-    "title": "2:26-cv-04898 WURST v. COREWORKS LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657918",
-    "date": "2026-07-14T19:04:56-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04898",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646235&134": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646235&134",
-    "title": "2:25-cv-06468 MARTIN v. SOUTHEASTERN PENNSYLVANIA TRANSPORTATION AUTHORITY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646235",
-    "date": "2026-07-14T20:58:37-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-06468",
-    "entry_type": "Seal",
-    "doc_num": "51"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&339": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&339",
     "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
@@ -19952,5 +19930,60 @@
     "case_num": "2:26-cv-05837",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659759&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659759&4",
+    "title": "2:26-cv-05844 HUGHES v. H&K GROUP, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659759",
+    "date": "2026-08-13T21:14:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05844",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&126": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&126",
+    "title": "2:26-cv-03469 FRY v. FRY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327",
+    "date": "2026-08-13T20:24:44-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03469",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659758&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659758&3",
+    "title": "2:26-cv-05843 MORALES v. GWYNEDD MERCY ACADEMY HIGH SCHOOL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659758",
+    "date": "2026-08-13T19:44:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05843",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942&33",
+    "title": "2:26-cv-03842 HOWARD  v. HOWARD et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942",
+    "date": "2026-08-13T19:18:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03842",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942&31",
+    "title": "2:26-cv-03842 HOWARD  v. HOWARD et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655942",
+    "date": "2026-08-13T19:14:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03842",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
   }
 }
