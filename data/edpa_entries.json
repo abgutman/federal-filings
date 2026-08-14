@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&339": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448&339",
-    "title": "2:25-cv-00349 PENINSULA COMPONENTS, INC. v. PENN ENGINEERING & MANUFACTURING CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632448",
-    "date": "2026-07-14T23:43:08-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-00349",
-    "entry_type": "Seal",
-    "doc_num": "129"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657922&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657922&3",
-    "title": "2:26-cv-04901 Rivera v. Commissioner of Social Security",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657922",
-    "date": "2026-07-14T23:06:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04901",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657926&10": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657926&10",
     "title": "5:26-cv-04904 WEAVER v. STADIUM CASINO RE, LLC et al",
@@ -19985,5 +19963,16 @@
     "case_num": "2:26-cv-03842",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651851&137": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651851&137",
+    "title": "2:26-cv-01944 CENTER FOR BREAKTHROUGH MEDICINES HOLDINGS, LLC v. GREAT NORTHERN INSURANCE CO.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651851",
+    "date": "2026-08-13T22:44:35-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01944",
+    "entry_type": "Memorandum",
+    "doc_num": "49"
   }
 }
