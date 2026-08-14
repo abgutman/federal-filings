@@ -20260,5 +20260,38 @@
     "case_num": "5:26-cv-05876",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659903&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659903&5",
+    "title": "2:26-cv-05912 SIMPSON v. NOVO NORDISK INC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659903",
+    "date": "2026-08-14T18:27:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05912",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659900&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659900&11",
+    "title": "2:26-cv-05909 A.P. et al v. Kennedy et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659900",
+    "date": "2026-08-14T17:43:41-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-05909",
+    "entry_type": "Seal Document",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659901&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659901&11",
+    "title": "2:26-cv-05910 Dunbar v. PHILADELPHIA CORPORATION FOR AGING",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659901",
+    "date": "2026-08-14T17:33:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05910",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
