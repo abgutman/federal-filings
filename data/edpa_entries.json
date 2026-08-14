@@ -54,72 +54,6 @@
     "entry_type": "Indictment",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&377": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&377",
-    "title": "2:25-cv-02382 LYNCH  et al v. LONG et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474",
-    "date": "2026-07-15T15:50:56-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-02382",
-    "entry_type": "Sanctions",
-    "doc_num": "137"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630841&308": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630841&308",
-    "title": "2:24-cr-00426-1 USA v. JONES., ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630841",
-    "date": "2026-07-15T15:41:23-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:24-cr-00426",
-    "entry_type": "Plea Agreement",
-    "doc_num": "72"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657988&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657988&4",
-    "title": "5:26-cv-04929 BELL v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657988",
-    "date": "2026-07-15T15:41:10-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04929",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&135": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&135",
-    "title": "2:25-cv-05463 GUNTER v. DREXEL UNIVERSITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943",
-    "date": "2026-07-15T15:35:06-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05463",
-    "entry_type": "Memorandum",
-    "doc_num": "46"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657980&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657980&3",
-    "title": "2:26-cv-04926 HERTZ VEHICLES LLC v. MVA STORAGE LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657980",
-    "date": "2026-07-15T15:14:30-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04926",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657976&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657976&5",
-    "title": "2:26-mj-01372-1 USA v. SIMON-JUAREZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657976",
-    "date": "2026-07-15T15:06:10-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-mj-01372",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651185&92": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651185&92",
     "title": "2:26-cv-01616 UNITE 4 FREEDOM, INC.  v. VAN DER VEEN, HARTSHORN, LEVIN & LINDHEIM LLP et al",
@@ -20028,6 +19962,105 @@
     "category": "complaints",
     "case_num": "5:26-cv-05871",
     "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653247&38": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653247&38",
+    "title": "5:26-cv-02574 REYES AYALA  v. SPRING RIDGE LP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653247",
+    "date": "2026-08-14T15:13:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-02574",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659859&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659859&5",
+    "title": "2:26-cv-05883 THOMAS JEFFERSON UNIVERSITY D/B/A JEFFERSON HEALTH v. KEYSTONE HEALTH PLAN EAST et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659859",
+    "date": "2026-08-14T15:10:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05883",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653247&36": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653247&36",
+    "title": "5:26-cv-02574 REYES AYALA  v. SPRING RIDGE LP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653247",
+    "date": "2026-08-14T15:10:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-02574",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650654&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650654&53",
+    "title": "2:26-cv-01350 TAYLOR v. STUEBNER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650654",
+    "date": "2026-08-14T15:04:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01350",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659854&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659854&5",
+    "title": "2:26-cv-05879 Rock v. GENUINE PARTS COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659854",
+    "date": "2026-08-14T15:03:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05879",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650654&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650654&51",
+    "title": "2:26-cv-01350 TAYLOR v. STUEBNER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650654",
+    "date": "2026-08-14T14:56:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01350",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659450&27": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659450&27",
+    "title": "2:26-cv-05684 IBRAHIM v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659450",
+    "date": "2026-08-14T14:37:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05684",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659450&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659450&25",
+    "title": "2:26-cv-05684 IBRAHIM v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659450",
+    "date": "2026-08-14T14:35:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05684",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659857&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659857&4",
+    "title": "5:26-cv-05878 WEIDA v. OREGON TOOL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659857",
+    "date": "2026-08-14T14:34:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05878",
+    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   }
 }
