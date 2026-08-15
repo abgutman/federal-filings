@@ -65,61 +65,6 @@
     "entry_type": "Case Unsealed",
     "doc_num": ""
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658013&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658013&3",
-    "title": "2:26-cv-04938 SCOTT v. KULDOSHOV",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658013",
-    "date": "2026-07-16T10:00:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04938",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&598": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&598",
-    "title": "2:23-cr-00029-3 USA v. DANTZLER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325",
-    "date": "2026-07-16T09:54:56-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:23-cr-00029",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "154"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&596": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&596",
-    "title": "2:23-cr-00029-3 USA v. DANTZLER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325",
-    "date": "2026-07-16T09:53:56-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:23-cr-00029",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "153"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658012&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658012&4",
-    "title": "2:26-cv-04937 THE UNITED STATES OF AMERICA v. SANCHEZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658012",
-    "date": "2026-07-16T09:39:49-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04937",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354&477": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354&477",
-    "title": "2:25-cr-00077-4 USA v. VERAS-REGALADO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634354",
-    "date": "2026-07-16T09:38:56-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00077",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "121"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325",
     "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
