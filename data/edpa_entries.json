@@ -20326,5 +20326,27 @@
     "case_num": "5:23-cv-03636",
     "entry_type": "Seal",
     "doc_num": "439"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13554": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13554",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-14T22:06:12-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Seal",
+    "doc_num": "4877"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2804": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2804",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-14T22:04:25-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Seal",
+    "doc_num": "870"
   }
 }
