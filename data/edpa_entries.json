@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971&827": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971&827",
-    "title": "2:25-cr-00066-5 USA v. ARROYO, ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971",
-    "date": "2026-07-16T14:42:27-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00066",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "200"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658058&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658058&3",
     "title": "5:26-cv-04964 GEIGER",
@@ -119,50 +108,6 @@
     "case_num": "2:24-cv-02840",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "20"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658046&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658046&3",
-    "title": "2:26-cv-04958 HAYRAPETYAN v. PROGRESSIVE ADVANCED INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658046",
-    "date": "2026-07-16T15:23:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04958",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658041&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658041&7",
-    "title": "2:26-cv-04953 DRAFTKINGS INC. et al v. THE CITY OF PHILADELPHIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658041",
-    "date": "2026-07-16T15:04:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04953",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658042&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658042&3",
-    "title": "2:26-cv-04954 JOHNS v. FIVE BELOW, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658042",
-    "date": "2026-07-16T14:57:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04954",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658043&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658043&4",
-    "title": "2:26-cv-04955 LEMMON v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658043",
-    "date": "2026-07-16T14:56:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04955",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3",
