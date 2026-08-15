@@ -1,70 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&14",
-    "title": "2:26-mj-01378-1 USA v. LANG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015",
-    "date": "2026-07-16T10:38:11-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01378",
-    "entry_type": "Letter to Unseal",
-    "doc_num": "4"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657964&16": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657964&16",
-    "title": "2:26-mj-01371-1 USA v. SANTOS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657964",
-    "date": "2026-07-16T10:37:27-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01371",
-    "entry_type": "Letter to Unseal",
-    "doc_num": "4"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&12",
-    "title": "2:26-mj-01378-1 USA v. LANG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015",
-    "date": "2026-07-16T10:36:56-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01378",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&9",
-    "title": "2:26-mj-01378-1 USA v. LANG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015",
-    "date": "2026-07-16T10:35:15-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01378",
-    "entry_type": "Seal",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&5",
-    "title": "2:26-mj-01378-1 USA v. LANG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015",
-    "date": "2026-07-16T10:34:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-mj-01378",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657964&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657964&14",
-    "title": "2:26-mj-01371-1 USA v. SANTOS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657964",
-    "date": "2026-07-16T10:32:07-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01371",
-    "entry_type": "Case Unsealed",
-    "doc_num": ""
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325",
     "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
@@ -163,61 +97,6 @@
     "case_num": "2:24-cr-00241",
     "entry_type": "Forfeiture of Property",
     "doc_num": "84"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658024&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658024&4",
-    "title": "2:26-cv-04941 PARKER v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658024",
-    "date": "2026-07-16T11:25:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04941",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658021&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658021&4",
-    "title": "2:26-cv-04940 SCOTT v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658021",
-    "date": "2026-07-16T11:21:04-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04940",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658020&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658020&3",
-    "title": "2:26-cv-04939 ROCKEFELLER PHOTOS, LLC v. COUSINS FRESH MARKET INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658020",
-    "date": "2026-07-16T11:01:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04939",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?141717&409945": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?141717&409945",
-    "title": "2:96-cr-00376-1 USA v. CRAFT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?141717",
-    "date": "2026-07-16T10:44:08-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:96-cr-00376",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "65"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599639&118": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599639&118",
-    "title": "2:22-cr-00260-1 USA v. HARRIS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599639",
-    "date": "2026-07-16T10:42:54-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:22-cr-00260",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "41"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971&827": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633971&827",
@@ -20249,5 +20128,38 @@
     "case_num": "2:26-cv-03469",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "49"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911&11",
+    "title": "5:26-cv-05909 A.P. et al v. Kennedy et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911",
+    "date": "2026-08-14T17:43:41-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:26-cv-05909",
+    "entry_type": "Seal Document",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659910&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659910&4",
+    "title": "5:26-cv-05896 True Automotive Holdings Group, LLC v. 610 Autohaus, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659910",
+    "date": "2026-08-14T16:15:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05896",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659909&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659909&4",
+    "title": "5:26-cv-05895 G&S Wholesale Distribution, LLC v. LBC Products, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659909",
+    "date": "2026-08-14T16:09:40-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05895",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
