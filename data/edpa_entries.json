@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658005&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658005&4",
-    "title": "2:26-cv-04936 KARLSSON v. EDLOW et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658005",
-    "date": "2026-07-15T23:15:09-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04936",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&14": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658015&14",
     "title": "2:26-mj-01378-1 USA v. LANG",
@@ -20348,5 +20337,49 @@
     "case_num": "2:18-cv-03299",
     "entry_type": "Seal",
     "doc_num": "870"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659907&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659907&5",
+    "title": "2:26-cv-05915 JAHANBAKHSH v. GREYSTAR MANAGEMENT SERVICES, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659907",
+    "date": "2026-08-14T23:21:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05915",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&135": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&135",
+    "title": "2:26-cv-03469 FRY v. FRY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327",
+    "date": "2026-08-14T22:55:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03469",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659906&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659906&5",
+    "title": "2:26-cv-05914 GROSSMAN v. BOZZUTO MANAGEMENT COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659906",
+    "date": "2026-08-14T22:51:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05914",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&133": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&133",
+    "title": "2:26-cv-03469 FRY v. FRY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327",
+    "date": "2026-08-14T22:34:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03469",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "49"
   }
 }
