@@ -43,72 +43,6 @@
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "4734"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13195": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13195",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-07-16T16:24:23-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "4733"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658057&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658057&4",
-    "title": "2:26-cv-04963 BELL v. BAYADA HOME HEALTH CARE, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658057",
-    "date": "2026-07-16T16:23:55-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04963",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658051&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658051&8",
-    "title": "2:26-cv-04960 ALCOA CANADA CO et al v. THAMESBORG BEHEER B.V.  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658051",
-    "date": "2026-07-16T16:12:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04960",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623858&62": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623858&62",
-    "title": "2:24-cv-02840 Farag v. OMALLEY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623858",
-    "date": "2026-07-16T15:38:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02840",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629777&73": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629777&73",
-    "title": "2:24-cv-05981 PEW v. LETIZIO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629777",
-    "date": "2026-07-16T15:38:30-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-05981",
-    "entry_type": "Memorandum",
-    "doc_num": "26"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623858&60": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623858&60",
-    "title": "2:24-cv-02840 Farag v. OMALLEY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623858",
-    "date": "2026-07-16T15:37:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02840",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "20"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3",
     "title": "2:26-cv-04968 PUN v. EDLOW",
@@ -19842,5 +19776,16 @@
     "case_num": "5:26-cv-05895",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&123": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&123",
+    "title": "2:25-cr-00401-1 USA v. MARTINS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413",
+    "date": "2026-08-15T14:51:55-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00401",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "32"
   }
 }
