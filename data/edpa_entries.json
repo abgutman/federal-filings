@@ -120,61 +120,6 @@
     "entry_type": "Sentencing Memorandum",
     "doc_num": "121"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107&194": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107&194",
-    "title": "2:25-cv-05531 OYENUGA v. SHELLPOINT MORTGAGE SERVICING et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644107",
-    "date": "2026-07-16T09:24:58-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05531",
-    "entry_type": "Memorandum",
-    "doc_num": "71"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574&137": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574&137",
-    "title": "2:26-cv-00805 Ultimo Global Holdings, LLC et al v. RC-1, Inc.et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649574",
-    "date": "2026-07-16T09:21:21-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-00805",
-    "entry_type": "Show Cause Hearing",
-    "doc_num": "49"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658009&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658009&6",
-    "title": "2:26-cr-00307-1 USA v. HERNANDEZ-MANZUETA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658009",
-    "date": "2026-07-16T09:18:45-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00307",
-    "entry_type": "Indictment",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645251&71": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645251&71",
-    "title": "2:25-cv-06033 AGUILA et al v. SINOJMERI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645251",
-    "date": "2026-07-16T09:08:17-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06033",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645251&69": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645251&69",
-    "title": "2:25-cv-06033 AGUILA et al v. SINOJMERI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645251",
-    "date": "2026-07-16T09:04:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06033",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "22"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325",
     "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
