@@ -175,28 +175,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "22"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657105&18": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657105&18",
-    "title": "2:26-cv-04466 LOJA-MOCHA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657105",
-    "date": "2026-07-16T08:34:01-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04466",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657105&16": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657105&16",
-    "title": "2:26-cv-04466 LOJA-MOCHA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657105",
-    "date": "2026-07-16T08:30:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04466",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1325",
     "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
