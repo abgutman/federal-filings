@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063&3",
-    "title": "2:26-cv-04968 PUN v. EDLOW",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658063",
-    "date": "2026-07-16T18:35:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04968",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980&297": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980&297",
-    "title": "2:25-cr-00007-1 USA v. DIOL, et al.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631980",
-    "date": "2026-07-16T19:05:19-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00007",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "84"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650831&49": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650831&49",
     "title": "2:26-cv-01443 LCT OPCO LLC et al v. TALOR HUTCHINSON, INC. d/b/a JUST THE MAIL",
