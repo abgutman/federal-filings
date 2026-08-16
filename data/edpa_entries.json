@@ -32,50 +32,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&115": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&115",
-    "title": "2:25-cv-01511 JONES v. EASTERN ATLANTIC STATES CARPENTERS PENSION FUND",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145",
-    "date": "2026-07-17T09:34:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01511",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "36"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&113": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145&113",
-    "title": "2:25-cv-01511 JONES v. EASTERN ATLANTIC STATES CARPENTERS PENSION FUND",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635145",
-    "date": "2026-07-17T09:31:28-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01511",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "35"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046&89": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046&89",
-    "title": "2:25-cv-05511 HOLT v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644046",
-    "date": "2026-07-17T09:29:27-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-05511",
-    "entry_type": "Order on Motion for Sanctions",
-    "doc_num": "26"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653604&158": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653604&158",
-    "title": "2:26-cv-02764 ALI v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653604",
-    "date": "2026-07-17T09:23:41-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-02764",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "51"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658087&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658087&5",
     "title": "2:26-cv-04975 BAKI v. EDLOW et al",
