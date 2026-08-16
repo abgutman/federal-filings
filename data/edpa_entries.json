@@ -76,39 +76,6 @@
     "entry_type": "Preliminary Injunction",
     "doc_num": "51"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643805&188": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643805&188",
-    "title": "2:25-cv-05390 SOKIC et al v. BANK OF AMERICA N.A. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643805",
-    "date": "2026-07-17T08:50:03-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-05390",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "56"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658069&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658069&4",
-    "title": "2:26-cv-04972 OLD GUARD INSURANCE COMPANY v. MIKE BURDETT ROOFING AND EXTERIORS LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658069",
-    "date": "2026-07-17T08:47:56-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04972",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&54": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&54",
-    "title": "2:26-mc-00061 SAFE FLEET HOLDINGS LLC et al v. ANDREW OLENIK,",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958",
-    "date": "2026-07-17T08:31:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-mc-00061",
-    "entry_type": "Memorandum",
-    "doc_num": "12"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658087&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658087&5",
     "title": "2:26-cv-04975 BAKI v. EDLOW et al",
