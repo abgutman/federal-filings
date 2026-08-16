@@ -10,28 +10,6 @@
     "entry_type": "Plea Agreement",
     "doc_num": "2"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&86": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&86",
-    "title": "2:26-cv-02970 SANTANA RAMIREZ v. WARDEN OF FEDERAL DETENTION CENTER PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012",
-    "date": "2026-07-17T13:15:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02970",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "27"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&84": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012&84",
-    "title": "2:26-cv-02970 SANTANA RAMIREZ v. WARDEN OF FEDERAL DETENTION CENTER PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654012",
-    "date": "2026-07-17T13:14:01-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02970",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "26"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658140&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658140&6",
     "title": "2:26-cv-04988 RAMOS v. CORTEVA, INC. et al",
@@ -19226,5 +19204,16 @@
     "case_num": "2:26-cv-05911",
     "entry_type": "Order to Show Cause",
     "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?502851&2365": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?502851&2365",
+    "title": "2:15-cr-00129-1 USA v. FIELDS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?502851",
+    "date": "2026-08-16T11:56:44-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:15-cr-00129",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "749"
   }
 }
