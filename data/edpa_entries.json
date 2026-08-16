@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658065&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658065&4",
-    "title": "2:26-cv-04970 BEACHNER v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658065",
-    "date": "2026-07-16T23:59:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04970",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&41": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&41",
     "title": "2:26-cv-04710 CAUDLE v. RENTOKIL NORTH AMERICA INC",
