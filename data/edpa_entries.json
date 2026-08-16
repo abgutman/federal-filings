@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&41": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&41",
-    "title": "2:26-cv-04710 CAUDLE v. RENTOKIL NORTH AMERICA INC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602",
-    "date": "2026-07-17T09:56:33-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04710",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "12"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&39": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602&39",
-    "title": "2:26-cv-04710 CAUDLE v. RENTOKIL NORTH AMERICA INC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657602",
-    "date": "2026-07-17T09:43:26-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04710",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658077&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658077&5",
-    "title": "5:26-cv-04973 Dowd v. SUPERIOR PLUS ENERGY SERVICES INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658077",
-    "date": "2026-07-17T09:37:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-04973",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658087&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658087&5",
     "title": "2:26-cv-04975 BAKI v. EDLOW et al",
@@ -218,61 +185,6 @@
     "case_num": "5:26-cr-00315",
     "entry_type": "Warrant",
     "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658085&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658085&4",
-    "title": "5:26-cr-00315-1 USA v. VEGA-GONZALEZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658085",
-    "date": "2026-07-17T10:24:54-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "5:26-cr-00315",
-    "entry_type": "Indictment",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652298&258": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652298&258",
-    "title": "2:25-cr-00430-3 USA v. SHEPPARD, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652298",
-    "date": "2026-07-17T10:09:41-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:25-cr-00430",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "54"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635352&85": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635352&85",
-    "title": "2:25-cv-01570 MCCARY v. F.N.U. KNARR et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635352",
-    "date": "2026-07-17T10:08:02-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01570",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658081&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658081&5",
-    "title": "2:26-mj-01382-1 USA v. UHLIG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658081",
-    "date": "2026-07-17T10:07:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-mj-01382",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635352&83": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635352&83",
-    "title": "2:25-cv-01570 MCCARY v. F.N.U. KNARR et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635352",
-    "date": "2026-07-17T10:06:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01570",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "24"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112&16": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658112&16",
