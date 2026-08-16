@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650831&49": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650831&49",
-    "title": "2:26-cv-01443 LCT OPCO LLC et al v. TALOR HUTCHINSON, INC. d/b/a JUST THE MAIL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650831",
-    "date": "2026-07-16T23:02:09-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-01443",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&52": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958&52",
-    "title": "2:26-mc-00061 SAFE FLEET HOLDINGS LLC et al v. ANDREW OLENIK,",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656958",
-    "date": "2026-07-16T22:09:35-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mc-00061",
-    "entry_type": "Seal Document",
-    "doc_num": "11"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658065&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658065&4",
     "title": "2:26-cv-04970 BEACHNER v. NOVO NORDISK A/S et al",
