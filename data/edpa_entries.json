@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162&10",
-    "title": "2:26-cv-05007 Fonseca v. HOOVER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162",
-    "date": "2026-07-18T15:06:07-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-05007",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658166&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658166&3",
     "title": "2:26-cv-05011 MORRIS v. BISIGNANO",
@@ -19345,6 +19334,50 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-05944",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659980&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659980&4",
+    "title": "2:26-cv-05947 ATWELL v. LETIZIO, DO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659980",
+    "date": "2026-08-17T14:01:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05947",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642380&885": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642380&885",
+    "title": "2:24-cr-00441-3 USA v. GOLDSMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642380",
+    "date": "2026-08-17T13:58:26-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00441",
+    "entry_type": "Plea Agreement",
+    "doc_num": "194"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659982&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659982&3",
+    "title": "5:26-cv-05946 WALKER v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659982",
+    "date": "2026-08-17T13:33:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05946",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659981&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659981&3",
+    "title": "5:26-cv-05945 SPESS v. FRESHPET, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659981",
+    "date": "2026-08-17T13:29:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-05945",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
