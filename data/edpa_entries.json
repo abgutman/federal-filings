@@ -18797,5 +18797,27 @@
     "case_num": "2:15-cr-00129",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "749"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632849&74": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632849&74",
+    "title": "2:25-cv-00497 KAKU et al v. REGAL ENTERTAINMENT GROUP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632849",
+    "date": "2026-08-17T08:45:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00497",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&125": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&125",
+    "title": "2:25-cr-00401-1 USA v. MARTINS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413",
+    "date": "2026-08-17T08:29:45-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00401",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "33"
   }
 }
