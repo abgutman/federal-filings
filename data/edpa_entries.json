@@ -18819,5 +18819,82 @@
     "case_num": "2:25-cr-00401",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429&1398": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429&1398",
+    "title": "2:26-cr-00023-9 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648429",
+    "date": "2026-08-17T09:43:06-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "301"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648426&1396": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648426&1396",
+    "title": "2:26-cr-00023-6 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648426",
+    "date": "2026-08-17T09:41:36-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "300"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650160&52": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650160&52",
+    "title": "5:26-cr-00077-1 USA v. SENSENIG",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650160",
+    "date": "2026-08-17T09:34:42-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:26-cr-00077",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592569&593": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592569&593",
+    "title": "2:22-cv-00122 HOLTZMAN et al v. PHILADELPHIA MUSEUM OF ART",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592569",
+    "date": "2026-08-17T09:31:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-00122",
+    "entry_type": "Memorandum",
+    "doc_num": "223"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930&118": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930&118",
+    "title": "2:24-cv-01475 Pandit v. TEMPLE UNIVERSITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930",
+    "date": "2026-08-17T09:24:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01475",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930&116": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930&116",
+    "title": "2:24-cv-01475 Pandit v. TEMPLE UNIVERSITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620930",
+    "date": "2026-08-17T09:22:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01475",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "42"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632849&76": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632849&76",
+    "title": "2:25-cv-00497 KAKU et al v. REGAL ENTERTAINMENT GROUP et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632849",
+    "date": "2026-08-17T08:49:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00497",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "25"
   }
 }
