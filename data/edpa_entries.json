@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658159&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658159&3",
-    "title": "2:26-cv-05004 POWELL v. ADAPTHEALTH CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658159",
-    "date": "2026-07-17T20:37:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05004",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658158&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658158&5",
-    "title": "2:26-cv-05003 Dingess v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658158",
-    "date": "2026-07-17T19:44:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05003",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162&10": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658162&10",
     "title": "2:26-cv-05007 Fonseca v. HOOVER",
