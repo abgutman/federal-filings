@@ -19259,5 +19259,93 @@
     "case_num": "2:26-cv-05935",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656299&52": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656299&52",
+    "title": "5:26-cv-04055 Ovalles Guerra v. Alfonzo Aparcedo et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656299",
+    "date": "2026-08-17T13:34:18-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-04055",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659979&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659979&3",
+    "title": "2:26-cv-05946 WALKER v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659979",
+    "date": "2026-08-17T13:33:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05946",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556&133": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556&133",
+    "title": "2:25-cr-00467-1 USA v. GUO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556",
+    "date": "2026-08-17T13:30:22-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00467",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656299&50": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656299&50",
+    "title": "5:26-cv-04055 Ovalles Guerra v. Alfonzo Aparcedo et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656299",
+    "date": "2026-08-17T13:29:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-04055",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659976&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659976&3",
+    "title": "2:26-cv-05945 SPESS v. FRESHPET, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659976",
+    "date": "2026-08-17T13:29:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05945",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659975&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659975&8",
+    "title": "2:26-cv-05853 SEASE v. CRESHNER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659975",
+    "date": "2026-08-17T13:16:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05853",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574156&535": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574156&535",
+    "title": "2:20-cr-00227-1 USA v. PENNYCOOKE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?574156",
+    "date": "2026-08-17T13:14:38-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:20-cr-00227",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "169"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659972&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659972&4",
+    "title": "2:26-cv-05944 HUMES v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659972",
+    "date": "2026-08-17T12:57:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05944",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
