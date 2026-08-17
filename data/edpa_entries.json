@@ -19831,5 +19831,38 @@
     "case_num": "2:26-cv-05966",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634700&57": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634700&57",
+    "title": "2:25-cv-01328 DAY-BROWN v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634700",
+    "date": "2026-08-17T18:13:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01328",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634700&55": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634700&55",
+    "title": "2:25-cv-01328 DAY-BROWN v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634700",
+    "date": "2026-08-17T18:08:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01328",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660000&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660000&13",
+    "title": "5:26-cv-05958 AZURITY PHARMACEUTICALS, INC. v. GITOMER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660000",
+    "date": "2026-08-17T17:55:06-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "5:26-cv-05958",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "5"
   }
 }
