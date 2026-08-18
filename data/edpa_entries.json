@@ -20469,5 +20469,71 @@
     "case_num": "2:26-cv-05994",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660070&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660070&3",
+    "title": "2:26-cv-06003 G.C. ZARNAS & CO, INC. (NE) v. WESTERN SURETY CO.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660070",
+    "date": "2026-08-18T14:04:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06003",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&221": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&221",
+    "title": "2:25-cr-00266-2 USA v. JENKINS., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534",
+    "date": "2026-08-18T13:53:13-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00266",
+    "entry_type": "Plea Agreement",
+    "doc_num": "64"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660069&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660069&10",
+    "title": "5:26-cv-06002 MADERO AIR LLC et al v. PRO CRANE RENTALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660069",
+    "date": "2026-08-18T13:51:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06002",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656496&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656496&31",
+    "title": "2:26-cr-00274-1 USA v. PORTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656496",
+    "date": "2026-08-18T13:43:27-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00274",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660068&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660068&7",
+    "title": "2:26-cv-06001 LAFRANCE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660068",
+    "date": "2026-08-18T13:43:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06001",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660054&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660054&3",
+    "title": "2:26-cv-05991 McCandless v. United States of America",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660054",
+    "date": "2026-08-18T13:29:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05991",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
