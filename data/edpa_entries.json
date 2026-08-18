@@ -20810,5 +20810,49 @@
     "case_num": "5:26-cv-06005",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&448": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&448",
+    "title": "2:25-cv-02384 Adair et al v. Cigna Corporate Services, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412",
+    "date": "2026-08-18T17:54:20-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02384",
+    "entry_type": "Seal Document",
+    "doc_num": "155"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594699&1661": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594699&1661",
+    "title": "2:22-cv-00977 HICKS v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594699",
+    "date": "2026-08-18T17:30:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-00977",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "516"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594699&1659": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594699&1659",
+    "title": "2:22-cv-00977 HICKS v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?594699",
+    "date": "2026-08-18T17:26:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-00977",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "515"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660088&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660088&3",
+    "title": "2:26-cv-06012 ALAMEDA v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660088",
+    "date": "2026-08-18T17:20:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06012",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
