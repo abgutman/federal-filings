@@ -19952,5 +19952,16 @@
     "case_num": "2:24-cr-00399",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "102"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&254": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&254",
+    "title": "2:25-cv-06017 STATESIDE BRANDS LLC v. ANHEUSER-BUSCH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160",
+    "date": "2026-08-17T23:51:42-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06017",
+    "entry_type": "Seal Document",
+    "doc_num": "78"
   }
 }
