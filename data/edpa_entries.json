@@ -19930,5 +19930,27 @@
     "case_num": "2:26-cv-02202",
     "entry_type": "Seal",
     "doc_num": "48"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&88": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&88",
+    "title": "2:25-cr-00115-1 USA v. SOWELL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362",
+    "date": "2026-08-17T21:56:04-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00115",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&359": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495&359",
+    "title": "2:24-cr-00399-1 USA v. WILLIAMSON, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629495",
+    "date": "2026-08-17T21:38:01-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00399",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "102"
   }
 }
