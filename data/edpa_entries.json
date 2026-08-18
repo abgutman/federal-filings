@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658166&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658166&3",
-    "title": "2:26-cv-05011 MORRIS v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658166",
-    "date": "2026-07-19T09:55:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05011",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&601": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&601",
     "title": "2:23-cr-00029-3 USA v. DANTZLER et al",
@@ -20062,5 +20051,104 @@
     "case_num": "2:24-cv-02363",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523&78": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523&78",
+    "title": "2:26-cv-00742 ROGALSKI v. NESHAMINY SCHOOL DISTRICT et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523",
+    "date": "2026-08-18T10:08:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00742",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523&76": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523&76",
+    "title": "2:26-cv-00742 ROGALSKI v. NESHAMINY SCHOOL DISTRICT et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523",
+    "date": "2026-08-18T10:06:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00742",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634924&107": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634924&107",
+    "title": "2:25-cv-01419 NEWELL v. JR CAPITAL, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634924",
+    "date": "2026-08-18T10:00:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01419",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634924&105": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634924&105",
+    "title": "2:25-cv-01419 NEWELL v. JR CAPITAL, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634924",
+    "date": "2026-08-18T09:58:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01419",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646107&71": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646107&71",
+    "title": "2:25-cv-06387 BROWN  v. TERRA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646107",
+    "date": "2026-08-18T09:55:07-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:25-cv-06387",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660024&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660024&4",
+    "title": "2:26-cv-05980 Webb v. ELI LILLY & COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660024",
+    "date": "2026-08-18T09:52:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05980",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496&326": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496&326",
+    "title": "2:21-cv-03375 MCINTOSH v. WETZEL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496",
+    "date": "2026-08-18T09:40:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-03375",
+    "entry_type": "Memorandum",
+    "doc_num": "97"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&124": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&124",
+    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
+    "date": "2026-08-18T09:18:48-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-02202",
+    "entry_type": "Seal",
+    "doc_num": "49"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660021&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660021&3",
+    "title": "2:26-cv-05923 IN RE: ISRAEL DIAZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660021",
+    "date": "2026-08-18T09:13:44-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05923",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
