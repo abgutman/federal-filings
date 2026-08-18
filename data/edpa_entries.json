@@ -20535,5 +20535,115 @@
     "case_num": "2:26-cv-05991",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634643&217": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634643&217",
+    "title": "2:25-cr-00087-1 USA v. BENSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634643",
+    "date": "2026-08-18T15:02:27-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00087",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747&20",
+    "title": "2:26-cr-00382-1 USA v. WRIGHT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659747",
+    "date": "2026-08-18T14:56:34-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00382",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654426&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654426&56",
+    "title": "2:26-cv-03181 Kane et al v. Schnall et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654426",
+    "date": "2026-08-18T14:53:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03181",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654426&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654426&54",
+    "title": "2:26-cv-03181 Kane et al v. Schnall et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654426",
+    "date": "2026-08-18T14:49:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03181",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634268&691": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634268&691",
+    "title": "2:25-cv-01137 KATARIA et al v. BOKHARI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634268",
+    "date": "2026-08-18T14:35:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01137",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "184"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634268&689": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634268&689",
+    "title": "2:25-cv-01137 KATARIA et al v. BOKHARI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634268",
+    "date": "2026-08-18T14:33:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01137",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "183"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660071&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660071&4",
+    "title": "2:26-cv-06004 SHAHID et al v. U.S. BANK NATIONAL ASSOCIATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660071",
+    "date": "2026-08-18T14:31:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06004",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660073&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660073&7",
+    "title": "2:26-cv-06005 Tregan v. Bonnell Industries, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660073",
+    "date": "2026-08-18T14:29:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06005",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660078&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660078&3",
+    "title": "5:26-cv-06003 G.C. ZARNAS & CO, INC. (NE) v. WESTERN SURETY CO.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660078",
+    "date": "2026-08-18T14:04:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06003",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660076&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660076&3",
+    "title": "5:26-cv-06000 BANOTAI v. LEHIGH VALLEY HEALTH NETWORK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660076",
+    "date": "2026-08-18T12:54:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06000",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
