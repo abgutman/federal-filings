@@ -10,17 +10,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658165&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658165&3",
-    "title": "2:26-cv-05010 BRABHAM v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658165",
-    "date": "2026-07-19T09:37:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05010",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&601": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605325&601",
     "title": "2:23-cr-00029-3 USA v. DANTZLER et al",
@@ -19974,5 +19963,104 @@
     "case_num": "2:26-cv-04417",
     "entry_type": "Show Cause",
     "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&579": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&579",
+    "title": "2:22-cv-03253 COMMONWEALTH OF PENNSYLVANIA et al v. MARINER FINANCE, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817",
+    "date": "2026-08-18T09:07:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-03253",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "196"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&577": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&577",
+    "title": "2:22-cv-03253 COMMONWEALTH OF PENNSYLVANIA et al v. MARINER FINANCE, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817",
+    "date": "2026-08-18T09:06:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:22-cv-03253",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "195"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2830": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2830",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-18T09:04:17-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "882"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13596": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13596",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-18T09:04:17-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "4895"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&82": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&82",
+    "title": "2:23-cv-04583 WILLIAMS v. AMERICAN HERITAGE CREDIT UNION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017",
+    "date": "2026-08-18T09:03:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-04583",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&80": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&80",
+    "title": "2:23-cv-04583 WILLIAMS v. AMERICAN HERITAGE CREDIT UNION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017",
+    "date": "2026-08-18T09:02:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-04583",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640436&116": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640436&116",
+    "title": "2:25-cv-03620 ROBERTSON v. CONSTRUCTION REHAB LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640436",
+    "date": "2026-08-18T08:55:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-03620",
+    "entry_type": "Memorandum",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&110": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&110",
+    "title": "2:24-cv-02363 Yuan v. STANLEY BLACK & DECKER, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885",
+    "date": "2026-08-18T08:19:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-02363",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&108": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&108",
+    "title": "2:24-cv-02363 Yuan v. STANLEY BLACK & DECKER, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885",
+    "date": "2026-08-18T08:16:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-02363",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "32"
   }
 }
