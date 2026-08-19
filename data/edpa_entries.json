@@ -43,61 +43,6 @@
     "entry_type": "Order on Motion to Seal",
     "doc_num": "25"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460&140": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460&140",
-    "title": "5:25-cr-00444-1 USA v. ADDY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460",
-    "date": "2026-07-20T15:30:05-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "5:25-cr-00444",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "42"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658241&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658241&3",
-    "title": "5:26-cv-05052 LANTZY v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658241",
-    "date": "2026-07-20T15:28:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05052",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658234&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658234&6",
-    "title": "2:26-cv-05047 McGrory v. THE PNC FINANCIAL SERVICES GROUP, INC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658234",
-    "date": "2026-07-20T15:26:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05047",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658240&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658240&3",
-    "title": "2:26-cv-05051 VIZCARRONDO v. SANONSKY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658240",
-    "date": "2026-07-20T15:17:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05051",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862&121": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862&121",
-    "title": "2:25-cr-00481-1 USA v. FROMETA-DE LEON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862",
-    "date": "2026-07-20T14:53:35-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00481",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "30"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180",
     "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
