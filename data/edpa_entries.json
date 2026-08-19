@@ -1,81 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180",
-    "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795",
-    "date": "2026-07-20T17:09:38-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04884",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "56"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&178": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&178",
-    "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795",
-    "date": "2026-07-20T17:07:50-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04884",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "55"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658251&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658251&4",
-    "title": "2:26-cv-05058 GORDON v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658251",
-    "date": "2026-07-20T17:05:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05058",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658250&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658250&4",
-    "title": "2:26-cv-05057 FEDELI v. GREATER PHILADELPHIA YOUNG MEN&#039;S CHRISTIAN ASSOCIATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658250",
-    "date": "2026-07-20T17:01:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05057",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658246&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658246&14",
-    "title": "2:26-cv-05055 LOPEZ et al v. AVIS-BUDGET GROUP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658246",
-    "date": "2026-07-20T16:52:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05055",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658247&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658247&4",
-    "title": "2:26-cv-05056 ELLIOTT v. LCB PERSONNEL, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658247",
-    "date": "2026-07-20T16:49:40-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05056",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658245&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658245&3",
-    "title": "5:26-cv-05054 VARGAS v. PLASKOLITE MXL, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658245",
-    "date": "2026-07-20T16:45:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05054",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&85": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&85",
     "title": "2:25-cv-02852 Goulet et al v. NATIONWIDE INSURANCE COMPANY OF AMERICA",
@@ -108,28 +31,6 @@
     "case_num": "2:26-cv-05059",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&210": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&210",
-    "title": "2:25-cv-06017 STATESIDE BRANDS LLC v. ANHEUSER-BUSCH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160",
-    "date": "2026-07-20T17:23:47-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-06017",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "62"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&491": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&491",
-    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
-    "date": "2026-07-20T17:22:54-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-05365",
-    "entry_type": "Seal",
-    "doc_num": "163"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262&9": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262&9",
@@ -284,17 +185,6 @@
     "case_num": "5:26-cv-05062",
     "entry_type": "Seal",
     "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658276&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658276&14",
-    "title": "5:26-cv-05055 LOPEZ et al v. AVIS-BUDGET GROUP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658276",
-    "date": "2026-07-20T16:52:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05055",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11",
