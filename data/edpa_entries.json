@@ -1,114 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3",
-    "title": "2:26-cv-05038 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.16.17.180",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220",
-    "date": "2026-07-20T13:15:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05038",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658219&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658219&3",
-    "title": "2:26-cv-05037 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 73.141.2.64",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658219",
-    "date": "2026-07-20T13:12:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05037",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658215&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658215&5",
-    "title": "2:26-cv-05033 MATTEO AND  GREGORY AND HEATHER PALESTINI v. WHIRLPOOL CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658215",
-    "date": "2026-07-20T13:11:16-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05033",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658218&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658218&3",
-    "title": "2:26-cv-05036 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.36.218.73",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658218",
-    "date": "2026-07-20T13:08:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05036",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658217&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658217&3",
-    "title": "2:26-cv-05035 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 69.253.184.112",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658217",
-    "date": "2026-07-20T13:05:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05035",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658216&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658216&3",
-    "title": "2:26-cv-05034 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 98.114.252.22",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658216",
-    "date": "2026-07-20T13:03:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05034",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658214&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658214&3",
-    "title": "2:26-cv-05032 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 68.83.178.76",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658214",
-    "date": "2026-07-20T13:00:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05032",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658213&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658213&3",
-    "title": "2:26-cv-05031 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 100.14.13.252",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658213",
-    "date": "2026-07-20T12:57:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05031",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650381&166": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650381&166",
-    "title": "5:26-cv-01237 MISSANELLI, D.O. v. LEHIGH VALLEY HEALTH NETWORK",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650381",
-    "date": "2026-07-20T12:52:47-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "5:26-cv-01237",
-    "entry_type": "Sanctions",
-    "doc_num": "70"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658212&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658212&7",
-    "title": "2:26-cv-05030 JAMES v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658212",
-    "date": "2026-07-20T12:40:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05030",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658244&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658244&6",
     "title": "2:26-cv-05053 LAIMBEER v. NOVO NORDISK INC. et al",
@@ -271,105 +161,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-05044",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658228&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658228&3",
-    "title": "2:26-cv-05043 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 71.242.86.36",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658228",
-    "date": "2026-07-20T13:31:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05043",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645847&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645847&47",
-    "title": "2:25-cv-06284 THE HANOVER INSURANCE COMPANY v. LYNCH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645847",
-    "date": "2026-07-20T13:30:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06284",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658226&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658226&3",
-    "title": "2:26-cv-05042 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 73.13.217.26",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658226",
-    "date": "2026-07-20T13:27:55-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05042",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645847&45": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645847&45",
-    "title": "2:25-cv-06284 THE HANOVER INSURANCE COMPANY v. LYNCH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645847",
-    "date": "2026-07-20T13:25:41-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06284",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658225&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658225&3",
-    "title": "2:26-cv-05041 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 173.59.121.108",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658225",
-    "date": "2026-07-20T13:24:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05041",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658222&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658222&3",
-    "title": "2:26-cv-05040 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 71.175.14.153",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658222",
-    "date": "2026-07-20T13:21:54-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05040",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&103": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&103",
-    "title": "2:26-cv-03215 KIM v. THOMAS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484",
-    "date": "2026-07-20T13:21:52-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03215",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "38"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&101": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484&101",
-    "title": "2:26-cv-03215 KIM v. THOMAS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654484",
-    "date": "2026-07-20T13:19:40-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03215",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "37"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658221&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658221&3",
-    "title": "2:26-cv-05039 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 68.162.104.70",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658221",
-    "date": "2026-07-20T13:19:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05039",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
@@ -21139,6 +20930,83 @@
     "category": "complaints",
     "case_num": "2:26-mj-01627",
     "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660154&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660154&7",
+    "title": "2:26-cv-06049 PHIPPS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660154",
+    "date": "2026-08-19T12:58:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06049",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660153&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660153&4",
+    "title": "2:26-cv-06048 U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II v. HASDO LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660153",
+    "date": "2026-08-19T12:56:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06048",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660152&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660152&7",
+    "title": "2:26-cv-06047 MILES v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660152",
+    "date": "2026-08-19T12:53:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06047",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660151&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660151&7",
+    "title": "2:26-cv-06046 REEVE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660151",
+    "date": "2026-08-19T12:49:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06046",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660150&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660150&7",
+    "title": "2:26-cv-06045 HALES v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660150",
+    "date": "2026-08-19T12:43:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06045",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660149&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660149&7",
+    "title": "2:26-cv-06044 STUDER v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660149",
+    "date": "2026-08-19T12:37:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06044",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660148&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660148&7",
+    "title": "2:26-cv-06043 SIMS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660148",
+    "date": "2026-08-19T12:30:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06043",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
