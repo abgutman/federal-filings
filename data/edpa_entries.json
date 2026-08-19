@@ -98,72 +98,6 @@
     "entry_type": "Sentencing Memorandum",
     "doc_num": "30"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636635&133": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636635&133",
-    "title": "2:25-cv-02076 ELMORE v. FALLS TOWNSHIP et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636635",
-    "date": "2026-07-20T14:27:28-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02076",
-    "entry_type": "Memorandum",
-    "doc_num": "49"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658239&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658239&4",
-    "title": "2:26-cv-05049 CLEMONS v. NEW JERSEY MANUFACTURERS INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658239",
-    "date": "2026-07-20T14:25:53-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05049",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658233&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658233&3",
-    "title": "5:26-cv-05046 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 64.121.149.215",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658233",
-    "date": "2026-07-20T13:39:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05046",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658232&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658232&3",
-    "title": "2:26-cv-05045 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 69.139.81.166",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658232",
-    "date": "2026-07-20T13:36:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05045",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656389&38": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656389&38",
-    "title": "5:26-cv-04067 WILLIAMS v. APIS SERVICES, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656389",
-    "date": "2026-07-20T13:34:55-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:26-cv-04067",
-    "entry_type": "Memorandum",
-    "doc_num": "12"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658231&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658231&3",
-    "title": "2:26-cv-05044 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 74.109.32.240",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658231",
-    "date": "2026-07-20T13:34:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05044",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180",
     "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
@@ -21007,6 +20941,149 @@
     "category": "complaints",
     "case_num": "2:26-cv-06043",
     "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653505&78": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653505&78",
+    "title": "2:26-cv-02723 RODRIGUEZ v. INDIMORE MUSIC INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653505",
+    "date": "2026-08-19T14:29:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02723",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660159&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660159&18",
+    "title": "2:26-cv-06051 Davis et al v. MTD PRODUCTS INC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660159",
+    "date": "2026-08-19T14:29:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06051",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629061&147": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629061&147",
+    "title": "2:24-cr-00382-1 USA v. MUSSET-RODRIGUEZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629061",
+    "date": "2026-08-19T14:28:29-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00382",
+    "entry_type": "Plea Agreement",
+    "doc_num": "46"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653505&76": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653505&76",
+    "title": "2:26-cv-02723 RODRIGUEZ v. INDIMORE MUSIC INC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653505",
+    "date": "2026-08-19T14:27:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02723",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657670&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657670&56",
+    "title": "2:26-cr-00298-1 USA v. BURNS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657670",
+    "date": "2026-08-19T14:21:04-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00298",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627927&105": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627927&105",
+    "title": "2:24-cv-05133 SANTIAGO v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627927",
+    "date": "2026-08-19T14:19:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-05133",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "39"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627927&103": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627927&103",
+    "title": "2:24-cv-05133 SANTIAGO v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627927",
+    "date": "2026-08-19T14:17:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-05133",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659587&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659587&44",
+    "title": "2:26-cr-00370-1 USA v. JOHNSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659587",
+    "date": "2026-08-19T14:17:22-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00370",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620037&305": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620037&305",
+    "title": "5:24-cv-01126 PRAIZNER et al  v. RED & BLUE DICE CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620037",
+    "date": "2026-08-19T14:09:40-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:24-cv-01126",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "115"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620037&303": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620037&303",
+    "title": "5:24-cv-01126 PRAIZNER et al  v. RED & BLUE DICE CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620037",
+    "date": "2026-08-19T14:07:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:24-cv-01126",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "114"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626065&418": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626065&418",
+    "title": "2:24-cv-04138 STRATA SKIN SCIENCES, INC. v. LASEROPTEK AMERICA CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626065",
+    "date": "2026-08-19T14:04:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04138",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "130"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626065&416": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626065&416",
+    "title": "2:24-cv-04138 STRATA SKIN SCIENCES, INC. v. LASEROPTEK AMERICA CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626065",
+    "date": "2026-08-19T13:57:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-04138",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "129"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660155&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660155&3",
+    "title": "2:26-cv-06050 GOMEZ v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660155",
+    "date": "2026-08-19T13:39:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06050",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
   }
 }
