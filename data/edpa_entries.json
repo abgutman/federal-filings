@@ -109,39 +109,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "32"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&115": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&115",
-    "title": "2:24-cv-04140 TOLLIVER v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068",
-    "date": "2026-07-20T09:48:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-04140",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "39"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&113": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068&113",
-    "title": "2:24-cv-04140 TOLLIVER v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626068",
-    "date": "2026-07-20T09:45:54-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-04140",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "38"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658157&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658157&12",
-    "title": "2:26-cv-05002 MORALES AURRECOECHEA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658157",
-    "date": "2026-07-20T09:28:28-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05002",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3",
     "title": "2:26-cv-05038 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.16.17.180",
@@ -20931,5 +20898,49 @@
     "case_num": "2:23-cv-02971",
     "entry_type": "Memorandum",
     "doc_num": "127"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&82": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&82",
+    "title": "2:25-cr-00441-1 USA v. PORTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415",
+    "date": "2026-08-19T09:17:09-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00441",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660106&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660106&3",
+    "title": "2:26-cv-06021 Selig",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660106",
+    "date": "2026-08-19T09:12:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06021",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&80": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&80",
+    "title": "2:25-cr-00441-1 USA v. PORTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415",
+    "date": "2026-08-19T09:10:20-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00441",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977&227": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977&227",
+    "title": "2:19-cv-06116 AMERICAN HYPNOTHERAPY SOCIETY, LLC et al v. ABC CAPITAL INVESTMENTS, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977",
+    "date": "2026-08-19T08:35:41-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:19-cv-06116",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "52"
   }
 }
