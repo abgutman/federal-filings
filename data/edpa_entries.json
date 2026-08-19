@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658244&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658244&6",
-    "title": "2:26-cv-05053 LAIMBEER v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658244",
-    "date": "2026-07-20T16:13:10-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05053",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649526&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649526&48",
-    "title": "2:26-cv-00739 DAVILA v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649526",
-    "date": "2026-07-20T15:38:41-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00739",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "15"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649526&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649526&46",
-    "title": "2:26-cv-00739 DAVILA v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649526",
-    "date": "2026-07-20T15:34:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00739",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "14"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647389&65": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647389&65",
-    "title": "5:25-cv-07038 Ocasio v. CITY OF ALLENTOWN",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647389",
-    "date": "2026-07-20T15:33:19-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:25-cv-07038",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "25"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642795&180",
     "title": "2:25-cv-04884 SAWICKI v. WILSON et al",
@@ -21029,6 +20985,215 @@
     "category": "complaints",
     "case_num": "2:26-cv-06050",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660191&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660191&4",
+    "title": "2:26-cv-06065 JONES v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660191",
+    "date": "2026-08-19T16:13:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06065",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660184&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660184&15",
+    "title": "2:26-cv-06063 FALCONE v. WALMART et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660184",
+    "date": "2026-08-19T16:09:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06063",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660185&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660185&8",
+    "title": "2:26-cv-06064 Morris v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660185",
+    "date": "2026-08-19T16:00:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06064",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&230": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&230",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-08-19T15:53:18-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Seal",
+    "doc_num": "85"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660181&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660181&4",
+    "title": "2:26-cv-06062 FERGUSON v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660181",
+    "date": "2026-08-19T15:48:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06062",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660178&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660178&4",
+    "title": "2:26-cv-06061 U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II v. 6029 HAVERFORD LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660178",
+    "date": "2026-08-19T15:38:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06061",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&13",
+    "title": "2:26-cr-00384-1 USA v. BRANSTETTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175",
+    "date": "2026-08-19T15:37:31-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00384",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660177&50": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660177&50",
+    "title": "2:26-cr-00385-1 USA v. FLORENTINO-CHINO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660177",
+    "date": "2026-08-19T15:37:07-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00385",
+    "entry_type": "Indictment",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&10",
+    "title": "2:26-cr-00384-1 USA v. BRANSTETTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175",
+    "date": "2026-08-19T15:35:21-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00384",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&4",
+    "title": "2:26-cr-00384-1 USA v. BRANSTETTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175",
+    "date": "2026-08-19T15:33:20-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00384",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660172&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660172&4",
+    "title": "2:26-cv-06059 W.G et al v. CHESTER COUNTY INTERMEDIATE UNIT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660172",
+    "date": "2026-08-19T15:27:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06059",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660173&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660173&4",
+    "title": "2:26-cv-06060 BRIGGS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660173",
+    "date": "2026-08-19T15:23:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06060",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&227": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&227",
+    "title": "2:25-cr-00266-2 USA v. JENKINS., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534",
+    "date": "2026-08-19T15:09:00-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00266",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660168&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660168&4",
+    "title": "2:26-cv-06058 Jarosz v. Mendoza",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660168",
+    "date": "2026-08-19T15:08:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06058",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&225": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&225",
+    "title": "2:25-cr-00266-2 USA v. JENKINS., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534",
+    "date": "2026-08-19T15:05:33-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00266",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "66"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660163&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660163&5",
+    "title": "2:26-cv-06055 JACKSON v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660163",
+    "date": "2026-08-19T14:50:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06055",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660162&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660162&3",
+    "title": "2:26-cv-06054 MCGARRAH v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660162",
+    "date": "2026-08-19T14:40:26-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06054",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660160&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660160&3",
+    "title": "2:26-cv-06052 GOHN v. TRUMARK FINANCIAL CREDIT UNION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660160",
+    "date": "2026-08-19T14:38:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06052",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660161&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660161&4",
+    "title": "2:26-cv-06053 U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II v. PEER MANAGEMENT INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660161",
+    "date": "2026-08-19T14:38:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06053",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
