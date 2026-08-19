@@ -142,17 +142,6 @@
     "entry_type": "Order to Show Cause",
     "doc_num": "2"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225&89": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225&89",
-    "title": "2:25-cr-00522-1 USA v. SATCHEL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647225",
-    "date": "2026-07-20T08:50:56-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00522",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "25"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3",
     "title": "2:26-cv-05038 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.16.17.180",
@@ -20931,5 +20920,16 @@
     "case_num": "2:25-cv-06121",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612260&445": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612260&445",
+    "title": "2:23-cv-02971 ROSA-DIAZ v. LITTLE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612260",
+    "date": "2026-08-19T08:22:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-02971",
+    "entry_type": "Memorandum",
+    "doc_num": "127"
   }
 }
