@@ -43,72 +43,6 @@
     "entry_type": "Warrant Returned Executed",
     "doc_num": "97"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658198&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658198&3",
-    "title": "2:26-cv-05020 FREEMAN v. ARAMARK CAMPUS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658198",
-    "date": "2026-07-20T10:37:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05020",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658197&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658197&5",
-    "title": "2:26-cv-05017 BRESLOW v. BRESLOW HOME HEALTH CARE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658197",
-    "date": "2026-07-20T10:14:53-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05017",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658195&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658195&4",
-    "title": "2:26-cv-05016 THOUIN v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658195",
-    "date": "2026-07-20T09:59:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05016",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657796&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657796&30",
-    "title": "2:26-cv-04834 BUENO-PAULINO v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657796",
-    "date": "2026-07-20T09:55:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04834",
-    "entry_type": "Memorandum",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&98": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&98",
-    "title": "2:25-cv-02151 PULEO v. PLYMOUTH ROCK ASSURANCE CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829",
-    "date": "2026-07-20T09:54:31-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02151",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&96": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829&96",
-    "title": "2:25-cv-02151 PULEO v. PLYMOUTH ROCK ASSURANCE CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636829",
-    "date": "2026-07-20T09:52:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02151",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "32"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658220&3",
     "title": "2:26-cv-05038 STRIKE 3 HOLDINGS, LLC v. JOHN DOE SUBSCRIBER ASSIGNED IP ADDRESS 108.16.17.180",
@@ -20942,5 +20876,82 @@
     "case_num": "2:19-cv-06116",
     "entry_type": "Order to Show Cause",
     "doc_num": "52"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2845": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2845",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-19T10:25:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "888"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13621": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13621",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-19T10:25:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "4905"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2843": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2843",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-08-19T10:22:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "887"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13619": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13619",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-19T10:22:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "4904"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660108&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660108&8",
+    "title": "2:26-cv-06023 WADE et al v. THE GIANT COMPANY, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660108",
+    "date": "2026-08-19T10:04:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06023",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&126": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&126",
+    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
+    "date": "2026-08-19T09:56:26-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-02202",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681&34": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681&34",
+    "title": "2:26-cv-05805 MARCHETTI v. 46 LABS, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681",
+    "date": "2026-08-19T09:52:23-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-05805",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "11"
   }
 }
