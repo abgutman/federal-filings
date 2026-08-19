@@ -20898,5 +20898,16 @@
     "case_num": "2:26-cv-05920",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660094&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660094&4",
+    "title": "2:26-cv-06016 ASTANIKZAI v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660094",
+    "date": "2026-08-18T22:10:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06016",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
