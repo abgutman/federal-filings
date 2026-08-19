@@ -21151,5 +21151,16 @@
     "case_num": "2:26-cv-06068",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660199&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660199&3",
+    "title": "2:26-cv-06074 BARNETTE v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660199",
+    "date": "2026-08-19T18:01:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06074",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
