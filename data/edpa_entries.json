@@ -20887,5 +20887,16 @@
     "case_num": "2:25-cv-05828",
     "entry_type": "Memorandum",
     "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660091&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660091&5",
+    "title": "2:26-cv-05920 BICKEL  v. WEBSTER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660091",
+    "date": "2026-08-18T20:39:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-05920",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
