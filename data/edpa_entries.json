@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&85": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&85",
-    "title": "2:25-cv-02852 Goulet et al v. NATIONWIDE INSURANCE COMPANY OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588",
-    "date": "2026-07-20T18:29:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02852",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "29"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&83": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588&83",
-    "title": "2:25-cv-02852 Goulet et al v. NATIONWIDE INSURANCE COMPANY OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638588",
-    "date": "2026-07-20T18:26:23-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02852",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658252&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658252&4",
-    "title": "2:26-cv-05059 GASTFIELD v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658252",
-    "date": "2026-07-20T17:33:48-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05059",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262&9": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262&9",
     "title": "2:26-cv-05062  v. KENNEDY et al",
@@ -21083,6 +21050,105 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-06053",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660195&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660195&4",
+    "title": "2:26-cv-06070 FLEISCHACKER v. KEYSTONE REGIONAL VOLLEYBALL ASSOCIATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660195",
+    "date": "2026-08-19T17:00:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06070",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660196&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660196&4",
+    "title": "2:26-cv-06071 SHARPE v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660196",
+    "date": "2026-08-19T17:00:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06071",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643850&46": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643850&46",
+    "title": "2:25-cv-05399 STENSTROM v. DELAWARE COUNTY (FOR INDENTIFICATION OF THE RULEMAKING BODY) et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643850",
+    "date": "2026-08-19T16:57:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05399",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660194&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660194&7",
+    "title": "2:26-cv-06069 QUILES v. Leonard et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660194",
+    "date": "2026-08-19T16:56:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06069",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643850&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643850&44",
+    "title": "2:25-cv-05399 STENSTROM v. DELAWARE COUNTY (FOR INDENTIFICATION OF THE RULEMAKING BODY) et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643850",
+    "date": "2026-08-19T16:55:00-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05399",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649006&101": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649006&101",
+    "title": "2:26-cv-00531 MCKENNA v. J.J. WHITE, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649006",
+    "date": "2026-08-19T16:51:56-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00531",
+    "entry_type": "Memorandum",
+    "doc_num": "35"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642996&55": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642996&55",
+    "title": "2:25-cv-04982 HATCH v. MOBILION SYSTEMS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642996",
+    "date": "2026-08-19T16:43:14-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04982",
+    "entry_type": "Seal Document",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660192&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660192&3",
+    "title": "2:26-cv-06067 SEASONS-4, INC. v. HVAC SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660192",
+    "date": "2026-08-19T16:38:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06067",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660193&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660193&4",
+    "title": "2:26-cv-06068 MARQUEZ v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660193",
+    "date": "2026-08-19T16:37:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06068",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
