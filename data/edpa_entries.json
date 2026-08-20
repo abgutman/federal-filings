@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262&9",
-    "title": "2:26-cv-05062  v. KENNEDY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658262",
-    "date": "2026-07-20T23:19:40-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-05062",
-    "entry_type": "Seal",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&75": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&75",
-    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
-    "date": "2026-07-20T23:17:09-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-02202",
-    "entry_type": "Seal",
-    "doc_num": "30"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649813&58": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649813&58",
     "title": "5:26-cv-00929 THACKER v. MANOR MANAGEMENT CORPORATION",
@@ -108,17 +86,6 @@
     "case_num": "2:22-cr-00427",
     "entry_type": "Forfeiture of Property",
     "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264&9",
-    "title": "5:26-cv-05062 A.S. v. KENNEDY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658264",
-    "date": "2026-07-20T23:19:40-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:26-cv-05062",
-    "entry_type": "Seal",
-    "doc_num": "2"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11",
@@ -21272,5 +21239,16 @@
     "case_num": "2:26-cv-06081",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&117": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&117",
+    "title": "2:26-cv-01260 SWITZER v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434",
+    "date": "2026-08-19T22:42:35-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-01260",
+    "entry_type": "Seal",
+    "doc_num": "45"
   }
 }
