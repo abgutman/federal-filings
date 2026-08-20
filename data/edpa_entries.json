@@ -21437,5 +21437,82 @@
     "case_num": "2:26-cv-01331",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "60"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&197": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&197",
+    "title": "2:23-cv-04991 HUGHES et al v. REGULATORY DATACORP INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943",
+    "date": "2026-08-20T17:54:01-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:23-cv-04991",
+    "entry_type": "Seal Document",
+    "doc_num": "67"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13690": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13690",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-08-20T17:54:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum",
+    "doc_num": "4927"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660308&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660308&7",
+    "title": "2:26-cv-06129 DYE et al v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660308",
+    "date": "2026-08-20T17:50:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06129",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660305&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660305&6",
+    "title": "2:26-cv-06126 HALL v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660305",
+    "date": "2026-08-20T17:35:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06126",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660302&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660302&7",
+    "title": "2:26-cv-06125 REHARK v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660302",
+    "date": "2026-08-20T17:02:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06125",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660297&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660297&8",
+    "title": "2:26-cv-06122 Ryals v. Ronald L. Short Trucking et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660297",
+    "date": "2026-08-20T17:00:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06122",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660299&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660299&7",
+    "title": "2:26-cv-06124 HARRIS v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660299",
+    "date": "2026-08-20T16:56:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06124",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
