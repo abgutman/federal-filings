@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507&33",
-    "title": "2:26-cv-03162 ZARROW v. DALESSIO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654507",
-    "date": "2026-07-21T09:08:08-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03162",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862&125": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862&125",
-    "title": "2:25-cr-00481-1 USA v. FROMETA-DE LEON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645862",
-    "date": "2026-07-21T09:05:44-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00481",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "32"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11",
     "title": "2:26-cv-05063 GARCIA MONRROY v. JAMISON et al",
@@ -207,61 +185,6 @@
     "case_num": "2:26-cv-02142",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652236&41": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652236&41",
-    "title": "2:26-cv-02142 SEIPLE v. WINNEBAGO INDUSTRIES, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652236",
-    "date": "2026-07-21T09:51:55-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02142",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "15"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658278&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658278&4",
-    "title": "2:26-cv-05066 BLOUNT v. Aegis Residential Services, Inc.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658278",
-    "date": "2026-07-21T09:50:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05066",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655381&22": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655381&22",
-    "title": "2:26-cv-03599 CADELL v. 55TH & PINE POLICE DISTRICT et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655381",
-    "date": "2026-07-21T09:49:02-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03599",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655381&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655381&20",
-    "title": "2:26-cv-03599 CADELL v. 55TH & PINE POLICE DISTRICT et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655381",
-    "date": "2026-07-21T09:40:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03599",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658277&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658277&7",
-    "title": "2:26-cv-05065 Loiseau v. Elizondo Auto Sales LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658277",
-    "date": "2026-07-21T09:32:04-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05065",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306&104": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306&104",
@@ -21217,5 +21140,60 @@
     "case_num": "2:25-cv-06260",
     "entry_type": "Seal",
     "doc_num": "63"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659518&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659518&20",
+    "title": "2:26-mj-01562-1 USA v. ADMINISTRATIVE INSPECTION OF: DR. TIMOTHY MANN, DVM",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659518",
+    "date": "2026-08-20T09:40:18-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01562",
+    "entry_type": "Letter to Unseal",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660198&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660198&11",
+    "title": "2:26-cv-06073 RAMIREZ MARTINEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660198",
+    "date": "2026-08-20T09:32:47-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-06073",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660212&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660212&12",
+    "title": "2:26-cv-06082 DIEGO MARTINEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660212",
+    "date": "2026-08-20T09:17:39-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-06082",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&104": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&104",
+    "title": "2:25-cv-04490 CARTER v. EDWARDS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893",
+    "date": "2026-08-20T09:05:05-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04490",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&102": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&102",
+    "title": "2:25-cv-04490 CARTER v. EDWARDS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893",
+    "date": "2026-08-20T09:02:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04490",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "29"
   }
 }
