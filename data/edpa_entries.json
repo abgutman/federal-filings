@@ -54,39 +54,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460&146": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460&146",
-    "title": "5:25-cr-00444-1 USA v. ADDY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644460",
-    "date": "2026-07-21T11:31:58-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "5:25-cr-00444",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "45"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658290&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658290&3",
-    "title": "2:26-cv-05071 MONE&#096; v. CARR AND DUFF, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658290",
-    "date": "2026-07-21T11:30:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05071",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658289&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658289&3",
-    "title": "2:26-cv-05070 Lurik v. UNITED STATES OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658289",
-    "date": "2026-07-21T11:30:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05070",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306&104": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306&104",
     "title": "2:26-cr-00318-1 USA v. LEE",
@@ -21096,5 +21063,82 @@
     "case_num": "2:25-cv-04490",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660230&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660230&7",
+    "title": "5:26-cv-06020 OGILVIE v. LEHIGH VALLEY HOSPITAL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660230",
+    "date": "2026-08-20T10:26:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06020",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660226&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660226&3",
+    "title": "2:26-cv-06091 POWELL v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660226",
+    "date": "2026-08-20T10:26:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06091",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&107": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&107",
+    "title": "2:26-cr-00003-1 USA v. CARTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040",
+    "date": "2026-08-20T10:22:49-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00003",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030&1481": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030&1481",
+    "title": "2:23-cv-05039 HASSON v. COMCAST CABLE COMMUNICATIONS LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030",
+    "date": "2026-08-20T10:17:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-05039",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "322"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030&1479": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030&1479",
+    "title": "2:23-cv-05039 HASSON v. COMCAST CABLE COMMUNICATIONS LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030",
+    "date": "2026-08-20T10:13:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-05039",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "321"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660225&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660225&8",
+    "title": "2:26-cv-06090 TRUSTEES OF THE NATIONAL ELEVATOR INDUSTRY PENSION FUND et al v. NY/NJ ELEVATOR CORP. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660225",
+    "date": "2026-08-20T10:04:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06090",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660227&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660227&7",
+    "title": "5:26-cv-06069 QUILES v. Leonard et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660227",
+    "date": "2026-08-19T16:56:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06069",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
