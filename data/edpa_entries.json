@@ -21184,5 +21184,93 @@
     "case_num": "2:26-cv-06078",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660218&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660218&3",
+    "title": "2:26-cv-06088 PRINCIPATO v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660218",
+    "date": "2026-08-19T22:37:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06088",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660217&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660217&4",
+    "title": "2:26-cv-06087 ERVIN v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660217",
+    "date": "2026-08-19T22:35:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06087",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660216&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660216&3",
+    "title": "2:26-cv-06086 Scott-Duda v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660216",
+    "date": "2026-08-19T22:29:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06086",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660215&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660215&3",
+    "title": "2:26-cv-06085 CRABILL v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660215",
+    "date": "2026-08-19T22:20:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06085",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660214&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660214&4",
+    "title": "2:26-cv-06084 HICKS v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660214",
+    "date": "2026-08-19T22:19:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06084",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660213&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660213&3",
+    "title": "2:26-cv-06083 COPPOLA v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660213",
+    "date": "2026-08-19T22:12:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06083",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098&154": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098&154",
+    "title": "5:25-cv-00612 KERN v. COWBOY LOGIC, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098",
+    "date": "2026-08-19T22:11:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-00612",
+    "entry_type": "Memorandum",
+    "doc_num": "59"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660211&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660211&3",
+    "title": "2:26-cv-06081 CARNEY v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660211",
+    "date": "2026-08-19T22:02:55-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06081",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
