@@ -21,39 +21,6 @@
     "entry_type": "Seal",
     "doc_num": "30"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605171&141": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605171&141",
-    "title": "2:23-cv-00232 HAMILTON v. KLINEFELETER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605171",
-    "date": "2026-07-20T21:40:00-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-00232",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "31"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605171&139": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605171&139",
-    "title": "2:23-cv-00232 HAMILTON v. KLINEFELETER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?605171",
-    "date": "2026-07-20T21:35:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-00232",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610388&264": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610388&264",
-    "title": "2:23-cr-00251-1 USA v. FULTON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610388",
-    "date": "2026-07-20T19:56:17-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:23-cr-00251",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "68"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649813&58": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649813&58",
     "title": "5:26-cv-00929 THACKER v. MANOR MANAGEMENT CORPORATION",
@@ -21160,6 +21127,61 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-06074",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660210&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660210&3",
+    "title": "2:26-cv-06080 Q.M. v. LIBERTY HEALTHCARE CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660210",
+    "date": "2026-08-19T21:24:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06080",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&7",
+    "title": "2:26-cv-06079 Cifelli v. SCHOOL DISTRICT OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209",
+    "date": "2026-08-19T21:18:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06079",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&7",
+    "title": "2:26-cv-06072 Mansfield Oil Company of Gainesville, Inc. v. KRSM Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197",
+    "date": "2026-08-19T20:14:10-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-06072",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&4",
+    "title": "2:26-cv-06072 Mansfield Oil Company of Gainesville, Inc. v. KRSM Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197",
+    "date": "2026-08-19T20:09:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06072",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660203&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660203&3",
+    "title": "2:26-cv-06078 Hoffman v. USA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660203",
+    "date": "2026-08-19T18:52:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06078",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
