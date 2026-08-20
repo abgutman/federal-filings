@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11",
-    "title": "2:26-cv-05063 GARCIA MONRROY v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263",
-    "date": "2026-07-21T12:17:32-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05063",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658298&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658298&7",
-    "title": "2:26-cv-05074 CLARK v. CASCIATO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658298",
-    "date": "2026-07-21T12:10:10-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05074",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610388&269": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610388&269",
-    "title": "2:23-cr-00251-1 USA v. FULTON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610388",
-    "date": "2026-07-21T12:05:10-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:23-cr-00251",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "69"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658291&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658291&6",
-    "title": "5:26-cv-05072 PERFORMANCE PROCESSING, INC v. FIRST RESPONDERS CREDIT UNION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658291",
-    "date": "2026-07-21T12:01:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05072",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658292&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658292&5",
-    "title": "5:26-cv-05073 HOLLIS et al v. U.S. CITIZENSHIP AND IMMIGRATION SERVICES et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658292",
-    "date": "2026-07-21T11:50:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05073",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306&104": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658306&104",
     "title": "2:26-cr-00318-1 USA v. LEE",
@@ -21139,6 +21084,72 @@
     "category": "complaints",
     "case_num": "5:26-cv-06069",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653135&40": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653135&40",
+    "title": "2:26-cv-02548 Riad v. Vance et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653135",
+    "date": "2026-08-20T11:39:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02548",
+    "entry_type": "Memorandum",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645011&40": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645011&40",
+    "title": "2:25-cv-05909 ABDUS-SABER v. NAVY FEDERAL CREDIT UNION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645011",
+    "date": "2026-08-20T11:17:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05909",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660202&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660202&8",
+    "title": "2:26-cv-06077 VAFOEV v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660202",
+    "date": "2026-08-20T11:16:05-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-06077",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645011&38": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645011&38",
+    "title": "2:25-cv-05909 ABDUS-SABER v. NAVY FEDERAL CREDIT UNION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645011",
+    "date": "2026-08-20T11:14:34-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05909",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&124": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&124",
+    "title": "2:26-cv-01260 SWITZER v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434",
+    "date": "2026-08-20T11:13:59-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-01260",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "48"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660235&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660235&3",
+    "title": "2:26-cv-06092 RIVERA  v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660235",
+    "date": "2026-08-20T10:57:44-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06092",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
   }
 }
