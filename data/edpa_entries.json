@@ -54,17 +54,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "8"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277&106": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277&106",
-    "title": "2:22-cr-00427-1 USA v. ESPINO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?603277",
-    "date": "2026-07-21T07:27:38-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:22-cr-00427",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "30"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&11",
     "title": "2:26-cv-05063 GARCIA MONRROY v. JAMISON et al",
