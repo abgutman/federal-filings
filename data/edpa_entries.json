@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658319&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658319&9",
-    "title": "2:26-cv-05082 Smith et al v. THE SCHOOL DISTRICT OF PHILADELPHIA (SDP) et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658319",
-    "date": "2026-07-21T15:21:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05082",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658285&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658285&14",
-    "title": "2:26-cv-05068 Juarez-Ramirez v. Jamison et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658285",
-    "date": "2026-07-21T15:13:55-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05068",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658316&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658316&4",
-    "title": "2:26-cv-05081 Hernandez-Venegas v. Mickletz",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658316",
-    "date": "2026-07-21T14:56:40-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05081",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871&487": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625871&487",
     "title": "2:24-cr-00282-2 USA v. AINA, et al",
@@ -283,17 +250,6 @@
     "category": "complaints",
     "case_num": "2:26-mj-01417",
     "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658350&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658350&4",
-    "title": "5:26-cv-05081 Hernandez-Venegas v. Mickletz",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658350",
-    "date": "2026-07-21T14:56:40-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05081",
-    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569&32": {
@@ -21129,5 +21085,104 @@
     "case_num": "5:26-cv-06070",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660267&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660267&7",
+    "title": "2:26-cv-06104 SHANE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660267",
+    "date": "2026-08-20T14:51:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06104",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660263&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660263&7",
+    "title": "2:26-cv-06101 LAUDERMILK v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660263",
+    "date": "2026-08-20T14:39:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06101",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?528383&173": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?528383&173",
+    "title": "2:17-cr-00143-1 USA v. SOTO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?528383",
+    "date": "2026-08-20T14:24:00-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:17-cr-00143",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "57"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652964&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652964&26",
+    "title": "5:26-cv-02467  DEREK BELL v. PRIMECARE MEDICAL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652964",
+    "date": "2026-08-20T14:21:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-02467",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660253&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660253&12",
+    "title": "2:26-cv-06098 RIVERA SANCHEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660253",
+    "date": "2026-08-20T14:18:44-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-06098",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659667&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659667&20",
+    "title": "2:26-cv-05796 FULLER v. EXPERIAN INFORMATION SOLUTIONS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659667",
+    "date": "2026-08-20T14:17:25-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05796",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652964&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652964&24",
+    "title": "5:26-cv-02467  DEREK BELL v. PRIMECARE MEDICAL, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652964",
+    "date": "2026-08-20T14:17:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-02467",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660257&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660257&10",
+    "title": "2:26-cv-06100 MARTIN v. PARK HOTELS & RESORTS INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660257",
+    "date": "2026-08-20T13:55:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06100",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&26",
+    "title": "2:26-cv-06072 Mansfield Oil Company of Gainesville, Inc. v. KRSM Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197",
+    "date": "2026-08-20T13:55:06-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-06072",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "10"
   }
 }
