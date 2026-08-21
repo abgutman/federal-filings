@@ -21514,5 +21514,16 @@
     "case_num": "2:24-cv-00662",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "97"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608086&193": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608086&193",
+    "title": "2:23-cv-01301 KELLY v. TARGET CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608086",
+    "date": "2026-08-21T06:45:19-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:23-cv-01301",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "67"
   }
 }
