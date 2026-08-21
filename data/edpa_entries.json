@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658328&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658328&10",
-    "title": "2:26-cv-05021 WALKER  v. TAYLOR et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658328",
-    "date": "2026-07-22T05:53:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05021",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658349&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658349&5",
     "title": "2:26-cv-05098 MANZANARES v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
