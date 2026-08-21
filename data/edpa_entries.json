@@ -32,83 +32,6 @@
     "entry_type": "Seal",
     "doc_num": "4752"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505&83": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505&83",
-    "title": "2:26-cr-00118-1 USA v. ENRIQUEZ-ARZAGA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505",
-    "date": "2026-07-22T17:24:51-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00118",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612571&545": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612571&545",
-    "title": "2:23-cv-03111 LIN v. LEES HOUSE RESTAURANT INC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612571",
-    "date": "2026-07-22T17:12:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-03111",
-    "entry_type": "Memorandum",
-    "doc_num": "196"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658387&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658387&4",
-    "title": "2:26-cv-05123 SORBELLI v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658387",
-    "date": "2026-07-22T17:03:02-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05123",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&390": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&390",
-    "title": "2:25-cv-01618 AMERICAN FOOD, PAPER AND POULTRY LLC et al v. AI GROUP LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500",
-    "date": "2026-07-22T17:02:06-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01618",
-    "entry_type": "Memorandum",
-    "doc_num": "105"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&194": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&194",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-07-22T16:55:41-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Seal",
-    "doc_num": "72"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645221&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645221&48",
-    "title": "2:25-cv-06035 MALLOZZI v. IRIS USA, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645221",
-    "date": "2026-07-22T16:44:43-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06035",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645221&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645221&46",
-    "title": "2:25-cv-06035 MALLOZZI v. IRIS USA, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645221",
-    "date": "2026-07-22T16:40:22-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06035",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "17"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658391&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658391&8",
     "title": "2:26-cv-05125 ECK v. WESTON et al",
@@ -21667,6 +21590,72 @@
     "category": "complaints",
     "case_num": "5:26-cv-06136",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660378&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660378&7",
+    "title": "2:26-cv-06161 MACLEAN v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660378",
+    "date": "2026-08-21T16:48:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06161",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660377&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660377&7",
+    "title": "2:26-cv-06160 HILDEBRAND v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660377",
+    "date": "2026-08-21T16:40:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06160",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660376&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660376&15",
+    "title": "2:26-cv-06159 BRUNO v. FORMAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660376",
+    "date": "2026-08-21T16:37:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06159",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800&15",
+    "title": "2:26-cv-04838 NELSON v. HIAS PENNSYLVANIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657800",
+    "date": "2026-08-21T16:35:45-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04838",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660370&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660370&7",
+    "title": "2:26-cv-06158 SMITH v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660370",
+    "date": "2026-08-21T16:32:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06158",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660367&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660367&4",
+    "title": "2:26-cv-06157 ESCOBAR v. EVOLUTION US LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660367",
+    "date": "2026-08-21T16:18:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06157",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
