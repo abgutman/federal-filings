@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389&3",
-    "title": "5:26-cv-05124 POAGE v. TOWER ADMINISTRATIVE SERVICES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389",
-    "date": "2026-07-22T17:36:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05124",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2623": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2623",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-07-22T17:36:15-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Seal",
-    "doc_num": "795"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13238": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13238",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-07-22T17:33:47-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Seal",
-    "doc_num": "4752"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658391&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658391&8",
     "title": "2:26-cv-05125 ECK v. WESTON et al",
@@ -21655,6 +21622,61 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-06157",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660390&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660390&7",
+    "title": "2:26-cv-06167 QUICK v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660390",
+    "date": "2026-08-21T18:17:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06167",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660389&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660389&7",
+    "title": "2:26-cv-06166 FLEMING v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660389",
+    "date": "2026-08-21T18:11:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06166",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660388&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660388&7",
+    "title": "2:26-cv-06165 NICE v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660388",
+    "date": "2026-08-21T18:07:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06165",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660383&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660383&3",
+    "title": "2:26-cv-06163 CASH PROCESSING SERVICES v. PNC BANK CORP., N.A.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660383",
+    "date": "2026-08-21T17:56:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06163",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660384&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660384&13",
+    "title": "2:26-cv-06164 LINCOLN UNIVERSITY -- OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION et al v. MARTIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660384",
+    "date": "2026-08-21T17:44:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06164",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
