@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566&81": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566&81",
-    "title": "2:26-cv-01790 KOHLER v. MANUTTI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566",
-    "date": "2026-07-22T15:41:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01790",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "26"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658382&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658382&4",
-    "title": "2:26-cv-05118 DELRAY et al v. C.P.S RESOURCES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658382",
-    "date": "2026-07-22T15:38:20-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05118",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389&3",
     "title": "5:26-cv-05124 POAGE v. TOWER ADMINISTRATIVE SERVICES, INC.",
@@ -130,72 +108,6 @@
     "case_num": "2:25-cv-06035",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658386&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658386&4",
-    "title": "2:26-cv-05122 CARTER v. WRIGHT TRAFFIC CONTROL, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658386",
-    "date": "2026-07-22T16:30:19-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05122",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658385&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658385&4",
-    "title": "2:26-cv-05121 CAMUR et al v. EDLOW",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658385",
-    "date": "2026-07-22T16:22:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05121",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658384&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658384&6",
-    "title": "2:26-cv-05120 INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES DISRICT COUNCIL NO. 21 WELFARE FUND et al v. LAMORTE CONSTRUCTION, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658384",
-    "date": "2026-07-22T16:10:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05120",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658029&25": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658029&25",
-    "title": "2:26-cv-04943 Chavez-Rodriguez v. PHILADELPHIA FEDERAL DETENTION CENTER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658029",
-    "date": "2026-07-22T16:03:19-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04943",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658029&23": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658029&23",
-    "title": "2:26-cv-04943 Chavez-Rodriguez v. PHILADELPHIA FEDERAL DETENTION CENTER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658029",
-    "date": "2026-07-22T16:00:31-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04943",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566&83": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566&83",
-    "title": "2:26-cv-01790 KOHLER v. MANUTTI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566",
-    "date": "2026-07-22T15:54:50-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01790",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "27"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658391&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658391&8",
@@ -21635,5 +21547,126 @@
     "case_num": "2:25-cr-00266",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "69"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660365&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660365&7",
+    "title": "2:26-cv-06156 PARHAM v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660365",
+    "date": "2026-08-21T16:10:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06156",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646890&110": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646890&110",
+    "title": "2:25-cv-06808 Silver Linings Psych, LLC v. Keller et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646890",
+    "date": "2026-08-21T16:09:23-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06808",
+    "entry_type": "Seal Document",
+    "doc_num": "36"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660363&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660363&7",
+    "title": "2:26-cv-06155 BAHAJAK v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660363",
+    "date": "2026-08-21T16:02:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06155",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660360&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660360&4",
+    "title": "2:26-cv-06152 BROWN et al v. REIMAGINED PARKING, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660360",
+    "date": "2026-08-21T15:54:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06152",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556&141": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556&141",
+    "title": "2:25-cr-00467-1 USA v. GUO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556",
+    "date": "2026-08-21T15:47:29-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00467",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "41"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655759&66": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655759&66",
+    "title": "2:26-cv-03816 ANDERSEN v. PROGRESSIVE ADVANCED INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655759",
+    "date": "2026-08-21T15:41:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03816",
+    "entry_type": "Memorandum",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?556943&317": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?556943&317",
+    "title": "2:19-cv-02136 HOU v. VOYA INSURANCE AND ANNUITY COMPANY  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?556943",
+    "date": "2026-08-21T15:37:51-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:19-cv-02136",
+    "entry_type": "Seal",
+    "doc_num": "108"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660256&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660256&28",
+    "title": "2:26-cv-06099 HARRIS v. PHILADELPHIA LOTUS 08, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660256",
+    "date": "2026-08-21T15:36:25-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-06099",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660357&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660357&4",
+    "title": "2:26-cv-06150 PETERSON v. Franrak et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660357",
+    "date": "2026-08-21T15:23:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06150",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660353&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660353&3",
+    "title": "2:26-cv-06148 HARRISON v. HOME DEPOT U.S.A., INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660353",
+    "date": "2026-08-21T15:15:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06148",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660364&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660364&3",
+    "title": "5:26-cv-06136 TAYLOR v. WALMART INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660364",
+    "date": "2026-08-21T11:47:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06136",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
