@@ -120,61 +120,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658310&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658310&10",
-    "title": "2:26-cv-05079 De Quesada Delgado v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658310",
-    "date": "2026-07-22T10:39:12-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05079",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658353&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658353&4",
-    "title": "2:26-cv-05101 GRAY v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658353",
-    "date": "2026-07-22T10:31:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05101",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156&55": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156&55",
-    "title": "2:25-cr-00438-1 USA v. CULLEN",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644156",
-    "date": "2026-07-22T10:18:23-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00438",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658345&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658345&3",
-    "title": "2:26-cv-05096 FISHER v. DINGLE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658345",
-    "date": "2026-07-22T10:17:21-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05096",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658351&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658351&5",
-    "title": "2:26-cv-05099 WOOLEY v. THE GIANT COMPANY, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658351",
-    "date": "2026-07-22T09:55:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05099",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55",
     "title": "5:25-cv-01577 BENSING v. COMMISSIONER OF SOCIAL SECURITY",
@@ -21579,6 +21524,61 @@
     "category": "seal",
     "case_num": "5:26-mj-00795",
     "entry_type": "Letter to Unseal",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&467": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&467",
+    "title": "2:25-cv-02384 Adair et al v. Cigna Corporate Services, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412",
+    "date": "2026-08-21T09:53:24-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02384",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "163"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660319&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660319&4",
+    "title": "2:26-cv-06131 Golia v. Volvo Cars of North America, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660319",
+    "date": "2026-08-21T09:46:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06131",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660096&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660096&25",
+    "title": "2:26-cv-06018  ABDULLOIEV v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660096",
+    "date": "2026-08-21T09:37:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06018",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660096&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660096&23",
+    "title": "2:26-cv-06018  ABDULLOIEV v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660096",
+    "date": "2026-08-21T09:33:25-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06018",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659229&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659229&23",
+    "title": "2:26-cr-00356-1 USA v. HAWKINS-DIX",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659229",
+    "date": "2026-08-20T12:01:49-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00356",
+    "entry_type": "Warrant Returned Executed",
     "doc_num": "6"
   }
 }
