@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569&32": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569&32",
-    "title": "2:26-cv-01215 P.  v. OLIVER HEALTHCARE PACKAGING",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569",
-    "date": "2026-07-22T11:42:35-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01215",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "10"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55",
     "title": "5:25-cv-01577 BENSING v. COMMISSIONER OF SOCIAL SECURITY",
@@ -163,83 +152,6 @@
     "case_num": "2:25-cr-00266",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "55"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&232": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&232",
-    "title": "2:25-cv-06511 BRADCLIFFE LLC v. WILLIAM GRANT & SONS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342",
-    "date": "2026-07-22T12:30:19-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06511",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "80"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&230": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342&230",
-    "title": "2:25-cv-06511 BRADCLIFFE LLC v. WILLIAM GRANT & SONS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646342",
-    "date": "2026-07-22T12:28:00-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06511",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "79"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658364&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658364&7",
-    "title": "2:26-cv-05107 WOMACK et al v. ALLSTATE INDEMNITY COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658364",
-    "date": "2026-07-22T12:19:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05107",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&105": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&105",
-    "title": "2:25-cv-05268 CAREY v. SOCIETY HILL TOWERS OWNERS ASSOCIATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581",
-    "date": "2026-07-22T12:02:44-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05268",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "32"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593&64": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593&64",
-    "title": "2:26-cr-00156-1 USA v. BROWN",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652593",
-    "date": "2026-07-22T12:02:33-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:26-cr-00156",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&103": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581&103",
-    "title": "2:25-cv-05268 CAREY v. SOCIETY HILL TOWERS OWNERS ASSOCIATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643581",
-    "date": "2026-07-22T11:59:51-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05268",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "31"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658360&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658360&3",
-    "title": "2:26-cv-05106 NICHOLSON v. CITY OF PHILADELPHIA DEPARTMENT OF PRISONS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658360",
-    "date": "2026-07-22T11:50:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05106",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566&81": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651566&81",
@@ -21547,5 +21459,82 @@
     "case_num": "5:26-cv-06130",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249&88": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249&88",
+    "title": "5:26-cv-04465 WASHINGTON v. THE COMMONWEALTH OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249",
+    "date": "2026-08-21T12:08:35-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "5:26-cv-04465",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660335&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660335&4",
+    "title": "2:26-cv-06137 HARVEY v. COLLINS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660335",
+    "date": "2026-08-21T11:56:02-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06137",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655955&40": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655955&40",
+    "title": "2:26-cv-03916 Rudnick v. DOLCE & GABBANA S.r.l.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655955",
+    "date": "2026-08-21T11:50:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03916",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655955&38": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655955&38",
+    "title": "2:26-cv-03916 Rudnick v. DOLCE & GABBANA S.r.l.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655955",
+    "date": "2026-08-21T11:47:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03916",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660334&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660334&3",
+    "title": "2:26-cv-06136 TAYLOR v. WALMART INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660334",
+    "date": "2026-08-21T11:47:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06136",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?562419&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?562419&26",
+    "title": "2:19-cr-00592-1 USA v. RIVERA HERNANDEZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?562419",
+    "date": "2026-08-21T11:37:44-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:19-cr-00592",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660077&17": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660077&17",
+    "title": "5:26-cv-05924 A.H. v. DEAS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660077",
+    "date": "2026-08-21T11:16:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-05924",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
   }
 }
