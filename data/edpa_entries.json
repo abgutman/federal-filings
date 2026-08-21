@@ -10,116 +10,6 @@
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "10"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569&30",
-    "title": "2:26-cv-01215 P.  v. OLIVER HEALTHCARE PACKAGING",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650569",
-    "date": "2026-07-22T11:29:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01215",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658359&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658359&5",
-    "title": "2:26-cv-04996 VALENCIA v. COMMONWEALTH OF PENNSYLVANIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658359",
-    "date": "2026-07-22T11:28:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-04996",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641402&192": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641402&192",
-    "title": "2:25-cv-04268 JACKSON v. TRIPLE CANOPY, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641402",
-    "date": "2026-07-22T11:26:57-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-04268",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "74"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655621&101": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655621&101",
-    "title": "2:26-cv-03747 TREMEBIO INC. v. KIM",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655621",
-    "date": "2026-07-22T11:23:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03747",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505&81": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505&81",
-    "title": "2:26-cr-00118-1 USA v. ENRIQUEZ-ARZAGA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651505",
-    "date": "2026-07-22T11:23:10-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00118",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655621&99": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655621&99",
-    "title": "2:26-cv-03747 TREMEBIO INC. v. KIM",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655621",
-    "date": "2026-07-22T11:20:16-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03747",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "32"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649418&282": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649418&282",
-    "title": "2:26-cr-00054-3 USA v. DENIS, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649418",
-    "date": "2026-07-22T11:14:43-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00054",
-    "entry_type": "Plea Agreement",
-    "doc_num": "72"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650665&95": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650665&95",
-    "title": "2:26-cv-01354 INTERNATIONAL UNION OF OPERATING ENGINEERS OF EASTERN PENNSYLVANIA  AND DELAWARE BENEFIT PENSION FUND et al v. BBC Management Services, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650665",
-    "date": "2026-07-22T10:57:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01354",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650665&93": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650665&93",
-    "title": "2:26-cv-01354 INTERNATIONAL UNION OF OPERATING ENGINEERS OF EASTERN PENNSYLVANIA  AND DELAWARE BENEFIT PENSION FUND et al v. BBC Management Services, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650665",
-    "date": "2026-07-22T10:55:36-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01354",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658355&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658355&5",
-    "title": "2:26-cv-05102 MCGEE v. 13HOWARD11 LLC d/b/a WALNUT GARDEN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658355",
-    "date": "2026-07-22T10:54:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05102",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635414&55",
     "title": "5:25-cv-01577 BENSING v. COMMISSIONER OF SOCIAL SECURITY",
@@ -21580,5 +21470,82 @@
     "case_num": "2:26-cr-00356",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660077&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660077&15",
+    "title": "5:26-cv-05924 HOFFMAN v. DEAS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660077",
+    "date": "2026-08-21T10:56:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-05924",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660330&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660330&6",
+    "title": "2:26-cv-06134 MUSSELMAN v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660330",
+    "date": "2026-08-21T10:40:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06134",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641939&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641939&31",
+    "title": "2:25-cv-04511 ROBINSON v. COMPU-LINK CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641939",
+    "date": "2026-08-21T10:34:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04511",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&90": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&90",
+    "title": "2:25-cr-00115-1 USA v. SOWELL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362",
+    "date": "2026-08-21T10:33:40-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00115",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&200": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943&200",
+    "title": "2:23-cv-04991 HUGHES et al v. REGULATORY DATACORP INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616943",
+    "date": "2026-08-21T10:25:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:23-cv-04991",
+    "entry_type": "Memorandum",
+    "doc_num": "68"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&87": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&87",
+    "title": "2:25-cr-00441-1 USA v. PORTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415",
+    "date": "2026-08-21T10:11:05-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00441",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660331&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660331&19",
+    "title": "5:26-cv-06130 HEDDEN et al v. PENSKE TRUCK LEASING CO., L.P. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660331",
+    "date": "2026-08-20T21:24:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06130",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
