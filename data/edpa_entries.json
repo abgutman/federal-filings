@@ -21,39 +21,6 @@
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647513&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647513&48",
-    "title": "2:25-cv-07111 AJALA v. ABOUJAOUDE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647513",
-    "date": "2026-07-22T14:58:22-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07111",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647513&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647513&46",
-    "title": "2:25-cv-07111 AJALA v. ABOUJAOUDE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647513",
-    "date": "2026-07-22T14:55:54-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07111",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647100&43": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647100&43",
-    "title": "2:25-cv-06891 QUEWON v. PHILADELPHIA HOUSING AUTHORITY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647100",
-    "date": "2026-07-22T14:48:35-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06891",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "12"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658389&3",
     "title": "5:26-cv-05124 POAGE v. TOWER ADMINISTRATIVE SERVICES, INC.",
@@ -21558,5 +21525,115 @@
     "case_num": "2:25-cv-00341",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&452": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&452",
+    "title": "2:25-cv-02559 FREIGHT INNOVATION LLC v. FELLOWSHIP WAREHOUSING & LOGISTICS LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862",
+    "date": "2026-08-21T15:09:04-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02559",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "159"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660354&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660354&7",
+    "title": "2:26-cv-06149 STILES et al v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660354",
+    "date": "2026-08-21T15:05:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06149",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&450": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862&450",
+    "title": "2:25-cv-02559 FREIGHT INNOVATION LLC v. FELLOWSHIP WAREHOUSING & LOGISTICS LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637862",
+    "date": "2026-08-21T15:04:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02559",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "158"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556&139": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556&139",
+    "title": "2:25-cr-00467-1 USA v. GUO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645556",
+    "date": "2026-08-21T15:04:23-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00467",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649615&161": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649615&161",
+    "title": "2:26-cv-00818 WILLIAMS v. CONNECTIFY, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649615",
+    "date": "2026-08-21T15:01:45-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:26-cv-00818",
+    "entry_type": "Sanctions",
+    "doc_num": "49"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&94": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&94",
+    "title": "2:25-cr-00115-1 USA v. SOWELL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362",
+    "date": "2026-08-21T14:58:03-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00115",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688&235": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688&235",
+    "title": "2:23-cv-02315 DWYER v. LAW OFFICES OF GREGORY P. LAMONACA, P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?610688",
+    "date": "2026-08-21T14:45:42-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:23-cv-02315",
+    "entry_type": "Seal Document",
+    "doc_num": "83"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660350&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660350&5",
+    "title": "5:26-cv-06147 Aethio LLC  v. Senteno et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660350",
+    "date": "2026-08-21T14:33:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06147",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653868&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653868&44",
+    "title": "2:26-cv-02803 DANIELS et al v. MONTGOMERY COUNTY HOUSING AUTHORITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653868",
+    "date": "2026-08-21T14:21:22-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-02803",
+    "entry_type": "Seal Document",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&231": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534&231",
+    "title": "2:25-cr-00266-2 USA v. JENKINS., ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639534",
+    "date": "2026-08-21T14:15:32-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00266",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "69"
   }
 }
