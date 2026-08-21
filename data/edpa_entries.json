@@ -21503,5 +21503,27 @@
     "case_num": "2:26-cv-06130",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&348": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&348",
+    "title": "2:24-cv-00662 WILLIAMS v. TERRA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937",
+    "date": "2026-08-20T23:12:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-00662",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "98"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&346": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&346",
+    "title": "2:24-cv-00662 WILLIAMS v. TERRA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937",
+    "date": "2026-08-20T23:10:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-00662",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "97"
   }
 }
