@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1458": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1458",
-    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
-    "date": "2026-07-23T12:46:16-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-04221",
-    "entry_type": "Memorandum",
-    "doc_num": "482"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&92": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&92",
     "title": "2:26-cv-01489 FISHER et al v. PARKER et al",
@@ -163,83 +152,6 @@
     "case_num": "2:26-cv-05063",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "5"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263&20",
-    "title": "2:26-cv-05063 GARCIA MONRROY v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658263",
-    "date": "2026-07-23T13:26:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-05063",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "4"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641304&75": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641304&75",
-    "title": "2:25-cv-03874 JOHNSON v. LAUGHINGWELL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641304",
-    "date": "2026-07-23T13:26:39-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-03874",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684&103": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684&103",
-    "title": "5:26-cr-00089-1 USA v. BRAZIER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650684",
-    "date": "2026-07-23T13:25:00-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "5:26-cr-00089",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "32"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658426&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658426&6",
-    "title": "2:26-cv-05142 Pugh v. LAVERTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658426",
-    "date": "2026-07-23T13:19:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05142",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656389&45": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656389&45",
-    "title": "5:26-cv-04067 WILLIAMS v. APIS SERVICES, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656389",
-    "date": "2026-07-23T13:19:28-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:26-cv-04067",
-    "entry_type": "Memorandum",
-    "doc_num": "15"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022&569": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022&569",
-    "title": "5:24-cv-06116 ORASURE TECHNOLOGIES, INC. v. NOWDIAGNOSTICS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022",
-    "date": "2026-07-23T13:14:06-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:24-cv-06116",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "222"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658443&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658443&3",
-    "title": "5:26-cv-05143 DAVIS  v. EASTON COACH COMPANY, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658443",
-    "date": "2026-07-23T13:11:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05143",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&123": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&123",
