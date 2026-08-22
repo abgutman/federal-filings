@@ -153,28 +153,6 @@
     "entry_type": "Order to Show Cause",
     "doc_num": "19"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658407&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658407&3",
-    "title": "2:26-cv-05131 FIEL v. COMMISSIONER  OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658407",
-    "date": "2026-07-23T09:23:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05131",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&198": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&198",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-07-23T08:52:54-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Memorandum",
-    "doc_num": "74"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1458": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1458",
     "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
