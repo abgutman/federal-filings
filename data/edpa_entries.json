@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658419&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658419&4",
-    "title": "2:26-cv-05094 FITZGERALD v. MIDLAND CREDIT MANAGEMENT, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658419",
-    "date": "2026-07-23T11:00:10-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05094",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1451": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1451",
-    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
-    "date": "2026-07-23T10:52:39-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-04221",
-    "entry_type": "Seal",
-    "doc_num": "479"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658418&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658418&4",
-    "title": "2:26-cv-05135 M.A., a minor, by and through her mother and natural guardian CHERILL ARCHER v. MONTE RESTAURANT, INC. d/b/a MAMMA MIA TRATTORIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658418",
-    "date": "2026-07-23T10:51:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05135",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642130&144": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642130&144",
-    "title": "5:25-cv-04608 WILLIFORD v. STATE OF PENNSYLVANIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642130",
-    "date": "2026-07-23T10:30:47-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "5:25-cv-04608",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "29"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1458": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1458",
     "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
@@ -97,28 +53,6 @@
     "case_num": "2:26-cv-05137",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2642": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2642",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-07-23T11:06:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "803"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13259": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13259",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-07-23T11:06:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4761"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&92": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&92",
