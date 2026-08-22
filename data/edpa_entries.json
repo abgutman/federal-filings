@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&123": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&123",
-    "title": "2:25-cv-01892 Brotherhood of Locomotive Engineers and Trainmen v. CSX Transportation",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176",
-    "date": "2026-07-23T17:03:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01892",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "45"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658463&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658463&7",
-    "title": "5:26-cv-05157 THRIVENT FINANCIAL FOR LUTHERANS et al v. STOLTZFUS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658463",
-    "date": "2026-07-23T17:01:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05157",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&121": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176&121",
-    "title": "2:25-cv-01892 Brotherhood of Locomotive Engineers and Trainmen v. CSX Transportation",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636176",
-    "date": "2026-07-23T17:01:23-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01892",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "44"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658464&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658464&4",
-    "title": "5:26-cv-05159 CALSE v. TRUIST BANK",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658464",
-    "date": "2026-07-23T16:52:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05159",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658466&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658466&7",
-    "title": "5:26-cv-05156 Lawler v. HATZEL & BUEHLER, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658466",
-    "date": "2026-07-23T16:37:08-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05156",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658465&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658465&4",
     "title": "2:26-cv-05160 Berkshire Hathaway Direct Insurance Company v. GREATNESS GC CORPORATION  et al",
@@ -63,17 +8,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-05160",
     "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658467&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658467&7",
-    "title": "2:26-cv-05161 YUNEZ et al v. WALMART INC.et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658467",
-    "date": "2026-07-23T17:24:17-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05161",
-    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637474&397": {
@@ -151,17 +85,6 @@
     "category": "complaints",
     "case_num": "2:26-cv-05162",
     "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658481&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658481&7",
-    "title": "5:26-cv-05161 YUNEZ et al v. WALMART INC.et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658481",
-    "date": "2026-07-23T17:24:17-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05161",
-    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658297&24": {
