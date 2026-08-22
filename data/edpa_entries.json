@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653097&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653097&48",
-    "title": "5:26-cv-02529 SHAH et al v. U.S. CITIZENSHIP AND IMMIGRATION SERVICES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653097",
-    "date": "2026-07-23T02:36:39-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "5:26-cv-02529",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "14"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658419&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658419&4",
     "title": "2:26-cv-05094 FITZGERALD v. MIDLAND CREDIT MANAGEMENT, INC.",
