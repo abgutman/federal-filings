@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658565&16": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658565&16",
-    "title": "2:26-cv-05222 Morocho Montelaza v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658565",
-    "date": "2026-07-24T19:22:06-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05222",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "4"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579&12",
     "title": "2:26-cv-05228 GOMEZ MORALES v. JAMISON et al",
