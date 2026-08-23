@@ -10,61 +10,6 @@
     "entry_type": "Order to Show Cause",
     "doc_num": "4"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658569&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658569&7",
-    "title": "2:26-cv-05224 RANNEY et al v. CORTEVA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658569",
-    "date": "2026-07-24T18:24:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05224",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658571&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658571&3",
-    "title": "2:26-cv-05225 RIVERA v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658571",
-    "date": "2026-07-24T18:07:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05225",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&512": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&512",
-    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
-    "date": "2026-07-24T17:50:46-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-05365",
-    "entry_type": "Seal",
-    "doc_num": "172"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658568&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658568&4",
-    "title": "2:26-cv-05223 HALTER v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658568",
-    "date": "2026-07-24T17:36:39-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05223",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658567&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658567&5",
-    "title": "2:26-mj-01336-1 USA v. ARRIAZA ORELLANA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658567",
-    "date": "2026-07-24T17:34:20-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-mj-01336",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579&12",
     "title": "2:26-cv-05228 GOMEZ MORALES v. JAMISON et al",
