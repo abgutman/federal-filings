@@ -32,28 +32,6 @@
     "entry_type": "Sentencing Memorandum",
     "doc_num": "120"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658488&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658488&3",
-    "title": "2:26-cv-05171 Garnett v. DEFENDER ASSOCIATION OF PHILADELPHIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658488",
-    "date": "2026-07-24T09:30:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05171",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&541": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&541",
-    "title": "2:22-cv-03253 COMMONWEALTH OF PENNSYLVANIA et al v. MARINER FINANCE, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817",
-    "date": "2026-07-24T09:23:59-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:22-cv-03253",
-    "entry_type": "Memorandum",
-    "doc_num": "182"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658509&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658509&4",
     "title": "5:26-cv-05182 ROWLES v. TRUIST BANK",
