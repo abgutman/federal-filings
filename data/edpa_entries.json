@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579&12",
-    "title": "2:26-cv-05228 GOMEZ MORALES v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658579",
-    "date": "2026-07-25T09:34:17-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-05228",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658586&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658586&7",
     "title": "2:26-cv-05175 GANCIO v. U.S. CITIZENSHIP AND IMMIGRATION SERVICES et al",
@@ -19776,5 +19765,38 @@
     "case_num": "2:26-cr-00003",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600248&121": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600248&121",
+    "title": "2:22-cv-03455 GRAJALES-EL v. AMAZON PRIME",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600248",
+    "date": "2026-08-24T08:59:30-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:22-cv-03455",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "39"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641755&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641755&81",
+    "title": "2:25-cv-04453 SZCZESNIUK v. US SUPPLY COMPANY, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641755",
+    "date": "2026-08-24T08:41:35-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04453",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641755&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641755&79",
+    "title": "2:25-cv-04453 SZCZESNIUK v. US SUPPLY COMPANY, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641755",
+    "date": "2026-08-24T08:40:06-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04453",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "31"
   }
 }
