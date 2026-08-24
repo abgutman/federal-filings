@@ -19798,5 +19798,93 @@
     "case_num": "2:25-cv-04453",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&39": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&39",
+    "title": "2:26-cv-06072 Mansfield Oil Company of Gainesville, Inc. v. KRSM Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197",
+    "date": "2026-08-24T11:03:58-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-06072",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649333&62": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649333&62",
+    "title": "5:26-cv-00703 ATLAS LINK INC. v. CONDE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649333",
+    "date": "2026-08-24T11:02:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-00703",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649333&60": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649333&60",
+    "title": "5:26-cv-00703 ATLAS LINK INC. v. CONDE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649333",
+    "date": "2026-08-24T10:59:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-00703",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644677&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644677&32",
+    "title": "2:25-cv-05806 FRIENDS OF THE DELAWARE RIVER LLC v. MARTELLIS METAL FABRICATION, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644677",
+    "date": "2026-08-24T10:53:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05806",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644677&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644677&30",
+    "title": "2:25-cv-05806 FRIENDS OF THE DELAWARE RIVER LLC v. MARTELLIS METAL FABRICATION, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644677",
+    "date": "2026-08-24T10:52:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05806",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641324&88": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641324&88",
+    "title": "2:25-cv-04228 SZCZENIUK v. US SUPPLY COMPANY, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641324",
+    "date": "2026-08-24T10:40:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04228",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641324&86": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641324&86",
+    "title": "2:25-cv-04228 SZCZENIUK v. US SUPPLY COMPANY, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641324",
+    "date": "2026-08-24T10:39:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04228",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660414&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660414&4",
+    "title": "2:26-cv-06135 SHOCKLEY v. TOWNSHIP OF EAST NORRITON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660414",
+    "date": "2026-08-24T10:27:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06135",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
