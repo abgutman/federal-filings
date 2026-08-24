@@ -19765,5 +19765,16 @@
     "case_num": "2:26-cv-06176",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&111": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&111",
+    "title": "2:26-cr-00003-1 USA v. CARTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040",
+    "date": "2026-08-23T23:10:37-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00003",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "33"
   }
 }
