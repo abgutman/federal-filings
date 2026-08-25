@@ -20678,5 +20678,159 @@
     "case_num": "2:25-cv-04484",
     "entry_type": "Seal Document",
     "doc_num": "91"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656466&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656466&20",
+    "title": "2:26-cv-04116 ZARROW v. DALESSIO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656466",
+    "date": "2026-08-25T09:10:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04116",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656466&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656466&18",
+    "title": "2:26-cv-04116 ZARROW v. DALESSIO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656466",
+    "date": "2026-08-25T09:08:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-04116",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660503&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660503&4",
+    "title": "2:26-cv-06230 MERSEN USA GS-GMI CORP. v. THERMAL TECHNOLOGY, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660503",
+    "date": "2026-08-25T09:07:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06230",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656406&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656406&30",
+    "title": "2:26-cv-04101 FIELDS v. SUPERINTENDANT OF SCI MAHANOY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656406",
+    "date": "2026-08-25T08:44:38-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04101",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249&105": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249&105",
+    "title": "5:26-cv-04465 WASHINGTON v. THE COMMONWEALTH OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249",
+    "date": "2026-08-25T08:42:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-04465",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&247": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&247",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-08-25T08:36:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Memorandum",
+    "doc_num": "92"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656700&44": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656700&44",
+    "title": "2:26-cv-04266 Lawson v. Perfume Ventures, Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656700",
+    "date": "2026-08-25T08:23:51-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04266",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576972&679": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576972&679",
+    "title": "2:20-cv-05137 BEALE v. LITTLE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576972",
+    "date": "2026-08-25T08:11:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-05137",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "210"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576972&677": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576972&677",
+    "title": "2:20-cv-05137 BEALE v. LITTLE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576972",
+    "date": "2026-08-25T08:07:56-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-05137",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "209"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651544&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651544&43",
+    "title": "5:26-cv-01759 Ballas v. Equis Research",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651544",
+    "date": "2026-08-25T08:04:36-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-01759",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660502&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660502&5",
+    "title": "2:26-cv-06172 ZIMMERMANN v. UNITED STATES OF AMERICA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660502",
+    "date": "2026-08-25T08:01:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06172",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651544&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651544&41",
+    "title": "5:26-cv-01759 Ballas v. Equis Research",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651544",
+    "date": "2026-08-25T07:59:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-01759",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626772&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626772&56",
+    "title": "2:24-cr-00307-1 USA v. REYES-PAGAN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626772",
+    "date": "2026-08-25T07:57:36-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:24-cr-00307",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911&43",
+    "title": "5:26-cv-05909 A.P. et al v. Kennedy et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911",
+    "date": "2026-08-25T07:31:34-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:26-cv-05909",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "11"
   }
 }
