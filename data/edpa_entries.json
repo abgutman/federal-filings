@@ -21195,5 +21195,93 @@
     "case_num": "2:16-cv-05759",
     "entry_type": "Order on Motion for Sanctions",
     "doc_num": "275"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621754&670": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621754&670",
+    "title": "2:24-cr-00177-1 USA v. CINTRON, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621754",
+    "date": "2026-08-25T14:21:19-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00177",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "183"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621755&670": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621755&670",
+    "title": "2:24-cr-00177-2 USA v. CINTRON, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621755",
+    "date": "2026-08-25T14:21:19-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00177",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "183"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621756&670": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621756&670",
+    "title": "2:24-cr-00177-3 USA v. CINTRON, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621756",
+    "date": "2026-08-25T14:21:19-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00177",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "183"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553971&235": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553971&235",
+    "title": "2:19-cr-00147-1 USA v. HOLLOWAY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553971",
+    "date": "2026-08-25T14:16:50-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:19-cr-00147",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "69"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660533&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660533&5",
+    "title": "2:26-cv-06252 Wagner v. Lawless et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660533",
+    "date": "2026-08-25T13:41:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06252",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660526&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660526&4",
+    "title": "2:26-cv-06247 WELSH v. KEPPEL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660526",
+    "date": "2026-08-25T13:30:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06247",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403&678": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403&678",
+    "title": "2:25-cr-00167-4 USA v. COLEMAN, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403",
+    "date": "2026-08-25T13:29:16-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00167",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "194"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660535&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660535&4",
+    "title": "5:26-cv-06230 MERSEN USA GS-GMI CORP. v. THERMAL TECHNOLOGY, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660535",
+    "date": "2026-08-25T09:07:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06230",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
