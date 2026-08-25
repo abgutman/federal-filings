@@ -20909,5 +20909,71 @@
     "case_num": "5:25-cv-06691",
     "entry_type": "Memorandum",
     "doc_num": "43"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660513&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660513&3",
+    "title": "2:26-cv-06238 Ferry v. CITY OF ALLENTOWN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660513",
+    "date": "2026-08-25T11:17:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06238",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660512&10": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660512&10",
+    "title": "2:26-cv-06237 TRUSTEES OF THE NATIONAL ELEVATOR INDUSTRY PENSION FUND et al v. GMS ELEVATOR SERVICES, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660512",
+    "date": "2026-08-25T11:01:55-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06237",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660511&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660511&5",
+    "title": "2:26-cv-06235 PATEL v. GSK (GLAXOSMITHKLINE) LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660511",
+    "date": "2026-08-25T10:47:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06235",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660510&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660510&6",
+    "title": "2:26-cv-06236 GONZALEZ v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660510",
+    "date": "2026-08-25T10:33:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06236",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645278&3994": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645278&3994",
+    "title": "2:25-cr-00460-13 USA v. MORALES NIEVES, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645278",
+    "date": "2026-08-25T10:26:23-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00460",
+    "entry_type": "Plea Agreement",
+    "doc_num": "741"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660509&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660509&4",
+    "title": "2:26-cv-06234 PERKINS v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660509",
+    "date": "2026-08-25T10:23:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06234",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
