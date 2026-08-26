@@ -10,17 +10,6 @@
     "entry_type": "Complaint",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658585&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658585&6",
-    "title": "2:26-cv-05141 OWENS v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658585",
-    "date": "2026-07-27T07:06:09-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05141",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658547&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658547&8",
     "title": "2:26-cv-05208 ARAUJO-DE SOUZA JUNIOR v. VENTURELLA et al",
