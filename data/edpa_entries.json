@@ -1,92 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658651&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658651&4",
-    "title": "2:26-cv-05270 COLLINS v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658651",
-    "date": "2026-07-27T20:08:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05270",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658650&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658650&4",
-    "title": "2:26-cv-05269 WOOD v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658650",
-    "date": "2026-07-27T19:46:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05269",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658649&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658649&4",
-    "title": "2:26-cv-05268 CICCARELLO v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658649",
-    "date": "2026-07-27T19:29:09-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05268",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658648&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658648&8",
-    "title": "2:26-cv-05267  v. TIKTOK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658648",
-    "date": "2026-07-27T19:22:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05267",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658654&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658654&4",
-    "title": "2:26-cv-05273 SCHOLLMEYER v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658654",
-    "date": "2026-07-28T00:27:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05273",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658653&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658653&6",
-    "title": "2:26-cv-05272 GIRIFALCO et al v. EMPIRE TODAY, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658653",
-    "date": "2026-07-27T23:46:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05272",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654540&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654540&48",
-    "title": "2:26-cv-03234 PORTCH v. HEALTHCARE SERVICES GROUP, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654540",
-    "date": "2026-07-27T23:38:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03234",
-    "entry_type": "Memorandum",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&72": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620&72",
-    "title": "2:26-cv-02276 ASIA THOMAS V. THE CITY OF PHILADELPHIA, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652620",
-    "date": "2026-07-27T22:52:07-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-02276",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "26"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240&54": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616240&54",
     "title": "2:23-cv-04701 DOBBINS, IV v. COMMISSIONER OF SOCIAL SECURITY",
@@ -22075,5 +21987,60 @@
     "case_num": "5:26-cv-06309",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&57": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&57",
+    "title": "2:25-cv-00851 MARTINEZ v. U.S. JUNIOR NATIONALS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552",
+    "date": "2026-08-26T22:18:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00851",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&55": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&55",
+    "title": "2:25-cv-00851 MARTINEZ v. U.S. JUNIOR NATIONALS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552",
+    "date": "2026-08-26T22:12:07-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-00851",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660688&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660688&12",
+    "title": "2:26-cv-06349 MICHAEL C. GEANEY, WENDY L. GEANEY, TRUSTEES OF THE MICHAEL C. AND WENDY L. GEANEY LIVING TRUST DATED DECEMBER 14, 2001 et al v. PENNHEALTH INFORMATICS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660688",
+    "date": "2026-08-26T20:27:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06349",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&116": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&116",
+    "title": "2:26-cr-00003-1 USA v. CARTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040",
+    "date": "2026-08-26T20:10:06-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:26-cr-00003",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "35"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931&418": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931&418",
+    "title": "2:25-cr-00512-2 USA v. CAMPBELL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931",
+    "date": "2026-08-26T19:47:58-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:25-cr-00512",
+    "entry_type": "Plea Agreement",
+    "doc_num": "115"
   }
 }
