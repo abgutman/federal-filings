@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658872&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658872&5",
-    "title": "2:26-cv-05352 DRAKE v. ROLLING SUDS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658872",
-    "date": "2026-07-30T17:38:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05352",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874&6",
     "title": "2:26-cv-05396 KURDI v. MULLIN et al",
