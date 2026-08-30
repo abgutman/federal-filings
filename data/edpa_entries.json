@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874&6",
-    "title": "2:26-cv-05396 KURDI v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658874",
-    "date": "2026-07-30T21:37:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05396",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658873&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658873&3",
-    "title": "2:26-cv-05395 Williams v. AMERICAN AIRLINES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658873",
-    "date": "2026-07-30T20:22:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05395",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658876&2": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658876&2",
-    "title": "2:26-cv-05398 Hooper",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658876",
-    "date": "2026-07-31T00:26:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05398",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&214": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&214",
     "title": "2:25-cv-03731 GARDNER v. WALKER et al",
