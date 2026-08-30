@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&214": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749&214",
-    "title": "2:25-cv-03731 GARDNER v. WALKER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640749",
-    "date": "2026-07-31T06:48:37-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-03731",
-    "entry_type": "Sanctions",
-    "doc_num": "80"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646120&105": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646120&105",
-    "title": "2:25-cv-06410 Taylor v. Metri et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646120",
-    "date": "2026-07-31T06:30:28-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06410",
-    "entry_type": "Memorandum",
-    "doc_num": "27"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623005&392": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623005&392",
     "title": "2:24-cv-02419 FMC CORPORATION v. SHARDA USA LLC",
