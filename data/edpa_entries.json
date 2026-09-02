@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&67": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&67",
-    "title": "5:25-cv-05718 RICHARDSON v. Hyundai Capital America Inc.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484",
-    "date": "2026-08-03T07:19:01-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-05718",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&65": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484&65",
-    "title": "5:25-cv-05718 RICHARDSON v. Hyundai Capital America Inc.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644484",
-    "date": "2026-08-03T07:17:43-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-05718",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "24"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641859&113": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641859&113",
     "title": "2:25-cv-04478 VILAYPHUNH v. ABBVIE, INC.",
@@ -97,149 +75,6 @@
     "case_num": "2:26-cv-05454",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655287&139": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655287&139",
-    "title": "2:26-cv-03511 NOEL v. CHESTER COUNTY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655287",
-    "date": "2026-08-03T10:15:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03511",
-    "entry_type": "Memorandum",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658711&205": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658711&205",
-    "title": "2:26-cr-00339-4 USA v. ROMSTEADT, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658711",
-    "date": "2026-08-03T09:38:01-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00339",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "41"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658709&203": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658709&203",
-    "title": "2:26-cr-00339-2 USA v. ROMSTEADT, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658709",
-    "date": "2026-08-03T09:37:25-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00339",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "40"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658716&106": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658716&106",
-    "title": "2:26-cr-00340-2 USA v. COCCIA, JR., ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658716",
-    "date": "2026-08-03T09:35:53-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00340",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658715&104": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658715&104",
-    "title": "2:26-cr-00340-1 USA v. COCCIA, JR., ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658715",
-    "date": "2026-08-03T09:35:14-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00340",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658708&201": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658708&201",
-    "title": "2:26-cr-00339-1 USA v. ROMSTEADT, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658708",
-    "date": "2026-08-03T09:33:52-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00339",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "39"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658710&199": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658710&199",
-    "title": "2:26-cr-00339-3 USA v. ROMSTEADT, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658710",
-    "date": "2026-08-03T09:33:17-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00339",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "38"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658706&112": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658706&112",
-    "title": "2:26-cr-00338-2 USA v. PIZZO, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658706",
-    "date": "2026-08-03T09:32:21-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00338",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658705&110": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658705&110",
-    "title": "2:26-cr-00338-1 USA v. PIZZO, ET AL.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658705",
-    "date": "2026-08-03T09:31:44-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00338",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?227012&392": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?227012&392",
-    "title": "2:07-cv-01373 LINCOLN v. PALAKOVICH et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?227012",
-    "date": "2026-08-03T09:01:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:07-cv-01373",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "114"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?227012&390": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?227012&390",
-    "title": "2:07-cv-01373 LINCOLN v. PALAKOVICH et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?227012",
-    "date": "2026-08-03T08:58:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:07-cv-01373",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "113"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647372&35": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647372&35",
-    "title": "2:25-cv-07043 Palmer v. Bisignano",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647372",
-    "date": "2026-08-03T08:50:33-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07043",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "11"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647372&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647372&33",
-    "title": "2:25-cv-07043 Palmer v. Bisignano",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647372",
-    "date": "2026-08-03T08:47:42-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07043",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "10"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646962&36": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646962&36",
@@ -22680,5 +22515,60 @@
     "case_num": "2:26-cv-06602",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661148&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661148&5",
+    "title": "2:26-cv-06606 Gonzales v. PROGRESSIVE SPECIALTY INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661148",
+    "date": "2026-09-02T08:52:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06606",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637197&55": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637197&55",
+    "title": "2:25-cv-02299 FISHER v. PROSPECT MEDICAL HOLDINGS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637197",
+    "date": "2026-09-02T08:45:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02299",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637197&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637197&53",
+    "title": "2:25-cv-02299 FISHER v. PROSPECT MEDICAL HOLDINGS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637197",
+    "date": "2026-09-02T08:39:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02299",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760&550": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760&550",
+    "title": "2:24-cr-00405-2 USA v. JOYNER, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760",
+    "date": "2026-09-02T07:50:18-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:24-cr-00405",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "150"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760&548": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760&548",
+    "title": "2:24-cr-00405-2 USA v. JOYNER, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?629760",
+    "date": "2026-09-02T07:49:41-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00405",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "149"
   }
 }
