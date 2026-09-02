@@ -22647,5 +22647,38 @@
     "case_num": "2:26-cv-06593",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661146&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661146&4",
+    "title": "2:26-cv-06604 JETER v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661146",
+    "date": "2026-09-02T00:13:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06604",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661145&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661145&4",
+    "title": "2:26-cv-06603 CRYE v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661145",
+    "date": "2026-09-01T23:57:07-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06603",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661144&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661144&3",
+    "title": "2:26-cv-06602 TENDER v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661144",
+    "date": "2026-09-01T23:43:40-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06602",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
   }
 }
