@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892&74": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892&74",
-    "title": "2:26-cv-02902 ZEPEDA GALICIA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892",
-    "date": "2026-08-04T18:15:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02902",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "19"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892&72": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892&72",
-    "title": "2:26-cv-02902 ZEPEDA GALICIA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653892",
-    "date": "2026-08-04T18:14:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02902",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625289&257": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625289&257",
-    "title": "2:24-cv-03638 HIMES v. FIVE BELOW, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?625289",
-    "date": "2026-08-04T17:54:34-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-03638",
-    "entry_type": "Seal",
-    "doc_num": "83"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659129&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659129&7",
-    "title": "2:26-cv-05535 WITTKOPP  v. STEPOWOY ENTERPRISES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659129",
-    "date": "2026-08-04T17:49:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05535",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133&5",
     "title": "5:26-cv-05538 CAIN-WILLIAMS v. DOLLAR TREE STORES, INC.",
@@ -75,28 +31,6 @@
     "case_num": "2:26-cv-05536",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658728&25": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658728&25",
-    "title": "2:26-cv-05304 BOBRICK WASHROOM EQUIPMENT, INC. v. TRAVELERS PROPERTY CASUALTY COMPANY OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658728",
-    "date": "2026-08-04T19:11:06-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-05304",
-    "entry_type": "Memorandum",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645016&318": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645016&318",
-    "title": "2:25-cr-00455-1 USA v. SHACKLEFORD et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645016",
-    "date": "2026-08-04T18:33:44-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00455",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "89"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652462&124": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652462&124",
@@ -493,17 +427,6 @@
     "case_num": "2:26-cv-05539",
     "entry_type": "Order to Show Cause",
     "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659142&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659142&7",
-    "title": "5:26-cv-05535 WITTKOPP  v. STEPOWOY ENTERPRISES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659142",
-    "date": "2026-08-04T17:49:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05535",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659170&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659170&5",
@@ -22239,6 +22162,105 @@
     "category": "complaints",
     "case_num": "2:26-cv-06643",
     "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661279&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661279&23",
+    "title": "2:26-cr-00424-2 USA v. CROWDER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661279",
+    "date": "2026-09-03T18:41:05-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00424",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661279&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661279&20",
+    "title": "2:26-cr-00424-2 USA v. CROWDER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661279",
+    "date": "2026-09-03T18:38:35-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00424",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661278&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661278&18",
+    "title": "2:26-cr-00424-1 USA v. CROWDER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661278",
+    "date": "2026-09-03T18:37:54-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00424",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661278&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661278&15",
+    "title": "2:26-cr-00424-1 USA v. CROWDER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661278",
+    "date": "2026-09-03T18:37:15-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00424",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661286&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661286&3",
+    "title": "2:26-cv-06659 STPIERRE v. ADAPTHEALTH CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661286",
+    "date": "2026-09-03T18:22:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06659",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644051&150": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644051&150",
+    "title": "2:25-cr-00427-1 USA v. WALKER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644051",
+    "date": "2026-09-03T18:11:26-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00427",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "47"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661283&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661283&4",
+    "title": "2:26-cv-06658 PEKARSKI v. COUNTY OF BUCKS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661283",
+    "date": "2026-09-03T17:30:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06658",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645922&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645922&54",
+    "title": "2:25-cv-06317 LANCASTER et al v. CLUB BELT LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645922",
+    "date": "2026-09-03T17:30:09-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-06317",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661282&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661282&5",
+    "title": "2:26-cv-06657 Ginark Investments and Management, L.P. v. CITY OF PHILADELPHIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661282",
+    "date": "2026-09-03T17:20:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06657",
+    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   }
 }
