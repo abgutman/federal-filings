@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659024&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659024&12",
-    "title": "2:26-cv-05472 RAMON SANCHEZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659024",
-    "date": "2026-08-04T06:40:57-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05472",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659083&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659083&3",
     "title": "2:26-cv-05507",
@@ -42,127 +31,6 @@
     "case_num": "2:26-cv-05505",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659072&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659072&4",
-    "title": "2:26-cv-05503 PESOLE v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659072",
-    "date": "2026-08-04T10:02:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05503",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659069&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659069&4",
-    "title": "2:26-cv-05502 ABRAHAM v. EDLOW et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659069",
-    "date": "2026-08-04T09:58:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05502",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659062&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659062&3",
-    "title": "5:26-cv-05501 BOGER v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659062",
-    "date": "2026-08-04T09:35:12-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05501",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&87": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&87",
-    "title": "2:25-cv-07159 FORD v. U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS4 et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607",
-    "date": "2026-08-04T08:24:17-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07159",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&85": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607&85",
-    "title": "2:25-cv-07159 FORD v. U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR LEGACY MORTGAGE ASSET TRUST 2021-GS4 et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647607",
-    "date": "2026-08-04T08:20:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-07159",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "27"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&194": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&194",
-    "title": "2:23-cv-03599 COLEMAN v. EASON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014",
-    "date": "2026-08-04T08:19:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-03599",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "53"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&192": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014&192",
-    "title": "2:23-cv-03599 COLEMAN v. EASON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614014",
-    "date": "2026-08-04T08:13:20-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-03599",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "52"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639&682": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639&682",
-    "title": "2:19-cv-05042 United HealthCare Services, Inc. v. Teva Pharmaceuticals USA, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639",
-    "date": "2026-08-04T08:06:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:19-cv-05042",
-    "entry_type": "Memorandum",
-    "doc_num": "172"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910&552": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910&552",
-    "title": "2:20-cv-06557 United HealthCare Services, Inc. v. Sandoz, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910",
-    "date": "2026-08-04T08:06:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:20-cv-06557",
-    "entry_type": "Memorandum",
-    "doc_num": "129"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143&949": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143&949",
-    "title": "2:19-cv-00629 United HealthCare Services, Inc. v. Actavis Holdco U.S., Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143",
-    "date": "2026-08-04T08:06:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:19-cv-00629",
-    "entry_type": "Memorandum",
-    "doc_num": "255"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13361": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13361",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-04T08:06:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4805"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659093&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659093&3",
@@ -22328,5 +22196,93 @@
     "case_num": "2:26-cv-06633",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661104&14": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661104&14",
+    "title": "2:26-mj-01624-1 USA v. SEALED",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661104",
+    "date": "2026-09-03T10:01:14-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01624",
+    "entry_type": "Case Unsealed",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353&43",
+    "title": "2:26-cv-03628 DOUKOURE v. RIFE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353",
+    "date": "2026-09-03T10:00:59-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03628",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653072&43": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653072&43",
+    "title": "5:26-cr-00169-1 USA v. LAUBACH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653072",
+    "date": "2026-09-03T09:22:52-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:26-cr-00169",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&279": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&279",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-09-03T08:58:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Memorandum",
+    "doc_num": "103"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583417&130": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583417&130",
+    "title": "2:21-cv-01543 JOLLY v. KAMNIK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583417",
+    "date": "2026-09-03T08:45:50-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-01543",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583417&128": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583417&128",
+    "title": "2:21-cv-01543 JOLLY v. KAMNIK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?583417",
+    "date": "2026-09-03T08:45:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-01543",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653676&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653676&79",
+    "title": "2:26-cr-00194-1 USA v. TSURIKOV",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653676",
+    "date": "2026-09-03T08:23:16-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00194",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "25"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651851&184": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651851&184",
+    "title": "2:26-cv-01944 CENTER FOR BREAKTHROUGH MEDICINES HOLDINGS, LLC v. GREAT NORTHERN INSURANCE CO.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651851",
+    "date": "2026-09-03T07:46:13-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-01944",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "66"
   }
 }
