@@ -1,125 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13377": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13377",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-05T17:45:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4812"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659202&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659202&4",
-    "title": "2:26-cv-05573 LEWIS v. ECOLAB, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659202",
-    "date": "2026-08-05T17:44:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05573",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659201&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659201&7",
-    "title": "2:26-cv-05572 MARKHAM v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659201",
-    "date": "2026-08-05T17:34:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05572",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659200&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659200&7",
-    "title": "2:26-cv-05571 PERRY v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659200",
-    "date": "2026-08-05T17:21:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05571",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&66": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&66",
-    "title": "2:26-cv-01652 FILUS  v. WEILHEIMER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686",
-    "date": "2026-08-05T19:43:39-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01652",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&64": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686&64",
-    "title": "2:26-cv-01652 FILUS  v. WEILHEIMER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651686",
-    "date": "2026-08-05T19:39:11-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01652",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2696": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2696",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-05T18:04:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "825"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13383": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13383",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-05T17:59:31-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4814"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2693": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2693",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-05T17:57:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "824"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2690": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2690",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-05T17:56:42-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "823"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13380": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13380",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-05T17:51:52-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4813"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2707": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2707",
     "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
@@ -22009,5 +21888,71 @@
     "case_num": "2:26-cv-06677",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13890": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13890",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-09-04T19:16:45-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Seal",
+    "doc_num": "4996"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059&159": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059&159",
+    "title": "2:25-cv-01041 CRUM & FORSTER SPECIALITY INSURANCE COMPANY v. ARMOUR RISK MANAGEMENT INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059",
+    "date": "2026-09-04T17:16:18-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-01041",
+    "entry_type": "Seal",
+    "doc_num": "56"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661329&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661329&3",
+    "title": "2:26-cv-06687 NATIONWIDE MUTUAL INSURANCE COMPANY v. NEXGEN EXTERIOR HOME REMODELING, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661329",
+    "date": "2026-09-04T17:14:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06687",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661330&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661330&4",
+    "title": "2:26-cv-06688 LOVETT v. COUNTY OF DELAWARE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661330",
+    "date": "2026-09-04T16:53:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06688",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600963&353": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600963&353",
+    "title": "2:22-cv-03742 HIAN et al v. LVMH MOET HENNESSY LOUIS VUITTON INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?600963",
+    "date": "2026-09-04T16:51:51-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-03742",
+    "entry_type": "Seal",
+    "doc_num": "118"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587917&397": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587917&397",
+    "title": "2:21-cv-03643 Malone v. UNITED PARCEL SERVICE, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587917",
+    "date": "2026-09-04T16:50:33-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-03643",
+    "entry_type": "Memorandum",
+    "doc_num": "141"
   }
 }
