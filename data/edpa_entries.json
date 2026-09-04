@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133&5",
-    "title": "5:26-cv-05538 CAIN-WILLIAMS v. DOLLAR TREE STORES, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659133",
-    "date": "2026-08-04T21:38:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05538",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659132&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659132&5",
-    "title": "2:26-cv-05537 DE LAGE FINANCIAL SERVICES, INC. v. STANDARD OPTIC GENERAL SERVICES CORP. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659132",
-    "date": "2026-08-04T20:51:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05537",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659131&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659131&8",
-    "title": "2:26-cv-05536 mitchell v. COLLINGDALE BOROUGH OF PA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659131",
-    "date": "2026-08-04T19:55:18-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05536",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652462&124": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652462&124",
     "title": "5:26-cv-02215 THOMAS JEFFERSON UNIVERSITY D/B/A JEFFERSON HEALTH et al v. AETNA HEALTH INC.",
@@ -22261,6 +22228,61 @@
     "category": "complaints",
     "case_num": "2:26-cv-06657",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661290&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661290&4",
+    "title": "2:26-cv-06663 MOY v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661290",
+    "date": "2026-09-03T23:35:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06663",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661289&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661289&4",
+    "title": "2:26-cv-06662 KEITH v. TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661289",
+    "date": "2026-09-03T22:15:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06662",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661288&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661288&3",
+    "title": "2:26-cv-06661 DOELAKEH v. PENNSYLVANIA HOSPITAL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661288",
+    "date": "2026-09-03T22:08:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06661",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623732&72": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623732&72",
+    "title": "2:24-cv-02782 TORRES v. HAROLD F. DAMPMAN, LTD. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623732",
+    "date": "2026-09-03T21:26:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-02782",
+    "entry_type": "Memorandum",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661287&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661287&6",
+    "title": "2:26-cv-06660 AKULAU v. BLANCHE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661287",
+    "date": "2026-09-03T20:17:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06660",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
