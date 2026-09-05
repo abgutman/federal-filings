@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2707": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2707",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-05T20:32:46-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "830"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13392": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13392",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-05T20:28:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4818"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&243": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160&243",
-    "title": "2:25-cv-06017 STATESIDE BRANDS LLC v. ANHEUSER-BUSCH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645160",
-    "date": "2026-08-05T20:19:23-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06017",
-    "entry_type": "Memorandum",
-    "doc_num": "74"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&203": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&203",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-08-05T22:56:02-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Memorandum",
-    "doc_num": "76"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&201": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&201",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-08-05T22:51:57-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Seal",
-    "doc_num": "75"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096&33": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096&33",
     "title": "2:26-cv-04459 L. v. EDLOW et al",
@@ -21954,5 +21899,16 @@
     "case_num": "2:21-cv-03643",
     "entry_type": "Memorandum",
     "doc_num": "141"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661335&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661335&3",
+    "title": "2:26-cv-06690 RITTENHOUSE PLAZA, INC. v. ARCH INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661335",
+    "date": "2026-09-04T20:33:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06690",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
