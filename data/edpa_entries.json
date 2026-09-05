@@ -351,138 +351,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "30"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797&227": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797&227",
-    "title": "2:25-cr-00477-1 USA v. BLACKSHEAR et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645797",
-    "date": "2026-08-06T14:04:26-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:25-cr-00477",
-    "entry_type": "Plea Agreement",
-    "doc_num": "66"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659243&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659243&3",
-    "title": "2:26-cv-05578 MONTGOMERY et al v. Walt Disney Parks and Resorts, U.S., Inc",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659243",
-    "date": "2026-08-06T13:57:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05578",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659255&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659255&4",
-    "title": "2:26-cv-05585 Duchi Ochoa v. USCIS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659255",
-    "date": "2026-08-06T13:52:26-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05585",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648430&1333": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648430&1333",
-    "title": "2:26-cr-00023-10 USA v. SMITH, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648430",
-    "date": "2026-08-06T13:21:04-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00023",
-    "entry_type": "Plea Agreement",
-    "doc_num": "275"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659254&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659254&4",
-    "title": "2:26-cv-05584 PANNELL v. CITY OF PHILADELPHIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659254",
-    "date": "2026-08-06T13:16:35-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05584",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648438&1331": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648438&1331",
-    "title": "2:26-cr-00023-18 USA v. SMITH, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648438",
-    "date": "2026-08-06T13:14:39-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00023",
-    "entry_type": "Plea Agreement",
-    "doc_num": "274"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659253&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659253&5",
-    "title": "2:26-cv-05542 WONG v. MARRIOTT HOTEL SERVICES, INC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659253",
-    "date": "2026-08-06T13:01:49-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05542",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659249&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659249&4",
-    "title": "2:26-cv-05581 Avila Sanchez v. USCIS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659249",
-    "date": "2026-08-06T12:40:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05581",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659246&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659246&5",
-    "title": "2:26-cv-05580 Mills v. PROGRESSIVE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659246",
-    "date": "2026-08-06T12:31:45-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05580",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606989&212": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606989&212",
-    "title": "2:23-cv-00882 VURIMINDI v. MORGAN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606989",
-    "date": "2026-08-06T12:30:09-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-00882",
-    "entry_type": "Memorandum",
-    "doc_num": "55"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644664&108": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644664&108",
-    "title": "2:25-cv-05798 CWT MFG LLC et al v. CHARTER OAK FIRE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644664",
-    "date": "2026-08-06T12:06:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05798",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "38"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644664&106": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644664&106",
-    "title": "2:25-cv-05798 CWT MFG LLC et al v. CHARTER OAK FIRE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644664",
-    "date": "2026-08-06T12:03:55-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05798",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "37"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8",
     "title": "2:26-cv-05611 RUBICON TECHNOLOGIES, LLC. v. OWSTON et al",
@@ -900,28 +768,6 @@
     "case_num": "2:22-cv-04264",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "89"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&18": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&18",
-    "title": "2:26-cr-00357-1 USA v. BUSSEY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232",
-    "date": "2026-08-06T12:04:24-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00357",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&15": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232&15",
-    "title": "2:26-cr-00357-1 USA v. BUSSEY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659232",
-    "date": "2026-08-06T12:02:08-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00357",
-    "entry_type": "Warrant",
-    "doc_num": ""
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659342&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659342&3",
@@ -21732,6 +21578,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-06692",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661338&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661338&3",
+    "title": "2:26-cv-06693 GOODE v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661338",
+    "date": "2026-09-05T12:47:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06693",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
