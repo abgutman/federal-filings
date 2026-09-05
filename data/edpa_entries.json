@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096&33",
-    "title": "2:26-cv-04459 L. v. EDLOW et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657096",
-    "date": "2026-08-06T09:33:51-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-04459",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "13"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658975&107": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658975&107",
-    "title": "2:26-cr-00349-1 USA v. CILURSO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658975",
-    "date": "2026-08-06T09:25:38-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:26-cr-00349",
-    "entry_type": "Plea Agreement",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963&22": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963&22",
-    "title": "2:26-cv-05453 ORDONEZ SARMIENTO v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963",
-    "date": "2026-08-06T09:15:56-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-05453",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963&20",
-    "title": "2:26-cv-05453 ORDONEZ SARMIENTO v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658963",
-    "date": "2026-08-06T09:13:10-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-05453",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&47": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&47",
     "title": "2:26-cv-04012 MACK v. TERRA et al",
@@ -526,94 +482,6 @@
     "case_num": "2:25-cv-05798",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "37"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659230&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659230&8",
-    "title": "2:26-cv-05549 CALLOWAY et al v. DA OFFICE OF ATTORNEY GENERAL COMMONWEALTH OF PENNSYLVANIA., ET AL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659230",
-    "date": "2026-08-06T11:52:53-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05549",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659219&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659219&12",
-    "title": "2:26-cv-05574 TEJEDA MONTILLA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659219",
-    "date": "2026-08-06T11:51:58-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-05574",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659227&61": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659227&61",
-    "title": "2:26-cr-00354-1 USA v. RICHARDS-DAVILA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659227",
-    "date": "2026-08-06T11:43:05-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00354",
-    "entry_type": "Indictment",
-    "doc_num": "14"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659225&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659225&3",
-    "title": "2:26-cv-05576 GIVLER v. THE COUNTY OF CHESTER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659225",
-    "date": "2026-08-06T11:34:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05576",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659224&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659224&8",
-    "title": "2:26-cv-05575 AHMADI et al v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659224",
-    "date": "2026-08-06T11:31:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05575",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&11": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&11",
-    "title": "2:26-cr-00353-1 USA v. PASCAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222",
-    "date": "2026-08-06T11:29:43-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00353",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&8",
-    "title": "2:26-cr-00353-1 USA v. PASCAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222",
-    "date": "2026-08-06T11:28:44-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00353",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&4",
-    "title": "2:26-cr-00353-1 USA v. PASCAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222",
-    "date": "2026-08-06T11:26:59-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00353",
-    "entry_type": "Indictment",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8",
@@ -21853,6 +21721,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-06690",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661337&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661337&3",
+    "title": "2:26-cv-06692 MARSHALL v. EDLOW",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661337",
+    "date": "2026-09-05T11:13:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06692",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
