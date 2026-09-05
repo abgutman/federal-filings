@@ -43,61 +43,6 @@
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "5"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&209": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&209",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-08-06T08:25:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Memorandum",
-    "doc_num": "78"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2712": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2712",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-06T08:21:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "832"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13399": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13399",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-06T08:21:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4821"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657494&28": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657494&28",
-    "title": "2:26-cv-04700 GROSSINGER v. GODADDY.COM, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657494",
-    "date": "2026-08-06T08:20:40-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04700",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659211&9": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659211&9",
-    "title": "2:26-cv-05564 KITZ v. KITZ et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659211",
-    "date": "2026-08-06T07:47:01-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-05564",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "3"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&47": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&47",
     "title": "2:26-cv-04012 MACK v. TERRA et al",
