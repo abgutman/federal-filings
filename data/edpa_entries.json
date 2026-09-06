@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&47",
-    "title": "2:26-cv-04012 MACK v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340",
-    "date": "2026-08-06T19:28:01-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04012",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "16"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659284&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659284&4",
-    "title": "2:26-cv-05610 WEINGRAD v. P&B CAPITAL GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659284",
-    "date": "2026-08-06T19:26:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05610",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&45": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340&45",
-    "title": "2:26-cv-04012 MACK v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656340",
-    "date": "2026-08-06T19:16:29-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-04012",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "15"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8",
     "title": "2:26-cv-05611 RUBICON TECHNOLOGIES, LLC. v. OWSTON et al",
@@ -271,17 +238,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "5:26-cv-05612",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659313&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659313&4",
-    "title": "5:26-cv-05610 WEINGRAD v. P&B CAPITAL GROUP, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659313",
-    "date": "2026-08-06T19:26:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05610",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
