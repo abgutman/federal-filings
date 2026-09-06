@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659290&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659290&3",
-    "title": "2:26-cv-05615 BURKE v. THE LINCOLN NATIONAL LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659290",
-    "date": "2026-08-07T04:05:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05615",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623826&188": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623826&188",
     "title": "5:24-cr-00243-1 USA v. JONES",
