@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&8",
-    "title": "2:26-cv-05611 RUBICON TECHNOLOGIES, LLC. v. OWSTON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285",
-    "date": "2026-08-06T23:32:32-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-05611",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659288&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659288&4",
-    "title": "2:26-cv-05613 MCCARTY v. MERCY CATHOLIC MEDICAL CENTER OF SOUTHEASTERN PENNSYLVANIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659288",
-    "date": "2026-08-06T22:40:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05613",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659286&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659286&47",
-    "title": "2:26-cv-05612 BANK MIDWEST, a division of NBH Bank v. TIG QUESO LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659286",
-    "date": "2026-08-06T22:28:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05612",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285&6",
-    "title": "2:26-cv-05611 RUBICON TECHNOLOGIES, LLC. v. OWSTON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659285",
-    "date": "2026-08-06T21:45:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05611",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659290&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659290&3",
     "title": "2:26-cv-05615 BURKE v. THE LINCOLN NATIONAL LIFE INSURANCE COMPANY",
@@ -229,17 +185,6 @@
     "case_num": "2:25-cv-06705",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312&47": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312&47",
-    "title": "5:26-cv-05612 BANK MIDWEST, a division of NBH Bank v. TIG QUESO LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312",
-    "date": "2026-08-06T22:28:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05612",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659332&6": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659332&6",
