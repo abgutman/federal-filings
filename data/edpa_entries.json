@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659423&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659423&4",
-    "title": "5:26-cv-05671 CRUM & FORSTER SPECIALTY INS. CO., v. FIDEL & GONZALO GARCIA DBA G&F REMODELING, LLC;  et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659423",
-    "date": "2026-08-07T17:27:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05671",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659427&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659427&3",
-    "title": "2:26-cv-05675 RODRIQUEZ v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659427",
-    "date": "2026-08-07T18:23:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05675",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659426&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659426&7",
-    "title": "2:26-cv-05674 FILATOVA v. BORROMEO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659426",
-    "date": "2026-08-07T18:14:19-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05674",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659425&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659425&8",
-    "title": "2:26-cv-05673 MAXWELL-BRENNER v. MAGNIT, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659425",
-    "date": "2026-08-07T18:06:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05673",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075&158": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075&158",
     "title": "2:25-cv-03018 HICKS v. PHARMERICA LOGISTICS SERVICES, LLC",
@@ -53,17 +9,6 @@
     "case_num": "2:25-cv-03018",
     "entry_type": "Memorandum",
     "doc_num": "60"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659428&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659428&7",
-    "title": "2:26-cv-05676 AMES et al v. ARAG SERVICES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659428",
-    "date": "2026-08-07T19:12:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05676",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&418": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&418",
