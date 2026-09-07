@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075&158": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075&158",
-    "title": "2:25-cv-03018 HICKS v. PHARMERICA LOGISTICS SERVICES, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?639075",
-    "date": "2026-08-07T20:53:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-03018",
-    "entry_type": "Memorandum",
-    "doc_num": "60"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&418": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&418",
-    "title": "2:25-cv-02384 Adair et al v. Cigna Corporate Services, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412",
-    "date": "2026-08-07T22:28:05-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-02384",
-    "entry_type": "Seal Document",
-    "doc_num": "142"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659429&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659429&3",
     "title": "2:26-cv-05677 NEWBERG v. BISIGNANO",
