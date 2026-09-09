@@ -20987,5 +20987,104 @@
     "case_num": "2:26-cv-06727",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661433&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661433&4",
+    "title": "2:26-cv-06757 ALSTON v. BELMONT BEHAVIORAL HEALTH SYSTEM",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661433",
+    "date": "2026-09-08T19:12:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06757",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560&176": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560&176",
+    "title": "2:25-cr-00308-1 USA v. GOMEZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560",
+    "date": "2026-09-08T19:08:13-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00308",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "57"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661432&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661432&8",
+    "title": "2:26-cv-06756 Scipio v. Tremco CPG, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661432",
+    "date": "2026-09-08T18:52:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06756",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&287": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&287",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-09-08T18:47:44-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Seal",
+    "doc_num": "106"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1533": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1533",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-09-08T18:41:33-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Seal",
+    "doc_num": "567"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353&45": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353&45",
+    "title": "2:26-cv-03628 DOUKOURE v. RIFE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353",
+    "date": "2026-09-08T18:18:15-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03628",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496&336": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496&336",
+    "title": "2:21-cv-03375 MCINTOSH v. WETZEL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496",
+    "date": "2026-09-08T18:16:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-03375",
+    "entry_type": "Memorandum",
+    "doc_num": "102"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1504": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1504",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-09-08T17:56:10-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Seal",
+    "doc_num": "557"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661430&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661430&5",
+    "title": "2:26-cv-06754 BOWMAN v. MONSANTO COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661430",
+    "date": "2026-09-08T17:31:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06754",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
