@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659432&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659432&4",
-    "title": "2:26-cv-05680 ELLISON-MCCARVER v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659432",
-    "date": "2026-08-09T22:09:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05680",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659435&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659435&4",
-    "title": "2:26-cv-05683 VAZQUEZ v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659435",
-    "date": "2026-08-09T23:01:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05683",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659434&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659434&4",
-    "title": "2:26-cv-05682 DAVISON v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659434",
-    "date": "2026-08-09T22:47:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05682",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659433&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659433&4",
-    "title": "2:26-cv-05681 LANE v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659433",
-    "date": "2026-08-09T22:32:43-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05681",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659436&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659436&4",
     "title": "5:26-cv-05669 OLIVER v. LOCKWOOD",
@@ -21085,6 +21041,39 @@
     "category": "complaints",
     "case_num": "2:26-cv-06754",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661435&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661435&5",
+    "title": "2:26-cv-06759 REYES v. THOMAS JEFFERSON UNIVERSITY HOSPITALS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661435",
+    "date": "2026-09-08T20:34:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06759",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661434&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661434&8",
+    "title": "2:26-cv-06758 ERIE INSURANCE COMPANY et al v. AMAZON.COM SERVICES, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661434",
+    "date": "2026-09-08T20:04:55-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06758",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661431&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661431&6",
+    "title": "2:26-cv-06755 Halland v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661431",
+    "date": "2026-09-08T19:34:39-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06755",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
