@@ -1,125 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659436&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659436&4",
-    "title": "5:26-cv-05669 OLIVER v. LOCKWOOD",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659436",
-    "date": "2026-08-10T06:57:54-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05669",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1495": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1495",
-    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
-    "date": "2026-08-10T06:47:44-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-04221",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "496"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222&20",
-    "title": "2:26-cr-00353-1 USA v. PASCAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659222",
-    "date": "2026-08-10T08:39:44-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00353",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615397&296": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615397&296",
-    "title": "2:23-cv-04284 DUNCAN v. LETT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615397",
-    "date": "2026-08-10T08:31:48-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-04284",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "114"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615397&294": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615397&294",
-    "title": "2:23-cv-04284 DUNCAN v. LETT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?615397",
-    "date": "2026-08-10T08:29:10-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-04284",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "113"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905&77": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905&77",
-    "title": "2:25-cv-06796 CLARK  v. LENTEGRITY, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905",
-    "date": "2026-08-10T08:21:34-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06796",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "27"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905&75": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905&75",
-    "title": "2:25-cv-06796 CLARK  v. LENTEGRITY, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646905",
-    "date": "2026-08-10T08:18:21-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06796",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "26"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649045&79": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649045&79",
-    "title": "2:26-cv-00551 WILSON v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649045",
-    "date": "2026-08-10T09:51:04-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00551",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649045&77": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649045&77",
-    "title": "2:26-cv-00551 WILSON v. CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649045",
-    "date": "2026-08-10T09:46:08-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00551",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654768&22": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654768&22",
-    "title": "2:26-cv-03314 ADVANCE TRANSIT MIX, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654768",
-    "date": "2026-08-10T09:30:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03314",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654768&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654768&20",
-    "title": "2:26-cv-03314 ADVANCE TRANSIT MIX, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654768",
-    "date": "2026-08-10T09:28:41-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03314",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659476&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659476&4",
     "title": "2:26-cv-05614 SZUSTOWICZ v. INDEPENDENCE PERSONAL CHOICE",
@@ -218,28 +97,6 @@
     "case_num": "5:26-cv-05687",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659454&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659454&5",
-    "title": "2:26-cv-05686 CIABATONI v. NOCELLA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659454",
-    "date": "2026-08-10T10:19:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05686",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634894&245": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634894&245",
-    "title": "2:25-cv-01235 BACON  v. CLARK et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634894",
-    "date": "2026-08-10T10:19:42-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:25-cv-01235",
-    "entry_type": "Order on Motion for Preliminary Injunction",
-    "doc_num": "83"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659486&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659486&4",
@@ -21086,5 +20943,104 @@
     "case_num": "2:23-cr-00445",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "51"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661443&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661443&4",
+    "title": "5:26-cv-06723 NSIAH v. KEYSTONE HUMAN SERVICES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661443",
+    "date": "2026-09-09T09:20:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06723",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628769&214": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628769&214",
+    "title": "2:24-cr-00368-1 USA v. BUSTAMANTE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628769",
+    "date": "2026-09-09T09:17:09-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00368",
+    "entry_type": "Plea Agreement",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648819&208": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648819&208",
+    "title": "2:26-cr-00038-1 USA v. MITCHELL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648819",
+    "date": "2026-09-09T09:08:23-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00038",
+    "entry_type": "Plea Agreement",
+    "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&137": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&137",
+    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
+    "date": "2026-09-09T09:07:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-02202",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "54"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658312&37": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658312&37",
+    "title": "2:26-cr-00320-1 USA v. CARROLL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658312",
+    "date": "2026-09-09T09:06:41-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00320",
+    "entry_type": "Plea Agreement",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661442&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661442&7",
+    "title": "2:26-cv-06762 DELANO CORONA LLC et al v. ACRISURE, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661442",
+    "date": "2026-09-09T09:02:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06762",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647824&137": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647824&137",
+    "title": "2:25-cv-07342 Frontline Fabrics, Inc. v. Gulipek Kumas Ve Iplik Ve et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647824",
+    "date": "2026-09-09T08:49:19-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07342",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "45"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647824&135": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647824&135",
+    "title": "2:25-cv-07342 Frontline Fabrics, Inc. v. Gulipek Kumas Ve Iplik Ve et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647824",
+    "date": "2026-09-09T08:46:03-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07342",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "44"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661439&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661439&3",
+    "title": "2:26-cv-06761 OSTERNECK v. BANK OF AMERICA, N.A.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661439",
+    "date": "2026-09-09T07:12:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06761",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
