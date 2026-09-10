@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659527&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659527&4",
-    "title": "2:26-cv-05713 FOYE v. ENIGMA MEDI SPA & PLASTIC SURGERY LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659527",
-    "date": "2026-08-10T18:06:29-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05713",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659523&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659523&4",
-    "title": "2:26-cv-05709 MAIDA et al v. UNITED STATES OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659523",
-    "date": "2026-08-10T17:56:09-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05709",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659528&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659528&3",
-    "title": "2:26-cv-05714 FRANKLIN v. ANNUITY HEALTH HOLDINGS LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659528",
-    "date": "2026-08-10T18:19:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05714",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659529&9": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659529&9",
     "title": "2:26-cv-05715 Santiago v. PRIME CARE MEDICAL et al",
@@ -361,17 +328,6 @@
     "case_num": "2:25-cv-05463",
     "entry_type": "Order to Show Cause",
     "doc_num": "63"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659540&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659540&3",
-    "title": "5:26-cv-05714 FRANKLIN v. ANNUITY HEALTH HOLDINGS LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659540",
-    "date": "2026-08-10T18:19:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-05714",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659567&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659567&4",
@@ -21328,5 +21284,115 @@
     "case_num": "5:26-cv-06802",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661541&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661541&3",
+    "title": "2:26-cv-06820 BERARDI v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661541",
+    "date": "2026-09-09T19:13:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06820",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661540&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661540&3",
+    "title": "2:26-cv-06819 BALLARD v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661540",
+    "date": "2026-09-09T19:06:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06819",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661539&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661539&3",
+    "title": "2:26-cv-06818 BALLARD v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661539",
+    "date": "2026-09-09T18:54:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06818",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661538&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661538&3",
+    "title": "2:26-cv-06817 BAKSH v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661538",
+    "date": "2026-09-09T18:40:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06817",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661537&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661537&3",
+    "title": "5:26-cv-06816 ATWOOD v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661537",
+    "date": "2026-09-09T18:27:40-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06816",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661536&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661536&3",
+    "title": "2:26-cv-06815 SPIES v. UGI UTILITIES INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661536",
+    "date": "2026-09-09T18:25:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06815",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661530&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661530&3",
+    "title": "2:26-cv-06814 ANTON v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661530",
+    "date": "2026-09-09T18:18:18-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06814",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&295": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&295",
+    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
+    "date": "2026-09-09T18:17:27-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-04484",
+    "entry_type": "Seal Document",
+    "doc_num": "109"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590604&1368": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590604&1368",
+    "title": "2:21-cv-04845 SECURITIES AND EXCHANGE COMMISSION v. CAMMARATA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590604",
+    "date": "2026-09-09T18:07:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-04845",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "426"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590604&1366": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590604&1366",
+    "title": "2:21-cv-04845 SECURITIES AND EXCHANGE COMMISSION v. CAMMARATA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?590604",
+    "date": "2026-09-09T18:04:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:21-cv-04845",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "425"
   }
 }
