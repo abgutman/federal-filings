@@ -21460,5 +21460,16 @@
     "case_num": "2:26-cv-06821",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661548&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661548&4",
+    "title": "2:26-cv-06827 HAR-TRU LLC v. HORIZON SPORTS GROUP LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661548",
+    "date": "2026-09-10T04:07:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06827",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
