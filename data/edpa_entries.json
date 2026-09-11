@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659623&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659623&4",
-    "title": "2:26-cv-05772 DELUCA v. JOHN KENNEDY SUBARU, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659623",
-    "date": "2026-08-11T21:06:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05772",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&431": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412&431",
-    "title": "2:25-cv-02384 Adair et al v. Cigna Corporate Services, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637412",
-    "date": "2026-08-11T22:45:27-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-02384",
-    "entry_type": "Seal Document",
-    "doc_num": "148"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659624&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659624&3",
     "title": "5:26-cv-05773 HALABI v. COMMISSIONER  OF SOCIAL SECURITY",
@@ -21889,5 +21867,104 @@
     "case_num": "2:25-cv-07027",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779&54": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779&54",
+    "title": "2:26-cr-00062-1 USA v. SHAW-AMOAH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779",
+    "date": "2026-09-10T23:36:51-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00062",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&629": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&629",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-09-10T22:21:18-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Memorandum",
+    "doc_num": "221"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661687&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661687&3",
+    "title": "2:26-cv-06933 HERNANDEZ v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661687",
+    "date": "2026-09-10T21:05:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06933",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661686&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661686&3",
+    "title": "2:26-cv-06932 HENRY v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661686",
+    "date": "2026-09-10T20:58:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06932",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661685&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661685&3",
+    "title": "2:26-cv-06931 HENRY v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661685",
+    "date": "2026-09-10T20:51:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06931",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661684&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661684&3",
+    "title": "5:26-cv-06930 HEETER v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661684",
+    "date": "2026-09-10T20:44:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-06930",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661683&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661683&3",
+    "title": "2:26-cv-06929 HARRISON v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661683",
+    "date": "2026-09-10T20:37:44-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06929",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661682&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661682&3",
+    "title": "2:26-cv-06928 GRIFFIN v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661682",
+    "date": "2026-09-10T20:27:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06928",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661681&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661681&3",
+    "title": "2:26-cv-06927 GRANT v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661681",
+    "date": "2026-09-10T20:15:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-06927",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
