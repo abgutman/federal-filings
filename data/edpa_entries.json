@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659903&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659903&5",
-    "title": "2:26-cv-05912 SIMPSON v. NOVO NORDISK INC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659903",
-    "date": "2026-08-14T18:27:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05912",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659900&11": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659900&11",
-    "title": "2:26-cv-05909 A.P. et al v. Kennedy et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659900",
-    "date": "2026-08-14T17:43:41-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-05909",
-    "entry_type": "Seal Document",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659901&11": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659901&11",
-    "title": "2:26-cv-05910 Dunbar v. PHILADELPHIA CORPORATION FOR AGING",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659901",
-    "date": "2026-08-14T17:33:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05910",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13552": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13552",
     "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
@@ -53,28 +20,6 @@
     "case_num": "2:18-cv-03299",
     "entry_type": "Seal",
     "doc_num": "869"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13546": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13546",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-14T19:59:53-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Seal",
-    "doc_num": "4873"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614118&2637": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614118&2637",
-    "title": "5:23-cv-03636 Providence St. Joseph Health et al v. Actavis Holdco US, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614118",
-    "date": "2026-08-14T19:55:44-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:23-cv-03636",
-    "entry_type": "Seal",
-    "doc_num": "439"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13554": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13554",
@@ -141,17 +86,6 @@
     "case_num": "2:26-cv-03469",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "49"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911&11": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911&11",
-    "title": "5:26-cv-05909 A.P. et al v. Kennedy et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659911",
-    "date": "2026-08-14T17:43:41-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:26-cv-05909",
-    "entry_type": "Seal Document",
-    "doc_num": "2"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&123": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&123",
