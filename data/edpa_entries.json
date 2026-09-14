@@ -1,92 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13552": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13552",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-14T21:20:03-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Seal",
-    "doc_num": "4876"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2802": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2802",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-14T21:10:11-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Seal",
-    "doc_num": "869"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13554": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13554",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-14T22:06:12-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Seal",
-    "doc_num": "4877"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2804": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2804",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-14T22:04:25-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Seal",
-    "doc_num": "870"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659907&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659907&5",
-    "title": "2:26-cv-05915 JAHANBAKHSH v. GREYSTAR MANAGEMENT SERVICES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659907",
-    "date": "2026-08-14T23:21:28-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05915",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&135": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&135",
-    "title": "2:26-cv-03469 FRY v. FRY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327",
-    "date": "2026-08-14T22:55:59-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03469",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "50"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659906&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659906&5",
-    "title": "2:26-cv-05914 GROSSMAN v. BOZZUTO MANAGEMENT COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659906",
-    "date": "2026-08-14T22:51:20-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05914",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&133": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327&133",
-    "title": "2:26-cv-03469 FRY v. FRY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655327",
-    "date": "2026-08-14T22:34:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03469",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "49"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&123": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643413&123",
     "title": "2:25-cr-00401-1 USA v. MARTINS",
@@ -20567,6 +20479,28 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-07009",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661818&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661818&4",
+    "title": "2:26-cv-07013 CINQUEMANI v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661818",
+    "date": "2026-09-13T21:39:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07013",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661817&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661817&3",
+    "title": "2:26-cv-07012 Brock v. Fliff Inc",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661817",
+    "date": "2026-09-13T19:54:36-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07012",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
