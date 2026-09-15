@@ -21427,5 +21427,126 @@
     "case_num": "2:26-cv-07054",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660684&137": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660684&137",
+    "title": "2:26-cv-06347 LEV et al v. LOWER MERION SCHOOL DISTRICT; et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660684",
+    "date": "2026-09-14T23:05:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06347",
+    "entry_type": "Memorandum",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1657": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1657",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-09-14T22:17:47-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Seal",
+    "doc_num": "614"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1546": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1546",
+    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
+    "date": "2026-09-14T20:47:22-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:24-cv-04221",
+    "entry_type": "Seal Document",
+    "doc_num": "514"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658519&39": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658519&39",
+    "title": "2:26-cv-05189 MCGUIRE v. EXPERIAN INFORMATION SOLUTIONS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658519",
+    "date": "2026-09-14T20:03:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05189",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3110": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3110",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-09-14T19:55:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "975"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13920": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13920",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-09-14T19:55:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "5009"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3108": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3108",
+    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
+    "date": "2026-09-14T19:49:54-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-03299",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "974"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13918": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13918",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-09-14T19:49:54-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5008"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661927&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661927&5",
+    "title": "2:26-cv-07074 HENDERSON v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661927",
+    "date": "2026-09-14T19:46:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07074",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661926&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661926&3",
+    "title": "2:26-cv-07073 RODRIGUEZ v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661926",
+    "date": "2026-09-14T19:27:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07073",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661925&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661925&3",
+    "title": "2:26-cv-07072 ROBINSON v. FEDERAL EXPRESS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661925",
+    "date": "2026-09-14T19:18:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07072",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
