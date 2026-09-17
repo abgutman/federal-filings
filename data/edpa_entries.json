@@ -1,114 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657033&54": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657033&54",
-    "title": "2:26-cv-04417 WIGGINS v. JEFFERSON EINSTEIN HOSPITAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657033",
-    "date": "2026-08-18T08:05:17-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-04417",
-    "entry_type": "Show Cause",
-    "doc_num": "14"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&579": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&579",
-    "title": "2:22-cv-03253 COMMONWEALTH OF PENNSYLVANIA et al v. MARINER FINANCE, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817",
-    "date": "2026-08-18T09:07:38-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:22-cv-03253",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "196"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&577": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817&577",
-    "title": "2:22-cv-03253 COMMONWEALTH OF PENNSYLVANIA et al v. MARINER FINANCE, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?599817",
-    "date": "2026-08-18T09:06:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:22-cv-03253",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "195"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2830": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2830",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-18T09:04:17-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "882"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13596": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13596",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-18T09:04:17-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "4895"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&82": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&82",
-    "title": "2:23-cv-04583 WILLIAMS v. AMERICAN HERITAGE CREDIT UNION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017",
-    "date": "2026-08-18T09:03:23-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-04583",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&80": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017&80",
-    "title": "2:23-cv-04583 WILLIAMS v. AMERICAN HERITAGE CREDIT UNION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?616017",
-    "date": "2026-08-18T09:02:12-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-04583",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "29"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640436&116": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640436&116",
-    "title": "2:25-cv-03620 ROBERTSON v. CONSTRUCTION REHAB LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640436",
-    "date": "2026-08-18T08:55:14-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-03620",
-    "entry_type": "Memorandum",
-    "doc_num": "44"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&110": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&110",
-    "title": "2:24-cv-02363 Yuan v. STANLEY BLACK & DECKER, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885",
-    "date": "2026-08-18T08:19:22-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02363",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&108": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885&108",
-    "title": "2:24-cv-02363 Yuan v. STANLEY BLACK & DECKER, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?622885",
-    "date": "2026-08-18T08:16:38-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02363",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "32"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523&78": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649523&78",
     "title": "2:26-cv-00742 ROGALSKI v. NESHAMINY SCHOOL DISTRICT et al",
@@ -185,28 +75,6 @@
     "case_num": "2:21-cv-03375",
     "entry_type": "Memorandum",
     "doc_num": "97"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&124": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&124",
-    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
-    "date": "2026-08-18T09:18:48-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-02202",
-    "entry_type": "Seal",
-    "doc_num": "49"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660021&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660021&3",
-    "title": "2:26-cv-05923 IN RE: ISRAEL DIAZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660021",
-    "date": "2026-08-18T09:13:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05923",
-    "entry_type": "Complaint",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648736&106": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648736&106",
@@ -22692,5 +22560,16 @@
     "case_num": "2:25-cr-00534",
     "entry_type": "Forfeiture of Property",
     "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&195": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&195",
+    "title": "2:26-cv-01664 ARAMARK BENEFITS COMPLIANCE REVIEW COMMITTEE v. QCC INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274",
+    "date": "2026-09-17T07:34:56-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-01664",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "55"
   }
 }
