@@ -1,70 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660016&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660016&4",
-    "title": "2:26-cv-05977 NOBLE v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660016",
-    "date": "2026-08-17T20:55:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05977",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910&555": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910&555",
-    "title": "2:20-cv-06557 United HealthCare Services, Inc. v. Sandoz, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?579910",
-    "date": "2026-08-17T20:35:52-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:20-cv-06557",
-    "entry_type": "Seal",
-    "doc_num": "130"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639&685": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639&685",
-    "title": "2:19-cv-05042 United HealthCare Services, Inc. v. Teva Pharmaceuticals USA, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563639",
-    "date": "2026-08-17T20:34:10-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:19-cv-05042",
-    "entry_type": "Seal",
-    "doc_num": "173"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143&952": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143&952",
-    "title": "2:19-cv-00629 United HealthCare Services, Inc. v. Actavis Holdco U.S., Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?553143",
-    "date": "2026-08-17T20:32:16-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:19-cv-00629",
-    "entry_type": "Seal",
-    "doc_num": "256"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13580": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13580",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-17T20:29:28-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Seal",
-    "doc_num": "4888"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&122": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&122",
-    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
-    "date": "2026-08-17T20:27:23-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-02202",
-    "entry_type": "Seal",
-    "doc_num": "48"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&88": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635362&88",
     "title": "2:25-cr-00115-1 USA v. SOWELL",
@@ -22582,5 +22516,71 @@
     "case_num": "5:26-cv-07156",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&173": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&173",
+    "title": "2:24-cr-00377-1 USA v. RIPPERT, ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862",
+    "date": "2026-09-16T20:43:28-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00377",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "52"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647027&68": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647027&68",
+    "title": "2:25-cv-06875 GERALD SEITZINGER, INDIVIDUALLY AND AS GUARDIAN OF DS v. ARAMARK SERVICES, INC. FSS EMPLOYEE MEDICAL PLAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647027",
+    "date": "2026-09-16T20:11:37-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-06875",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "22"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594&88": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594&88",
+    "title": "2:25-cr-00534-1 USA v. FORD-WILKINS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594",
+    "date": "2026-09-16T19:44:14-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00534",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662118&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662118&19",
+    "title": "2:26-cv-07176 SANTOS v. DRAFTKINGS INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662118",
+    "date": "2026-09-16T18:23:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07176",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662119&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662119&4",
+    "title": "2:26-cv-07177 AZIZI v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662119",
+    "date": "2026-09-16T18:21:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07177",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&171": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&171",
+    "title": "2:24-cr-00377-1 USA v. RIPPERT, ET AL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862",
+    "date": "2026-09-16T18:17:45-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00377",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "51"
   }
 }
