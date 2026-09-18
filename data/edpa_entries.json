@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660091&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660091&5",
-    "title": "2:26-cv-05920 BICKEL  v. WEBSTER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660091",
-    "date": "2026-08-18T20:39:25-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-05920",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660094&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660094&4",
-    "title": "2:26-cv-06016 ASTANIKZAI v. EDLOW et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660094",
-    "date": "2026-08-18T22:10:06-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06016",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467&147": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467&147",
     "title": "2:25-cv-06121 ESTATE OF NAYSHAUN UCH WILLIAMS v.  CITY OF PHILADELPHIA et al",
@@ -22230,5 +22208,38 @@
     "case_num": "2:26-cv-06996",
     "entry_type": "Show Cause",
     "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&35": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&35",
+    "title": "2:26-cv-06079 Cifelli v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209",
+    "date": "2026-09-17T22:48:22-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-06079",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&639": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&639",
+    "title": "2:18-cv-02989 TVPX ARS INC. v. LINCOLN NATIONAL LIFE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001",
+    "date": "2026-09-17T21:51:24-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:18-cv-02989",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "242"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&623": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&623",
+    "title": "2:18-cv-01573 IWANSKI v. FIRST PENN-PACIFIC LIFE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701",
+    "date": "2026-09-17T21:43:22-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:18-cv-01573",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "236"
   }
 }
