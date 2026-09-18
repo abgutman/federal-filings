@@ -1,81 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467&147": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467&147",
-    "title": "2:25-cv-06121 ESTATE OF NAYSHAUN UCH WILLIAMS v.  CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467",
-    "date": "2026-08-19T06:50:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06121",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "46"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467&145": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467&145",
-    "title": "2:25-cv-06121 ESTATE OF NAYSHAUN UCH WILLIAMS v.  CITY OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645467",
-    "date": "2026-08-19T06:48:00-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06121",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "45"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612260&445": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612260&445",
-    "title": "2:23-cv-02971 ROSA-DIAZ v. LITTLE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?612260",
-    "date": "2026-08-19T08:22:20-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-02971",
-    "entry_type": "Memorandum",
-    "doc_num": "127"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&82": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&82",
-    "title": "2:25-cr-00441-1 USA v. PORTER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415",
-    "date": "2026-08-19T09:17:09-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00441",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "31"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660106&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660106&3",
-    "title": "2:26-cv-06021 Selig",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660106",
-    "date": "2026-08-19T09:12:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06021",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&80": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415&80",
-    "title": "2:25-cr-00441-1 USA v. PORTER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644415",
-    "date": "2026-08-19T09:10:20-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00441",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977&227": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977&227",
-    "title": "2:19-cv-06116 AMERICAN HYPNOTHERAPY SOCIETY, LLC et al v. ABC CAPITAL INVESTMENTS, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977",
-    "date": "2026-08-19T08:35:41-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:19-cv-06116",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "52"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2845": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&2845",
     "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
@@ -119,39 +42,6 @@
     "case_num": "2:16-md-02724",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "4904"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660108&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660108&8",
-    "title": "2:26-cv-06023 WADE et al v. THE GIANT COMPANY, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660108",
-    "date": "2026-08-19T10:04:04-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06023",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&126": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&126",
-    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
-    "date": "2026-08-19T09:56:26-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-02202",
-    "entry_type": "Order on Motion to Seal",
-    "doc_num": "50"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681&34": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681&34",
-    "title": "2:26-cv-05805 MARCHETTI v. 46 LABS, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659681",
-    "date": "2026-08-19T09:52:23-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-05805",
-    "entry_type": "Order on Motion for Preliminary Injunction",
-    "doc_num": "11"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660122&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660122&7",
@@ -328,17 +218,6 @@
     "case_num": "2:25-cv-02382",
     "entry_type": "Order to Show Cause",
     "doc_num": "168"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660114&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660114&3",
-    "title": "5:26-cv-06021 Selig v. SPEEDWAY LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660114",
-    "date": "2026-08-19T09:12:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-06021",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660147&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660147&7",
@@ -22241,5 +22120,49 @@
     "case_num": "2:18-cv-01573",
     "entry_type": "Response to Order to Show Cause",
     "doc_num": "236"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&594": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&594",
+    "title": "5:22-cv-04557 CT INSTALL AMERICA, LLC v. BORYSZEWSKI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857",
+    "date": "2026-09-18T09:40:42-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "5:22-cv-04557",
+    "entry_type": "Sanctions",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654531&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654531&19",
+    "title": "2:26-cv-03229 HOF GRANTOR TRUST 1  v. WASHINGTON DEVELOPMENT LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654531",
+    "date": "2026-09-18T08:50:48-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03229",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654531&17": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654531&17",
+    "title": "2:26-cv-03229 HOF GRANTOR TRUST 1  v. WASHINGTON DEVELOPMENT LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654531",
+    "date": "2026-09-18T08:47:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03229",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662202&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662202&4",
+    "title": "2:26-cv-07212 TING et al v. ECONOMY FIRE & CASUALTY COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662202",
+    "date": "2026-09-18T08:00:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07212",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
