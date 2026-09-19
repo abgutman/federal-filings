@@ -1,147 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660210&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660210&3",
-    "title": "2:26-cv-06080 Q.M. v. LIBERTY HEALTHCARE CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660210",
-    "date": "2026-08-19T21:24:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06080",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&7",
-    "title": "2:26-cv-06079 Cifelli v. SCHOOL DISTRICT OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209",
-    "date": "2026-08-19T21:18:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06079",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&7",
-    "title": "2:26-cv-06072 Mansfield Oil Company of Gainesville, Inc. v. KRSM Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197",
-    "date": "2026-08-19T20:14:10-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-06072",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197&4",
-    "title": "2:26-cv-06072 Mansfield Oil Company of Gainesville, Inc. v. KRSM Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660197",
-    "date": "2026-08-19T20:09:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06072",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660218&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660218&3",
-    "title": "2:26-cv-06088 PRINCIPATO v. ELI LILLY AND COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660218",
-    "date": "2026-08-19T22:37:32-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06088",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660217&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660217&4",
-    "title": "2:26-cv-06087 ERVIN v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660217",
-    "date": "2026-08-19T22:35:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06087",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660216&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660216&3",
-    "title": "2:26-cv-06086 Scott-Duda v. ELI LILLY AND COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660216",
-    "date": "2026-08-19T22:29:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06086",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660215&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660215&3",
-    "title": "2:26-cv-06085 CRABILL v. ELI LILLY AND COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660215",
-    "date": "2026-08-19T22:20:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06085",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660214&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660214&4",
-    "title": "2:26-cv-06084 HICKS v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660214",
-    "date": "2026-08-19T22:19:10-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06084",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660213&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660213&3",
-    "title": "2:26-cv-06083 COPPOLA v. ELI LILLY AND COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660213",
-    "date": "2026-08-19T22:12:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06083",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098&154": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098&154",
-    "title": "5:25-cv-00612 KERN v. COWBOY LOGIC, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633098",
-    "date": "2026-08-19T22:11:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-00612",
-    "entry_type": "Memorandum",
-    "doc_num": "59"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660211&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660211&3",
-    "title": "2:26-cv-06081 CARNEY v. ELI LILLY AND COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660211",
-    "date": "2026-08-19T22:02:55-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06081",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&117": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&117",
-    "title": "2:26-cv-01260 SWITZER v. ROBLOX CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434",
-    "date": "2026-08-19T22:42:35-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-01260",
-    "entry_type": "Seal",
-    "doc_num": "45"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&234": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&234",
     "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
@@ -21898,6 +21755,39 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "5:26-cv-07215",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662280&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662280&24",
+    "title": "2:26-cv-07251 THE COMMONWEALTH OF PENNSYLVANIA, EX REL. LAWRENCE S. KRASNER, PHILADELPHIA DISTRICT ATTORNEY v. EXPRESS SCRIPTS. INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662280",
+    "date": "2026-09-18T20:10:04-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07251",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662278&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662278&6",
+    "title": "2:26-cv-07249 MCKINNEY v. MITCHELL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662278",
+    "date": "2026-09-18T19:59:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07249",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662279&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662279&4",
+    "title": "2:26-cv-07250 RETHERFORD et al v. PENN ENTERTAINMENT, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662279",
+    "date": "2026-09-18T19:56:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07250",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
