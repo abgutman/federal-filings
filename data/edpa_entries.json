@@ -1,92 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&234": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&234",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-08-20T08:40:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Memorandum",
-    "doc_num": "87"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&121": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434&121",
-    "title": "2:26-cv-01260 SWITZER v. ROBLOX CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650434",
-    "date": "2026-08-20T08:37:14-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01260",
-    "entry_type": "Memorandum",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645799&176": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645799&176",
-    "title": "2:25-cv-06260 EPAM SYSTEMS, INC. v. RAO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645799",
-    "date": "2026-08-20T08:31:13-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-06260",
-    "entry_type": "Seal",
-    "doc_num": "63"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659518&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659518&20",
-    "title": "2:26-mj-01562-1 USA v. ADMINISTRATIVE INSPECTION OF: DR. TIMOTHY MANN, DVM",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659518",
-    "date": "2026-08-20T09:40:18-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01562",
-    "entry_type": "Letter to Unseal",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660198&11": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660198&11",
-    "title": "2:26-cv-06073 RAMIREZ MARTINEZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660198",
-    "date": "2026-08-20T09:32:47-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-06073",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660212&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660212&12",
-    "title": "2:26-cv-06082 DIEGO MARTINEZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660212",
-    "date": "2026-08-20T09:17:39-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-06082",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&104": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&104",
-    "title": "2:25-cv-04490 CARTER v. EDWARDS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893",
-    "date": "2026-08-20T09:05:05-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04490",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&102": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893&102",
-    "title": "2:25-cv-04490 CARTER v. EDWARDS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641893",
-    "date": "2026-08-20T09:02:51-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-04490",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "29"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660230&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660230&7",
     "title": "5:26-cv-06020 OGILVIE v. LEHIGH VALLEY HOSPITAL et al",
@@ -130,28 +42,6 @@
     "case_num": "2:23-cv-05039",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "322"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030&1479": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030&1479",
-    "title": "2:23-cv-05039 HASSON v. COMCAST CABLE COMMUNICATIONS LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617030",
-    "date": "2026-08-20T10:13:34-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-05039",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "321"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660225&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660225&8",
-    "title": "2:26-cv-06090 TRUSTEES OF THE NATIONAL ELEVATOR INDUSTRY PENSION FUND et al v. NY/NJ ELEVATOR CORP. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660225",
-    "date": "2026-08-20T10:04:34-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06090",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653135&40": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653135&40",
@@ -295,17 +185,6 @@
     "case_num": "5:26-cv-06092",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656468&50": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656468&50",
-    "title": "2:26-mj-01170-1 USA v. FLORENTINO-CHINO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656468",
-    "date": "2026-08-20T10:02:54-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01170",
-    "entry_type": "Unseal Case",
-    "doc_num": "15"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059&148": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059&148",
@@ -21789,6 +21668,17 @@
     "category": "complaints",
     "case_num": "2:26-cv-07250",
     "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662282&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662282&5",
+    "title": "5:26-cv-07229 DEFORREST v. COGBURN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662282",
+    "date": "2026-09-18T16:08:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07229",
+    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   }
 }
