@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&184": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&184",
-    "title": "2:25-cv-05463 GUNTER v. DREXEL UNIVERSITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943",
-    "date": "2026-08-20T22:44:52-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:25-cv-05463",
-    "entry_type": "Sanctions",
-    "doc_num": "66"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977&229": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977&229",
-    "title": "2:19-cv-06116 AMERICAN HYPNOTHERAPY SOCIETY, LLC et al v. ABC CAPITAL INVESTMENTS, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?565977",
-    "date": "2026-08-20T22:09:49-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:19-cv-06116",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "53"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660310&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660310&19",
-    "title": "2:26-cv-06130 HEDDEN et al v. PENSKE TRUCK LEASING CO., L.P. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660310",
-    "date": "2026-08-20T21:24:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06130",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&348": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&348",
-    "title": "2:24-cv-00662 WILLIAMS v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937",
-    "date": "2026-08-20T23:12:49-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-00662",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "98"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&346": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937&346",
-    "title": "2:24-cv-00662 WILLIAMS v. TERRA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618937",
-    "date": "2026-08-20T23:10:17-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-00662",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "97"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608086&193": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608086&193",
     "title": "2:23-cv-01301 KELLY v. TARGET CORPORATION",
@@ -262,17 +207,6 @@
     "case_num": "2:25-cr-00441",
     "entry_type": "Judgment of Forfeiture",
     "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660331&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660331&19",
-    "title": "5:26-cv-06130 HEDDEN et al v. PENSKE TRUCK LEASING CO., L.P. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660331",
-    "date": "2026-08-20T21:24:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-06130",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249&88": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657249&88",
@@ -20844,5 +20778,16 @@
     "case_num": "5:26-cv-07229",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661143&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661143&22",
+    "title": "2:26-cv-06601 LEAP ACQUISITIONS, LLC et al v. GRIVAS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661143",
+    "date": "2026-09-19T20:17:23-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-06601",
+    "entry_type": "Seal Document",
+    "doc_num": "6"
   }
 }
