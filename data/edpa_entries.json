@@ -20415,5 +20415,137 @@
     "case_num": "2:26-cv-05346",
     "entry_type": "Temporary Restraining Order",
     "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662360&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662360&7",
+    "title": "2:26-cv-07291 HORNE v. WAL-MART ASSOCIATES, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662360",
+    "date": "2026-09-22T10:18:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07291",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662357&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662357&3",
+    "title": "5:26-cv-07290  SANTIAGO v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662357",
+    "date": "2026-09-22T10:06:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07290",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637055&192": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637055&192",
+    "title": "2:25-cv-02261 URBAN AFFAIRS COALITION v. NICHOLSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?637055",
+    "date": "2026-09-22T09:53:49-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-02261",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "66"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656421&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656421&21",
+    "title": "5:26-cr-00272-1 USA v. MILLER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656421",
+    "date": "2026-09-22T09:40:41-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "5:26-cr-00272",
+    "entry_type": "Plea Agreement",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609679&359": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609679&359",
+    "title": "2:23-cr-00225-1 USA v. ALAMOUTINIA., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?609679",
+    "date": "2026-09-22T09:35:49-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00225",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "78"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662356&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662356&8",
+    "title": "2:26-cv-07287 MCKNIGHT v. BUCK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662356",
+    "date": "2026-09-22T09:28:39-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-07287",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "2"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662356&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662356&6",
+    "title": "2:26-cv-07287 MCKNIGHT v. BUCK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662356",
+    "date": "2026-09-22T09:26:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07287",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661334&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661334&32",
+    "title": "2:26-cv-06689 KUMAR v. PHILADELPHIA FEDERAL DETENTION CENTER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661334",
+    "date": "2026-09-22T09:16:41-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06689",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661334&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661334&30",
+    "title": "2:26-cv-06689 KUMAR v. PHILADELPHIA FEDERAL DETENTION CENTER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661334",
+    "date": "2026-09-22T09:12:54-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06689",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634468&80": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634468&80",
+    "title": "2:25-cv-01238 DEREK SMITH LAW GROUP, PLLC v. CARSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634468",
+    "date": "2026-09-22T09:00:05-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-01238",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&112": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&112",
+    "title": "2:26-cv-01489 FISHER et al v. PARKER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997",
+    "date": "2026-09-22T08:40:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01489",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&110": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997&110",
+    "title": "2:26-cv-01489 FISHER et al v. PARKER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650997",
+    "date": "2026-09-22T08:35:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01489",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "31"
   }
 }
