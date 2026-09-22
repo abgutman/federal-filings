@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660398&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660398&3",
-    "title": "2:26-cv-06176 MILLIN v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660398",
-    "date": "2026-08-22T20:39:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06176",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&111": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&111",
     "title": "2:26-cr-00003-1 USA v. CARTER",
@@ -20393,5 +20382,38 @@
     "case_num": "2:26-cr-00107",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "33"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661584&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661584&18",
+    "title": "5:26-cv-06827 HAR-TRU LLC v. HORIZON SPORTS GROUP LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661584",
+    "date": "2026-09-21T23:58:42-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "5:26-cv-06827",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662355&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662355&4",
+    "title": "2:26-cv-07288 De Jesus Alarcon Garcia",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662355",
+    "date": "2026-09-21T23:44:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07288",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789&41",
+    "title": "2:26-cv-05346 R.P. et al v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789",
+    "date": "2026-09-21T22:41:12-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-05346",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "7"
   }
 }
