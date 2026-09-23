@@ -21141,5 +21141,38 @@
     "case_num": "5:22-cv-00285",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "293"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662393&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662393&5",
+    "title": "2:26-cv-07305 Roth et al v.  Insurance Company",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662393",
+    "date": "2026-09-22T19:25:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07305",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643390&357": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643390&357",
+    "title": "2:25-cr-00007-2 USA v. DIOL, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643390",
+    "date": "2026-09-22T18:43:05-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00007",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "102"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662405&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662405&7",
+    "title": "2:26-cv-07309 SHI v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662405",
+    "date": "2026-09-22T17:51:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07309",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
