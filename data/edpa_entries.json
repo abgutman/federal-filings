@@ -21053,5 +21053,16 @@
     "case_num": "2:26-cv-07354",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662500&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662500&15",
+    "title": "2:26-cv-07361 MEDTRITION, INC. v. K. HEEPS, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662500",
+    "date": "2026-09-24T00:40:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07361",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
