@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&39": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175&39",
-    "title": "2:26-cr-00384-1 USA v. BRANSTETTER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660175",
-    "date": "2026-08-26T08:32:30-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00384",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "9"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660589&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660589&5",
-    "title": "2:26-cv-06287 STATE FARM FIRE & CASUALTY COMPANY v. CABRY & CO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660589",
-    "date": "2026-08-26T08:17:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06287",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641416&126": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641416&126",
-    "title": "2:25-cr-00323-1 USA v. LEE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641416",
-    "date": "2026-08-26T07:30:15-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00323",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "39"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647171&63": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647171&63",
     "title": "5:25-cv-06947 HERMAN v. BISIGNANO",
@@ -20833,5 +20800,93 @@
     "case_num": "2:25-cr-00384",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&11",
+    "title": "2:26-cr-00461-1 USA v. PRICE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607",
+    "date": "2026-09-25T08:15:26-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00461",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&8",
+    "title": "2:26-cr-00461-1 USA v. PRICE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607",
+    "date": "2026-09-25T08:14:41-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00461",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&4",
+    "title": "2:26-cr-00461-1 USA v. PRICE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607",
+    "date": "2026-09-25T08:12:56-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00461",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643229&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643229&33",
+    "title": "5:25-cv-05098 Buffa v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643229",
+    "date": "2026-09-25T08:12:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-05098",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643229&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643229&31",
+    "title": "5:25-cv-05098 Buffa v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643229",
+    "date": "2026-09-25T08:10:21-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:25-cv-05098",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?569969&236": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?569969&236",
+    "title": "2:20-cr-00155-1 USA v. SANTIAGO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?569969",
+    "date": "2026-09-25T07:28:15-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:20-cr-00155",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "97"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651830&103": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651830&103",
+    "title": "2:26-cr-00133-1 USA v. GALLAGHER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651830",
+    "date": "2026-09-25T05:26:20-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00133",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "30"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662603&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662603&3",
+    "title": "5:26-cv-07394 Marrero v. UNITED FINANCIAL CASULATY COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662603",
+    "date": "2026-09-24T16:51:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07394",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
