@@ -747,50 +747,6 @@
     "entry_type": "Sentencing Memorandum",
     "doc_num": "44"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3002": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3002",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-27T08:49:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "936"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663&378": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663&378",
-    "title": "2:25-cv-00432 GRAHAM v. PHH MORTGAGE CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663",
-    "date": "2026-08-27T08:47:24-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00432",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "137"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663&376": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663&376",
-    "title": "2:25-cv-00432 GRAHAM v. PHH MORTGAGE CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632663",
-    "date": "2026-08-27T08:46:15-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00432",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "136"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693&50": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693&50",
-    "title": "2:26-cr-00406-1 USA v. CASTILLO PEGUERO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660693",
-    "date": "2026-08-27T08:46:14-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00406",
-    "entry_type": "Indictment",
-    "doc_num": "13"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660775&2": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660775&2",
     "title": "2:26-cv-06405 Sharon",
