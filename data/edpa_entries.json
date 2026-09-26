@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660684&20": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660684&20",
-    "title": "2:26-cv-06347 LEV et al v. LOWER MERION SCHOOL DISTRICT; et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660684",
-    "date": "2026-08-26T18:17:02-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06347",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&57": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&57",
     "title": "2:25-cv-00851 MARTINEZ v. U.S. JUNIOR NATIONALS, INC.",
@@ -31,39 +20,6 @@
     "case_num": "2:25-cv-00851",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "20"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660688&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660688&12",
-    "title": "2:26-cv-06349 MICHAEL C. GEANEY, WENDY L. GEANEY, TRUSTEES OF THE MICHAEL C. AND WENDY L. GEANEY LIVING TRUST DATED DECEMBER 14, 2001 et al v. PENNHEALTH INFORMATICS, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660688",
-    "date": "2026-08-26T20:27:53-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06349",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&116": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040&116",
-    "title": "2:26-cr-00003-1 USA v. CARTER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648040",
-    "date": "2026-08-26T20:10:06-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:26-cr-00003",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "35"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931&418": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931&418",
-    "title": "2:25-cr-00512-2 USA v. CAMPBELL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646931",
-    "date": "2026-08-26T19:47:58-04:00",
-    "group": "criminal",
-    "category": "pleas",
-    "case_num": "2:25-cr-00512",
-    "entry_type": "Plea Agreement",
-    "doc_num": "115"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660552&23": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660552&23",
@@ -20250,5 +20206,93 @@
     "case_num": "2:19-cv-01692",
     "entry_type": "Sanctions",
     "doc_num": "117"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660566&81": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660566&81",
+    "title": "2:26-cv-06271 LOGAN v. EXPERIAN INFORMATION SOLUTIONS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660566",
+    "date": "2026-09-25T21:12:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06271",
+    "entry_type": "Memorandum",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662706&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662706&3",
+    "title": "2:26-cv-07435 Hays v. Catalent Pharma Solutions LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662706",
+    "date": "2026-09-25T19:53:05-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07435",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103&1400": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103&1400",
+    "title": "2:10-cr-00420-1 USA v. WHITE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?366103",
+    "date": "2026-09-25T19:47:21-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:10-cr-00420",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "423"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662705&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662705&7",
+    "title": "2:26-cv-07434 BROWN et al v. CARTER, JR. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662705",
+    "date": "2026-09-25T18:31:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07434",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662702&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662702&5",
+    "title": "2:26-cv-07431 REIGNER v. MU et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662702",
+    "date": "2026-09-25T18:16:08-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07431",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662704&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662704&4",
+    "title": "2:26-cv-07433 IRWIN v. NOVO  NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662704",
+    "date": "2026-09-25T18:05:47-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07433",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662703&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662703&5",
+    "title": "2:26-cv-07432 GANSKY v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662703",
+    "date": "2026-09-25T17:47:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07432",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662701&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662701&5",
+    "title": "2:26-cv-07430 Advance RCM Consulting Service, LLC v. Urology Clinic, P.C.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662701",
+    "date": "2026-09-25T17:28:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07430",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
