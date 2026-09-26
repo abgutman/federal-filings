@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&57": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&57",
-    "title": "2:25-cv-00851 MARTINEZ v. U.S. JUNIOR NATIONALS, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552",
-    "date": "2026-08-26T22:18:57-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00851",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&55": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552&55",
-    "title": "2:25-cv-00851 MARTINEZ v. U.S. JUNIOR NATIONALS, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633552",
-    "date": "2026-08-26T22:12:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00851",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "20"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660552&23": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660552&23",
     "title": "2:26-cr-00401-1 USA v. LEARY",
@@ -20293,6 +20271,28 @@
     "category": "complaints",
     "case_num": "2:26-cv-07430",
     "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662708&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662708&5",
+    "title": "2:26-cv-07437 NUBER v. COLLIERS ENGINEERING & DESIGN, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662708",
+    "date": "2026-09-25T21:49:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07437",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662707&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662707&15",
+    "title": "2:26-cv-07436 BROWN et al v. CARTER, JR. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662707",
+    "date": "2026-09-25T21:35:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07436",
+    "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   }
 }
