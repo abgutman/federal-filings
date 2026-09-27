@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660775&2": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660775&2",
-    "title": "2:26-cv-06405 Sharon",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660775",
-    "date": "2026-08-27T23:16:13-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06405",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2553": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618532&2553",
     "title": "2:24-md-03094 GLUCAGON-LIKE PEPTIDE-1 RECEPTOR AGONISTS (GLP-1 RAS) PRODUCTS LIABILITY LITIGATION",
