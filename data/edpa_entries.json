@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660856&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660856&5",
-    "title": "2:26-cv-06451 NICHOLS v. OLYMPUS AMERICA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660856",
-    "date": "2026-08-28T18:32:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06451",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660855&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660855&4",
-    "title": "2:26-cv-06450 MCKENZIE v. NOVO NORDISK INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660855",
-    "date": "2026-08-28T18:19:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06450",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022&599": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022&599",
     "title": "5:24-cv-06116 ORASURE TECHNOLOGIES, INC. v. NOWDIAGNOSTICS, INC. et al",
