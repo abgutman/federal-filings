@@ -197,72 +197,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654861&29": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654861&29",
-    "title": "2:26-cv-03340 RASPALDO v. WILMINGTON TRUST COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654861",
-    "date": "2026-08-31T09:17:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03340",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654861&27": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654861&27",
-    "title": "2:26-cv-03340 RASPALDO v. WILMINGTON TRUST COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654861",
-    "date": "2026-08-31T09:14:37-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03340",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660316&156": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660316&156",
-    "title": "2:26-cr-00393-1 USA v. MCNEIL, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660316",
-    "date": "2026-08-31T08:52:08-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00393",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "29"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660318&154": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660318&154",
-    "title": "2:26-cr-00393-3 USA v. MCNEIL, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660318",
-    "date": "2026-08-31T08:48:47-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00393",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635149&108": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635149&108",
-    "title": "2:25-cr-00109-1 USA v. WARLOW",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635149",
-    "date": "2026-08-31T08:43:23-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00109",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660868&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660868&5",
-    "title": "2:26-cv-06455 9107 LITTLE FRIENDS ACADEMY INC et al v. MAXUM INDEMNITY COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660868",
-    "date": "2026-08-31T08:28:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06455",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660961&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660961&4",
     "title": "2:26-cv-06508 HUANG v. SUGARHOUSE HSP GAMING L.P. d/b/a RIVERS CASINO",
@@ -20349,5 +20283,82 @@
     "case_num": "2:24-cv-04221",
     "entry_type": "Seal",
     "doc_num": "525"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&413": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&413",
+    "title": "2:25-cv-01618 AMERICAN FOOD, PAPER AND POULTRY LLC et al v. AI GROUP LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500",
+    "date": "2026-09-30T08:38:14-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01618",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "116"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&411": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&411",
+    "title": "2:25-cv-01618 AMERICAN FOOD, PAPER AND POULTRY LLC et al v. AI GROUP LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500",
+    "date": "2026-09-30T08:36:17-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-01618",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "115"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631583&366": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631583&366",
+    "title": "5:24-cv-06837 HRKACH et al v. SAMSUNG ELECTRONICS AMERICA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631583",
+    "date": "2026-09-30T08:35:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:24-cv-06837",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "125"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631583&364": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631583&364",
+    "title": "5:24-cv-06837 HRKACH et al v. SAMSUNG ELECTRONICS AMERICA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631583",
+    "date": "2026-09-30T08:31:40-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:24-cv-06837",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "124"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658388&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658388&21",
+    "title": "2:26-cv-05117 BRUNSON v. THE DELAWARE COUNTY OFFICE OF JUDICIAL RECORDS/PROTHONOTARY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658388",
+    "date": "2026-09-30T07:47:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05117",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658388&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658388&19",
+    "title": "2:26-cv-05117 BRUNSON v. THE DELAWARE COUNTY OFFICE OF JUDICIAL RECORDS/PROTHONOTARY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658388",
+    "date": "2026-09-30T07:43:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05117",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662891&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662891&6",
+    "title": "2:26-cv-07461 SURAPARAJU v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662891",
+    "date": "2026-09-30T06:31:25-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07461",
+    "entry_type": "Complaint",
+    "doc_num": "1"
   }
 }
