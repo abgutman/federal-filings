@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13841": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13841",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-08-31T20:18:38-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum",
-    "doc_num": "4979"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3057": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3057",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-08-31T20:16:15-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum",
-    "doc_num": "956"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1431": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1431",
-    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
-    "date": "2026-08-31T20:08:23-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:22-cv-00315",
-    "entry_type": "Seal",
-    "doc_num": "522"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403&684": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403&684",
-    "title": "2:25-cr-00167-4 USA v. COLEMAN, ET. AL.,",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636403",
-    "date": "2026-08-31T19:22:53-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00167",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "197"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597859&83": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?597859&83",
     "title": "2:22-cv-02388 Giddings v. Bobbi Jo",
@@ -20360,5 +20316,93 @@
     "case_num": "5:26-cv-07537",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?525083&1953": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?525083&1953",
+    "title": "2:16-cv-06516 PROMPTU SYSTEMS CORPORATION v. COMCAST CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?525083",
+    "date": "2026-09-30T20:32:37-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-cv-06516",
+    "entry_type": "Seal",
+    "doc_num": "720"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640590&153": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640590&153",
+    "title": "2:25-cv-03694 SUNOCO PIPELINE LP v. LA HART et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640590",
+    "date": "2026-09-30T20:26:09-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:25-cv-03694",
+    "entry_type": "Sanctions",
+    "doc_num": "27"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390&82": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390&82",
+    "title": "2:25-cv-07053 SPENCER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390",
+    "date": "2026-09-30T19:58:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07053",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390&80": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390&80",
+    "title": "2:25-cv-07053 SPENCER v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647390",
+    "date": "2026-09-30T19:52:36-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07053",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&141": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&141",
+    "title": "2:20-cv-04567 MCBRIDE v. CHESTNUT HILL HOSPITAL, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078",
+    "date": "2026-09-30T19:31:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-04567",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&139": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&139",
+    "title": "2:20-cv-04567 MCBRIDE v. CHESTNUT HILL HOSPITAL, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078",
+    "date": "2026-09-30T19:31:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-04567",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&137": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&137",
+    "title": "2:20-cv-04567 MCBRIDE v. CHESTNUT HILL HOSPITAL, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078",
+    "date": "2026-09-30T19:29:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-04567",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "36"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&135": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078&135",
+    "title": "2:20-cv-04567 MCBRIDE v. CHESTNUT HILL HOSPITAL, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?576078",
+    "date": "2026-09-30T19:28:52-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:20-cv-04567",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "35"
   }
 }
