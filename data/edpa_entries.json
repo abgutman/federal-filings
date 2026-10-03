@@ -19931,5 +19931,38 @@
     "case_num": "2:26-cv-07556",
     "entry_type": "Memorandum",
     "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&53": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&53",
+    "title": "2:26-cr-00099-1 USA v. SMITH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
+    "date": "2026-10-02T23:15:25-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:26-cr-00099",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&51",
+    "title": "2:26-cr-00099-1 USA v. SMITH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
+    "date": "2026-10-02T23:02:51-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00099",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620928&244": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620928&244",
+    "title": "2:24-cr-00141-1 USA v. VALENTIN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?620928",
+    "date": "2026-10-02T20:25:50-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00141",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "64"
   }
 }
