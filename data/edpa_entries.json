@@ -1,59 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13890": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13890",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-09-04T19:16:45-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Seal",
-    "doc_num": "4996"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059&159": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059&159",
-    "title": "2:25-cv-01041 CRUM & FORSTER SPECIALITY INSURANCE COMPANY v. ARMOUR RISK MANAGEMENT INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634059",
-    "date": "2026-09-04T17:16:18-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-01041",
-    "entry_type": "Seal",
-    "doc_num": "56"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661329&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661329&3",
-    "title": "2:26-cv-06687 NATIONWIDE MUTUAL INSURANCE COMPANY v. NEXGEN EXTERIOR HOME REMODELING, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661329",
-    "date": "2026-09-04T17:14:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06687",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661335&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661335&3",
-    "title": "2:26-cv-06690 RITTENHOUSE PLAZA, INC. v. ARCH INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661335",
-    "date": "2026-09-04T20:33:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06690",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661337&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661337&3",
-    "title": "2:26-cv-06692 MARSHALL v. EDLOW",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661337",
-    "date": "2026-09-05T11:13:49-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06692",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661338&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661338&3",
     "title": "2:26-cv-06693 GOODE v. BISIGNANO",
@@ -18721,5 +18666,214 @@
     "case_num": "2:24-cv-01895",
     "entry_type": "Seal Document",
     "doc_num": "179"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&591": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&591",
+    "title": "2:24-cv-01895 AMERICAN SOCIETY FOR TESTING AND MATERIALS v. UPCODES, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833",
+    "date": "2026-10-05T11:19:50-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:24-cv-01895",
+    "entry_type": "Order on Motion to Seal Document",
+    "doc_num": "184"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658059&23": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658059&23",
+    "title": "2:26-cv-04950 IN RE: HILL-EL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658059",
+    "date": "2026-10-05T11:16:26-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-04950",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661424&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661424&32",
+    "title": "2:26-cv-06752 LOPEZ-ABELLO v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661424",
+    "date": "2026-10-05T11:12:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06752",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663159&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663159&3",
+    "title": "2:26-cv-07624 SCHULZ v. TAX NETWORK USA, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663159",
+    "date": "2026-10-05T11:05:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07624",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&22",
+    "title": "2:26-mj-01905-1 USA v. TAVARES-ACOSTA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155",
+    "date": "2026-10-05T10:48:29-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01905",
+    "entry_type": "Letter to Unseal",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&20",
+    "title": "2:26-mj-01905-1 USA v. TAVARES-ACOSTA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155",
+    "date": "2026-10-05T10:45:18-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01905",
+    "entry_type": "Case Unsealed",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&18",
+    "title": "2:26-mj-01905-1 USA v. TAVARES-ACOSTA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155",
+    "date": "2026-10-05T10:44:27-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01905",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&15",
+    "title": "2:26-mj-01905-1 USA v. TAVARES-ACOSTA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155",
+    "date": "2026-10-05T10:43:05-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01905",
+    "entry_type": "Seal",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155&5",
+    "title": "2:26-mj-01905-1 USA v. TAVARES-ACOSTA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663155",
+    "date": "2026-10-05T10:36:54-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-mj-01905",
+    "entry_type": "Complaint (Sealed)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663156&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663156&7",
+    "title": "5:26-cv-07622 Ingram v. EXETER TOWNSHIP POLICE DEPARTMENT et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663156",
+    "date": "2026-10-05T10:32:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07622",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&584": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&584",
+    "title": "2:24-cv-01895 AMERICAN SOCIETY FOR TESTING AND MATERIALS v. UPCODES, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833",
+    "date": "2026-10-05T10:25:09-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-01895",
+    "entry_type": "Memorandum",
+    "doc_num": "181"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663151&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663151&5",
+    "title": "2:26-cv-07621 ABDUL-HAKEEM v. SUMMERWOOD CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663151",
+    "date": "2026-10-05T10:23:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07621",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117&60": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117&60",
+    "title": "5:26-cv-02043 DOWD v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117",
+    "date": "2026-10-05T10:19:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-02043",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117&58": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117&58",
+    "title": "5:26-cv-02043 DOWD v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652117",
+    "date": "2026-10-05T10:16:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-02043",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "19"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662579&32": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662579&32",
+    "title": "2:26-cv-07352 Lyles v. Philadelphia Board of Pensions and Retirement et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662579",
+    "date": "2026-10-05T09:35:37-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07352",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662579&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662579&30",
+    "title": "2:26-cv-07352 Lyles v. Philadelphia Board of Pensions and Retirement et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662579",
+    "date": "2026-10-05T09:32:29-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07352",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964&129": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964&129",
+    "title": "2:26-cr-00068-1 USA v. HICKMAN",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649964",
+    "date": "2026-10-05T09:23:25-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00068",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663138&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663138&3",
+    "title": "2:26-cv-07580 JACKSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663138",
+    "date": "2026-10-05T08:03:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07580",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606989&232": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606989&232",
+    "title": "2:23-cv-00882 VURIMINDI v. MORGAN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?606989",
+    "date": "2026-10-05T07:41:48-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:23-cv-00882",
+    "entry_type": "Seal",
+    "doc_num": "64"
   }
 }
