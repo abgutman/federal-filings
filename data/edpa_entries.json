@@ -19271,5 +19271,60 @@
     "case_num": "5:26-cv-07619",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&248": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&248",
+    "title": "2:25-cv-05925 MERCADO v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962",
+    "date": "2026-10-05T21:44:46-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-05925",
+    "entry_type": "Seal",
+    "doc_num": "99"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663217&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663217&4",
+    "title": "2:26-cv-07655 Broughton v. Novo Nordisk A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663217",
+    "date": "2026-10-05T21:18:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07655",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662533&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662533&20",
+    "title": "2:26-cv-07371 SANCHEZ ROSALES v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662533",
+    "date": "2026-10-05T21:07:38-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-07371",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "4"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663215&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663215&3",
+    "title": "2:26-cv-07653 DE LAGE LANDEN FINANCIAL SERVCIES, INC. v. BAYLOR SCOTT & WHITE HEALTH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663215",
+    "date": "2026-10-05T19:20:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07653",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663214&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663214&3",
+    "title": "2:26-cv-07652 IANNUZZI v. FIDELITY BROKERAGE SERVICES LLC,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663214",
+    "date": "2026-10-05T18:46:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07652",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
