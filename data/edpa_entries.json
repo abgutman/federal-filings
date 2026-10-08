@@ -20470,5 +20470,38 @@
     "case_num": "2:26-cv-07704",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663381&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663381&4",
+    "title": "2:26-cv-07731 TSAI v. TNG CONSULTING INDIVIDUALLY AND D/B/A THE NCHERM GROUP, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663381",
+    "date": "2026-10-07T20:48:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07731",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663380&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663380&5",
+    "title": "2:26-cv-07730 STONE, PH.D. v. TNG CONSULTING, INDIVIDUALLY AND D/B/A THE NCHERM GROUP, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663380",
+    "date": "2026-10-07T20:12:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07730",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663378&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663378&6",
+    "title": "2:26-cv-07728 GOPALAN v. TNG CONSULTING, LLC ALSO KNOWN AS AND DOING BUSINESS AS THE NCHERM GROUP, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663378",
+    "date": "2026-10-07T19:58:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07728",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
