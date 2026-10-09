@@ -1,114 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661433&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661433&4",
-    "title": "2:26-cv-06757 ALSTON v. BELMONT BEHAVIORAL HEALTH SYSTEM",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661433",
-    "date": "2026-09-08T19:12:22-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06757",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560&176": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560&176",
-    "title": "2:25-cr-00308-1 USA v. GOMEZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?640560",
-    "date": "2026-09-08T19:08:13-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00308",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "57"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661432&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661432&8",
-    "title": "2:26-cv-06756 Scipio v. Tremco CPG, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661432",
-    "date": "2026-09-08T18:52:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06756",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&287": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848&287",
-    "title": "2:25-cv-04484 XOMA ROYALTY CORPORATION v. JANSSEN BIOTECH, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641848",
-    "date": "2026-09-08T18:47:44-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-04484",
-    "entry_type": "Seal",
-    "doc_num": "106"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1533": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1533",
-    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
-    "date": "2026-09-08T18:41:33-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:22-cv-00315",
-    "entry_type": "Seal",
-    "doc_num": "567"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353&45": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353&45",
-    "title": "2:26-cv-03628 DOUKOURE v. RIFE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655353",
-    "date": "2026-09-08T18:18:15-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-03628",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "15"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496&336": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496&336",
-    "title": "2:21-cv-03375 MCINTOSH v. WETZEL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?587496",
-    "date": "2026-09-08T18:16:03-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:21-cv-03375",
-    "entry_type": "Memorandum",
-    "doc_num": "102"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661435&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661435&5",
-    "title": "2:26-cv-06759 REYES v. THOMAS JEFFERSON UNIVERSITY HOSPITALS, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661435",
-    "date": "2026-09-08T20:34:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06759",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661434&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661434&8",
-    "title": "2:26-cv-06758 ERIE INSURANCE COMPANY et al v. AMAZON.COM SERVICES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661434",
-    "date": "2026-09-08T20:04:55-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06758",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661431&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661431&6",
-    "title": "2:26-cv-06755 Halland v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661431",
-    "date": "2026-09-08T19:34:39-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06755",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614637&213": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614637&213",
     "title": "2:23-cr-00445-1 USA v. CARTER",
@@ -20260,5 +20150,93 @@
     "case_num": "2:25-cv-06578",
     "entry_type": "Memorandum",
     "doc_num": "37"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&57": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&57",
+    "title": "2:26-cr-00099-1 USA v. SMITH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
+    "date": "2026-10-08T21:14:03-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00099",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648421&1542": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648421&1542",
+    "title": "2:26-cr-00023-1 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648421",
+    "date": "2026-10-08T21:13:15-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "353"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663470&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663470&7",
+    "title": "2:26-cv-07720 BURELL et al v. GRAND AMERICAN TOURS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663470",
+    "date": "2026-10-08T19:38:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07720",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312&125": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312&125",
+    "title": "5:26-cv-05612 BANK MIDWEST, a division of NBH Bank v. TIG QUESO LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659312",
+    "date": "2026-10-08T18:55:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-05612",
+    "entry_type": "Memorandum",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581528&359": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581528&359",
+    "title": "2:21-cv-00729 Slatowski  et al v. SIG SAUER, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?581528",
+    "date": "2026-10-08T18:14:41-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:21-cv-00729",
+    "entry_type": "Seal Document",
+    "doc_num": "125"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647848&164": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647848&164",
+    "title": "2:25-cv-07362 PAVLOV v. WILMINGTON SAVINGS FUND SOCIETY, FSB et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647848",
+    "date": "2026-10-08T18:08:53-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07362",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "62"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647848&162": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647848&162",
+    "title": "2:25-cv-07362 PAVLOV v. WILMINGTON SAVINGS FUND SOCIETY, FSB et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647848",
+    "date": "2026-10-08T18:06:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-07362",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "61"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663467&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663467&3",
+    "title": "5:26-cv-07762 Ata v. W.W. GRAINGER, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663467",
+    "date": "2026-10-08T17:32:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07762",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
