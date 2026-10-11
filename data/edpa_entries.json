@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779&54": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779&54",
-    "title": "2:26-cr-00062-1 USA v. SHAW-AMOAH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779",
-    "date": "2026-09-10T23:36:51-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00062",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&629": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&629",
-    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
-    "date": "2026-09-10T22:21:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05365",
-    "entry_type": "Memorandum",
-    "doc_num": "221"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&246": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&246",
-    "title": "2:25-cv-05463 GUNTER v. DREXEL UNIVERSITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943",
-    "date": "2026-09-11T03:13:16-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-05463",
-    "entry_type": "Seal",
-    "doc_num": "91"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661710&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661710&3",
     "title": "5:26-cv-06939 HORN v. FEDERAL EXPRESS CORPORATION",
