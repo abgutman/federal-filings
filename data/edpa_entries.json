@@ -1,169 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648851&96": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648851&96",
-    "title": "2:26-cv-00425 REED v. BONE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648851",
-    "date": "2026-09-11T17:17:11-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00425",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648851&94": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648851&94",
-    "title": "2:26-cv-00425 REED v. BONE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648851",
-    "date": "2026-09-11T17:09:22-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-00425",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624559&278": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624559&278",
-    "title": "2:24-cr-00263-1 USA v. MICHAEL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624559",
-    "date": "2026-09-11T17:05:02-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00263",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "73"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661808&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661808&7",
-    "title": "2:26-cv-07004 AVERY v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661808",
-    "date": "2026-09-11T16:54:45-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07004",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631275&543": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631275&543",
-    "title": "2:24-cv-06701 KELLY v. HOFFNER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631275",
-    "date": "2026-09-11T16:50:49-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-06701",
-    "entry_type": "Memorandum",
-    "doc_num": "173"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661807&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661807&7",
-    "title": "2:26-cv-07003 ABOUD v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661807",
-    "date": "2026-09-11T16:42:53-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07003",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638096&76": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638096&76",
-    "title": "2:25-mc-00027 CURRENTA GMBH & CO. OHG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638096",
-    "date": "2026-09-11T16:40:26-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-mc-00027",
-    "entry_type": "Seal",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661805&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661805&7",
-    "title": "2:26-cv-07002 PETERSEN v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661805",
-    "date": "2026-09-11T16:29:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07002",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661804&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661804&7",
-    "title": "2:26-cv-07001 MICHALAK v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661804",
-    "date": "2026-09-11T16:20:48-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07001",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661803&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661803&7",
-    "title": "2:26-cv-07000 CAMPISI v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661803",
-    "date": "2026-09-11T16:15:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07000",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661800&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661800&7",
-    "title": "2:26-cv-06999 HANLEY v. BOEHRINGER INGELHEIM PHARMACEUTICALS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661800",
-    "date": "2026-09-11T16:09:56-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06999",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661809&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661809&6",
-    "title": "2:26-cv-07005 Nguyen v. Jamison et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661809",
-    "date": "2026-09-11T17:39:07-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07005",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661712&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661712&3",
-    "title": "2:26-cv-06940 HOWARD v. FEDERAL EXPRESS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661712",
-    "date": "2026-09-11T17:34:50-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06940",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661752&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661752&3",
-    "title": "2:26-cv-06968 KIRBY v. FEDERAL EXPRESS CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661752",
-    "date": "2026-09-11T17:28:03-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-06968",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638096&78": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638096&78",
-    "title": "2:25-mc-00027 CURRENTA GMBH & CO. OHG",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638096",
-    "date": "2026-09-11T17:19:52-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-mc-00027",
-    "entry_type": "Seal Document",
-    "doc_num": "19"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661814&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661814&3",
     "title": "2:26-cv-07009 POWERS v. BISIGNANO",
@@ -17279,5 +17114,27 @@
     "case_num": "5:24-cv-06116",
     "entry_type": "Seal",
     "doc_num": "248"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&61": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&61",
+    "title": "2:26-cr-00099-1 USA v. SMITH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
+    "date": "2026-10-11T17:22:00-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00099",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648421&1546": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648421&1546",
+    "title": "2:26-cr-00023-1 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648421",
+    "date": "2026-10-11T17:21:06-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "355"
   }
 }
