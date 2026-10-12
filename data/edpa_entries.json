@@ -17136,5 +17136,71 @@
     "case_num": "2:26-cr-00023",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "355"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663556&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663556&5",
+    "title": "2:26-cv-07811 EVANGELISTI v. HOSPITAL OF THE UNIVERSITY OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663556",
+    "date": "2026-10-12T12:52:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07811",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663555&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663555&4",
+    "title": "2:26-cv-07810 Barnstead v. Matthew et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663555",
+    "date": "2026-10-12T12:51:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07810",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663554&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663554&3",
+    "title": "5:26-cv-07809 WHITE v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663554",
+    "date": "2026-10-12T12:15:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07809",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663553&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663553&5",
+    "title": "2:26-cv-07808 SCULNICK v. COMMONWEALTH OF PENNSYLVANIA, DEPARTMENT OF CORRECTIONS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663553",
+    "date": "2026-10-12T12:07:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07808",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663552&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663552&3",
+    "title": "2:26-cv-07807 TYLER v. ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663552",
+    "date": "2026-10-12T10:44:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07807",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663551&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663551&4",
+    "title": "2:26-cv-07806 PETERS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663551",
+    "date": "2026-10-12T08:30:00-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07806",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
