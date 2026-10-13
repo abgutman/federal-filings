@@ -17345,5 +17345,38 @@
     "case_num": "2:26-cv-07812",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633155&548": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633155&548",
+    "title": "2:25-cr-00042-1 USA v. IRBY, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633155",
+    "date": "2026-10-12T23:10:16-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00042",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "154"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663566&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663566&4",
+    "title": "2:26-cv-07821 STEINBRECHER v. HARTFORD LIFE AND ACCIDENT INSURANCE COMPANY, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663566",
+    "date": "2026-10-12T22:05:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07821",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663565&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663565&3",
+    "title": "2:26-cv-07820 Denuto v. FRONTLINE TECHNOLOGIES GROUP, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663565",
+    "date": "2026-10-12T21:00:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07820",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
