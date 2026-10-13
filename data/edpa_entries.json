@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661814&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661814&3",
-    "title": "2:26-cv-07009 POWERS v. BISIGNANO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661814",
-    "date": "2026-09-13T10:05:33-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07009",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661818&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661818&4",
     "title": "2:26-cv-07013 CINQUEMANI v. NOVO NORDISK INC., et al",
@@ -17378,5 +17367,192 @@
     "case_num": "2:26-cv-07820",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&267": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&267",
+    "title": "2:25-cv-05925 MERCADO v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962",
+    "date": "2026-10-13T11:12:34-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-05925",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "106"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663588&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663588&4",
+    "title": "5:26-cv-07826 NEADLE v. BLUETRITON BRANDS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663588",
+    "date": "2026-10-13T10:53:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07826",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663583&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663583&5",
+    "title": "2:26-cv-07827 MANNI v. BRAND INDUSTRIAL SERVICES, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663583",
+    "date": "2026-10-13T10:46:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07827",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663584&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663584&5",
+    "title": "5:26-cv-07770 SERRANO v. SHAPIRO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663584",
+    "date": "2026-10-13T10:42:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07770",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654727&48": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654727&48",
+    "title": "2:26-cr-00215-1 USA v. HAYES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654727",
+    "date": "2026-10-13T10:34:41-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00215",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623285&228": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623285&228",
+    "title": "5:24-cv-02561 AHNERT v. LEHIGH VALLEY HEALTH NETWORK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623285",
+    "date": "2026-10-13T10:32:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:24-cv-02561",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "84"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623285&226": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623285&226",
+    "title": "5:24-cv-02561 AHNERT v. LEHIGH VALLEY HEALTH NETWORK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623285",
+    "date": "2026-10-13T10:30:02-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:24-cv-02561",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "83"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645470&71": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645470&71",
+    "title": "5:25-cr-00464-1 USA v. MCKINNEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645470",
+    "date": "2026-10-13T10:21:01-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:25-cr-00464",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "23"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?578427&1812": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?578427&1812",
+    "title": "2:20-cr-00417-3 USA v. ELLIOTT, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?578427",
+    "date": "2026-10-13T10:18:59-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:20-cr-00417",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "445"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607605&1810": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607605&1810",
+    "title": "2:20-cr-00417-5 USA v. ELLIOTT, ET. AL.,",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?607605",
+    "date": "2026-10-13T10:17:23-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:20-cr-00417",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "444"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663581&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663581&4",
+    "title": "2:26-cv-07825 WILLIAMS v. PHILADELPHIA HOUSING AUTHORITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663581",
+    "date": "2026-10-13T10:12:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07825",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&681": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&681",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-10-13T10:02:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "242"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&679": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&679",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-10-13T10:01:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "241"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541150&190": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541150&190",
+    "title": "2:18-cv-01364 NAUTILUS INSURANCE COMPANY v. 200 CHRISTIAN STREET PARTNERS, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541150",
+    "date": "2026-10-13T09:56:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:18-cv-01364",
+    "entry_type": "Memorandum",
+    "doc_num": "63"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&63": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&63",
+    "title": "2:26-cr-00099-1 USA v. SMITH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
+    "date": "2026-10-13T09:46:24-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:26-cr-00099",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661105&46": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661105&46",
+    "title": "2:26-cv-06491 HAWKINS v. THE DISTRICT ATTORNEY OF THE COUNTY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661105",
+    "date": "2026-10-13T09:39:58-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06491",
+    "entry_type": "Memorandum",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663495&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663495&11",
+    "title": "2:26-cv-07772 U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE OF GREENE STREET FUNDING TRUST II v. NORRIS AVENUE ESTATES LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663495",
+    "date": "2026-10-13T08:47:29-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-07772",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "4"
   }
 }
