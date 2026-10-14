@@ -18324,5 +18324,16 @@
     "case_num": "2:25-cv-00585",
     "entry_type": "Seal",
     "doc_num": "115"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663660&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663660&4",
+    "title": "5:26-cv-07860 VOLK v. EQUIFAX INFORMATION SERVICES, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663660",
+    "date": "2026-10-13T17:00:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07860",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
