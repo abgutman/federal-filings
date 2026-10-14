@@ -10,17 +10,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661817&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661817&3",
-    "title": "2:26-cv-07012 Brock v. Fliff Inc",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661817",
-    "date": "2026-09-13T19:54:36-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07012",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661828&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661828&3",
     "title": "2:26-cv-07020 LUCE v. FEDERAL EXPRESS CORPORATION",
@@ -18181,5 +18170,137 @@
     "case_num": "2:26-cr-00139",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "83"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663136&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663136&33",
+    "title": "2:26-cv-07617 TENEZACA-BACACELA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663136",
+    "date": "2026-10-13T18:45:10-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07617",
+    "entry_type": "Memorandum",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&314": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&314",
+    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
+    "date": "2026-10-13T18:31:08-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-00585",
+    "entry_type": "Seal",
+    "doc_num": "108"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663645&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663645&3",
+    "title": "2:26-cv-07859 Wintamute v, ELI LILLY AND COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663645",
+    "date": "2026-10-13T17:18:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07859",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663648&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663648&4",
+    "title": "2:26-cv-07860 VOLK v. EQUIFAX INFORMATION SERVICES, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663648",
+    "date": "2026-10-13T17:00:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07860",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&277": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&277",
+    "title": "2:25-cv-05925 MERCADO v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962",
+    "date": "2026-10-13T16:58:37-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-05925",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "110"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247&560": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247&560",
+    "title": "2:25-cr-00042-2 USA v. IRBY, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247",
+    "date": "2026-10-13T16:51:24-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00042",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "160"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648118&235": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648118&235",
+    "title": "2:26-cv-00092 HUDGINS v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648118",
+    "date": "2026-10-13T16:45:49-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-00092",
+    "entry_type": "Memorandum",
+    "doc_num": "80"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663639&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663639&11",
+    "title": "2:26-cv-07858 DOS SANTOS v. GILBANE BUILDING COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663639",
+    "date": "2026-10-13T16:36:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07858",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660820&63": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660820&63",
+    "title": "2:26-cv-06429 MURILLO et al v. REYNOLDS  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660820",
+    "date": "2026-10-13T16:33:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06429",
+    "entry_type": "Memorandum",
+    "doc_num": "20"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&274": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&274",
+    "title": "2:25-cv-05925 MERCADO v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962",
+    "date": "2026-10-13T16:30:47-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05925",
+    "entry_type": "Memorandum",
+    "doc_num": "109"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663171&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663171&22",
+    "title": "2:26-cv-07628 Hernandez Ojeda v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663171",
+    "date": "2026-10-13T16:27:53-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07628",
+    "entry_type": "Memorandum",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1765": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977&1765",
+    "title": "2:22-cv-00315 VERTEX, INC. v. AVALARA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?592977",
+    "date": "2026-10-13T16:18:13-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:22-cv-00315",
+    "entry_type": "Order on Motion to Seal",
+    "doc_num": "638"
   }
 }
