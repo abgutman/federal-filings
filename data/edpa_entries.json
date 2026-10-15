@@ -18137,5 +18137,16 @@
     "case_num": "2:26-cv-07852",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650238&121": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650238&121",
+    "title": "2:26-cv-01156 GIRIFALCO v. J&A GOODS, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650238",
+    "date": "2026-10-15T00:38:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-01156",
+    "entry_type": "Seal Document",
+    "doc_num": "41"
   }
 }
