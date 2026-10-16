@@ -1,103 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661075&32": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661075&32",
-    "title": "2:26-cv-06552 CAMARA v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661075",
-    "date": "2026-09-16T17:54:07-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-06552",
-    "entry_type": "Memorandum",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&635": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&635",
-    "title": "2:18-cv-02989 TVPX ARS INC. v. LINCOLN NATIONAL LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001",
-    "date": "2026-09-16T17:52:40-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:18-cv-02989",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "240"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&615": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&615",
-    "title": "2:18-cv-01573 IWANSKI v. FIRST PENN-PACIFIC LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701",
-    "date": "2026-09-16T17:47:39-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:18-cv-01573",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "233"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646147&50": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646147&50",
-    "title": "2:25-cv-06427 MARSHALL v. First Data et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646147",
-    "date": "2026-09-16T17:25:54-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06427",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646147&48": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646147&48",
-    "title": "2:25-cv-06427 MARSHALL v. First Data et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646147",
-    "date": "2026-09-16T17:23:04-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-06427",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644425&224": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644425&224",
-    "title": "2:25-cv-05697 Alonso v. Unionville Chadds Ford School District et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644425",
-    "date": "2026-09-16T17:10:09-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05697",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "52"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635481&107": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635481&107",
-    "title": "2:25-cv-01608 Tannenbaum v. 1705-63 N. American Alpha, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635481",
-    "date": "2026-09-16T17:08:49-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-01608",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "43"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644425&222": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644425&222",
-    "title": "2:25-cv-05697 Alonso v. Unionville Chadds Ford School District et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644425",
-    "date": "2026-09-16T17:08:19-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-05697",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "51"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662108&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662108&7",
-    "title": "2:26-cv-07174 SENECA INSURANCE COMPANY INC. v. UNITE HERE LOCAL 274 et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662108",
-    "date": "2026-09-16T16:54:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07174",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&173": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&173",
     "title": "2:24-cr-00377-1 USA v. RIPPERT, ET AL",
@@ -130,39 +31,6 @@
     "case_num": "2:25-cr-00534",
     "entry_type": "Sentencing Memorandum",
     "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662118&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662118&19",
-    "title": "2:26-cv-07176 SANTOS v. DRAFTKINGS INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662118",
-    "date": "2026-09-16T18:23:49-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07176",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662119&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662119&4",
-    "title": "2:26-cv-07177 AZIZI v. EDLOW et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662119",
-    "date": "2026-09-16T18:21:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07177",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&171": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&171",
-    "title": "2:24-cr-00377-1 USA v. RIPPERT, ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862",
-    "date": "2026-09-16T18:17:45-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00377",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "51"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3119": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3119",
@@ -18060,5 +17928,192 @@
     "case_num": "5:26-cv-07951",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654587&61": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654587&61",
+    "title": "2:26-cv-03262 CLAY v. SCHINDLER ELEVATOR CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654587",
+    "date": "2026-10-16T18:25:18-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03262",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "21"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663866&17": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663866&17",
+    "title": "2:26-cv-07986 BELL v. THOMAS JEFFERSON UNIVERSITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663866",
+    "date": "2026-10-16T18:12:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07986",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663865&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663865&3",
+    "title": "2:26-cv-07985 BROWN v. EQUIFAX INFORMATION SERVICES, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663865",
+    "date": "2026-10-16T17:27:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07985",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663864&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663864&3",
+    "title": "2:26-cv-07984 BROWNING v. EQUIFAX INFORMATION SERVICES, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663864",
+    "date": "2026-10-16T17:15:14-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07984",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649422&89": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649422&89",
+    "title": "5:26-cr-00055-1 USA v. BARLOW",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649422",
+    "date": "2026-10-16T17:12:53-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "5:26-cr-00055",
+    "entry_type": "Order on Motion for Judgment of Forfeiture",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?438893&3299": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?438893&3299",
+    "title": "2:11-cv-05782 JOHNSON et al v. SMITHKLINE BEECHAM CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?438893",
+    "date": "2026-10-16T16:59:32-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:11-cv-05782",
+    "entry_type": "Seal",
+    "doc_num": "963"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663862&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663862&3",
+    "title": "2:26-cv-07982 CURTIS v. EQUIFAX INFORMATION SERVICES, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663862",
+    "date": "2026-10-16T16:57:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07982",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618278&477": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618278&477",
+    "title": "2:24-cv-00406 FAUST v. THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618278",
+    "date": "2026-10-16T16:52:43-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:24-cv-00406",
+    "entry_type": "Show Cause Hearing",
+    "doc_num": "169"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663858&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663858&3",
+    "title": "2:26-cv-07981 DAVIE v. EQUIFAX INFORMATION SERVICES, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663858",
+    "date": "2026-10-16T16:42:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07981",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663392&34": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663392&34",
+    "title": "2:26-cv-07713 WILLIAMS v. PA PAROLE BOARD et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663392",
+    "date": "2026-10-16T16:42:42-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07713",
+    "entry_type": "Memorandum",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659633&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659633&20",
+    "title": "2:26-cv-05775 WILMER v. ABINGTON TOWNSHIP",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659633",
+    "date": "2026-10-16T16:35:26-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05775",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624257&249": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624257&249",
+    "title": "2:24-cv-03035 RAMIREZ v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624257",
+    "date": "2026-10-16T16:32:46-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:24-cv-03035",
+    "entry_type": "Memorandum",
+    "doc_num": "83"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659633&18": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659633&18",
+    "title": "2:26-cv-05775 WILMER v. ABINGTON TOWNSHIP",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659633",
+    "date": "2026-10-16T16:32:44-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-05775",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800&117": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800&117",
+    "title": "2:26-cv-01866 Ferrari v. Leonard et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800",
+    "date": "2026-10-16T16:26:43-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-01866",
+    "entry_type": "Order on Motion for Preliminary Injunction",
+    "doc_num": "40"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663855&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663855&6",
+    "title": "2:26-cv-07980 THORNE et al v. SAP AMERICA, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663855",
+    "date": "2026-10-16T16:22:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07980",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800&115": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800&115",
+    "title": "2:26-cv-01866 Ferrari v. Leonard et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800",
+    "date": "2026-10-16T16:22:16-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01866",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "39"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800&113": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800&113",
+    "title": "2:26-cv-01866 Ferrari v. Leonard et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651800",
+    "date": "2026-10-16T16:18:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01866",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "38"
   }
 }
