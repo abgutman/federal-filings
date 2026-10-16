@@ -274,17 +274,6 @@
     "entry_type": "Memorandum",
     "doc_num": "80"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662062&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662062&3",
-    "title": "5:26-cv-07147 FRAGASSI v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662062",
-    "date": "2026-09-16T08:03:23-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-07147",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662104&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662104&4",
     "title": "2:26-cv-07172 COFFIN v. NOVO NORDISK A/S et al",
@@ -17796,5 +17785,16 @@
     "case_num": "2:25-cv-05925",
     "entry_type": "Seal",
     "doc_num": "115"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663796&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663796&3",
+    "title": "5:26-cv-07927  YAHYAI, M.D. v. LEHIGH VALLEY HOSPITAL",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663796",
+    "date": "2026-10-15T16:06:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07927",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
