@@ -1,114 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652364&70": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652364&70",
-    "title": "2:26-cv-02186 SANDERS v. SHOE CARNIVAL, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652364",
-    "date": "2026-09-17T13:19:29-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02186",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652364&68": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652364&68",
-    "title": "2:26-cv-02186 SANDERS v. SHOE CARNIVAL, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652364",
-    "date": "2026-09-17T13:17:58-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02186",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "27"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638125&170": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638125&170",
-    "title": "2:25-cr-00230-1 USA v. KNIGHT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638125",
-    "date": "2026-09-17T13:09:36-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00230",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "54"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662160&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662160&7",
-    "title": "2:26-cv-07193 Pendleton v. Connelly et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662160",
-    "date": "2026-09-17T12:47:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07193",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662156&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662156&5",
-    "title": "2:26-cv-07192 PARKER v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662156",
-    "date": "2026-09-17T12:38:04-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07192",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623497&67": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623497&67",
-    "title": "2:24-cv-02655 STATEN v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623497",
-    "date": "2026-09-17T12:35:06-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02655",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623497&65": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623497&65",
-    "title": "2:24-cv-02655 STATEN v. COMMISSIONER OF SOCIAL SECURITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?623497",
-    "date": "2026-09-17T12:33:10-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:24-cv-02655",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "21"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662158&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662158&5",
-    "title": "2:26-mj-01801-1 USA v. SALAMANCA CRUZ",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662158",
-    "date": "2026-09-17T12:22:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-mj-01801",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662155&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662155&8",
-    "title": "2:26-cv-07185 COOLEY  v. EASTERN MONTGOMERY COUNTY AREA LOCAL 2233, AMERICAN POSTAL WORKERS UNION, AFL-CIO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662155",
-    "date": "2026-09-17T12:20:31-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-07185",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662155&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662155&4",
-    "title": "2:26-cv-07185 COOLEY  v. EASTERN MONTGOMERY COUNTY AREA LOCAL 2233, AMERICAN POSTAL WORKERS UNION, AFL-CIO",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662155",
-    "date": "2026-09-17T12:18:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07185",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662199&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662199&4",
     "title": "2:26-cv-07209 Freeman v. Lilly USA, LLC et al",
@@ -239,149 +129,6 @@
     "category": "indictments",
     "case_num": "2:26-cr-00442",
     "entry_type": "Indictment",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?475039&946": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?475039&946",
-    "title": "2:12-cr-00314-3 USA v. JONES et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?475039",
-    "date": "2026-09-17T15:03:19-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:12-cr-00314",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "315"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662171&8": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662171&8",
-    "title": "2:26-cv-07200 WELLS v. MORRISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662171",
-    "date": "2026-09-17T15:00:46-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07200",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645464&49": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645464&49",
-    "title": "2:25-cv-06118 RICHEY v. THE PHILADELPHIA REGIONAL PORT AUTHORITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645464",
-    "date": "2026-09-17T14:52:10-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-06118",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "17"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662170&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662170&4",
-    "title": "2:26-cv-07202 D. et al v. DOWNINGTOWN AREA SCHOOL DISTRICT",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662170",
-    "date": "2026-09-17T14:32:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07202",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169&13": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169&13",
-    "title": "2:26-cr-00443-1 USA v. MILLER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169",
-    "date": "2026-09-17T14:24:28-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00443",
-    "entry_type": "Order on Motion for Warrant",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169&10",
-    "title": "2:26-cr-00443-1 USA v. MILLER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169",
-    "date": "2026-09-17T14:23:50-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00443",
-    "entry_type": "Warrant",
-    "doc_num": ""
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169&6",
-    "title": "2:26-cr-00443-1 USA v. MILLER",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662169",
-    "date": "2026-09-17T14:22:43-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00443",
-    "entry_type": "Indictment",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662167&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662167&3",
-    "title": "2:26-cv-07201 DOUGHERTY v. AIR CULINAIRE WORLDWIDE, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662167",
-    "date": "2026-09-17T14:19:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07201",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662165&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662165&3",
-    "title": "2:26-cv-07199 HOWSE v. LAKEVIEW LOAN SERVICING, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662165",
-    "date": "2026-09-17T14:00:27-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07199",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662164&12": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662164&12",
-    "title": "2:26-cv-07198 WILSON v. MOYER et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662164",
-    "date": "2026-09-17T13:57:02-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07198",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648788&190": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648788&190",
-    "title": "2:26-cv-00394 JACOBS v. JONES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648788",
-    "date": "2026-09-17T13:45:26-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-00394",
-    "entry_type": "Show Cause Hearing",
-    "doc_num": "73"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662166&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662166&4",
-    "title": "5:26-cv-07196 YOUNES v. CARE ALTERNATIVES OF PENNSYLVANIA, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662166",
-    "date": "2026-09-17T13:42:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-07196",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662161&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662161&5",
-    "title": "2:26-cv-07195 DOHERTY v. ADVANCED NEUROMODULATION SYSTEMS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662161",
-    "date": "2026-09-17T13:39:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07195",
-    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662200&5": {
@@ -17862,5 +17609,16 @@
     "case_num": "5:25-cv-00232",
     "entry_type": "Seal Document",
     "doc_num": "42"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663870&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663870&4",
+    "title": "2:26-cv-07989 INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES DISTRICT COUNCIL 21 WELFARE FUND et al v. GREAT MIDWEST INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663870",
+    "date": "2026-10-17T14:04:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07989",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
