@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&173": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862&173",
-    "title": "2:24-cr-00377-1 USA v. RIPPERT, ET AL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628862",
-    "date": "2026-09-16T20:43:28-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00377",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "52"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647027&68": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647027&68",
-    "title": "2:25-cv-06875 GERALD SEITZINGER, INDIVIDUALLY AND AS GUARDIAN OF DS v. ARAMARK SERVICES, INC. FSS EMPLOYEE MEDICAL PLAN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647027",
-    "date": "2026-09-16T20:11:37-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-06875",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "22"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594&88": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594&88",
-    "title": "2:25-cr-00534-1 USA v. FORD-WILKINS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594",
-    "date": "2026-09-16T19:44:14-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00534",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "28"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3119": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3119",
     "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
@@ -75,105 +42,6 @@
     "case_num": "2:16-md-02724",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "5017"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662125&13": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662125&13",
-    "title": "2:26-cv-07183 OTU v. FLUTTER ENTERTAINMENT, PLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662125",
-    "date": "2026-09-16T23:42:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07183",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662122&30": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662122&30",
-    "title": "5:26-cv-07180  v. Middle District of Pennsylvania",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662122",
-    "date": "2026-09-16T23:19:08-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "5:26-cv-07180",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662124&13": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662124&13",
-    "title": "2:26-cv-07182 HILL v. FLUTTER ENTERTAINMENT, PLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662124",
-    "date": "2026-09-16T23:07:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07182",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662123&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662123&19",
-    "title": "2:26-cv-07181 WOODSON v. DRAFTKINGS INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662123",
-    "date": "2026-09-16T22:16:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07181",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662122&26": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662122&26",
-    "title": "5:26-cv-07180  v. Middle District of Pennsylvania",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662122",
-    "date": "2026-09-16T22:09:01-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-07180",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662121&19": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662121&19",
-    "title": "2:26-cv-07179 RIVERA v. DRAFTKINGS INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662121",
-    "date": "2026-09-16T21:41:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07179",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&637": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&637",
-    "title": "2:18-cv-02989 TVPX ARS INC. v. LINCOLN NATIONAL LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001",
-    "date": "2026-09-16T21:31:34-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:18-cv-02989",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "241"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&617": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&617",
-    "title": "2:18-cv-01573 IWANSKI v. FIRST PENN-PACIFIC LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701",
-    "date": "2026-09-16T21:22:55-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:18-cv-01573",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "234"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594&90": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594&90",
-    "title": "2:25-cr-00534-1 USA v. FORD-WILKINS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647594",
-    "date": "2026-09-16T21:04:23-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00534",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "29"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&195": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&195",
@@ -18115,5 +17983,38 @@
     "case_num": "2:26-cv-01866",
     "entry_type": "Memorandum and/or Opinion",
     "doc_num": "38"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663868&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663868&8",
+    "title": "5:26-cv-07987 RODRIGUEZ v. INTUIT, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663868",
+    "date": "2026-10-16T20:37:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:26-cv-07987",
+    "entry_type": "Memorandum",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663868&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663868&3",
+    "title": "5:26-cv-07987 RODRIGUEZ v. INTUIT, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663868",
+    "date": "2026-10-16T20:30:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-07987",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632194&129": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632194&129",
+    "title": "5:25-cv-00232 BLOCKSON v. MORAVIAN UNIVERSITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?632194",
+    "date": "2026-10-16T20:08:00-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:25-cv-00232",
+    "entry_type": "Seal Document",
+    "doc_num": "42"
   }
 }
