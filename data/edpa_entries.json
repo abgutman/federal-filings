@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3119": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3119",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-09-17T00:20:30-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "979"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13940": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13940",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-09-17T00:20:30-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "5018"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3117": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679&3117",
-    "title": "2:18-cv-03299 HUMANA INC. v. ACTAVIS ELIZABETH, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545679",
-    "date": "2026-09-17T00:09:58-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:18-cv-03299",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "978"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13938": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&13938",
-    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
-    "date": "2026-09-17T00:09:58-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:16-md-02724",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "5017"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&195": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?651274&195",
     "title": "2:26-cv-01664 ARAMARK BENEFITS COMPLIANCE REVIEW COMMITTEE v. QCC INSURANCE COMPANY",
