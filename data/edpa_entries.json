@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&35": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209&35",
-    "title": "2:26-cv-06079 Cifelli v. THE SCHOOL DISTRICT OF PHILADELPHIA et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660209",
-    "date": "2026-09-17T22:48:22-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-06079",
-    "entry_type": "Preliminary Injunction",
-    "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&639": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001&639",
-    "title": "2:18-cv-02989 TVPX ARS INC. v. LINCOLN NATIONAL LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?545001",
-    "date": "2026-09-17T21:51:24-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:18-cv-02989",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "242"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&623": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701&623",
-    "title": "2:18-cv-01573 IWANSKI v. FIRST PENN-PACIFIC LIFE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?541701",
-    "date": "2026-09-17T21:43:22-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:18-cv-01573",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "236"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&594": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?602857&594",
     "title": "5:22-cv-04557 CT INSTALL AMERICA, LLC v. BORYSZEWSKI et al",
