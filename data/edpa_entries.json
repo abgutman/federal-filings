@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662280&24": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662280&24",
-    "title": "2:26-cv-07251 THE COMMONWEALTH OF PENNSYLVANIA, EX REL. LAWRENCE S. KRASNER, PHILADELPHIA DISTRICT ATTORNEY v. EXPRESS SCRIPTS. INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662280",
-    "date": "2026-09-18T20:10:04-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07251",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662278&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662278&6",
-    "title": "2:26-cv-07249 MCKINNEY v. MITCHELL et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662278",
-    "date": "2026-09-18T19:59:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07249",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662279&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662279&4",
-    "title": "2:26-cv-07250 RETHERFORD et al v. PENN ENTERTAINMENT, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662279",
-    "date": "2026-09-18T19:56:08-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07250",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661143&22": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661143&22",
     "title": "2:26-cv-06601 LEAP ACQUISITIONS, LLC et al v. GRIVAS et al",
