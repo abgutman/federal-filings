@@ -16685,5 +16685,27 @@
     "case_num": "2:26-cv-07989",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663873&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663873&3",
+    "title": "2:26-cv-07992 THE FEINBERG FIRM, PC v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663873",
+    "date": "2026-10-18T22:34:40-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07992",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663872&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663872&4",
+    "title": "2:26-cv-07991 BROADWAY v. ELI LILLY AND COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663872",
+    "date": "2026-10-18T20:39:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-07991",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
