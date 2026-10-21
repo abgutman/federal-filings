@@ -54,94 +54,6 @@
     "entry_type": "Order on Motion to Seal",
     "doc_num": "715"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646185&84": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646185&84",
-    "title": "5:25-cv-06435 Jarvis v. Carreras et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646185",
-    "date": "2026-09-21T10:57:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:25-cv-06435",
-    "entry_type": "Memorandum",
-    "doc_num": "28"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662300&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662300&7",
-    "title": "5:26-cv-07259 RUBEL v. JAQUILLARD et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662300",
-    "date": "2026-09-21T10:53:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "5:26-cv-07259",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661387&73": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661387&73",
-    "title": "2:26-cr-00425-1 USA v. IQBAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661387",
-    "date": "2026-09-21T10:50:52-04:00",
-    "group": "criminal",
-    "category": "warrants",
-    "case_num": "2:26-cr-00425",
-    "entry_type": "Warrant Returned Executed",
-    "doc_num": "20"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662291&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662291&5",
-    "title": "2:26-cv-07257 LOPEZ v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662291",
-    "date": "2026-09-21T09:50:51-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07257",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662218&14": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662218&14",
-    "title": "2:26-mj-01804-1 USA v. SANON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662218",
-    "date": "2026-09-21T09:17:28-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-mj-01804",
-    "entry_type": "Letter to Unseal",
-    "doc_num": "4"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007&164": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007&164",
-    "title": "2:24-cr-00413-1 USA v. DONUEL MYLES",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630007",
-    "date": "2026-09-21T09:15:30-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00413",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "48"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657455&62": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657455&62",
-    "title": "2:26-cv-04671 CENTRAK, INC. v. DORAN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?657455",
-    "date": "2026-09-21T08:52:20-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-04671",
-    "entry_type": "Order on Motion for Preliminary Injunction",
-    "doc_num": "24"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662230&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662230&10",
-    "title": "2:26-cv-07222 ARIAS JIMENEZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662230",
-    "date": "2026-09-21T07:46:50-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-07222",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "2"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662333&18": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662333&18",
     "title": "2:26-cv-07276 HEARD v. WAL-MART et al",
@@ -18412,5 +18324,159 @@
     "case_num": "2:25-cv-06609",
     "entry_type": "Seal",
     "doc_num": "69"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664048&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664048&5",
+    "title": "2:26-cv-08053 RYAN v. ALLSTATE VEHICLE & PROPERTY INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664048",
+    "date": "2026-10-21T10:38:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08053",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644788&109": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644788&109",
+    "title": "5:25-cr-00450-1 USA v. BAEZ-FELICIANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644788",
+    "date": "2026-10-21T10:07:32-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "5:25-cr-00450",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663179&30": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663179&30",
+    "title": "2:26-cv-07633 MALDONADO NANDI v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663179",
+    "date": "2026-10-21T09:46:27-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07633",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638&243": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638&243",
+    "title": "2:25-cr-00368-1 USA v. JOHNSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642638",
+    "date": "2026-10-21T09:45:48-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00368",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "77"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663179&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663179&28",
+    "title": "2:26-cv-07633 MALDONADO NANDI v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663179",
+    "date": "2026-10-21T09:43:59-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07633",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322&272": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322&272",
+    "title": "2:24-cr-00418-2 USA v. SPEARS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630322",
+    "date": "2026-10-21T09:38:26-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:24-cr-00418",
+    "entry_type": "Judgment of Forfeiture",
+    "doc_num": "73"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663451&36": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663451&36",
+    "title": "2:26-cr-00509-1 USA v. RAINEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663451",
+    "date": "2026-10-21T09:34:16-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00509",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648788&252": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648788&252",
+    "title": "2:26-cv-00394 JACOBS v. JONES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648788",
+    "date": "2026-10-21T09:25:22-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-00394",
+    "entry_type": "Unseal Document",
+    "doc_num": "100"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509&208": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509&208",
+    "title": "2:25-cv-06609 Tanner II et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509",
+    "date": "2026-10-21T09:21:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-06609",
+    "entry_type": "Memorandum",
+    "doc_num": "71"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661437&26": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661437&26",
+    "title": "2:26-cv-06710 BROWN-JORDAN v. SMITH et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661437",
+    "date": "2026-10-21T09:16:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06710",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661437&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661437&24",
+    "title": "2:26-cv-06710 BROWN-JORDAN v. SMITH et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661437",
+    "date": "2026-10-21T08:57:11-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-06710",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664040&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664040&4",
+    "title": "2:26-cv-08017 ANI v. BESSENT",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664040",
+    "date": "2026-10-21T08:55:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08017",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496&139": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496&139",
+    "title": "2:23-cr-00164-1 USA v. RAY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496",
+    "date": "2026-10-21T07:28:27-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00164",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "48"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664032&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664032&5",
+    "title": "5:26-cv-08043 K.P. v. AMERICAN HERITAGE PROPERTY MANAGEMENT, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664032",
+    "date": "2026-10-20T16:14:17-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08043",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
