@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661584&18": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661584&18",
-    "title": "5:26-cv-06827 HAR-TRU LLC v. HORIZON SPORTS GROUP LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661584",
-    "date": "2026-09-21T23:58:42-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "5:26-cv-06827",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "6"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662355&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662355&4",
-    "title": "2:26-cv-07288 De Jesus Alarcon Garcia",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662355",
-    "date": "2026-09-21T23:44:24-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07288",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789&41": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789&41",
-    "title": "2:26-cv-05346 R.P. et al v. UNITED STATES DEPARTMENT OF HOMELAND SECURITY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?658789",
-    "date": "2026-09-21T22:41:12-04:00",
-    "group": "civil",
-    "category": "tro",
-    "case_num": "2:26-cv-05346",
-    "entry_type": "Temporary Restraining Order",
-    "doc_num": "7"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662360&7": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662360&7",
     "title": "2:26-cv-07291 HORNE v. WAL-MART ASSOCIATES, INC. et al",
@@ -18630,6 +18597,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-08071",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664101&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664101&6",
+    "title": "2:26-cv-08084 Johnson-Ferby v. Novo Nordisk Inc et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664101",
+    "date": "2026-10-21T19:49:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08084",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
