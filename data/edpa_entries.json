@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662393&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662393&5",
-    "title": "2:26-cv-07305 Roth et al v.  Insurance Company",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662393",
-    "date": "2026-09-22T19:25:17-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07305",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662426&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662426&4",
     "title": "2:26-cv-07325 INTERNATIONAL UNION OF PAINTERS AND ALLIED TRADES DISTRICT COUNCIL 21 WELFARE FUND et al v. Ponns & Co, Inc.",
@@ -18763,6 +18752,83 @@
     "category": "complaints",
     "case_num": "2:26-cv-08097",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664205&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664205&3",
+    "title": "2:26-cv-08116 MEAD",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664205",
+    "date": "2026-10-22T20:47:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08116",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646503&241": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646503&241",
+    "title": "5:25-cv-06602 Benson et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646503",
+    "date": "2026-10-22T20:30:12-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:25-cv-06602",
+    "entry_type": "Seal",
+    "doc_num": "90"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496&143": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496&143",
+    "title": "2:23-cr-00164-1 USA v. RAY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?608496",
+    "date": "2026-10-22T20:22:12-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00164",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "50"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509&213": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509&213",
+    "title": "2:25-cv-06609 Tanner II et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509",
+    "date": "2026-10-22T20:08:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06609",
+    "entry_type": "Seal",
+    "doc_num": "73"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664204&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664204&4",
+    "title": "2:26-cv-08115 LOWRY v. KURZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664204",
+    "date": "2026-10-22T19:45:57-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08115",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507&273": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507&273",
+    "title": "2:25-cv-06607 Kesack et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507",
+    "date": "2026-10-22T19:36:28-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06607",
+    "entry_type": "Seal",
+    "doc_num": "90"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664203&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664203&7",
+    "title": "2:26-cv-08114 MORRISON v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664203",
+    "date": "2026-10-22T19:35:48-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08114",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
