@@ -18808,5 +18808,60 @@
     "case_num": "5:26-cv-08139",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664279&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664279&4",
+    "title": "2:26-cv-08147 COLLINS v. CITY OF PHILADELPHIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664279",
+    "date": "2026-10-23T20:19:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08147",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664278&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664278&5",
+    "title": "2:26-cv-08146 GIBBONS v. STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664278",
+    "date": "2026-10-23T19:56:20-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08146",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526742&2833": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526742&2833",
+    "title": "2:17-cr-00072-10 USA v. JARMON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526742",
+    "date": "2026-10-23T18:33:01-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:17-cr-00072",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "779"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526772&3819": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526772&3819",
+    "title": "2:17-cr-00071-13 USA v. STINSON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?526772",
+    "date": "2026-10-23T18:27:25-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:17-cr-00071",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "882"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656836&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656836&19",
+    "title": "2:26-cv-04327 TULL v. THE LINCOLN NATIONAL LIFE INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656836",
+    "date": "2026-10-23T17:25:23-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-04327",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "6"
   }
 }
