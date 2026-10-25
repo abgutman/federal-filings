@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642996&66": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642996&66",
-    "title": "2:25-cv-04982 HATCH v. MOBILION SYSTEMS, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?642996",
-    "date": "2026-09-24T22:41:18-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-04982",
-    "entry_type": "Order on Motion to Seal Document",
-    "doc_num": "23"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661815&46": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661815&46",
-    "title": "2:26-cv-07010 TABORA-BRIZUELA v. MULLIN et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661815",
-    "date": "2026-09-24T21:51:00-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-07010",
-    "entry_type": "Memorandum",
-    "doc_num": "12"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662601&18": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662601&18",
-    "title": "2:26-cv-07312 GRAHAM v. SZELEWSKI et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662601",
-    "date": "2026-09-24T21:20:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07312",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643051&118": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643051&118",
-    "title": "2:25-cr-00384-1 USA v. PACK",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643051",
-    "date": "2026-09-24T21:17:17-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00384",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "32"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&11": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662607&11",
     "title": "2:26-cr-00461-1 USA v. PRICE",
