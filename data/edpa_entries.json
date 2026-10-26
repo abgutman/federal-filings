@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660566&81": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660566&81",
-    "title": "2:26-cv-06271 LOGAN v. EXPERIAN INFORMATION SOLUTIONS, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?660566",
-    "date": "2026-09-25T21:12:47-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-06271",
-    "entry_type": "Memorandum",
-    "doc_num": "26"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662708&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662708&5",
-    "title": "2:26-cv-07437 NUBER v. COLLIERS ENGINEERING & DESIGN, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662708",
-    "date": "2026-09-25T21:49:31-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07437",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662707&15": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662707&15",
-    "title": "2:26-cv-07436 BROWN et al v. CARTER, JR. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662707",
-    "date": "2026-09-25T21:35:58-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07436",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662712&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662712&4",
     "title": "2:26-cv-07441 Figgins v. VISIONQUEST NATIONAL, LTD.",
@@ -17356,5 +17323,16 @@
     "case_num": "2:26-cv-08149",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617450&3353": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617450&3353",
+    "title": "2:24-cr-00003-4 USA v. MCCRACKEN, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617450",
+    "date": "2026-10-25T21:45:20-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:24-cr-00003",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "676"
   }
 }
