@@ -18049,5 +18049,60 @@
     "case_num": "5:26-cv-08157",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664344&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664344&5",
+    "title": "2:26-cv-08184 PATTERSON v. SFM LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664344",
+    "date": "2026-10-26T20:11:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08184",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664343&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664343&11",
+    "title": "2:26-cv-08183 Arroyo v. Allstate North American Insurance Company",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664343",
+    "date": "2026-10-26T19:36:32-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08183",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648426&1633": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648426&1633",
+    "title": "2:26-cr-00023-6 USA v. SMITH, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648426",
+    "date": "2026-10-26T19:30:45-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:26-cr-00023",
+    "entry_type": "Plea Agreement",
+    "doc_num": "377"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663615&28": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663615&28",
+    "title": "2:26-cv-07845 ESPINOZA HUERTA v. MULLIN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663615",
+    "date": "2026-10-26T18:54:15-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07845",
+    "entry_type": "Memorandum",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664342&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664342&3",
+    "title": "5:26-cv-08182 Litvak v. AMERICAN HONDA MOTOR CO. INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664342",
+    "date": "2026-10-26T18:29:44-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08182",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
