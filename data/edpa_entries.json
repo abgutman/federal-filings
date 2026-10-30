@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662889&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662889&4",
-    "title": "2:26-cv-07523 Hann et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662889",
-    "date": "2026-09-29T19:27:20-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07523",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662890&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662890&4",
-    "title": "2:26-cv-07524 Ray v. Novo Nordisk A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662890",
-    "date": "2026-09-29T21:25:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07524",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1579": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219&1579",
-    "title": "2:24-cv-04221 DUNDON v. ACE PROPERTY AND CASUALTY INSURANCE COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?626219",
-    "date": "2026-09-29T21:14:36-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-04221",
-    "entry_type": "Seal",
-    "doc_num": "525"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&413": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?635500&413",
     "title": "2:25-cv-01618 AMERICAN FOOD, PAPER AND POULTRY LLC et al v. AI GROUP LLC et al",
@@ -18433,6 +18400,138 @@
     "category": "complaints",
     "case_num": "2:26-cv-08272",
     "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&14315": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781&14315",
+    "title": "2:16-md-02724 IN RE: GENERIC PHARMACEUTICALS PRICING ANTITRUST LITIGATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?520781",
+    "date": "2026-10-29T19:56:19-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:16-md-02724",
+    "entry_type": "Seal",
+    "doc_num": "5119"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614118&2715": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614118&2715",
+    "title": "5:23-cv-03636 Providence St. Joseph Health et al v. Actavis Holdco US, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614118",
+    "date": "2026-10-29T19:53:16-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:23-cv-03636",
+    "entry_type": "Seal",
+    "doc_num": "468"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641973&270": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641973&270",
+    "title": "2:25-cv-04522 BOOZER et al v. BELL TEXTRON, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641973",
+    "date": "2026-10-29T19:12:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04522",
+    "entry_type": "Memorandum",
+    "doc_num": "90"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641973&267": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641973&267",
+    "title": "2:25-cv-04522 BOOZER et al v. BELL TEXTRON, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?641973",
+    "date": "2026-10-29T18:45:40-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-04522",
+    "entry_type": "Memorandum",
+    "doc_num": "89"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664589&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664589&4",
+    "title": "2:26-cv-08308 SAP AMERICA, INC. v. PULSELINK SYSTEMS, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664589",
+    "date": "2026-10-29T18:35:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08308",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664588&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664588&5",
+    "title": "2:26-cv-08232 JONES v. BRISTOL TOWNSHIP POLICE DEPARTMENT  et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664588",
+    "date": "2026-10-29T18:33:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08232",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664587&15": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664587&15",
+    "title": "2:26-cv-08307 Adaire",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664587",
+    "date": "2026-10-29T18:04:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08307",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664586&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664586&4",
+    "title": "2:26-cv-08306 STEPHEN v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664586",
+    "date": "2026-10-29T17:45:31-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08306",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664578&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664578&12",
+    "title": "2:26-cv-08302 QWIK RISE LLC v. MATISSE PARTNERS LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664578",
+    "date": "2026-10-29T17:32:19-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08302",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664580&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664580&5",
+    "title": "2:26-cv-08304 ALLEN v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664580",
+    "date": "2026-10-29T17:26:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08304",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664583&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664583&3",
+    "title": "2:26-cv-08305 SWINNEY v. ELI LILLY AND COMPANY INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664583",
+    "date": "2026-10-29T17:23:33-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08305",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664573&11": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664573&11",
+    "title": "2:26-cv-08301 MAINES et al v. BETHEL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664573",
+    "date": "2026-10-29T17:11:42-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08301",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
