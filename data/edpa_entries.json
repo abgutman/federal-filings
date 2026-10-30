@@ -18533,5 +18533,49 @@
     "case_num": "2:26-cv-08301",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&188": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414&188",
+    "title": "2:26-cv-02202 WORKERS UNITED v. STARBUCKS CORPORATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652414",
+    "date": "2026-10-29T23:12:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-02202",
+    "entry_type": "Seal",
+    "doc_num": "75"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664592&65": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664592&65",
+    "title": "5:26-cv-08310 GROHOL v. NORTH PENN LEGAL SERVICES, INC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664592",
+    "date": "2026-10-29T22:40:24-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08310",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664591&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664591&3",
+    "title": "2:26-cv-08309 RODRIGUEZ v. COMMISSIONER OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664591",
+    "date": "2026-10-29T22:30:49-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08309",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652843&134": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652843&134",
+    "title": "2:26-cv-02403 FLOYD et al v. CITY COUNCIL FOR THE CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652843",
+    "date": "2026-10-29T21:55:26-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-02403",
+    "entry_type": "Temporary Restraining Order",
+    "doc_num": "42"
   }
 }
