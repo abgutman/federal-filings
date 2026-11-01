@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779&58": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779&58",
-    "title": "2:26-cr-00062-1 USA v. SHAW-AMOAH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?649779",
-    "date": "2026-10-01T18:38:42-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00062",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "19"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636757&174": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636757&174",
-    "title": "2:25-cv-02129 NSX OPERATING CO., LLC v. SPRING COATING SYSTEMS-AMERICAS CORP.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636757",
-    "date": "2026-10-01T18:32:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-02129",
-    "entry_type": "Memorandum",
-    "doc_num": "70"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663087&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663087&12",
     "title": "2:26-cv-07569 GRAHAM v. SZELEWSKI et al",
