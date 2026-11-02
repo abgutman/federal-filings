@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&53": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&53",
-    "title": "2:26-cr-00099-1 USA v. SMITH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
-    "date": "2026-10-02T23:15:25-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:26-cr-00099",
-    "entry_type": "Forfeiture of Property",
-    "doc_num": "19"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&51": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&51",
-    "title": "2:26-cr-00099-1 USA v. SMITH",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882",
-    "date": "2026-10-02T23:02:51-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00099",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "18"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&579": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&579",
-    "title": "2:24-cv-01895 AMERICAN SOCIETY FOR TESTING AND MATERIALS v. UPCODES, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833",
-    "date": "2026-10-03T02:29:17-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-01895",
-    "entry_type": "Seal Document",
-    "doc_num": "179"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&591": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?621833&591",
     "title": "2:24-cv-01895 AMERICAN SOCIETY FOR TESTING AND MATERIALS v. UPCODES, INC. et al",
