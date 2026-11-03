@@ -17576,5 +17576,49 @@
     "case_num": "2:26-cv-01327",
     "entry_type": "Memorandum",
     "doc_num": "16"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664745&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664745&3",
+    "title": "2:26-cv-08388 TYRRELL v. ALLSTATE FIRE AND CASUALTY INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664745",
+    "date": "2026-11-03T12:34:29-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08388",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664739&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664739&4",
+    "title": "2:26-cv-08384 AZOR v. HIBISCUS CAFE LIMITED LIABILITY COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664739",
+    "date": "2026-11-03T11:08:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08384",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664736&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664736&6",
+    "title": "2:26-cv-08380 SERGIENKO v. U.S. CITIZENSHIP AND IMMIGRATION SERVICES et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664736",
+    "date": "2026-11-03T10:44:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08380",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636757&208": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636757&208",
+    "title": "2:25-cv-02129 NSX OPERATING CO., LLC v. SPRING COATING SYSTEMS-AMERICAS CORP.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636757",
+    "date": "2026-11-03T09:56:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-02129",
+    "entry_type": "Memorandum",
+    "doc_num": "82"
   }
 }
