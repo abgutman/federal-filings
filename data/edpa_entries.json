@@ -17554,5 +17554,27 @@
     "case_num": "2:26-cv-08363",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664734&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664734&4",
+    "title": "2:26-cv-08378 KOPTA et al v. EDLOW",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664734",
+    "date": "2026-11-03T01:10:03-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08378",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650602&49": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650602&49",
+    "title": "2:26-cv-01327 Rector et al v. Vance et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650602",
+    "date": "2026-11-02T23:07:38-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01327",
+    "entry_type": "Memorandum",
+    "doc_num": "16"
   }
 }
