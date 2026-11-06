@@ -32,50 +32,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663310&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663310&6",
-    "title": "2:26-cv-07696 SINGLETON v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663310",
-    "date": "2026-10-07T02:08:14-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07696",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663309&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663309&4",
-    "title": "2:26-cv-07695 MORRISON v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663309",
-    "date": "2026-10-07T01:46:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07695",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663308&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663308&4",
-    "title": "2:26-cv-07694 LONGORIA v. NOVO NORDISK INC., et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663308",
-    "date": "2026-10-07T01:30:52-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07694",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663307&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663307&4",
-    "title": "2:26-cv-07693 CARTER v. EQUINOX HOLDINGS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663307",
-    "date": "2026-10-06T22:14:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07693",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646163&211": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646163&211",
     "title": "2:25-cr-00490-1 USA v. WILLIAMS, ET AL.",
@@ -18698,5 +18654,71 @@
     "case_num": "2:26-cr-00566",
     "entry_type": "Warrant Returned Executed",
     "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664981&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664981&5",
+    "title": "2:26-cv-08507 SHYLOV et al v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664981",
+    "date": "2026-11-06T01:33:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08507",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664980&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664980&6",
+    "title": "2:26-cv-08506 HARR v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664980",
+    "date": "2026-11-05T23:19:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08506",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978&19": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978&19",
+    "title": "2:26-cr-00573-1 USA v. BAXTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978",
+    "date": "2026-11-05T21:29:34-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00573",
+    "entry_type": "Order on Motion for Warrant",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978&16": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978&16",
+    "title": "2:26-cr-00573-1 USA v. BAXTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978",
+    "date": "2026-11-05T21:26:40-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00573",
+    "entry_type": "Warrant",
+    "doc_num": ""
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978&4",
+    "title": "2:26-cr-00573-1 USA v. BAXTER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664978",
+    "date": "2026-11-05T21:24:53-04:00",
+    "group": "criminal",
+    "category": "indictments",
+    "case_num": "2:26-cr-00573",
+    "entry_type": "Indictment",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664974&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664974&6",
+    "title": "2:26-cv-08504 GIVENS v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664974",
+    "date": "2026-11-05T21:00:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08504",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
