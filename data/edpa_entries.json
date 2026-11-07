@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638248&540": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638248&540",
-    "title": "2:25-cr-00042-3 USA v. IRBY, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638248",
-    "date": "2026-10-07T17:04:12-04:00",
-    "group": "criminal",
-    "category": "forfeiture",
-    "case_num": "2:25-cr-00042",
-    "entry_type": "Judgment of Forfeiture",
-    "doc_num": "150"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&1232": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&1232",
-    "title": "2:16-cv-05759 MILO, LLC v. PROCACCINO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788",
-    "date": "2026-10-07T16:59:48-04:00",
-    "group": "civil",
-    "category": "sanctions",
-    "case_num": "2:16-cv-05759",
-    "entry_type": "Order on Motion for Sanctions",
-    "doc_num": "284"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663381&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663381&4",
     "title": "2:26-cv-07731 TSAI v. TNG CONSULTING INDIVIDUALLY AND D/B/A THE NCHERM GROUP, LLC et al",
@@ -29,28 +7,6 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-07731",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663380&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663380&5",
-    "title": "2:26-cv-07730 STONE, PH.D. v. TNG CONSULTING, INDIVIDUALLY AND D/B/A THE NCHERM GROUP, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663380",
-    "date": "2026-10-07T20:12:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07730",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663378&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663378&6",
-    "title": "2:26-cv-07728 GOPALAN v. TNG CONSULTING, LLC ALSO KNOWN AS AND DOING BUSINESS AS THE NCHERM GROUP, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663378",
-    "date": "2026-10-07T19:58:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07728",
     "entry_type": "Notice of Removal (Attorney)",
     "doc_num": "1"
   },
@@ -19072,5 +19028,280 @@
     "case_num": "5:26-cv-08310",
     "entry_type": "Preliminary Injunction",
     "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?492661&197": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?492661&197",
+    "title": "2:14-cv-03712 JACKSON v. GILMORE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?492661",
+    "date": "2026-11-06T18:37:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:14-cv-03712",
+    "entry_type": "Memorandum",
+    "doc_num": "57"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647227&76": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647227&76",
+    "title": "2:25-cr-00523-1 USA v. ADAMS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647227",
+    "date": "2026-11-06T18:21:22-04:00",
+    "group": "criminal",
+    "category": "forfeiture",
+    "case_num": "2:25-cr-00523",
+    "entry_type": "Forfeiture of Property",
+    "doc_num": "29"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647227&74": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647227&74",
+    "title": "2:25-cr-00523-1 USA v. ADAMS",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?647227",
+    "date": "2026-11-06T18:20:36-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:25-cr-00523",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "28"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664477&21": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664477&21",
+    "title": "2:26-cv-08247 SALAS-FIGUEROA v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664477",
+    "date": "2026-11-06T18:16:39-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08247",
+    "entry_type": "Memorandum",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665069&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665069&3",
+    "title": "2:26-cv-08536 SHAWN v. FRONTLINE TECHNOLOGIES GROUP LLC D/B/A FRONTLINE EDUCATION",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665069",
+    "date": "2026-11-06T18:13:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08536",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665068&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665068&3",
+    "title": "2:26-cv-08535 PEPPARD v. THE VANGUARD GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665068",
+    "date": "2026-11-06T18:08:54-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08535",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656494&83": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656494&83",
+    "title": "2:26-cr-00275-1 USA v. PENA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656494",
+    "date": "2026-11-06T18:08:26-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:26-cr-00275",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "24"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665066&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665066&5",
+    "title": "2:26-cv-08534 MARTIN v. GERBER PRODUCTS COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665066",
+    "date": "2026-11-06T18:05:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08534",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665056&17": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665056&17",
+    "title": "2:26-cv-08528 ALTMAN v. CAPITAL ONE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665056",
+    "date": "2026-11-06T17:57:30-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08528",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665059&9": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665059&9",
+    "title": "2:26-cv-08531 Jun et al v. KRPT USA Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665059",
+    "date": "2026-11-06T17:53:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08531",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665061&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665061&4",
+    "title": "2:26-cv-08533 Johnson v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665061",
+    "date": "2026-11-06T17:51:56-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08533",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655966&50": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655966&50",
+    "title": "5:26-cr-00261-1 USA v. TROCHE",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655966",
+    "date": "2026-11-06T17:51:22-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:26-cr-00261",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "17"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659041&56": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659041&56",
+    "title": "2:26-cv-05481 Thomas v. USA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659041",
+    "date": "2026-11-06T17:46:21-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-05481",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "15"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665060&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665060&3",
+    "title": "2:26-cv-08532 Simmons v. AMAZON.COM SERVICES, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665060",
+    "date": "2026-11-06T17:44:38-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08532",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664971&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664971&4",
+    "title": "2:26-cv-08503 DAVIS v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664971",
+    "date": "2026-11-06T17:33:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08503",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665057&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665057&6",
+    "title": "2:26-cv-08529 FRY v. TRANS UNION, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665057",
+    "date": "2026-11-06T17:22:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08529",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665047&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665047&5",
+    "title": "2:26-cv-08526 COVINGTON v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665047",
+    "date": "2026-11-06T17:15:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08526",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655356&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655356&31",
+    "title": "2:26-cv-03631 FOLK, JR. v. CIGNA HEALTHCARE, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655356",
+    "date": "2026-11-06T16:55:47-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-03631",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665046&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665046&6",
+    "title": "2:26-cv-08525 Keller v. STATE FARM FIRE AND CASUALTY COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665046",
+    "date": "2026-11-06T16:52:27-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08525",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665044&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665044&6",
+    "title": "2:26-cv-08523 LEAHY v. MARRAKESH EAST COAST&#039;S PREMIER MOROCCAN RESTAURANT, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665044",
+    "date": "2026-11-06T16:41:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08523",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662917&27": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662917&27",
+    "title": "2:26-cv-07533 NAVARRO v. GREER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662917",
+    "date": "2026-11-06T16:16:20-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07533",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662917&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662917&25",
+    "title": "2:26-cv-07533 NAVARRO v. GREER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662917",
+    "date": "2026-11-06T16:12:43-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07533",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&1252": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788&1252",
+    "title": "2:16-cv-05759 MILO, LLC v. PROCACCINO et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?523788",
+    "date": "2026-11-06T16:06:53-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:16-cv-05759",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "292"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665043&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665043&6",
+    "title": "2:26-cv-08522 Taylor et al v. THE HARTFORD",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665043",
+    "date": "2026-11-06T15:56:37-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08522",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665040&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665040&5",
+    "title": "2:26-cv-08521 HAMOUZ et al v. COURTYARD BY MARRIOTT PHILADELPHIA DEVON/VILLANOVA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665040",
+    "date": "2026-11-06T15:48:47-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08521",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
