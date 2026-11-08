@@ -340,17 +340,6 @@
     "entry_type": "Complaint (IFP or Government Plaintiff)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177&137": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177&137",
-    "title": "2:26-cv-03061 Vurimindi v. MHM Correctional Services, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654177",
-    "date": "2026-10-09T06:05:41-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03061",
-    "entry_type": "Memorandum",
-    "doc_num": "43"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663526&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663526&4",
     "title": "2:26-cv-07791 FOSTER v. NOVO NORDISK INC., et al",
