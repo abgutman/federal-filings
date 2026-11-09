@@ -1,48 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663528&13": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663528&13",
-    "title": "2:26-cv-07793 Jallah v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663528",
-    "date": "2026-10-09T22:15:20-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-07793",
-    "entry_type": "Order to Show Cause",
-    "doc_num": "3"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627733&255": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627733&255",
-    "title": "5:24-cv-05018 ROSENBERGER v. SUPPORTS COORDINATION GROUP LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?627733",
-    "date": "2026-10-09T22:06:36-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:24-cv-05018",
-    "entry_type": "Memorandum",
-    "doc_num": "95"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022&635": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022&635",
-    "title": "5:24-cv-06116 ORASURE TECHNOLOGIES, INC. v. NOWDIAGNOSTICS, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?630022",
-    "date": "2026-10-09T21:38:04-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "5:24-cv-06116",
-    "entry_type": "Seal",
-    "doc_num": "249"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247&546": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247&546",
-    "title": "2:25-cr-00042-2 USA v. IRBY, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?638247",
-    "date": "2026-10-09T20:54:05-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:25-cr-00042",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "153"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&61": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650882&61",
     "title": "2:26-cr-00099-1 USA v. SMITH",
@@ -17664,5 +17620,16 @@
     "case_num": "5:25-cv-06602",
     "entry_type": "Seal",
     "doc_num": "100"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665074&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665074&5",
+    "title": "2:26-cv-08539 PARRAS v. MILLER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665074",
+    "date": "2026-11-08T20:54:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08539",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
