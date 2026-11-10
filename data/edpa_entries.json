@@ -18357,5 +18357,38 @@
     "case_num": "2:26-cv-08554",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636892&167": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636892&167",
+    "title": "5:25-cv-02170 RLI INSURANCE COMPANY v. SLASKI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?636892",
+    "date": "2026-11-10T01:20:05-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:25-cv-02170",
+    "entry_type": "Seal",
+    "doc_num": "55"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563977&403": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563977&403",
+    "title": "2:19-mc-00175 EX PARTE APPLICATION OF IRAQ TELECOM LIMITED FOR AN ORDER TO OBTAIN DISCOVERY FOR USE IN FOREIGN PROCEEDINGS PURSUANT TO 28 U.S.C. 1782 FOR AN ORDER TO TAKE DISCOVERY FROM DECHERT LLP FOR USE IN FOREI et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?563977",
+    "date": "2026-11-09T22:54:57-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:19-mc-00175",
+    "entry_type": "Memorandum",
+    "doc_num": "145"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665166&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665166&3",
+    "title": "2:26-cv-08577 THIEROFF v. SUN LIFE ASSURANCE COMPANY OF CANADA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665166",
+    "date": "2026-11-09T22:13:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08577",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
