@@ -54,17 +54,6 @@
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663551&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663551&4",
-    "title": "2:26-cv-07806 PETERS v. NOVO NORDISK A/S et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663551",
-    "date": "2026-10-12T08:30:00-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07806",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652558&64": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652558&64",
     "title": "2:26-cv-02266 VICTORIA v. PROGRESSIVE ADVANTAGE AGENCY, INC.",
@@ -19147,6 +19136,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-08600",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665239&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665239&3",
+    "title": "2:26-cv-08605 FIGUEROA v. THE VANGUARD GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665239",
+    "date": "2026-11-11T01:52:40-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08605",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
