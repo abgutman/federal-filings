@@ -19050,5 +19050,104 @@
     "case_num": "2:26-cv-00560",
     "entry_type": "Memorandum and/or Opinion Order",
     "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665238&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665238&5",
+    "title": "5:26-cv-08604 SUROVCIK v. LEHIGH UNIVERSITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665238",
+    "date": "2026-11-10T23:11:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08604",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654506&51": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654506&51",
+    "title": "5:26-cr-00205-1 USA v. WENGER",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654506",
+    "date": "2026-11-10T21:42:23-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "5:26-cr-00205",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "18"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&382": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&382",
+    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
+    "date": "2026-11-10T21:42:15-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-00585",
+    "entry_type": "Seal",
+    "doc_num": "134"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507&292": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507&292",
+    "title": "2:25-cv-06607 Kesack et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507",
+    "date": "2026-11-10T18:50:14-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06607",
+    "entry_type": "Seal",
+    "doc_num": "98"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665237&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665237&3",
+    "title": "2:26-cv-08603 LAWRENCE v. THE VANGUARD GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665237",
+    "date": "2026-11-10T18:42:35-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08603",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645741&88": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645741&88",
+    "title": "2:25-cv-06248 BUTLER v. TACTICAL RESPONSE SECURITY CONSULTING et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?645741",
+    "date": "2026-11-10T18:39:25-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:25-cv-06248",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "31"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665236&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665236&4",
+    "title": "2:26-cv-08602 SIMON v. NOVO NORDISK INC., et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665236",
+    "date": "2026-11-10T18:35:44-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08602",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665235&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665235&3",
+    "title": "2:26-cv-08601 DUFFY v. THE VANGUARD GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665235",
+    "date": "2026-11-10T18:33:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08601",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665234&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665234&3",
+    "title": "2:26-cv-08600 O&#039;Brien v. THE VANGUARD GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665234",
+    "date": "2026-11-10T18:26:10-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08600",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
   }
 }
