@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&275": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943&275",
-    "title": "2:25-cv-05463 GUNTER v. DREXEL UNIVERSITY",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643943",
-    "date": "2026-10-13T23:38:40-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-05463",
-    "entry_type": "Seal Document",
-    "doc_num": "102"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&283": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962&283",
-    "title": "2:25-cv-05925 MERCADO v. ROBLOX CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?644962",
-    "date": "2026-10-13T21:35:40-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-05925",
-    "entry_type": "Seal",
-    "doc_num": "112"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&328": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&328",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-13T21:10:46-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Seal",
-    "doc_num": "115"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663668&12": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663668&12",
     "title": "2:26-cv-07866 SANON v. JAMISON et al",
@@ -19017,6 +18984,50 @@
     "category": "complaints",
     "case_num": "5:26-cv-08650",
     "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664981&16": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664981&16",
+    "title": "2:26-cv-08507 SHYLOV et al v. EDLOW et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664981",
+    "date": "2026-11-13T02:07:34-04:00",
+    "group": "civil",
+    "category": "tro",
+    "case_num": "2:26-cv-08507",
+    "entry_type": "Preliminary Injunction",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665345&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665345&3",
+    "title": "2:26-cv-08689 SPRINGSIDE CHESTNUT HILL ACADEMY v. UNITED STATES",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665345",
+    "date": "2026-11-12T22:59:23-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08689",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655976&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655976&31",
+    "title": "2:26-cv-03924 MCQUEEN v. BOOHER et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655976",
+    "date": "2026-11-12T21:24:18-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03924",
+    "entry_type": "Memorandum",
+    "doc_num": "9"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665344&7": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665344&7",
+    "title": "2:26-cv-08688 HERSKOVITZ et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665344",
+    "date": "2026-11-12T19:53:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08688",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
