@@ -175,237 +175,6 @@
     "entry_type": "Order to Show Cause",
     "doc_num": "5"
   },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663679&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663679&3",
-    "title": "2:26-cv-07873 RICE v. WALGREEN CO et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663679",
-    "date": "2026-10-14T11:00:33-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07873",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663653&7": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663653&7",
-    "title": "2:26-cv-07862 Burton v. Smart et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663653",
-    "date": "2026-10-14T10:59:44-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07862",
-    "entry_type": "Complaint (IFP or Government Plaintiff)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663678&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663678&3",
-    "title": "2:26-cv-07871 FRIENDS OF THE DELAWARE RIVER LLC v. INTIGRAL, INC.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663678",
-    "date": "2026-10-14T10:56:15-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07871",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663677&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663677&4",
-    "title": "2:26-cv-07869 BUCCIAGLIA v. RYDER SYSTEM, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663677",
-    "date": "2026-10-14T10:37:32-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07869",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613312&178": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613312&178",
-    "title": "2:23-cv-03414 BALL et al v. ALCON LABORATORIES, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?613312",
-    "date": "2026-10-14T10:37:13-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:23-cv-03414",
-    "entry_type": "Memorandum",
-    "doc_num": "59"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&347": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&347",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-14T10:35:22-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Memorandum",
-    "doc_num": "122"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663676&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663676&4",
-    "title": "2:26-cv-07867 WIMBUSH v. NATIONAL RAILROAD PASSENGER CORPORATION",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663676",
-    "date": "2026-10-14T10:27:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07867",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561487&1200": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561487&1200",
-    "title": "2:19-cv-04088 SUREFIRE DIVIDEND CAPTURE, LP v. SMITH et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?561487",
-    "date": "2026-10-14T10:26:52-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:19-cv-04088",
-    "entry_type": "Order on Motion to Seal Document",
-    "doc_num": "410"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&344": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&344",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-14T10:15:32-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Memorandum",
-    "doc_num": "121"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663673&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663673&5",
-    "title": "2:26-cv-07868 Lakin v. NOVO NORDISK, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663673",
-    "date": "2026-10-14T10:13:38-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07868",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&341": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&341",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-14T10:07:18-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Memorandum",
-    "doc_num": "120"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&338": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&338",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-14T10:01:03-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Memorandum",
-    "doc_num": "119"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634336&89": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634336&89",
-    "title": "2:25-cv-01162 MCCALL v. NEMOURS CHILDREN&#039;S HOSPITAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634336",
-    "date": "2026-10-14T10:00:31-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01162",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "30"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634336&87": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634336&87",
-    "title": "2:25-cv-01162 MCCALL v. NEMOURS CHILDREN&#039;S HOSPITAL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?634336",
-    "date": "2026-10-14T09:57:45-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-01162",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "29"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&335": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&335",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-14T09:55:12-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Memorandum",
-    "doc_num": "118"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&332": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054&332",
-    "title": "2:25-cv-00585 RADIAL, INC. v. Bath & Body Works Direct, Inc. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?633054",
-    "date": "2026-10-14T09:43:49-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:25-cv-00585",
-    "entry_type": "Memorandum",
-    "doc_num": "117"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659567&33": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659567&33",
-    "title": "2:26-cv-05743 SAMUEL v. VISIONQUEST NATIONAL LTD.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?659567",
-    "date": "2026-10-14T09:43:10-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-05743",
-    "entry_type": "Seal Document",
-    "doc_num": "13"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648536&134": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648536&134",
-    "title": "2:26-cr-00028-1 USA v. KANTE",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648536",
-    "date": "2026-10-14T09:11:53-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00028",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663667&10": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663667&10",
-    "title": "2:26-cv-07846 MEDINA v. TRESS et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663667",
-    "date": "2026-10-14T08:59:59-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07846",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663666&37": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663666&37",
-    "title": "2:26-cr-00512-1 USA v. MITCHELL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663666",
-    "date": "2026-10-14T08:40:52-04:00",
-    "group": "criminal",
-    "category": "indictments",
-    "case_num": "2:26-cr-00512",
-    "entry_type": "Indictment",
-    "doc_num": "10"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663664&6": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663664&6",
-    "title": "2:26-cv-07865 ALJADA v. MACY&#039;S RETAIL HOLDINGS, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663664",
-    "date": "2026-10-14T08:35:05-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07865",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663705&15": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663705&15",
     "title": "5:26-cr-00515-1 USA v. BENITEZ",
@@ -19029,5 +18798,60 @@
     "case_num": "2:26-cv-08688",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655739&46": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655739&46",
+    "title": "2:26-cv-03772 ALSBROOKS v. PHILADELPHIA HOUSING AUTHORITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655739",
+    "date": "2026-11-13T10:18:35-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03772",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665354&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665354&5",
+    "title": "2:26-cv-08691 BOWDEN et al v. WUYTS et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665354",
+    "date": "2026-11-13T10:11:46-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08691",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628422&174": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628422&174",
+    "title": "2:24-cv-05372 ABIRA MEDICAL LABORATORIES LLC v. AETNA HEALTH HOLDINGS, LLC",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?628422",
+    "date": "2026-11-13T10:03:37-04:00",
+    "group": "civil",
+    "category": "sanctions",
+    "case_num": "2:24-cv-05372",
+    "entry_type": "Order on Motion for Sanctions",
+    "doc_num": "59"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663768&50": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663768&50",
+    "title": "2:26-cr-00520-1 USA v. RODRIGUEZ",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663768",
+    "date": "2026-11-13T09:17:42-04:00",
+    "group": "criminal",
+    "category": "warrants",
+    "case_num": "2:26-cr-00520",
+    "entry_type": "Warrant Returned Executed",
+    "doc_num": "14"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663116&61": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663116&61",
+    "title": "2:26-cv-07608 SOSA SALAZAR v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663116",
+    "date": "2026-11-13T09:15:48-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-07608",
+    "entry_type": "Show Cause Hearing",
+    "doc_num": "18"
   }
 }
