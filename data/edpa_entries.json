@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650238&121": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650238&121",
-    "title": "2:26-cv-01156 GIRIFALCO v. J&A GOODS, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650238",
-    "date": "2026-10-15T00:38:11-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:26-cv-01156",
-    "entry_type": "Seal Document",
-    "doc_num": "41"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663734&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663734&3",
     "title": "2:26-cv-07899 VELAZQUEZ v. COMMISSIONER OF THE  SOCIAL SECURITY ADMINISTRATION",
@@ -19040,5 +19029,27 @@
     "case_num": "2:23-cv-01398",
     "entry_type": "Memorandum",
     "doc_num": "140"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665439&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665439&5",
+    "title": "2:26-cv-08716 BRIDGES et al v. HORN et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665439",
+    "date": "2026-11-14T00:22:52-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08716",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653193&95": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653193&95",
+    "title": "2:26-cv-02472 DOE v. THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?653193",
+    "date": "2026-11-13T22:56:08-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-02472",
+    "entry_type": "Memorandum",
+    "doc_num": "35"
   }
 }
