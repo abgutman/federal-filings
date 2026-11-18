@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663873&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663873&3",
-    "title": "2:26-cv-07992 THE FEINBERG FIRM, PC v. UNITED STATES OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663873",
-    "date": "2026-10-18T22:34:40-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07992",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663872&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663872&4",
-    "title": "2:26-cv-07991 BROADWAY v. ELI LILLY AND COMPANY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663872",
-    "date": "2026-10-18T20:39:42-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07991",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818&17": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818&17",
     "title": "5:26-cv-07957 YOUNG v. LANCASTER COUNTY PRISON et al",
@@ -18313,6 +18291,127 @@
     "category": "complaints",
     "case_num": "2:26-cv-08736",
     "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665601&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665601&4",
+    "title": "2:26-cv-08779 PLEMONS v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665601",
+    "date": "2026-11-17T22:57:28-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08779",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655572&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655572&41",
+    "title": "2:26-cv-03720 MAZIE v. META PLATFORMS, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655572",
+    "date": "2026-11-17T20:47:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-03720",
+    "entry_type": "Seal",
+    "doc_num": "10"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665599&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665599&4",
+    "title": "2:26-cv-08778 PITTS v. NOVO NORDISK A/S et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665599",
+    "date": "2026-11-17T18:57:51-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08778",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661809&27": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661809&27",
+    "title": "2:26-cv-07005 Nguyen v. Jamison et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?661809",
+    "date": "2026-11-17T18:53:14-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-07005",
+    "entry_type": "Response to Order to Show Cause",
+    "doc_num": "8"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665596&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665596&3",
+    "title": "2:26-cv-08775 Mendoza v. NCB Management Services, Inc.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665596",
+    "date": "2026-11-17T17:53:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08775",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665584&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665584&4",
+    "title": "5:26-cv-08774 FRANCIS v. PROGRESSIVE ADVANCED INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665584",
+    "date": "2026-11-17T17:26:21-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08774",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614603&33": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614603&33",
+    "title": "5:23-cv-03948 VILLANUEVA v. COMMISSIONER  OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614603",
+    "date": "2026-11-17T17:23:22-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:23-cv-03948",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614603&31": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614603&31",
+    "title": "5:23-cv-03948 VILLANUEVA v. COMMISSIONER  OF SOCIAL SECURITY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?614603",
+    "date": "2026-11-17T17:20:40-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "5:23-cv-03948",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "11"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665581&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665581&3",
+    "title": "2:26-cv-08773 ALBESER v. BISIGNANO",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665581",
+    "date": "2026-11-17T17:04:45-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08773",
+    "entry_type": "Complaint (IFP or Government Plaintiff)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665580&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665580&4",
+    "title": "2:26-cv-08772 LEMAR v. SECURITAS SECURITY SERVICES USA, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665580",
+    "date": "2026-11-17T17:03:19-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08772",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665589&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665589&3",
+    "title": "5:26-cv-08770 ROSADO v. TOWER BEHAVIORAL HEALTH",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665589",
+    "date": "2026-11-17T17:00:43-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08770",
+    "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
 }
