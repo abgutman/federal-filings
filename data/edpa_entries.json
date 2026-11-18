@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818&17": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818&17",
-    "title": "5:26-cv-07957 YOUNG v. LANCASTER COUNTY PRISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818",
-    "date": "2026-10-19T07:11:11-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:26-cv-07957",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "2"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818&15": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818&15",
-    "title": "5:26-cv-07957 YOUNG v. LANCASTER COUNTY PRISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663818",
-    "date": "2026-10-19T07:08:31-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:26-cv-07957",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663874&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663874&3",
-    "title": "2:26-cv-07921 IN RE: DAN SICKMAN",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663874",
-    "date": "2026-10-19T06:06:12-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07921",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663940&4": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663940&4",
     "title": "2:26-cv-08010 CLEAR BLUE SPECIALTY INSURANCE COMPANY v. CECILIAN PARTNERS, INC.  et al",
@@ -18411,6 +18378,39 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "5:26-cv-08770",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664325&79": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664325&79",
+    "title": "2:26-cv-08171 DOE v. THE JAMES E. BEASLEY SCHOOL OF LAW OF TEMPLE UNIVERSITY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664325",
+    "date": "2026-11-18T07:07:18-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:26-cv-08171",
+    "entry_type": "Seal",
+    "doc_num": "26"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665605&12": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665605&12",
+    "title": "2:26-cv-08741 FERRARI v. ABOVITZ et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665605",
+    "date": "2026-11-18T06:37:19-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08741",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665602&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665602&3",
+    "title": "2:26-cv-08780 COSBY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665602",
+    "date": "2026-11-17T23:33:16-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08780",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
