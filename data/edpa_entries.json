@@ -1,37 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663519&27": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663519&27",
-    "title": "2:26-cv-07784 VASQUEZ CRUZ v. JAMISON et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663519",
-    "date": "2026-10-19T19:11:03-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-07784",
-    "entry_type": "Memorandum",
-    "doc_num": "7"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895&134": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895&134",
-    "title": "2:25-cv-05438 DAWSON v. GRAHAM &#035;6214 et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895",
-    "date": "2026-10-19T18:52:15-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-05438",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "46"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663966&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663966&4",
-    "title": "2:26-cv-07952 MAISONET v. UNITED STATES OF AMERICA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663966",
-    "date": "2026-10-19T18:45:56-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07952",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895&136": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895&136",
     "title": "2:25-cv-05438 DAWSON v. GRAHAM &#035;6214 et al",
@@ -42,39 +9,6 @@
     "case_num": "2:25-cv-05438",
     "entry_type": "Response to Order to Show Cause",
     "doc_num": "47"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618421&514": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618421&514",
-    "title": "2:24-cv-00459 Gardner v. CARNEY et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?618421",
-    "date": "2026-10-19T20:42:45-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:24-cv-00459",
-    "entry_type": "Seal",
-    "doc_num": "163"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654552&39": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654552&39",
-    "title": "2:26-cv-03238 WILLIAMS-COOPER v. COLLINS",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654552",
-    "date": "2026-10-19T20:40:48-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:26-cv-03238",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "15"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663967&121": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663967&121",
-    "title": "2:26-cv-08018 PLUMBERS LOCAL UNION NO. 690 INDUSTRY FUNDS et al v. PURDUE PHARMA L.P et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663967",
-    "date": "2026-10-19T20:32:19-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-08018",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648316&40": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648316&40",
@@ -18281,5 +18215,280 @@
     "case_num": "2:26-cv-08781",
     "entry_type": "Complaint",
     "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&765": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766&765",
+    "title": "2:25-cv-05365 UBER TECHNOLOGIES, INC. v. SIMON & SIMON P.C. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643766",
+    "date": "2026-11-18T21:14:31-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:25-cv-05365",
+    "entry_type": "Memorandum",
+    "doc_num": "275"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654216&95": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654216&95",
+    "title": "2:26-cv-03082 MIRRA et al v. BERKLEY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?654216",
+    "date": "2026-11-18T20:20:13-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-03082",
+    "entry_type": "Memorandum",
+    "doc_num": "32"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664321&24": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664321&24",
+    "title": "2:26-cv-08167 Rodriguez-Viera v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664321",
+    "date": "2026-11-18T19:10:12-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08167",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664321&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664321&22",
+    "title": "2:26-cv-08167 Rodriguez-Viera v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664321",
+    "date": "2026-11-18T19:08:30-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08167",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665669&6": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665669&6",
+    "title": "2:26-cv-08815 ANTHONY v. ASTON DINER, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665669",
+    "date": "2026-11-18T18:06:34-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08815",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650375&134": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650375&134",
+    "title": "2:26-cv-01232 BLOOM et al v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650375",
+    "date": "2026-11-18T18:05:32-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01232",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "35"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650375&132": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650375&132",
+    "title": "2:26-cv-01232 BLOOM et al v. CITY OF PHILADELPHIA et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650375",
+    "date": "2026-11-18T18:02:51-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-01232",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "34"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665667&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665667&4",
+    "title": "2:26-cv-08813 Bell v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665667",
+    "date": "2026-11-18T17:50:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08813",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664201&27": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664201&27",
+    "title": "2:26-cv-08112 JERONIMO HERNANDEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664201",
+    "date": "2026-11-18T17:41:01-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08112",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "7"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664201&25": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664201&25",
+    "title": "2:26-cv-08112 JERONIMO HERNANDEZ v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664201",
+    "date": "2026-11-18T17:38:55-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08112",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665636&13": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665636&13",
+    "title": "2:26-cv-08801 SAINTHE v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665636",
+    "date": "2026-11-18T17:38:46-04:00",
+    "group": "civil",
+    "category": "show_cause",
+    "case_num": "2:26-cv-08801",
+    "entry_type": "Order to Show Cause",
+    "doc_num": "3"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665668&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665668&4",
+    "title": "2:26-cv-08814 KAHN et al v. THE VANGUARD GROUP, INC.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665668",
+    "date": "2026-11-18T17:38:22-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08814",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665346&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665346&22",
+    "title": "2:26-cv-08690 LEBRON CRUCETA v. BLANCHE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665346",
+    "date": "2026-11-18T17:30:28-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08690",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665346&20": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665346&20",
+    "title": "2:26-cv-08690 LEBRON CRUCETA v. BLANCHE et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665346",
+    "date": "2026-11-18T17:27:45-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08690",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "5"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662088&41": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662088&41",
+    "title": "2:26-cv-07164 ZHENG v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662088",
+    "date": "2026-11-18T17:23:23-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07164",
+    "entry_type": "Memorandum and/or Opinion Order",
+    "doc_num": "13"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662088&39": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662088&39",
+    "title": "2:26-cv-07164 ZHENG v. JAMISON et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?662088",
+    "date": "2026-11-18T17:17:05-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-07164",
+    "entry_type": "Memorandum and/or Opinion",
+    "doc_num": "12"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624813&3682": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624813&3682",
+    "title": "2:24-cr-00003-7 USA v. MCCRACKEN, et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?624813",
+    "date": "2026-11-18T17:11:30-04:00",
+    "group": "criminal",
+    "category": "pleas",
+    "case_num": "2:24-cr-00003",
+    "entry_type": "Plea Agreement",
+    "doc_num": "709"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665663&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665663&8",
+    "title": "2:26-cv-08812 SWEAT et al v. Guzman et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665663",
+    "date": "2026-11-18T17:11:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08812",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665662&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665662&3",
+    "title": "2:26-cv-08811 SNOW v. SAFECO INSURANCE COMPANY OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665662",
+    "date": "2026-11-18T17:07:50-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08811",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665651&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665651&4",
+    "title": "2:26-cv-08810 GOLDMAN v. LILLY USA, LLC et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665651",
+    "date": "2026-11-18T16:43:01-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08810",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665648&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665648&5",
+    "title": "2:26-cv-08808 SECURITY NATIONAL INSURANCE COMPANY v. WESTMINSTER AMERICAN INSURANCE COMPANY et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665648",
+    "date": "2026-11-18T16:35:09-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08808",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617890&1808": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617890&1808",
+    "title": "2:23-cr-00215-6 USA v. BROWN, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617890",
+    "date": "2026-11-18T16:33:36-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00215",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "529"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665644&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665644&4",
+    "title": "2:26-cv-08806 Corbett v. NOVO NORDISK, INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665644",
+    "date": "2026-11-18T16:31:13-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08806",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665637&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665637&4",
+    "title": "2:26-cv-08782 LAWSON v. KITCHEN + KOCKTAILS BY KEVIN KELLEY L.L.C",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665637",
+    "date": "2026-11-18T16:31:12-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08782",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664655&22": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664655&22",
+    "title": "2:26-cv-08337 RAMOS-SANCHEZ v. CRUZ et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664655",
+    "date": "2026-11-18T16:24:24-04:00",
+    "group": "civil",
+    "category": "opinions",
+    "case_num": "2:26-cv-08337",
+    "entry_type": "Memorandum",
+    "doc_num": "6"
   }
 }
