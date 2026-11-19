@@ -1,15 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895&136": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895&136",
-    "title": "2:25-cv-05438 DAWSON v. GRAHAM &#035;6214 et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?643895",
-    "date": "2026-10-19T23:59:07-04:00",
-    "group": "civil",
-    "category": "show_cause",
-    "case_num": "2:25-cv-05438",
-    "entry_type": "Response to Order to Show Cause",
-    "doc_num": "47"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648316&40": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?648316&40",
     "title": "5:26-cv-00172 SMITHBOWER v. THE COMMISSIONER OF SOCIAL SECURITY",
@@ -75,94 +64,6 @@
     "case_num": "2:26-cr-00480",
     "entry_type": "Plea Agreement",
     "doc_num": "8"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053&105": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053&105",
-    "title": "2:26-cv-03945 COUNTY OF MONTGOMERY v. DRC EMERGENCY SERVICES LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053",
-    "date": "2026-10-20T08:45:30-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03945",
-    "entry_type": "Memorandum and/or Opinion Order",
-    "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053&103": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053&103",
-    "title": "2:26-cv-03945 COUNTY OF MONTGOMERY v. DRC EMERGENCY SERVICES LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656053",
-    "date": "2026-10-20T08:43:27-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-03945",
-    "entry_type": "Memorandum and/or Opinion",
-    "doc_num": "33"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631163&367": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631163&367",
-    "title": "2:24-cr-00440-1 USA v. HANTON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?631163",
-    "date": "2026-10-20T08:18:29-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00440",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "120"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663968&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663968&4",
-    "title": "2:26-cv-07959 ANDERSON v. DRISSEL",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?663968",
-    "date": "2026-10-20T08:17:37-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-07959",
-    "entry_type": "Complaint",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650700&96": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650700&96",
-    "title": "2:26-cv-01367 WILLIAMS v. JP MORGAN CHASE BANK N.A.",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?650700",
-    "date": "2026-10-20T08:12:14-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-01367",
-    "entry_type": "Memorandum",
-    "doc_num": "34"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617449&3323": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617449&3323",
-    "title": "2:24-cr-00003-3 USA v. MCCRACKEN, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617449",
-    "date": "2026-10-20T08:09:24-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00003",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "665"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617448&3321": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617448&3321",
-    "title": "2:24-cr-00003-2 USA v. MCCRACKEN, et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617448",
-    "date": "2026-10-20T07:59:41-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:24-cr-00003",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "664"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652846&82": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652846&82",
-    "title": "5:26-cv-02404 SMALL v. THERAPY STAFFING SERVICES, LLC et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652846",
-    "date": "2026-10-20T07:40:25-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "5:26-cv-02404",
-    "entry_type": "Memorandum",
-    "doc_num": "28"
   },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182&34": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?656182&34",
@@ -18490,5 +18391,27 @@
     "case_num": "2:26-cv-08337",
     "entry_type": "Memorandum",
     "doc_num": "6"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617890&1812": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617890&1812",
+    "title": "2:23-cr-00215-6 USA v. BROWN, et al.",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?617890",
+    "date": "2026-11-18T23:00:37-04:00",
+    "group": "criminal",
+    "category": "sentencing",
+    "case_num": "2:23-cr-00215",
+    "entry_type": "Sentencing Memorandum",
+    "doc_num": "531"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665674&8": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665674&8",
+    "title": "5:26-cv-08812 SWEAT et al v. Guzman et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665674",
+    "date": "2026-11-18T17:11:15-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "5:26-cv-08812",
+    "entry_type": "Notice of Removal (Attorney)",
+    "doc_num": "1"
   }
 }
