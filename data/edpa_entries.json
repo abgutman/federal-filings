@@ -1,70 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664028&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664028&5",
-    "title": "2:26-cv-08046 BORDEN v. MOORE et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664028",
-    "date": "2026-10-20T18:08:57-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-08046",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664027&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664027&5",
-    "title": "2:26-cv-08045 ATLASS et al v. WILMINGTON SAVINGS FUND SOCIETY FSB",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664027",
-    "date": "2026-10-20T17:42:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-08045",
-    "entry_type": "Notice of Removal (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664030&5": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664030&5",
-    "title": "2:26-cv-08048 CUPO v. RPM LIVING, LLC",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664030",
-    "date": "2026-10-20T20:19:30-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-08048",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664029&3": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664029&3",
-    "title": "2:26-cv-08047 SONI v. EDLOW",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664029",
-    "date": "2026-10-20T19:21:11-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-08047",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501&83": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501&83",
-    "title": "2:26-cr-00246-1 USA v. MORRISON",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?655501",
-    "date": "2026-10-20T18:53:49-04:00",
-    "group": "criminal",
-    "category": "sentencing",
-    "case_num": "2:26-cr-00246",
-    "entry_type": "Sentencing Memorandum",
-    "doc_num": "25"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509&204": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509&204",
-    "title": "2:25-cv-06609 Tanner II et al v. ROBLOX CORPORATION et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646509",
-    "date": "2026-10-20T18:36:47-04:00",
-    "group": "civil",
-    "category": "seal",
-    "case_num": "2:25-cv-06609",
-    "entry_type": "Seal",
-    "doc_num": "69"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664048&5": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664048&5",
     "title": "2:26-cv-08053 RYAN v. ALLSTATE VEHICLE & PROPERTY INSURANCE COMPANY",
@@ -18114,6 +18048,94 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-08798",
+    "entry_type": "Complaint",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665738&5": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665738&5",
+    "title": "2:26-cv-08848 SIEGRIST v. TRUSIK",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665738",
+    "date": "2026-11-19T21:50:59-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08848",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?438893&3334": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?438893&3334",
+    "title": "2:11-cv-05782 JOHNSON et al v. SMITHKLINE BEECHAM CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?438893",
+    "date": "2026-11-19T20:32:07-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:11-cv-05782",
+    "entry_type": "Seal",
+    "doc_num": "976"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665731&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665731&4",
+    "title": "2:26-cv-08844 ONITY MORTGAGE CORPORATION v. HILL et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665731",
+    "date": "2026-11-19T17:38:41-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08844",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665716&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665716&4",
+    "title": "2:26-cv-08835 PRICE v. NOVO NORDISK INC. et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665716",
+    "date": "2026-11-19T17:10:11-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08835",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507&305": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507&305",
+    "title": "2:25-cv-06607 Kesack et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646507",
+    "date": "2026-11-19T17:08:11-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "2:25-cv-06607",
+    "entry_type": "Seal",
+    "doc_num": "104"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665726&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665726&3",
+    "title": "2:26-cv-08842 WHITEMAN v. LIBERTY MUTUAL INSURANCE COMPANY",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665726",
+    "date": "2026-11-19T16:56:53-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08842",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646503&271": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646503&271",
+    "title": "5:25-cv-06602 Benson et al v. ROBLOX CORPORATION et al",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?646503",
+    "date": "2026-11-19T16:52:17-04:00",
+    "group": "civil",
+    "category": "seal",
+    "case_num": "5:25-cv-06602",
+    "entry_type": "Seal",
+    "doc_num": "104"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665722&4": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665722&4",
+    "title": "2:26-cv-08792 GRECIA  v. UNITED STATES OF AMERICA",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665722",
+    "date": "2026-11-19T16:34:06-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08792",
     "entry_type": "Complaint",
     "doc_num": "1"
   }
