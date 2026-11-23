@@ -1,26 +1,4 @@
 {
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664279&4": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664279&4",
-    "title": "2:26-cv-08147 COLLINS v. CITY OF PHILADELPHIA",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664279",
-    "date": "2026-10-23T20:19:41-04:00",
-    "group": "civil",
-    "category": "complaints",
-    "case_num": "2:26-cv-08147",
-    "entry_type": "Complaint (Attorney)",
-    "doc_num": "1"
-  },
-  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652993&71": {
-    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652993&71",
-    "title": "2:26-cv-02485 WILLER-GRINKEWICZ v. A BOBS TOWING, INC. et al",
-    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?652993",
-    "date": "2026-10-23T20:49:51-04:00",
-    "group": "civil",
-    "category": "opinions",
-    "case_num": "2:26-cv-02485",
-    "entry_type": "Memorandum",
-    "doc_num": "23"
-  },
   "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664280&3": {
     "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?664280&3",
     "title": "2:26-cv-08148 GEATHERS",
@@ -16167,6 +16145,17 @@
     "group": "civil",
     "category": "complaints",
     "case_num": "2:26-cv-08880",
+    "entry_type": "Complaint (Attorney)",
+    "doc_num": "1"
+  },
+  "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665830&3": {
+    "guid": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665830&3",
+    "title": "2:26-cv-08884 WILSON",
+    "link": "https://ecf.paed.uscourts.gov/cgi-bin/DktRpt.pl?665830",
+    "date": "2026-11-22T21:58:58-04:00",
+    "group": "civil",
+    "category": "complaints",
+    "case_num": "2:26-cv-08884",
     "entry_type": "Complaint (Attorney)",
     "doc_num": "1"
   }
